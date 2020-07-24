@@ -1,0 +1,203 @@
+1976 Nebraska Cornhuskers
+Overall Team Statistics
+(includes bowl game)
+
+                          NU    Opp.
+First downs, rushing     149     115
+First downs, passing     111      56
+First downs, penalty      18      10
+Total first downs        278     181
+Rushing, att.            679     633
+Yds. gained rushing     3078    2621
+Yds. lost rushing        276     464
+Net yds. rushing        2802    2157
+Per game avg.          215.5   165.9
+Passing, att.            306     210
+Passes, complete         168      90
+Passes, intercepted       13      13
+Net yds                 2488    1375
+Per game avg.          191.4   105.8
+Total offense, att.      985     843
+Net yds.                5290    3532
+Per game avg.          406.9   271.7
+Interceptions, No.        13      13
+Net yds. returned         76     211
+Punting, No.              57      88
+Punts, blocked             0       2
+Total yards             2322    3290
+Per punt ave.           40.7    37.4
+Punts returned, No.       45      14
+Net yds.                 312      62
+Kickoffs, returned, No.   34      71
+Net yds                  654    1138
+Penalties, No.            57      65
+Total yds. penalized     584     626
+Fumbles, No.              36      52
+Fumbles, lost             28      31
+Third down conv.      85/187  68/198
+Scoring total points     416     181
+Per game avg.           32.0    13.9
+
+
+SCORING BY QUARTERS
+       lst   2nd   3rd   4th   Total
+NU      98   109   126    83     416
+Opp.    53    45    27    56     181
+
+AVG. SCORING BY QUARTERS
+       lst   2nd   3rd   4th   Total
+NU     7.5   8.4   9.7   6.4    32.0
+Opp.   4.1   3.5   2.1   4.3    13.9
+
+
+1976 Nebraska Cornhuskers
+Overall Individual Statistics
+(includes bowl game)
+
+RUSHING  Att.  Gn. Loss   Net  Avg.  TD
+Anthony  148   624   30   594   4.0   5
+Berns    182   992   20   972   5.3  11
+Donnell  112   525    5   520   4.6   1
+Stewart   39   234    5   229   5.9   3
+Gillespie 15    57    1    56   3.7   2
+Steward   14    68    0    68   4.9   0
+Sorley     8    40    1    39   4.9   1
+Craig     30   116    9   107   3.6   2
+Zabrocki   6    25    0    25   4.2   2
+Higgs     27   104    5    99   3.7   0
+Garcia     7    19   18     1    .1   0
+Walton     3     5    6    -1   ...   0
+Kujath     3    13    0    13   4.3   0
+Ferragamo 71   160  163    -3   ...   3
+Shamblin   3    36    0    36  12.0   0
+Thomas     2    13    2    11   5.5   1
+Everett    7    29    2    27   3.9   0
+Jacobs     2     9    0     9   4.5   0
+Total    679  3069  267  2802   4.2  31
+Opp.     633  2606  449  2157   3.4  13
+
+
+TOTAL
+OFFENSE      No.   Yds.   Avg.
+Anthony      148    594    4.0
+Berns        183    972    5.3
+Donnell      112    520    4.6
+Stewart       39    229    5.9
+Gillespie     15     56    3.7
+Steward       14     68    4.9
+Sorley        16    140    8.8
+Craig         31    156    5.0
+Zabrocki       6     25    4.2
+Higgs         27     99    3.7
+Garcia        24     78    3.3
+Walton         3     -1
+Kujath         3     13    4.3
+Ferragamo    348   2251    6.6
+Burns          2      7    3.5
+Shamblin       3     36   12.0
+Thomas         2     11    5.5
+Everett        7     27    3.9
+Jacobs         2      9    4.5
+Total        985   5290    5.4
+Opp.         843   3532    4.2
+
+
+PASSING   Att. Comp. Pct.  Int. Yds. TD
+Berns        1    0  .000   0     0   0
+Sorley       8    4  .500   2   101   1
+Garcia      17    4  .235   1    77   0
+Ferragamo  277  158  .570   9  2254  22
+Burns        2    1  .500   1     7   0
+Craig        1    1 1.000   0    49   0
+Total      306  168  .549  13  2488  23
+Opp.       210   90  .429  13  1375   5
+
+
+PASS
+RECEIVING    No.   Yds.   TD
+Anthony      14     84     0
+Berns        13     82     0
+Donnell       7     35     1
+Stewart       2     43     0
+Craig         7     71     1
+Higgs         2     13     0
+Shamblin     32    513     3
+Thomas       30    561     7
+Malito       33    722     5
+Spaeth       19    265     4
+Everett       1     17     0
+Loken         3     26     0
+Dufresne      5     56     2
+Total       168   2488    23
+Opp.         90   1375     5
+
+
+PUNTING    No.   Yds.   Ave.   Blk.
+Lessman    56    2286   40.8    0
+Vanous      1      36   36.0    0
+Total      57    2322   40.7    0
+Opp.       88    3290   37.4    2
+
+
+PUNT
+RETURNS      No.  Yds.   Yds.  TD
+Butterfield   32   213    6.7   1
+Fischer        3    15    5.0   0
+Harvey         3     2     .7   0
+Phillips       1    16   16.0   0
+Valasek        2    41   20.5   0
+Thomas         3    19    6.3   0
+Smith          0     0    0.0   1
+Hansen         1     6    6.0   0
+Total         45   312    6.9   2
+Opp.          14    62    4.4   0
+
+
+KICKOFF
+RETURNS    No.   Yds.   Ave.  TD
+Craig       13    258   19.8   0
+Everett      2     45   22.5   0
+Walton       2     15    7.5   0
+Berns       11    255   23.2   0
+Donnell      1     12   12.0   0
+Stewart      5     69   13.8   0 
+Total       34    654   19.2   0
+Opp.        71   1138   16.0   1
+
+
+INTERCEPTIONS  No.   Yds.    TD
+Butterfield     4     11      0
+Harvey          2      1      0
+Phillips        1     13      0
+Lehigh          1      6      0
+Cabell          1      0      0
+Valasek         2      0      0
+Gast            1      7      0
+Pillen, J.      1     38      0 
+Total          13     76      0
+Opp.           13    211      0
+
+
+SCORING     TD  Patl  Pat2  FG    TP
+Eveland        48-43       17-11  76
+Anthony      5                    30
+Berns       11                    66
+Thomas       8                    48
+Malito       5                    30
+Spaeth       4                    24
+Shamblin     3         1-1        20
+Stewart      3                    18
+Craig        3                    18
+Ferragamo    3         4-0        18
+Donnell      2                    12
+Gillespie    2                    12
+Zabrocki                          12
+Dufresne     2                    12
+Butterfield  1                     6
+Sorley       1                     6
+Smith        1                     6
+VanderMeer      3-2                2
+Team            1-0                0
+Total       56 51-45   5-1 18-11 416
+Opp.        19 16-14   3-1 27-17 181
+

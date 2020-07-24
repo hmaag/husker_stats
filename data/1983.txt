@@ -1,0 +1,210 @@
+
+   1983 Nebraska Cornhuskers
+Nebraska Overall Team Statistics
+     Bowl game not included
+
+
+TEAM STATISTICS               NU      Opp.
+First Downs                  318       236
+  By Rushing                 231       103
+  By Passing                  75       118
+  By Penalty                  12        15
+Rushing                     4820      1793
+  Avg. Per Game            401.7     149.4
+Passing                     1740      2627
+  Avg. Per Game            145.0     218.9
+Total Offense               6560      4420
+  Total Plays                916       909
+  Avg. Per Play              7.2       4.9
+  Avg. Per Game            546.7     368.3
+Fumbles/Lost               44/15     34/15
+Penalties/Yards           63/561    63/525
+Third-down Conversions    92/152    74/191
+  Percent                   60.5      38.5
+First-Down Avg.              7.3       4.5
+Points Scored                624       186
+  Avg. Per Game             52.0      15.5
+
+
+SCORING BY QUARTERS
+Total
+Nebraska      39   184   164   137  -   624
+Opponents     19    72    38    57  -   186
+
+Average
+Nebraska    11.6  15.3  13.7  11.4  -  52.0
+Opponents    1.6   6.0   3.2   4.7  -  15.5
+
+
+
+RUSHING    Att  Gain Loss   Net   Avg  LG  TD
+M. Rozier  275  2167   19  2148   7.8  71t 29
+Gill       109   649  118   531   4.9  47  11
+Schellen    77   454    4   450   5.8  65   9
+J. Smith    78   441    2   439   5.6  28   5
+Fryar       23   318    0   318  13.8  54t  2
+Miles       29   281    0   281   9.7  78t  3
+Mason       35   242   20   222   6.3  39   2
+Rathman     26   143    0   143   5.5  28   0
+Sundberg    18   108   22    86   4.8  44t  4
+T.Brungardt 18    65    0    65   3.6  11   1
+Porter       9    31    0    31   3.4   5   0
+Divis        6    30    2    28   4.7  12   0
+Swanson      3    25    0    25   8.3   9   0
+Borer        4    24    0    24   6.0  14   0
+Turner       3    19    0    19   6.3  14   0
+Simmons      1    12    0    12  12.0  12   0
+Lindstrom    1    11    0    11  11.0  11   0
+Napier       1     4    0     4   4.0   4   0
+Woodruff     1     1    0     1   1.0   1   0
+Kingston     4     5    4     1   0.3   4   0
+Thompson     2     3    7    -4  -2.0   3   0
+Team         1     0   15   -15              
+Nebraska   724  5033  213  4820   6.7 78t  66
+Opponents  538  2158  365  1793   3.3  64  11
+
+                               Avg/  Avg/                                  NCAA
+PASSING  Att  Cmp   Pct   Yds   Att  Comp Int  Int%  TD   TD%  LP  Sacks   Rat.
+Gill     170   94  55.3  1516   8.9  16.1   4   2.4  14   8.2  70t  9/67  152.7
+Sundberg  12    9  75.0   159  13.3  17.7   0   0.0   2  16.7  51t  1/4   241.3
+Mason      9    4  44.0    65   7.2  16.3   1  11.1   2  22.2  33   0/0   156.2
+M.Rozier   1    0   0.0     0   0.0   0.0   1 100.0   0   0.0   0   0/0        
+NEB      192  107  55.7  1740   9.1  16.3   6   3.1  18   9.4  70t 10/71  156.5
+OPP      371  183  49.3  2627   7.1  14.4  21   5.7  11   3.0  73t 33/233 107.3
+
+PASSERS' TOTAL OFFENSE: M. Rozier 276/2148, Gill 279/2047, Mason 44/287, Sundberg 30/245.
+
+
+                               Avg/  Avg/
+PASSING  Att  Cmp  Pct.   Yds   Att  Comp
+Gill     170   94  55.3  1516   8.9  16.1
+Sundberg  12    9  75.0   159  13.3  17.7
+Mason      9    4  44.0    65   7.2  16.3
+M.Rozier   1    0   0.0     0   0.0   0.0
+NEB      192  107  55.7  1740   9.1  16.3
+OPP      371  183  49.3  2627   7.1  14.4
+
+                                        NCAA
+PASSING  Int Int%  TD   TD%  LP  Sacks   Rat.
+Gill      4   2.4  14   8.2  70t  9/67  152.7
+Sundberg  0   0.0   2  16.7  51t  1/4   241.3
+Mason     1  11.1   2  22.2  33   0/0   156.2
+M.Rozier  1 100.0   0   0.0   0   0/0        
+NEB       6   3.1  18   9.4  70t 10/71  156.5
+OPP      21   5.7  11   3.0  73t 33/233 107.3
+
+PASSERS' TOTAL OFFENSE: M. Rozier 276/2148, Gill 279/2047, Mason 44/287, Sundberg 30/245.
+
+
+SCORING    TDR TDP TDRt PAT1  PAT2   FG   TP
+M.Rozier    29   0   0    0     0     0  174
+Gill        11   0   0    0    0-2    0   66
+Fryar       2    8   0    0    2-2    0   64
+Schellen    9    0   0    0     0     0   54
+J. Smith    5    2   1    0     0     0   48
+Livingston  0    0   0  35-37   0    2-3  41
+D.Schneider 0    0   0  32-36   0    1-1  35
+Sundberg    4    0   0    0     0     0   24
+Frain       0    3   0    0     0     0   18
+Miles       3    0   0    0     0     0   18
+Mason       2    0   0    0     0     0   12
+Hagerman    0    0   0   9-11   0     0    9
+T.Brungardt 1    0   0    0     0     0    6
+Burke       0    0   1    0     0     0    6
+Casterline  0    0   1    0     0     0    6
+Engebritson 0    1   0    0     0     0    6
+Hiemer      0    1   0    0     0     0    6
+Kimball     0    1   0    0     0     0    6
+Knox        0    0   1    0     0     0    6
+Rathman     0    1   0    0     0     0    6
+Skow        0    0   1    0     0     0    6
+Swanson     0    1   0    0     0     0    6
+Wingard     0    0   0   1-1    0     0    1
+Nebraska   66   18   5  77-85  2-4   3-4 624
+Opponents  11   11   0  16-18  2-4 10-15 186*
+  *Includes two safeties.
+
+
+PASS
+RECEIVING    No. Yds. Avg.   LG   TD
+Fryar        40  780  19.5   70t   8
+Simmons      13  137  10.5   18    0
+Kimball      12  207  17.3   42    1
+M. Rozier    10  106  10.6   26    0
+Engebritson   7   95  13.6   29    1
+J. Smith      6  146  24.3   68t   2
+Frain         5  100  20.0   32    3
+Swanson       5   66  13.2   31    1
+Hiemer        2   31  15.5   20t   1
+Rathman       2   26  13.0   17    1
+Schellen      2   10   5.0   12    0
+Miles         1   24  24.0   24    0
+T. Brungardt  1    8   8.0    8    0
+Thompson      1    4   4.0    4    0
+Nebraska    107 1740  16.3   70t  18
+Opponents   183 2627  14.4   73t  11
+
+
+KICKOFF
+RETURNS    No.  Yds.  Avg.   LG   TD
+M. Rozier   11   232  21.1   37    0
+J. Smith     8   152  19.0   27    0
+Fryar        2    56  28.0   34    0
+Armstrong    1    20  20.0   20    0
+Miles        1    19  19.0   19    0
+Simmons      1    18  18.0   18    0
+T.Brungardt  1    17  17.0   17    0
+Frain        1    11  11.0   11    0
+Muehling     1     0   0.0    0    0
+Noel         1     0   0.0    0    0
+Nebraska    28   525  18.8   37    0
+Opponents   76  1297  17.1   36    0
+
+
+PUNTING     No.  Yds.  Avg.  LP  Blk
+Livingston  34   1388  40.8  60   0
+Wingard      1     46  46.0  46   0
+Team         1     27  27.0  27   0
+Nebraska    36   1461  40.6  60   0
+Opponents   69   2732  39.6  68   1
+
+
+PUNT 
+RETURNS   No.  Yds.  Avg.  LG  TD
+J. Smith   19   264  13.9  63t  1
+Fryar      18   113   6.3  15   0
+G. Rozier   1    23  23.0  23   0
+Casterline  0    21  21.0  21t  1
+Swanson     5    10   2.0   6   0
+Fisher      2     2   1.0   1   0
+Nebraska   45   433   9.6  63t  2
+Opponents  16    60   3.8  18   0
+
+
+FIELD GOALS  1-19 20-29 30-39 40-49 50+
+Livingston    0    1-1   1-1   0-1    0
+D. Schneider  0     0    1-1    0     0
+Opponents     0    4-4   5-6   1-5    0
+
+Nebraska FG (bold good):
+(DS 34), (0), (0), (0), (0), (0), (0),
+(0), (0), (L 29), (L 31), (0), (L 43).
+
+
+INTERCEPTIONS  No. Yds   Avg  LG  TD
+Clark           5   15   3.0  15   0
+Knox            4   83  20.8  45   1
+Burke           3   80  26.7  31t  1
+McCashland      2    0   0.0   0   0
+Proffitt        1   55  55.0  55   0
+Skow            1   31  31.0  31t  1
+Greene          1   21  21.0  21   0
+Fisher          1   19  19.0  19   0
+Stuckey         1    3   3.0   3   0
+G. Schneider    1    2   2.0   2   0
+S. Strasburger  1    0   0.0   0   0
+Nebraska       21  309  14.7  55   3
+Opponents       6   22   3.7  15   0
+TABLE.def td:nth-of-type(1), TABLE.def th:nth-of-type(1) {text-align:left !important; text-indent:2px;}@media (max-width:600px){TABLE.compact td {font-size:0.75rem !important; padding:3px 1px !important;}}
+
+DEFENSIVE STATISTICS

@@ -1,0 +1,1419 @@
+1985 Nebraska Cornhuskers
+Nebraska Overall Team Statistics (Final)
+(does not include bowl game)
+
+                                NU    Opp.
+Total First Downs..............238     167
+  By Rush......................188      80
+  By Pass.......................45      79
+  By Penalty.....................5       8
+Total Offensive Yards.........5197    3070
+  Avg. Gain Per Game.........472.5   279.1
+  Total Plays..................841     765
+  Avg. Plays Per Game.........76.5    69.5
+  Avg. Gain Per Play...........6.2     4.0
+Net Yards Rushing.............4117    1333
+  Avg. Gain Per Game.........374.3   121.2
+  Rushing Attempts.............697     446
+  Avg. Gain Per Rush...........5.9     3.0
+  Yards Gained Rushing........4379    1818
+  Yards Lost Rushing...........262     485
+Net Yards Passing.............1080    1737
+  Avg. Gain Per Game..........98.2   157.9
+  Avg. Gain Per Attempt........7.5     5.4
+  Avg. Gain Per Completion....19.6    11.4
+  Attempts.....................144     319
+  Completions...................55     153
+  Percentage................. 38.2    48.0
+  Had Intercepted...............11      20
+Passes Intercepted by...........21      11
+  Yards Returned...............363      66
+  Avg. Return.................17.3     6.0
+Punting Average...............41.7    40.7
+  Number of Punts...............48      90
+  Yards.......................2001    3659
+  Had Blocked....................0       0
+Punts Returned..................33      14
+  Yards Returned...............278      88
+  Average Return...............8.4     6.3
+Kickoffs Returned...............24      57
+  Yards Returned...............633     873
+  Average Return..............26.4    15.3
+Penalties-Yards.............55-431  53-384
+  Avg. Yards Per Game.........39.2    34.9
+Fumbles-Lost.................42-20   36-17
+Touchdowns......................50      16
+  By Rush.......................40       8
+  By Pass........................6       8
+  By Return......................4       0
+  By Fumble Recovery.............0       0
+Field Goals made/attempts....15-24    8-10
+Extra Points made/attempts...49-50   15-16
+  By Kick....................49-50   14-14
+  By Rush......................0-0     0-1
+  By Pass......................0-0     1-1
+Safeties.........................2       0
+Total Points...................398     136
+  Avg. Per Game...............36.2    12.4
+First Down Plays...............366     311
+  Avg. Per Play................7.0     4.0
+Third Down Conversions......63-164  46-176
+  Percentage..................38.4    26.1
+Fourth Down Conversions......12-20    9-15
+  Percentage..................60.0    60.0
+Time of Possession..........351:06  308:14
+  Avg. Time of Possession....31:55   28:01
+
+
+         SCORING BY QUARTERS
+                  TOTAL
+        1     2    3    4      F
+NEB    72   143   93   90  -  398
+OPP    48    26   33   29  -  136
+
+                 AVERAGE
+         1     2     3     4       F
+NEB     6.5  13.0   8.5   8.2  -  36.2
+OPP     4.4   2.4   3.0   2.6  -  12.4
+
+1985 Nebraska Cornhuskers
+Overall Individual Statistics (Final)
+(does not include bowl game)
+
+                                   Yds/  Yds/
+RUSHING      G  Att Gain Loss  Net Play  Game LP TD
+DuBose       10 203 1188   27 1161  5.7 116.1 51  8
+Rathman      11 118  884    3  881  7.5  80.1 84  8
+Miles        10 102  706   17  689  6.8  68.9 59  5
+Sheppard     11  21  302    7  295 14.0  26.8 52  4
+Clayton      11  83  399  109  290  3.5  26.4 43  5
+K. Jones     10  38  249    9  240  6.3  24.0 33  3
+Kaelin       11  17  137    0  137  8.1  12.5 72  2
+S.Taylor      5  14  112    9  103  7.4  20.6 32  2
+Kelley        9  22   95    2   93  4.2  10.3 12  1
+Blakeman      7  15   68    3   65  4.3   9.3 14  0
+Nelson        6   5   38    0   38  7.6   6.3  9  0
+J. Taylor     4   7   32    1   31  4.4   7.8 10  0
+Casterline    9   8   30    1   29  3.6   3.2  9  1
+T. Knox       2   4   21    0   21  5.3  10.5  7  0
+Lindstrom    11   4   19    1   18  4.5   1.6  7  0
+Brinson       6   2   16    2   14  7.0   2.3 16  0
+Blankenship  11   0    7    0    7   .0    .6  7  0
+Heibel        4   2    5    0    5  2.5   1.3  3  0
+Turner       11  24   60   56    4   .2    .4 13  1
+Mlinar        3   2    8    6    2  1.0    .7  8  0
+Hedlund       4   2    2    0    2  1.0    .5  1  0
+R.Schnitzler 11   2    1    3   -2 -1.0   -.2  1  0
+Nebraska     11 697 4379  262 4117  5.9 374.3 84 40
+Opponents    11 446 1818  485 1333  3.0 121.2 88  8
+
+
+PASSING    G  Att  Cmp  Pct    Yds Int TD   LP  Eff.
+Clayton   11   78   28  35.9   602  7   3   64  95.5
+Turner    11   55   21  38.2   418  3   3   82 109.1
+S.Taylor   5    6    3  50.0    38  1   0   16  69.9
+Blakeman   7    5    3  60.0    22  0   0   14  97.0
+Nebraska  11  144   55  38.2  1080 11   6   82  99.7
+Opponents 11  319  153  48.0  1737 20   8   49  89.4
+
+
+                              Yds/   Yds/
+RECEIVING      G  No. Yds.    Play   Game    LP  TD
+R.Schnitzler  11  16   382    23.9   34.7    64   2
+Sheppard      11   9   281    31.2   25.5    82   2
+R.Smith       11   8   121    15.1   11.0    29   0
+DuBose        10   5    65    13.0    6.5    19   0
+Lindstrom     11   3    59    19.7    5.4    31   0
+Frain         11   3    59    19.7    5.4    24   0
+Rathman       11   3    44    14.7    4.0    22   0
+Banderas      11   2    26    13.0    2.4    14   2
+Hawkins        9   2    26    13.0    2.9    14   0
+Krantz         5   1    11    11.0    2.2    11   0
+Brinson        6   1     5     5.0     .8     5   0
+Kaelin        11   1     3     3.0     .3     3   0
+Miles         10   1    -2    -2.0    -.2    -2   0
+Nebraska      11  55  1080    19.6   98.2    82   6
+Opponents     11 153  1737    11.4  157.9    49   8
+
+
+                         PAT   PAT
+SCORING        G   TD   Kick   R/P   FG    Points 
+Klein         11    0   38-38   0   13-20     77
+DuBose        10    8     0     0     0       48
+Rathman       11    8     0     0     0       48
+Sheppard      11    6     0     0     0       36
+Clayton       11    5     0     0     0       30
+Miles         10    5     0     0     0       30
+K.Jones       10    4     0     0     0       24
+Banderas      11    2     0     0     0       12
+Kaelin        11    2     0     0     0       12
+R.Schnitzler  11    2     0     0     0       12
+Spachman      11    2     0     0     0       12
+S.Taylor       5    2     0     0     0       12
+C.Schnitzler   1    0    7-7    0    1-2      10
+Carr          11    1     0     0     0        6
+Casterline     9    1     0     0     0        6
+Kelley         9    1     0     0     0        6
+Turner        11    1     0     0     0        6
+Cheloha        3    0    3-3    0     0        3
+Drennan        2    0     0     0    1-2       3
+Wingard       11    0    1-1    0     0        1
+TEAM                     0-1                     
+Nebraska      11   50   49-50   0   15-24    398*
+Opponents     11   16   14-14  1-2   8-10    136
+*Includes two safeties.
+
+
+FIELD GOALS     G   1-19  20-29  30-39  40-49  50+
+Klein          11   0-0    2-4    4-6    6-8   1-2
+Drennan         2   0-0    0-0    0-0    1-2   0-0
+C.Schnitzler    1   0-0    0-0    1-2    0-0   0-0
+Nebraska       11   0-0    2-4    5-8    7-10  1-2
+Opponents      11   1-1    2-2    3-3    2-3   0-1
+
+NEBRASKA FGs: (underlined good)
+(K31), (S35, S39), (K30), (K27, D42), (D47, K40, K40), (K32, K22, K43, K44, K29, K43, K43), (K46, K42, K32), (K39, K52, K50), (0), (K32), (K32).
+
+
+                                                Rt
+PUNTING      G   No.  Yards   Avg.   LP  Blk    Yd
+Wingard     11    46   1934   42.0   70    0    42
+Klein       11     2     67   33.5   35    0    48
+Nebraska    11    48   2001   41.7   70    0    90
+Opponents   11    90   3659   40.7   67    0   278
+
+
+KICKOFF
+RETURNS    G   No.   Yds   Avg.  LP  TD
+DuBose    10    9    262   29.1  46   0
+K.Jones   10    4    164   41.0  98   1
+Kelley     9    3     72   24.0  29   0
+Miles     10    4     55   13.8  26   0
+Sheppard  11    2     45   22.5  31   0
+Brinson    6    1     35   35.0  35   0
+Frain     11    1      0    0.0   0   0
+Nebraska  11   24    633   26.4  98   1
+Opponents 11   57    873   15.3  37   0
+
+
+PUNT RETURNS   G   No.  Yards   Avg.   LP   TD
+R.Schnitzler  11   16    207    12.9   37    0
+Sheppard      11    5     34     6.8   12    0
+Brinson        6    7     19     2.7    9    0
+Tomjack        7    1     11    11.0   11    0
+Siebler       11    4      7     1.8    4    0
+Nebraska      11   33    278     8.4   37    0
+Opponents     11   14     88     6.3   48    0
+
+
+INTERCEPTIONS  G   No.  Yards  Avg.   LP   TD
+Carr          11    3     97   32.3   56    1
+Washington    11    3      4    1.3    5    0
+Spachman      11    2    114   57.0   76    2
+Davis         11    2     27   13.5   18    0
+Munford        9    2     26   13.0   24    0
+Carl          11    2     23   11.5   23    0
+M.Knox        11    2      3    1.5   30    0
+Rozier        11    1     25   25.0   25    0
+Watkins        9    1     24   24.0   24    0
+Pokorny        4    1     12   12.0   12    0
+Reeves         8    1      8    8.0    8    0
+B.Smith        8    1      0    0.0    0    0 
+Nebraska      11   21    363   17.3   76    3
+Opponents     11   11     66    6.0   29    0
+
+
+
+
+
+Overall Defensive Statistics
+
+
+
+ DEFENSE
+Munford, Marc 
+Knox, Mike 
+Skow, Jim 
+Parsons, Kevin 
+Noonan, Danny 
+Washington, Brian 
+Tucker, Scott 
+Spachman, Chris 
+Daffer, Chad 
+Carr, Chris 
+Siebler, Bryan 
+Smith, Brad 
+Miller, Cleo 
+Davis, Brian 
+Carl, Mike 
+Holloway, Tony 
+Smith, Neil 
+Reeves, Gregg 
+Thomas, Broderick
+Watkins, Dennis 
+Jones, Lee 
+Forch, Steve 
+Proffitt, Todd 
+Rozier, Guy 
+Shead, Ken 
+Tyrer, Brad 
+Tomjack, Jeff 
+Rogers, Phil 
+Etienne, LeRoy 
+Thayer, Dan 
+Shaw, Pat 
+Schneider, Gary 
+Pokorny, Brian 
+Reynolds, Rod 
+Palmer, Tony 
+Jamrog, Jeff 
+Groskurth, Danny 
+Welniak, Doug 
+Jobman, Randy 
+Paige, Woody 
+Van Dyke, Greg 
+Henning, Blake 
+Fryar, Charles
+
+
+
+ G
+9
+11
+11
+11
+11
+11
+10
+11
+11
+11
+11
+8
+11
+11
+11
+9
+11
+8
+8
+9
+11
+11
+11
+11
+7
+7
+7
+5
+5
+4
+3
+4
+4
+5
+3
+6
+4
+7
+4
+2
+3
+5
+1
+
+
+
+ UT
+43
+29
+43
+29
+33
+23
+17
+23
+20
+26
+17
+21
+17
+20
+13
+14
+10
+15
+8
+9
+8
+6
+4
+3
+3
+2
+3
+3
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+
+
+
+ AT
+24
+36
+10
+19
+14
+14
+18
+11
+11
+5
+13
+4
+6
+3
+8
+6
+9
+3
+5
+4
+4
+4
+2
+2
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+
+
+ TOT
+67
+65
+53
+48
+47
+37
+35
+34
+31
+31
+30
+25
+23
+23
+21
+20
+19
+18
+13
+13
+12
+10
+9
+6
+5
+5
+3
+3
+3
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+
+
+
+Sacks/ Yards
+0/0
+1/2
+15/139
+1/9
+11/69
+0/0
+3/26
+2/10
+1/7
+0/0
+0/0
+0/0
+0/0
+1/6
+0/0
+3/21
+2/16
+1/6
+2/19
+0/0
+2/23
+0/0
+2/16
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+1/5
+0/0
+1/9
+0/0
+0/0
+0/0
+0/0
+0/0
+
+
+
+ TL/Yds
+1/3
+1/2
+25/163
+2/10
+14/78
+3/8
+5/29
+5/17
+1/7
+0/0
+1/5
+2/5
+0/0
+1/6
+1/3
+4/22
+4/20
+1/6
+2/19
+0/0
+3/25
+0/0
+4/29
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+1/5
+0/0
+1/9
+0/0
+0/0
+0/0
+0/0
+0/0
+
+
+
+ Int
+2
+2
+0
+0
+0
+3
+0
+1
+0
+3
+0
+1
+0
+2
+2
+0
+0
+1
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+
+
+ PBU
+3
+4
+1
+3
+0
+4
+1
+4
+0
+3
+5
+0
+3
+8
+3
+0
+2
+1
+0
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+
+
+
+FmbRec
+2
+2
+2
+1
+1
+0
+0
+2
+0
+0
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+
+
+BlkKick
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+
+
+
+Page 1 / 1Zoom 100%
+
+
+Records broken or tied
+
+NEBRASKA RECORDS BROKEN OR TIED IN 1985
+INDIVIDUAL
+Most yards rushing, fullback, season:  881; Tom Rathman (old record, 717 by Dick Davis, 1967).
+Most touchdowns, fullback, game:  2; Tom Rathman vs. Kansas State (ties record; done four other times, most recently by Rathman vs. Kansas State, Oct. 27, 1984). 
+Most touchdowns, fullback, career:  12; Tom Rathman, 1983-84-85 (ties record set by Mark Schellen, 1982-83).
+Most field goals made, game:  7; Dale Klein vs. Missouri (old record, 3 by several players, most recently by Kevin Seibel vs. Missouri, Oct. 23, 1982). 
+Most field goals made, season:  13; Dale Klein (old record, 12 by Billy Todd, 1978, and Dean Sukup, 1979).
+Most consecutive field goals made:  9; Dale Klein (old record, 7 by Eddie Neil, 1981).
+Most pass breakups, season:  8; Brian Davis (ties record held by six others, most recently by Bret Clark, 1982 and 1984).
+Most blocked punts, game:  1; Jeff Tomjack vs. Kansas (ties record held by several, most recently by Guy Rozier vs. Kansas, 1983).
+Most tackles for loss, season:  25; Jim Skow (old record, 21 by Derrie Nelson, 1980). 
+Most tackles for loss, career:  44; Jim Skow, 1983-84-85 (old record, 39 by Kerry Weinmaster, 1976-77-78-79). 
+Most yards on tackles for loss, season:  163; Jim Skow (old record, 150 by Derrie Nelson, 1980). 
+Most yards on tackles for loss, career:  268; Jim Skow, 1983-84-85 (old record, 231 by Willie Harper, 1970-71-72).
+Most quarterback sacks, season:  15; Jim Skow (old record, 10 by Jimmy Williams, 1981).
+TEAM
+Most consecutive games scored in:  147; 1974 Cotton Bowl to present (continues old record).
+Most consecutive winning seasons:  24; 1962-present (continues old record).
+ 
+BIG EIGHT RECORDS BROKEN OR TIED IN 1985
+INDIVIDUAL
+Most points scored by kicking, game:  22; Dale Klein vs. Missouri (old record, 21 by Bruce Kallmeyer, Kansas vs. Wichita State, Sept. 17, 1983).
+Most field goals made, game:  7; Dale Klein vs. Missouri (old record, 5 by Bruce Kallmeyer, Kansas vs. Nebraska, Oct. 31, 1981; Larry Roach, Oklahoma State vs. Missouri, Oct. 30, 1982; Kallmeyer vs. Wichita State, Sept. 17, 1983).
+Most field goals attempted, game:  7; Dale Klein vs. Missouri (old record, 6 by Henry Brown, Missouri vs. Air Force, Sept. 20, 1969; Bruce Kallmeyer, Kansas vs. Wichita State, Sept. 17, 1983).
+TEAM
+Most field goals made, game:  7; vs. Missouri (old record 5 by three teams).
+Most field goals attempted, game:  7; vs. Missouri (old record 6 by Missouri vs. Air Force, 1969; Kansas vs. Wichita State, 1983). 
+Most consecutive winning seasons:  24; 1962-present (continues old record).
+ 
+NCAA RECORDS BROKEN OR TIED IN 1985
+INDIVIDUAL
+Most field goals made, half:  5; Dale Klein vs. Missouri (old record, 4 by several players). 
+Most field goals made, game:  7; Dale Klein vs. Missouri (ties record set by Mike Prindle, Western Michigan vs. Marshall, Sept. 29, 1984, 9 att.) 
+Most field-goal attempts, no misses:  7; Dale Klein vs. Missouri (old record, 6 by four players, most recently by Bobby Raymond, Florida vs. Kentucky, Nov. 17, 1984).
+      1985 Nebraska Cornhuskers
+Overall Individual Statistics (Final)
+(does not include bowl game)
+
+                                   Yds/  Yds/
+RUSHING      G  Att Gain Loss  Net Play  Game LP TD
+DuBose       10 203 1188   27 1161  5.7 116.1 51  8
+Rathman      11 118  884    3  881  7.5  80.1 84  8
+Miles        10 102  706   17  689  6.8  68.9 59  5
+Sheppard     11  21  302    7  295 14.0  26.8 52  4
+Clayton      11  83  399  109  290  3.5  26.4 43  5
+K. Jones     10  38  249    9  240  6.3  24.0 33  3
+Kaelin       11  17  137    0  137  8.1  12.5 72  2
+S.Taylor      5  14  112    9  103  7.4  20.6 32  2
+Kelley        9  22   95    2   93  4.2  10.3 12  1
+Blakeman      7  15   68    3   65  4.3   9.3 14  0
+Nelson        6   5   38    0   38  7.6   6.3  9  0
+J. Taylor     4   7   32    1   31  4.4   7.8 10  0
+Casterline    9   8   30    1   29  3.6   3.2  9  1
+T. Knox       2   4   21    0   21  5.3  10.5  7  0
+Lindstrom    11   4   19    1   18  4.5   1.6  7  0
+Brinson       6   2   16    2   14  7.0   2.3 16  0
+Blankenship  11   0    7    0    7   .0    .6  7  0
+Heibel        4   2    5    0    5  2.5   1.3  3  0
+Turner       11  24   60   56    4   .2    .4 13  1
+Mlinar        3   2    8    6    2  1.0    .7  8  0
+Hedlund       4   2    2    0    2  1.0    .5  1  0
+R.Schnitzler 11   2    1    3   -2 -1.0   -.2  1  0
+Nebraska     11 697 4379  262 4117  5.9 374.3 84 40
+Opponents    11 446 1818  485 1333  3.0 121.2 88  8
+
+
+PASSING    G  Att  Cmp  Pct    Yds Int TD   LP  Eff.
+Clayton   11   78   28  35.9   602  7   3   64  95.5
+Turner    11   55   21  38.2   418  3   3   82 109.1
+S.Taylor   5    6    3  50.0    38  1   0   16  69.9
+Blakeman   7    5    3  60.0    22  0   0   14  97.0
+Nebraska  11  144   55  38.2  1080 11   6   82  99.7
+Opponents 11  319  153  48.0  1737 20   8   49  89.4
+
+
+                              Yds/   Yds/
+RECEIVING      G  No. Yds.    Play   Game    LP  TD
+R.Schnitzler  11  16   382    23.9   34.7    64   2
+Sheppard      11   9   281    31.2   25.5    82   2
+R.Smith       11   8   121    15.1   11.0    29   0
+DuBose        10   5    65    13.0    6.5    19   0
+Lindstrom     11   3    59    19.7    5.4    31   0
+Frain         11   3    59    19.7    5.4    24   0
+Rathman       11   3    44    14.7    4.0    22   0
+Banderas      11   2    26    13.0    2.4    14   2
+Hawkins        9   2    26    13.0    2.9    14   0
+Krantz         5   1    11    11.0    2.2    11   0
+Brinson        6   1     5     5.0     .8     5   0
+Kaelin        11   1     3     3.0     .3     3   0
+Miles         10   1    -2    -2.0    -.2    -2   0
+Nebraska      11  55  1080    19.6   98.2    82   6
+Opponents     11 153  1737    11.4  157.9    49   8
+
+
+                         PAT   PAT
+SCORING        G   TD   Kick   R/P   FG    Points 
+Klein         11    0   38-38   0   13-20     77
+DuBose        10    8     0     0     0       48
+Rathman       11    8     0     0     0       48
+Sheppard      11    6     0     0     0       36
+Clayton       11    5     0     0     0       30
+Miles         10    5     0     0     0       30
+K.Jones       10    4     0     0     0       24
+Banderas      11    2     0     0     0       12
+Kaelin        11    2     0     0     0       12
+R.Schnitzler  11    2     0     0     0       12
+Spachman      11    2     0     0     0       12
+S.Taylor       5    2     0     0     0       12
+C.Schnitzler   1    0    7-7    0    1-2      10
+Carr          11    1     0     0     0        6
+Casterline     9    1     0     0     0        6
+Kelley         9    1     0     0     0        6
+Turner        11    1     0     0     0        6
+Cheloha        3    0    3-3    0     0        3
+Drennan        2    0     0     0    1-2       3
+Wingard       11    0    1-1    0     0        1
+TEAM                     0-1                     
+Nebraska      11   50   49-50   0   15-24    398*
+Opponents     11   16   14-14  1-2   8-10    136
+*Includes two safeties.
+
+
+FIELD GOALS     G   1-19  20-29  30-39  40-49  50+
+Klein          11   0-0    2-4    4-6    6-8   1-2
+Drennan         2   0-0    0-0    0-0    1-2   0-0
+C.Schnitzler    1   0-0    0-0    1-2    0-0   0-0
+Nebraska       11   0-0    2-4    5-8    7-10  1-2
+Opponents      11   1-1    2-2    3-3    2-3   0-1
+
+NEBRASKA FGs: (underlined good)
+(K31), (S35, S39), (K30), (K27, D42), (D47, K40, K40), (K32, K22, K43, K44, K29, K43, K43), (K46, K42, K32), (K39, K52, K50), (0), (K32), (K32).
+
+
+                                                Rt
+PUNTING      G   No.  Yards   Avg.   LP  Blk    Yd
+Wingard     11    46   1934   42.0   70    0    42
+Klein       11     2     67   33.5   35    0    48
+Nebraska    11    48   2001   41.7   70    0    90
+Opponents   11    90   3659   40.7   67    0   278
+
+
+KICKOFF
+RETURNS    G   No.   Yds   Avg.  LP  TD
+DuBose    10    9    262   29.1  46   0
+K.Jones   10    4    164   41.0  98   1
+Kelley     9    3     72   24.0  29   0
+Miles     10    4     55   13.8  26   0
+Sheppard  11    2     45   22.5  31   0
+Brinson    6    1     35   35.0  35   0
+Frain     11    1      0    0.0   0   0
+Nebraska  11   24    633   26.4  98   1
+Opponents 11   57    873   15.3  37   0
+
+
+PUNT RETURNS   G   No.  Yards   Avg.   LP   TD
+R.Schnitzler  11   16    207    12.9   37    0
+Sheppard      11    5     34     6.8   12    0
+Brinson        6    7     19     2.7    9    0
+Tomjack        7    1     11    11.0   11    0
+Siebler       11    4      7     1.8    4    0
+Nebraska      11   33    278     8.4   37    0
+Opponents     11   14     88     6.3   48    0
+
+
+INTERCEPTIONS  G   No.  Yards  Avg.   LP   TD
+Carr          11    3     97   32.3   56    1
+Washington    11    3      4    1.3    5    0
+Spachman      11    2    114   57.0   76    2
+Davis         11    2     27   13.5   18    0
+Munford        9    2     26   13.0   24    0
+Carl          11    2     23   11.5   23    0
+M.Knox        11    2      3    1.5   30    0
+Rozier        11    1     25   25.0   25    0
+Watkins        9    1     24   24.0   24    0
+Pokorny        4    1     12   12.0   12    0
+Reeves         8    1      8    8.0    8    0
+B.Smith        8    1      0    0.0    0    0 
+Nebraska      11   21    363   17.3   76    3
+Opponents     11   11     66    6.0   29    0
+
+ DEFENSE
+Munford, Marc 
+Knox, Mike 
+Skow, Jim 
+Parsons, Kevin 
+Noonan, Danny 
+Washington, Brian 
+Tucker, Scott 
+Spachman, Chris 
+Daffer, Chad 
+Carr, Chris 
+Siebler, Bryan 
+Smith, Brad 
+Miller, Cleo 
+Davis, Brian 
+Carl, Mike 
+Holloway, Tony 
+Smith, Neil 
+Reeves, Gregg 
+Thomas, Broderick
+Watkins, Dennis 
+Jones, Lee 
+Forch, Steve 
+Proffitt, Todd 
+Rozier, Guy 
+Shead, Ken 
+Tyrer, Brad 
+Tomjack, Jeff 
+Rogers, Phil 
+Etienne, LeRoy 
+Thayer, Dan 
+Shaw, Pat 
+Schneider, Gary 
+Pokorny, Brian 
+Reynolds, Rod 
+Palmer, Tony 
+Jamrog, Jeff 
+Groskurth, Danny 
+Welniak, Doug 
+Jobman, Randy 
+Paige, Woody 
+Van Dyke, Greg 
+Henning, Blake 
+Fryar, Charles
+ G
+9
+11
+11
+11
+11
+11
+10
+11
+11
+11
+11
+8
+11
+11
+11
+9
+11
+8
+8
+9
+11
+11
+11
+11
+7
+7
+7
+5
+5
+4
+3
+4
+4
+5
+3
+6
+4
+7
+4
+2
+3
+5
+1
+ UT
+43
+29
+43
+29
+33
+23
+17
+23
+20
+26
+17
+21
+17
+20
+13
+14
+10
+15
+8
+9
+8
+6
+4
+3
+3
+2
+3
+3
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+ AT
+24
+36
+10
+19
+14
+14
+18
+11
+11
+5
+13
+4
+6
+3
+8
+6
+9
+3
+5
+4
+4
+4
+2
+2
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+ TOT
+67
+65
+53
+48
+47
+37
+35
+34
+31
+31
+30
+25
+23
+23
+21
+20
+19
+18
+13
+13
+12
+10
+9
+6
+5
+5
+3
+3
+3
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+Sacks/ Yards
+0/0
+1/2
+15/139
+1/9
+11/69
+0/0
+3/26
+2/10
+1/7
+0/0
+0/0
+0/0
+0/0
+1/6
+0/0
+3/21
+2/16
+1/6
+2/19
+0/0
+2/23
+0/0
+2/16
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+1/5
+0/0
+1/9
+0/0
+0/0
+0/0
+0/0
+0/0
+ TL/Yds
+1/3
+1/2
+25/163
+2/10
+14/78
+3/8
+5/29
+5/17
+1/7
+0/0
+1/5
+2/5
+0/0
+1/6
+1/3
+4/22
+4/20
+1/6
+2/19
+0/0
+3/25
+0/0
+4/29
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+1/5
+0/0
+1/9
+0/0
+0/0
+0/0
+0/0
+0/0
+ Int
+2
+2
+0
+0
+0
+3
+0
+1
+0
+3
+0
+1
+0
+2
+2
+0
+0
+1
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+ PBU
+3
+4
+1
+3
+0
+4
+1
+4
+0
+3
+5
+0
+3
+8
+3
+0
+2
+1
+0
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+FmbRec
+2
+2
+2
+1
+1
+0
+0
+2
+0
+0
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+BlkKick
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

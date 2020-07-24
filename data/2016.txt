@@ -1,0 +1,2360 @@
+
+          2016 Nebraska Football
+                All games
+
+TEAM STATISTICS          NEB          OPP
+-----------------------------------------
+SCORING...........       345          311
+  Points Per Game       26.5         23.9
+  Ps Off Turnovers        66           32
+FIRST DOWNS.......       266          231
+  Rushing.........       112           91
+  Passing.........       132          121
+  Penalty.........        22           19
+RUSHING YARDAGE...      2199         1922
+  Yards gained....      2483         2189
+  Yards lost......       284          267
+  Rushing Attempts       523          433
+  Avg Per Rush....       4.2          4.4
+  Avg Per Game....     169.2        147.8
+  TDs Rushing.....        24           22
+PASSING YARDAGE...      2752         2806
+  Comp-Att-Int.... 201-400-9   254-422-16
+  Avg Per Pass....       6.9          6.6
+  Avg Per Catch...      13.7         11.0
+  Avg Per Game....     211.7        215.8
+  TDs Passing.....        18           16
+TOTAL OFFENSE.....      4951         4728
+  Total Plays.....       923          855
+  Avg Per Play....       5.4          5.5
+  Avg Per Game....     380.8        363.7
+KICK RETURNS-Yds..    32-687       38-840
+PUNT RETURNS-Yds..    23-168       21-224
+INT RETURNS-Yds...    16-122        9-153
+KICK RETURN AVG...      21.5         22.1
+PUNT RETURN AVG...       7.3         10.7
+INT RETURN AVG....       7.6         17.0
+FUMBLES-LOST......      16-5         10-3
+PENALTIES-Yards...    75-695       65-578
+  Avg Per Game....      53.5         44.5
+PUNTS-Yards.......   68-2606      66-2675
+  Avg Per Punt....      38.3         40.5
+  Net punt avg. ..      33.6         36.5
+KICKOFFS-Yards....   70-4452      61-3791
+  Avg Per Kick....      63.6         62.1
+  Net kick avg. ..      40.2         41.9
+POSS. TIME/Game...     32:10        27:50
+3RD-DOWN Conv. ...    86/196       67/179
+  3rd-Down Pct....       44%          37%
+4TH-DOWN Conv. ...     12/21        12/26
+  4th-Down Pct....       57%          46%
+SACKS BY-Yards....    26-173       15-135
+MISC YARDS........         0           13
+TOUCHDOWNS SCORED         44           40
+FIELD GOALS-ATT...     12-15        12-17
+ON-SIDE KICKS.....       0-0          0-0
+RED-ZONE SCORES  (37-45) 82%  (29-34) 85%
+RED-ZONE TDs.... (28-45) 62%  (22-34) 65%
+PAT-ATTEMPTS....(43-43) 100%  (31-34) 91%
+ATTENDANCE.......     631402       347935
+  Games/Avg.......   7/90200      5/69587
+  Neut. Site Games                1/68496
+
+
+SCORE BY
+QUARTERS   1st  2nd  3rd  4th  OT     Tot
+---------  ---  ---  ---  ---  --     ---
+NEB......   75   68   77  125   0  -  345
+OPP......   56  122   72   55   6  -  311
+
+
+RUSHING      GP  Att Gain Loss  Net   Avg  TD Lng Avg/G
+-------------------------------------------------------
+T.Newby      13  190  910   31  879   4.6   7  63  67.6
+T.Armstrong  11  113  604   92  512   4.5   8  37  46.5
+D.Ozigbo     11   97  429   17  412   4.2   5  42  37.5
+R.Bryant     12   43  179    7  172   4.0   1  22  14.3
+M.Wilbon     10   15   91    2   89   5.9   0  32   8.9
+A.Moore      11    4   58    0   58  14.5   1  24   5.3
+B.Reilly     11    8   49    3   46   5.8   0  13   4.2
+C.Carter     10    3   34    0   34  11.3   0  16   3.4
+D.Pierson-El 13   14   48   14   34   2.4   0   9   2.6
+J.Westerkamp 10    3   19    1   18   6.0   1  10   1.8
+L.McNitt     13    2    4    0    4   2.0   0   2   0.3
+C.Lightbourn 12    1    4    0    4   4.0   0   4   0.3
+S.Morgan Jr. 13    1    0    0    0   0.0   0   0   0.0
+R.Fyfe        8   16   54   82  -28  -1.8   1  21  -3.5
+TEAM         12   13    0   35  -35  -2.7   0   0  -2.9
+Total....... 13  523 2483  284 2199   4.2  24  63 169.2
+Opponents... 13  433 2189  267 1922   4.4  22  75 147.8
+
+
+PASSING      GP  Effic Cmp-Att-Int   Pct  Yds  TD Lng Avg/G
+-----------------------------------------------------------
+T.Armstrong  11  123.92  151-294-8  51.4 2180  14  72 198.2
+R.Fyfe        8  107.14   48-99-1   48.5  558   4  39  69.8
+Z.Darlington 13   52.93    2-6-0    33.3   14   0  12   1.1
+TEAM         12    0.00    0-1-0     0.0    0   0   0   0.0
+Total....... 13  118.39  201-400-9  50.2 2752  18  72 211.7
+Opponents... 13  120.97  254-422-16 60.2 2806  16  92 215.8
+
+
+RECEIVING       GP  No.  Yds   Avg  TD Long Avg/G
+-------------------------------------------------
+Westerkamp, J.  10   38  526  13.8   5   55  52.6
+Morgan Jr., S.  13   33  453  13.7   2   72  34.8
+Reilly, Brandon 11   21  412  19.6   2   45  37.5
+Moore, Alonzo   11   20  375  18.8   2   63  34.1
+Pierson-El, D.  13   20  254  12.7   1   40  19.5
+Carter, Cethan  10   19  190  10.0   1   33  19.0
+Newby, Terrell  13   18  149   8.3   1   31  11.5
+Cotton, Sam     13    8   87  10.9   0   17   6.7
+Bryant, Tre     12    8   56   7.0   1   35   4.7
+Ozigbo, Devine  11    5  100  20.0   0   39   9.1
+Reimers, Bryan  12    5   75  15.0   1   24   6.2
+Wilbon, Mikale  10    4   34   8.5   0   13   3.4
+Rahn, Gabe       6    1   35  35.0   1   35   5.8
+Foster, Trey    13    1    6   6.0   1    6   0.5
+Total.......... 13  201 2752  13.7  18   72 211.7
+Opponents...... 13  254 2806  11.0  16   92 215.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Pierson-El, D.    23  168   7.3  0   45
+Total..........   23  168   7.3  0   45
+Opponents......   21  224  10.7  0   44
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Williams, K.       5   44   8.8  1   23
+Gerry, Nathan      4   18   4.5  0   10
+Jones, Chris       3   60  20.0  1   33
+Williams, Aaron    3    0   0.0  0    4
+Kalu, Joshua       1    0   0.0  0    0
+Total..........   16  122   7.6  2   33
+Opponents......    9  153  17.0  2   48
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Bryant, Tre       23  508  22.1  0   59
+Nelson, Jordan     7  157  22.4  0   45
+McNitt, Luke       2   22  11.0  0   13
+Total..........   32  687  21.5  0   59
+Opponents......   38  840  22.1  0   39
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+Barry, Mohamed     1    3   3.0  0    3
+Dzuris, Ross       1    9   9.0  0    9
+Total..........    2   12   6.0  0    9
+Opponents......    1   34  34.0  0   34
+
+
+                         |------ PATs -----|
+SCORING        TD  FGs   Kick  Rush Rcv Pass DXP Sf Pts
+-------------------------------------------------------
+Brown, Drew     0 12-14  38-38  0-0   0  0-0  0  0   74
+Armstrong Jr.   8  0-0    0-0   0-0   0  0-0  0  0   48
+Newby, Terrell  8  0-0    0-0   0-0   0  0-0  0  0   48
+Westerkamp, J.  6  0-0    0-0   0-0   0  0-0  0  0   36
+Ozigbo, Devine  5  0-0    0-0   0-0   0  0-0  0  0   30
+Moore, Alonzo   3  0-0    0-0   0-0   0  0-0  0  0   18
+Reilly, Brandon 2  0-0    0-0   0-0   0  0-0  0  0   12
+Morgan Jr., S.  2  0-0    0-0   0-0   0  0-0  0  0   12
+Bryant, Tre     2  0-0    0-0   0-0   0  0-0  0  0   12
+Foster, Trey    1  0-0    0-0   0-0   0  0-0  0  0    6
+Rahn, Gabe      1  0-0    0-0   0-0   0  0-0  0  0    6
+Carter, Cethan  1  0-0    0-0   0-0   0  0-0  0  0    6
+Fyfe, Ryker     1  0-0    0-0   0-0   0  0-0  0  0    6
+Williams, K.    1  0-0    0-0   0-0   0  0-0  0  0    6
+Pierson-El, D.  1  0-0    0-0   0-0   0  0-0  0  0    6
+Jones, Chris    1  0-0    0-0   0-0   0  0-0  0  0    6
+Reimers, Bryan  1  0-0    0-0   0-0   0  0-0  0  0    6
+Lindsay, S.     0  0-1    5-5   0-0   0  0-0  0  0    5
+Darlington, Z.  0  0-0    0-0   1-1   0  0-0  0  0    2
+Total........  44 12-15  43-43  1-1   0  0-0  0  0  345
+Opponents....  40 12-17  31-34  1-4   0  0-2  0  1  311
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Armstrong Jr.   11   407  512 2180  2692 244.7
+Newby, Terrell  13   190  879    0   879  67.6
+Fyfe, Ryker      8   115  -28  558   530  66.2
+Ozigbo, Devine  11    97  412    0   412  37.5
+Bryant, Tre     12    43  172    0   172  14.3
+Wilbon, Mikale  10    15   89    0    89   8.9
+Moore, Alonzo   11     4   58    0    58   5.3
+Reilly, Brandon 11     8   46    0    46   4.2
+Pierson-El, D.  13    14   34    0    34   2.6
+Carter, Cethan  10     3   34    0    34   3.4
+Westerkamp, J.  10     3   18    0    18   1.8
+Darlington, Z.  13     6    0   14    14   1.1
+McNitt, Luke    13     2    4    0     4   0.3
+Lightbourn, C.  12     1    4    0     4   0.3
+TEAM            12    14  -35    0   -35  -2.9
+Total.......... 13   923 2199 2752  4951 380.8
+Opponents...... 13   855 1922 2806  4728 363.7
+
+
+FIELD 
+GOALS   FGM-FGA  Pct  1-19  20s  30s  40s  50s Lg Blk
+-----------------------------------------------------
+D.Brown   12-14  85.7  0-0  4-4  4-4  3-4  1-2  51  0
+S.Lindsay  0-1    0.0  0-0  0-0  0-1  0-0  0-0   0  1
+
+
+FG SEQUENCE    Nebraska        OPPONENTS
+----------------------------------------
+Fresno State   -               32,(26)
+Wyoming        (29)            42,46,(27)
+Oregon         -               -
+Northwestern   (23)            27
+Illinois       56,(29)         (24),(43),(33)
+Indiana        (40),(39)       (36),(45)
+Purdue         (30),(51),45    -
+Wisconsin      (35)            (44),45
+Ohio State     (20)            (28),(28)
+Minnesota      (46)            (42)
+Maryland       32              -
+Iowa           (35)            -
+Tennessee      (45)            (46)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING        No.  Yds   Avg Lng TB  FC I20 Blk
+------------------------------------------------
+Lightbourn, C.  65 2578  39.7  58  5  18  21   0
+TEAM             3   28   9.3  28  0   0   0   3
+Total.........  68 2606  38.3  58  5  18  21   3
+Opponents.....  66 2675  40.5  57  5  18  20   0
+
+
+KICKOFFS     No.   Yds   Avg  TB  OB  Retn  Net YdLn
+----------------------------------------------------
+Brown, Drew   63  4017  63.8  30   0
+Lindsay, S.    7   435  62.1   2   0
+Total........ 70  4452  63.6  32   0   840 40.2   24
+Opponents.... 61  3791  62.1  22   7   687 41.9   23
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Newby, Terrell  13  879  149    0    0    0 1028  79.1
+Bryant, Tre     12  172   56    0  508    0  736  61.3
+Westerkamp, J.  10   18  526    0    0    0  544  54.4
+Ozigbo, Devine  11  412  100    0    0    0  512  46.5
+Armstrong Jr.   11  512    0    0    0    0  512  46.5
+Reilly, Brandon 11   46  412    0    0    0  458  41.6
+Pierson-El, D.  13   34  254  168    0    0  456  35.1
+Morgan Jr., S.  13    0  453    0    0    0  453  34.8
+Moore, Alonzo   11   58  375    0    0    0  433  39.4
+Carter, Cethan  10   34  190    0    0    0  224  22.4
+Nelson, Jordan  13    0    0    0  157    0  157  12.1
+Wilbon, Mikale  10   89   34    0    0    0  123  12.3
+Cotton, Sam     13    0   87    0    0    0   87   6.7
+Reimers, Bryan  12    0   75    0    0    0   75   6.2
+Jones, Chris    13    0    0    0    0   60   60   4.6
+Williams, K.    13    0    0    0    0   44   44   3.4
+Rahn, Gabe       6    0   35    0    0    0   35   5.8
+McNitt, Luke    13    4    0    0   22    0   26   2.0
+Gerry, Nathan   11    0    0    0    0   18   18   1.6
+Foster, Trey    13    0    6    0    0    0    6   0.5
+Lightbourn, C.  12    4    0    0    0    0    4   0.3
+Fyfe, Ryker      8  -28    0    0    0    0  -28  -3.5
+TEAM            12  -35    0    0    0    0  -35  -2.9
+Total.......... 13 2199 2752  168  687  122 5928 456.0
+Opponents...... 13 1922 2806  224  840  153 5945 457.3
+
+
+Page 1 / 1Zoom 100%
+
+
+
+Overall Defensive Statistics
+
+
+                       |-------Tackles------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blk
+DEFENSIVE LEADERS   GP Solo  Ast  Tot TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kck Saf
+--------------------------------------------------------------------------------------------
+52 Banderas, Josh   13   40   53   93   8-13   0.5-5       .       .   3    .      .   .   .
+25 Gerry, Nathan    11   47   27   74   7-7    0.5-1      4-18     8   1    .      .   .   .
+1A Rose-Ivey, M.    13   30   40   70   8-17   1.0-9       .       .   1    .      .   .   .
+26 Williams, K.     13   43   26   69   4-2       .       5-44     2   .    .      .   .   .
+10 Kalu, Joshua     13   48   18   66   3-8    1.0-6      1-0     11   2    .      .   1   .
+24 Williams, Aaron  13   32   30   62   6-22   2.0-18     3-0      7   .    .      .   .   .
+5  Young II, D.     12   34   26   60   4-5    1.0-3       .       4   2    .      1   .   .
+88 Dzuris, Ross     13   21   28   49  13-44   5.5-26      .       .   1   1-9     .   .   .
+55 Maurice, Kevin   13   17   22   39   7-29   4.0-23      .       .   3    .      .   .   .
+8A Jones, Chris     13   33    4   37   3-5    1.0-2      3-60    10   .    .      .   .   .
+91 Akinmoladun, F.  13   15   17   32   5-30   4.0-28      .       .  10    .      1   .   .
+44 Stoltenberg, M.  12    9   16   25   3-6    1.5-5       .       .   1    .      .   .   .
+96 Davis, Carlos    13   11   13   24   5-25   2.0-24      .       .   3    .      .   .   .
+16 Reed, Antonio    12   14    8   22    .        .        .       2   1    .      .   .   .
+3  Newby, Marcus    12    7   11   18   3-17   2.0-16      .       1   2    .      1   .   .
+49 Weber, Chris     13    5   12   17   1-1       .        .       .   .    .      .   .   .
+1B Jackson, Lamar   13   14    3   17   2-14   1.0-11      .       .   .    .      .   .   .
+56 Simpson, Brad    13    3    7   10    .        .        .       .   .    .      .   .   .
+41 McNitt, Luke     13    6    4   10    .        .        .       .   .   1-0     .   .   .
+13 Domann, JoJo     13    5    3    8    .        .        .       .   .    .      1   .   .
+1C Joseph, Boaz     12    2    6    8    .        .        .       .   .    .      .   .   .
+7  Barry, Mohamed   13    .    6    6    .        .        .       .   .   1-3     .   .   .
+94 Davis, Khalil    12    4    1    5   2-4       .        .       .   .    .      .   .   .
+1F King, Sedrick     8    .    4    4    .        .        .       .   1    .      .   .   .
+73 Hahn, Sam        13    2    1    3    .        .        .       .   .    .      .   .   .
+2A Davis, Alex      13    .    2    2    .        .        .       .   .    .      .   .   .
+6  Lee Jr., Eric     8    1    1    2   1-1       .        .       .   .    .      .   .   .
+29 Nabity, Graham   11    1    1    2    .        .        .       .   .    .      .   .   .
+87 Reilly, Brandon  11    2    .    2    .        .        .       .   .    .      .   .   .
+9  Neal, DaiShon     9    1    1    2    .        .        .       .   .    .      .   .   .
+45 Natter, A.J.      6    1    1    2    .        .        .       .   .    .      .   .   .
+35 Lightbourn, C.   12    2    .    2    .        .        .       .   .    .      .   .   .
+12 Gifford, Luke     4    .    1    1    .        .        .       .   .    .      .   .   .
+3A Brown, Drew      13    1    .    1    .        .        .       .   .    .      .   .   .
+11 Carter, Cethan   10    1    .    1    .        .        .       .   .    .      .   .   .
+39 Nelson, Jordan   13    .    1    1    .        .        .       .   .    .      .   .   .
+33 Bailey, C.       13    1    .    1    .        .        .       .   .    .      .   .   .
+28 Taylor, Adam      5    1    .    1    .        .        .       .   .    .      .   .   .
+89 Ketter, Connor    9    .    1    1    .        .        .       .   .    .      .   .   .
+4A Anderson, Avery   3    .    1    1    .        .        .       .   .    .      .   .   .
+5C Painter, Robby    7    1    .    1    .        .        .       .   .    .      .   .   .
+97 Rath, Logan       8    1    .    1    .        .        .       .   .    .      .   .   .
+3C Zlab, Tanner      1    1    .    1    .        .        .       .   .    .      .   .   .
+84 Cotton, Sam      13    1    .    1    .        .        .       .   .    .      .   .   .
+15 Pierson-El, D.   13    1    .    1    .        .        .       .   .    .      .   .   .
+   Total..........  13  459  396  855  85-250   26-173   16-122   45  31   3-12    4   1   .
+   Opponents......  13  494  438  932  75-253   15-135    9-153   60  27   5-34    5   4   1
+
+
+
+      
+RUSHING      GP  Att Gain Loss  Net   Avg  TD Lng Avg/G
+-------------------------------------------------------
+T.Newby      13  190  910   31  879   4.6   7  63  67.6
+T.Armstrong  11  113  604   92  512   4.5   8  37  46.5
+D.Ozigbo     11   97  429   17  412   4.2   5  42  37.5
+R.Bryant     12   43  179    7  172   4.0   1  22  14.3
+M.Wilbon     10   15   91    2   89   5.9   0  32   8.9
+A.Moore      11    4   58    0   58  14.5   1  24   5.3
+B.Reilly     11    8   49    3   46   5.8   0  13   4.2
+C.Carter     10    3   34    0   34  11.3   0  16   3.4
+D.Pierson-El 13   14   48   14   34   2.4   0   9   2.6
+J.Westerkamp 10    3   19    1   18   6.0   1  10   1.8
+L.McNitt     13    2    4    0    4   2.0   0   2   0.3
+C.Lightbourn 12    1    4    0    4   4.0   0   4   0.3
+S.Morgan Jr. 13    1    0    0    0   0.0   0   0   0.0
+R.Fyfe        8   16   54   82  -28  -1.8   1  21  -3.5
+TEAM         12   13    0   35  -35  -2.7   0   0  -2.9
+Total....... 13  523 2483  284 2199   4.2  24  63 169.2
+Opponents... 13  433 2189  267 1922   4.4  22  75 147.8
+
+
+PASSING      GP  Effic Cmp-Att-Int   Pct  Yds  TD Lng Avg/G
+-----------------------------------------------------------
+T.Armstrong  11  123.92  151-294-8  51.4 2180  14  72 198.2
+R.Fyfe        8  107.14   48-99-1   48.5  558   4  39  69.8
+Z.Darlington 13   52.93    2-6-0    33.3   14   0  12   1.1
+TEAM         12    0.00    0-1-0     0.0    0   0   0   0.0
+Total....... 13  118.39  201-400-9  50.2 2752  18  72 211.7
+Opponents... 13  120.97  254-422-16 60.2 2806  16  92 215.8
+
+
+RECEIVING       GP  No.  Yds   Avg  TD Long Avg/G
+-------------------------------------------------
+Westerkamp, J.  10   38  526  13.8   5   55  52.6
+Morgan Jr., S.  13   33  453  13.7   2   72  34.8
+Reilly, Brandon 11   21  412  19.6   2   45  37.5
+Moore, Alonzo   11   20  375  18.8   2   63  34.1
+Pierson-El, D.  13   20  254  12.7   1   40  19.5
+Carter, Cethan  10   19  190  10.0   1   33  19.0
+Newby, Terrell  13   18  149   8.3   1   31  11.5
+Cotton, Sam     13    8   87  10.9   0   17   6.7
+Bryant, Tre     12    8   56   7.0   1   35   4.7
+Ozigbo, Devine  11    5  100  20.0   0   39   9.1
+Reimers, Bryan  12    5   75  15.0   1   24   6.2
+Wilbon, Mikale  10    4   34   8.5   0   13   3.4
+Rahn, Gabe       6    1   35  35.0   1   35   5.8
+Foster, Trey    13    1    6   6.0   1    6   0.5
+Total.......... 13  201 2752  13.7  18   72 211.7
+Opponents...... 13  254 2806  11.0  16   92 215.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Pierson-El, D.    23  168   7.3  0   45
+Total..........   23  168   7.3  0   45
+Opponents......   21  224  10.7  0   44
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Williams, K.       5   44   8.8  1   23
+Gerry, Nathan      4   18   4.5  0   10
+Jones, Chris       3   60  20.0  1   33
+Williams, Aaron    3    0   0.0  0    4
+Kalu, Joshua       1    0   0.0  0    0
+Total..........   16  122   7.6  2   33
+Opponents......    9  153  17.0  2   48
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Bryant, Tre       23  508  22.1  0   59
+Nelson, Jordan     7  157  22.4  0   45
+McNitt, Luke       2   22  11.0  0   13
+Total..........   32  687  21.5  0   59
+Opponents......   38  840  22.1  0   39
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+Barry, Mohamed     1    3   3.0  0    3
+Dzuris, Ross       1    9   9.0  0    9
+Total..........    2   12   6.0  0    9
+Opponents......    1   34  34.0  0   34
+
+
+                         |------ PATs -----|
+SCORING        TD  FGs   Kick  Rush Rcv Pass DXP Sf Pts
+-------------------------------------------------------
+Brown, Drew     0 12-14  38-38  0-0   0  0-0  0  0   74
+Armstrong Jr.   8  0-0    0-0   0-0   0  0-0  0  0   48
+Newby, Terrell  8  0-0    0-0   0-0   0  0-0  0  0   48
+Westerkamp, J.  6  0-0    0-0   0-0   0  0-0  0  0   36
+Ozigbo, Devine  5  0-0    0-0   0-0   0  0-0  0  0   30
+Moore, Alonzo   3  0-0    0-0   0-0   0  0-0  0  0   18
+Reilly, Brandon 2  0-0    0-0   0-0   0  0-0  0  0   12
+Morgan Jr., S.  2  0-0    0-0   0-0   0  0-0  0  0   12
+Bryant, Tre     2  0-0    0-0   0-0   0  0-0  0  0   12
+Foster, Trey    1  0-0    0-0   0-0   0  0-0  0  0    6
+Rahn, Gabe      1  0-0    0-0   0-0   0  0-0  0  0    6
+Carter, Cethan  1  0-0    0-0   0-0   0  0-0  0  0    6
+Fyfe, Ryker     1  0-0    0-0   0-0   0  0-0  0  0    6
+Williams, K.    1  0-0    0-0   0-0   0  0-0  0  0    6
+Pierson-El, D.  1  0-0    0-0   0-0   0  0-0  0  0    6
+Jones, Chris    1  0-0    0-0   0-0   0  0-0  0  0    6
+Reimers, Bryan  1  0-0    0-0   0-0   0  0-0  0  0    6
+Lindsay, S.     0  0-1    5-5   0-0   0  0-0  0  0    5
+Darlington, Z.  0  0-0    0-0   1-1   0  0-0  0  0    2
+Total........  44 12-15  43-43  1-1   0  0-0  0  0  345
+Opponents....  40 12-17  31-34  1-4   0  0-2  0  1  311
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Armstrong Jr.   11   407  512 2180  2692 244.7
+Newby, Terrell  13   190  879    0   879  67.6
+Fyfe, Ryker      8   115  -28  558   530  66.2
+Ozigbo, Devine  11    97  412    0   412  37.5
+Bryant, Tre     12    43  172    0   172  14.3
+Wilbon, Mikale  10    15   89    0    89   8.9
+Moore, Alonzo   11     4   58    0    58   5.3
+Reilly, Brandon 11     8   46    0    46   4.2
+Pierson-El, D.  13    14   34    0    34   2.6
+Carter, Cethan  10     3   34    0    34   3.4
+Westerkamp, J.  10     3   18    0    18   1.8
+Darlington, Z.  13     6    0   14    14   1.1
+McNitt, Luke    13     2    4    0     4   0.3
+Lightbourn, C.  12     1    4    0     4   0.3
+TEAM            12    14  -35    0   -35  -2.9
+Total.......... 13   923 2199 2752  4951 380.8
+Opponents...... 13   855 1922 2806  4728 363.7
+
+
+FIELD 
+GOALS   FGM-FGA  Pct  1-19  20s  30s  40s  50s Lg Blk
+-----------------------------------------------------
+D.Brown   12-14  85.7  0-0  4-4  4-4  3-4  1-2  51  0
+S.Lindsay  0-1    0.0  0-0  0-0  0-1  0-0  0-0   0  1
+
+
+FG SEQUENCE    Nebraska        OPPONENTS
+----------------------------------------
+Fresno State   -               32,(26)
+Wyoming        (29)            42,46,(27)
+Oregon         -               -
+Northwestern   (23)            27
+Illinois       56,(29)         (24),(43),(33)
+Indiana        (40),(39)       (36),(45)
+Purdue         (30),(51),45    -
+Wisconsin      (35)            (44),45
+Ohio State     (20)            (28),(28)
+Minnesota      (46)            (42)
+Maryland       32              -
+Iowa           (35)            -
+Tennessee      (45)            (46)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING        No.  Yds   Avg Lng TB  FC I20 Blk
+------------------------------------------------
+Lightbourn, C.  65 2578  39.7  58  5  18  21   0
+TEAM             3   28   9.3  28  0   0   0   3
+Total.........  68 2606  38.3  58  5  18  21   3
+Opponents.....  66 2675  40.5  57  5  18  20   0
+
+
+KICKOFFS     No.   Yds   Avg  TB  OB  Retn  Net YdLn
+----------------------------------------------------
+Brown, Drew   63  4017  63.8  30   0
+Lindsay, S.    7   435  62.1   2   0
+Total........ 70  4452  63.6  32   0   840 40.2   24
+Opponents.... 61  3791  62.1  22   7   687 41.9   23
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Newby, Terrell  13  879  149    0    0    0 1028  79.1
+Bryant, Tre     12  172   56    0  508    0  736  61.3
+Westerkamp, J.  10   18  526    0    0    0  544  54.4
+Ozigbo, Devine  11  412  100    0    0    0  512  46.5
+Armstrong Jr.   11  512    0    0    0    0  512  46.5
+Reilly, Brandon 11   46  412    0    0    0  458  41.6
+Pierson-El, D.  13   34  254  168    0    0  456  35.1
+Morgan Jr., S.  13    0  453    0    0    0  453  34.8
+Moore, Alonzo   11   58  375    0    0    0  433  39.4
+Carter, Cethan  10   34  190    0    0    0  224  22.4
+Nelson, Jordan  13    0    0    0  157    0  157  12.1
+Wilbon, Mikale  10   89   34    0    0    0  123  12.3
+Cotton, Sam     13    0   87    0    0    0   87   6.7
+Reimers, Bryan  12    0   75    0    0    0   75   6.2
+Jones, Chris    13    0    0    0    0   60   60   4.6
+Williams, K.    13    0    0    0    0   44   44   3.4
+Rahn, Gabe       6    0   35    0    0    0   35   5.8
+McNitt, Luke    13    4    0    0   22    0   26   2.0
+Gerry, Nathan   11    0    0    0    0   18   18   1.6
+Foster, Trey    13    0    6    0    0    0    6   0.5
+Lightbourn, C.  12    4    0    0    0    0    4   0.3
+Fyfe, Ryker      8  -28    0    0    0    0  -28  -3.5
+TEAM            12  -35    0    0    0    0  -35  -2.9
+Total.......... 13 2199 2752  168  687  122 5928 456.0
+Opponents...... 13 1922 2806  224  840  153 5945 457.3
+
+
+                       |-------Tackles------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blk
+DEFENSIVE LEADERS   GP Solo  Ast  Tot TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kck Saf
+--------------------------------------------------------------------------------------------
+52 Banderas, Josh   13   40   53   93   8-13   0.5-5       .       .   3    .      .   .   .
+25 Gerry, Nathan    11   47   27   74   7-7    0.5-1      4-18     8   1    .      .   .   .
+1A Rose-Ivey, M.    13   30   40   70   8-17   1.0-9       .       .   1    .      .   .   .
+26 Williams, K.     13   43   26   69   4-2       .       5-44     2   .    .      .   .   .
+10 Kalu, Joshua     13   48   18   66   3-8    1.0-6      1-0     11   2    .      .   1   .
+24 Williams, Aaron  13   32   30   62   6-22   2.0-18     3-0      7   .    .      .   .   .
+5  Young II, D.     12   34   26   60   4-5    1.0-3       .       4   2    .      1   .   .
+88 Dzuris, Ross     13   21   28   49  13-44   5.5-26      .       .   1   1-9     .   .   .
+55 Maurice, Kevin   13   17   22   39   7-29   4.0-23      .       .   3    .      .   .   .
+8A Jones, Chris     13   33    4   37   3-5    1.0-2      3-60    10   .    .      .   .   .
+91 Akinmoladun, F.  13   15   17   32   5-30   4.0-28      .       .  10    .      1   .   .
+44 Stoltenberg, M.  12    9   16   25   3-6    1.5-5       .       .   1    .      .   .   .
+96 Davis, Carlos    13   11   13   24   5-25   2.0-24      .       .   3    .      .   .   .
+16 Reed, Antonio    12   14    8   22    .        .        .       2   1    .      .   .   .
+3  Newby, Marcus    12    7   11   18   3-17   2.0-16      .       1   2    .      1   .   .
+49 Weber, Chris     13    5   12   17   1-1       .        .       .   .    .      .   .   .
+1B Jackson, Lamar   13   14    3   17   2-14   1.0-11      .       .   .    .      .   .   .
+56 Simpson, Brad    13    3    7   10    .        .        .       .   .    .      .   .   .
+41 McNitt, Luke     13    6    4   10    .        .        .       .   .   1-0     .   .   .
+13 Domann, JoJo     13    5    3    8    .        .        .       .   .    .      1   .   .
+1C Joseph, Boaz     12    2    6    8    .        .        .       .   .    .      .   .   .
+7  Barry, Mohamed   13    .    6    6    .        .        .       .   .   1-3     .   .   .
+94 Davis, Khalil    12    4    1    5   2-4       .        .       .   .    .      .   .   .
+1F King, Sedrick     8    .    4    4    .        .        .       .   1    .      .   .   .
+73 Hahn, Sam        13    2    1    3    .        .        .       .   .    .      .   .   .
+2A Davis, Alex      13    .    2    2    .        .        .       .   .    .      .   .   .
+6  Lee Jr., Eric     8    1    1    2   1-1       .        .       .   .    .      .   .   .
+29 Nabity, Graham   11    1    1    2    .        .        .       .   .    .      .   .   .
+87 Reilly, Brandon  11    2    .    2    .        .        .       .   .    .      .   .   .
+9  Neal, DaiShon     9    1    1    2    .        .        .       .   .    .      .   .   .
+45 Natter, A.J.      6    1    1    2    .        .        .       .   .    .      .   .   .
+35 Lightbourn, C.   12    2    .    2    .        .        .       .   .    .      .   .   .
+12 Gifford, Luke     4    .    1    1    .        .        .       .   .    .      .   .   .
+3A Brown, Drew      13    1    .    1    .        .        .       .   .    .      .   .   .
+11 Carter, Cethan   10    1    .    1    .        .        .       .   .    .      .   .   .
+39 Nelson, Jordan   13    .    1    1    .        .        .       .   .    .      .   .   .
+33 Bailey, C.       13    1    .    1    .        .        .       .   .    .      .   .   .
+28 Taylor, Adam      5    1    .    1    .        .        .       .   .    .      .   .   .
+89 Ketter, Connor    9    .    1    1    .        .        .       .   .    .      .   .   .
+4A Anderson, Avery   3    .    1    1    .        .        .       .   .    .      .   .   .
+5C Painter, Robby    7    1    .    1    .        .        .       .   .    .      .   .   .
+97 Rath, Logan       8    1    .    1    .        .        .       .   .    .      .   .   .
+3C Zlab, Tanner      1    1    .    1    .        .        .       .   .    .      .   .   .
+84 Cotton, Sam      13    1    .    1    .        .        .       .   .    .      .   .   .
+15 Pierson-El, D.   13    1    .    1    .        .        .       .   .    .      .   .   .
+   Total..........  13  459  396  855  85-250   26-173   16-122   45  31   3-12    4   1   .
+   Opponents......  13  494  438  932  75-253   15-135    9-153   60  27   5-34    5   4   1
+
+
+          2016 Nebraska Football
+                All games
+
+TEAM STATISTICS          NEB          OPP
+-----------------------------------------
+SCORING...........       345          311
+  Points Per Game       26.5         23.9
+  Ps Off Turnovers        66           32
+FIRST DOWNS.......       266          231
+  Rushing.........       112           91
+  Passing.........       132          121
+  Penalty.........        22           19
+RUSHING YARDAGE...      2199         1922
+  Yards gained....      2483         2189
+  Yards lost......       284          267
+  Rushing Attempts       523          433
+  Avg Per Rush....       4.2          4.4
+  Avg Per Game....     169.2        147.8
+  TDs Rushing.....        24           22
+PASSING YARDAGE...      2752         2806
+  Comp-Att-Int.... 201-400-9   254-422-16
+  Avg Per Pass....       6.9          6.6
+  Avg Per Catch...      13.7         11.0
+  Avg Per Game....     211.7        215.8
+  TDs Passing.....        18           16
+TOTAL OFFENSE.....      4951         4728
+  Total Plays.....       923          855
+  Avg Per Play....       5.4          5.5
+  Avg Per Game....     380.8        363.7
+KICK RETURNS-Yds..    32-687       38-840
+PUNT RETURNS-Yds..    23-168       21-224
+INT RETURNS-Yds...    16-122        9-153
+KICK RETURN AVG...      21.5         22.1
+PUNT RETURN AVG...       7.3         10.7
+INT RETURN AVG....       7.6         17.0
+FUMBLES-LOST......      16-5         10-3
+PENALTIES-Yards...    75-695       65-578
+  Avg Per Game....      53.5         44.5
+PUNTS-Yards.......   68-2606      66-2675
+  Avg Per Punt....      38.3         40.5
+  Net punt avg. ..      33.6         36.5
+KICKOFFS-Yards....   70-4452      61-3791
+  Avg Per Kick....      63.6         62.1
+  Net kick avg. ..      40.2         41.9
+POSS. TIME/Game...     32:10        27:50
+3RD-DOWN Conv. ...    86/196       67/179
+  3rd-Down Pct....       44%          37%
+4TH-DOWN Conv. ...     12/21        12/26
+  4th-Down Pct....       57%          46%
+SACKS BY-Yards....    26-173       15-135
+MISC YARDS........         0           13
+TOUCHDOWNS SCORED         44           40
+FIELD GOALS-ATT...     12-15        12-17
+ON-SIDE KICKS.....       0-0          0-0
+RED-ZONE SCORES  (37-45) 82%  (29-34) 85%
+RED-ZONE TDs.... (28-45) 62%  (22-34) 65%
+PAT-ATTEMPTS....(43-43) 100%  (31-34) 91%
+ATTENDANCE.......     631402       347935
+  Games/Avg.......   7/90200      5/69587
+  Neut. Site Games                1/68496
+
+
+SCORE BY
+QUARTERS   1st  2nd  3rd  4th  OT     Tot
+---------  ---  ---  ---  ---  --     ---
+NEB......   75   68   77  125   0  -  345
+OPP......   56  122   72   55   6  -  311
+
+
+RUSHING      GP  Att Gain Loss  Net   Avg  TD Lng Avg/G
+-------------------------------------------------------
+T.Newby      13  190  910   31  879   4.6   7  63  67.6
+T.Armstrong  11  113  604   92  512   4.5   8  37  46.5
+D.Ozigbo     11   97  429   17  412   4.2   5  42  37.5
+R.Bryant     12   43  179    7  172   4.0   1  22  14.3
+M.Wilbon     10   15   91    2   89   5.9   0  32   8.9
+A.Moore      11    4   58    0   58  14.5   1  24   5.3
+B.Reilly     11    8   49    3   46   5.8   0  13   4.2
+C.Carter     10    3   34    0   34  11.3   0  16   3.4
+D.Pierson-El 13   14   48   14   34   2.4   0   9   2.6
+J.Westerkamp 10    3   19    1   18   6.0   1  10   1.8
+L.McNitt     13    2    4    0    4   2.0   0   2   0.3
+C.Lightbourn 12    1    4    0    4   4.0   0   4   0.3
+S.Morgan Jr. 13    1    0    0    0   0.0   0   0   0.0
+R.Fyfe        8   16   54   82  -28  -1.8   1  21  -3.5
+TEAM         12   13    0   35  -35  -2.7   0   0  -2.9
+Total....... 13  523 2483  284 2199   4.2  24  63 169.2
+Opponents... 13  433 2189  267 1922   4.4  22  75 147.8
+
+
+PASSING      GP  Effic Cmp-Att-Int   Pct  Yds  TD Lng Avg/G
+-----------------------------------------------------------
+T.Armstrong  11  123.92  151-294-8  51.4 2180  14  72 198.2
+R.Fyfe        8  107.14   48-99-1   48.5  558   4  39  69.8
+Z.Darlington 13   52.93    2-6-0    33.3   14   0  12   1.1
+TEAM         12    0.00    0-1-0     0.0    0   0   0   0.0
+Total....... 13  118.39  201-400-9  50.2 2752  18  72 211.7
+Opponents... 13  120.97  254-422-16 60.2 2806  16  92 215.8
+
+
+RECEIVING       GP  No.  Yds   Avg  TD Long Avg/G
+-------------------------------------------------
+Westerkamp, J.  10   38  526  13.8   5   55  52.6
+Morgan Jr., S.  13   33  453  13.7   2   72  34.8
+Reilly, Brandon 11   21  412  19.6   2   45  37.5
+Moore, Alonzo   11   20  375  18.8   2   63  34.1
+Pierson-El, D.  13   20  254  12.7   1   40  19.5
+Carter, Cethan  10   19  190  10.0   1   33  19.0
+Newby, Terrell  13   18  149   8.3   1   31  11.5
+Cotton, Sam     13    8   87  10.9   0   17   6.7
+Bryant, Tre     12    8   56   7.0   1   35   4.7
+Ozigbo, Devine  11    5  100  20.0   0   39   9.1
+Reimers, Bryan  12    5   75  15.0   1   24   6.2
+Wilbon, Mikale  10    4   34   8.5   0   13   3.4
+Rahn, Gabe       6    1   35  35.0   1   35   5.8
+Foster, Trey    13    1    6   6.0   1    6   0.5
+Total.......... 13  201 2752  13.7  18   72 211.7
+Opponents...... 13  254 2806  11.0  16   92 215.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Pierson-El, D.    23  168   7.3  0   45
+Total..........   23  168   7.3  0   45
+Opponents......   21  224  10.7  0   44
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Williams, K.       5   44   8.8  1   23
+Gerry, Nathan      4   18   4.5  0   10
+Jones, Chris       3   60  20.0  1   33
+Williams, Aaron    3    0   0.0  0    4
+Kalu, Joshua       1    0   0.0  0    0
+Total..........   16  122   7.6  2   33
+Opponents......    9  153  17.0  2   48
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Bryant, Tre       23  508  22.1  0   59
+Nelson, Jordan     7  157  22.4  0   45
+McNitt, Luke       2   22  11.0  0   13
+Total..........   32  687  21.5  0   59
+Opponents......   38  840  22.1  0   39
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+Barry, Mohamed     1    3   3.0  0    3
+Dzuris, Ross       1    9   9.0  0    9
+Total..........    2   12   6.0  0    9
+Opponents......    1   34  34.0  0   34
+
+
+                         |------ PATs -----|
+SCORING        TD  FGs   Kick  Rush Rcv Pass DXP Sf Pts
+-------------------------------------------------------
+Brown, Drew     0 12-14  38-38  0-0   0  0-0  0  0   74
+Armstrong Jr.   8  0-0    0-0   0-0   0  0-0  0  0   48
+Newby, Terrell  8  0-0    0-0   0-0   0  0-0  0  0   48
+Westerkamp, J.  6  0-0    0-0   0-0   0  0-0  0  0   36
+Ozigbo, Devine  5  0-0    0-0   0-0   0  0-0  0  0   30
+Moore, Alonzo   3  0-0    0-0   0-0   0  0-0  0  0   18
+Reilly, Brandon 2  0-0    0-0   0-0   0  0-0  0  0   12
+Morgan Jr., S.  2  0-0    0-0   0-0   0  0-0  0  0   12
+Bryant, Tre     2  0-0    0-0   0-0   0  0-0  0  0   12
+Foster, Trey    1  0-0    0-0   0-0   0  0-0  0  0    6
+Rahn, Gabe      1  0-0    0-0   0-0   0  0-0  0  0    6
+Carter, Cethan  1  0-0    0-0   0-0   0  0-0  0  0    6
+Fyfe, Ryker     1  0-0    0-0   0-0   0  0-0  0  0    6
+Williams, K.    1  0-0    0-0   0-0   0  0-0  0  0    6
+Pierson-El, D.  1  0-0    0-0   0-0   0  0-0  0  0    6
+Jones, Chris    1  0-0    0-0   0-0   0  0-0  0  0    6
+Reimers, Bryan  1  0-0    0-0   0-0   0  0-0  0  0    6
+Lindsay, S.     0  0-1    5-5   0-0   0  0-0  0  0    5
+Darlington, Z.  0  0-0    0-0   1-1   0  0-0  0  0    2
+Total........  44 12-15  43-43  1-1   0  0-0  0  0  345
+Opponents....  40 12-17  31-34  1-4   0  0-2  0  1  311
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Armstrong Jr.   11   407  512 2180  2692 244.7
+Newby, Terrell  13   190  879    0   879  67.6
+Fyfe, Ryker      8   115  -28  558   530  66.2
+Ozigbo, Devine  11    97  412    0   412  37.5
+Bryant, Tre     12    43  172    0   172  14.3
+Wilbon, Mikale  10    15   89    0    89   8.9
+Moore, Alonzo   11     4   58    0    58   5.3
+Reilly, Brandon 11     8   46    0    46   4.2
+Pierson-El, D.  13    14   34    0    34   2.6
+Carter, Cethan  10     3   34    0    34   3.4
+Westerkamp, J.  10     3   18    0    18   1.8
+Darlington, Z.  13     6    0   14    14   1.1
+McNitt, Luke    13     2    4    0     4   0.3
+Lightbourn, C.  12     1    4    0     4   0.3
+TEAM            12    14  -35    0   -35  -2.9
+Total.......... 13   923 2199 2752  4951 380.8
+Opponents...... 13   855 1922 2806  4728 363.7
+
+
+FIELD 
+GOALS   FGM-FGA  Pct  1-19  20s  30s  40s  50s Lg Blk
+-----------------------------------------------------
+D.Brown   12-14  85.7  0-0  4-4  4-4  3-4  1-2  51  0
+S.Lindsay  0-1    0.0  0-0  0-0  0-1  0-0  0-0   0  1
+
+
+FG SEQUENCE    Nebraska        OPPONENTS
+----------------------------------------
+Fresno State   -               32,(26)
+Wyoming        (29)            42,46,(27)
+Oregon         -               -
+Northwestern   (23)            27
+Illinois       56,(29)         (24),(43),(33)
+Indiana        (40),(39)       (36),(45)
+Purdue         (30),(51),45    -
+Wisconsin      (35)            (44),45
+Ohio State     (20)            (28),(28)
+Minnesota      (46)            (42)
+Maryland       32              -
+Iowa           (35)            -
+Tennessee      (45)            (46)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING        No.  Yds   Avg Lng TB  FC I20 Blk
+------------------------------------------------
+Lightbourn, C.  65 2578  39.7  58  5  18  21   0
+TEAM             3   28   9.3  28  0   0   0   3
+Total.........  68 2606  38.3  58  5  18  21   3
+Opponents.....  66 2675  40.5  57  5  18  20   0
+
+
+KICKOFFS     No.   Yds   Avg  TB  OB  Retn  Net YdLn
+----------------------------------------------------
+Brown, Drew   63  4017  63.8  30   0
+Lindsay, S.    7   435  62.1   2   0
+Total........ 70  4452  63.6  32   0   840 40.2   24
+Opponents.... 61  3791  62.1  22   7   687 41.9   23
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Newby, Terrell  13  879  149    0    0    0 1028  79.1
+Bryant, Tre     12  172   56    0  508    0  736  61.3
+Westerkamp, J.  10   18  526    0    0    0  544  54.4
+Ozigbo, Devine  11  412  100    0    0    0  512  46.5
+Armstrong Jr.   11  512    0    0    0    0  512  46.5
+Reilly, Brandon 11   46  412    0    0    0  458  41.6
+Pierson-El, D.  13   34  254  168    0    0  456  35.1
+Morgan Jr., S.  13    0  453    0    0    0  453  34.8
+Moore, Alonzo   11   58  375    0    0    0  433  39.4
+Carter, Cethan  10   34  190    0    0    0  224  22.4
+Nelson, Jordan  13    0    0    0  157    0  157  12.1
+Wilbon, Mikale  10   89   34    0    0    0  123  12.3
+Cotton, Sam     13    0   87    0    0    0   87   6.7
+Reimers, Bryan  12    0   75    0    0    0   75   6.2
+Jones, Chris    13    0    0    0    0   60   60   4.6
+Williams, K.    13    0    0    0    0   44   44   3.4
+Rahn, Gabe       6    0   35    0    0    0   35   5.8
+McNitt, Luke    13    4    0    0   22    0   26   2.0
+Gerry, Nathan   11    0    0    0    0   18   18   1.6
+Foster, Trey    13    0    6    0    0    0    6   0.5
+Lightbourn, C.  12    4    0    0    0    0    4   0.3
+Fyfe, Ryker      8  -28    0    0    0    0  -28  -3.5
+TEAM            12  -35    0    0    0    0  -35  -2.9
+Total.......... 13 2199 2752  168  687  122 5928 456.0
+Opponents...... 13 1922 2806  224  840  153 5945 457.3
+
+
+Page 1 / 1Zoom 100%
+
+
+
+Overall Defensive Statistics
+
+
+                       |-------Tackles------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blk
+DEFENSIVE LEADERS   GP Solo  Ast  Tot TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kck Saf
+--------------------------------------------------------------------------------------------
+52 Banderas, Josh   13   40   53   93   8-13   0.5-5       .       .   3    .      .   .   .
+25 Gerry, Nathan    11   47   27   74   7-7    0.5-1      4-18     8   1    .      .   .   .
+1A Rose-Ivey, M.    13   30   40   70   8-17   1.0-9       .       .   1    .      .   .   .
+26 Williams, K.     13   43   26   69   4-2       .       5-44     2   .    .      .   .   .
+10 Kalu, Joshua     13   48   18   66   3-8    1.0-6      1-0     11   2    .      .   1   .
+24 Williams, Aaron  13   32   30   62   6-22   2.0-18     3-0      7   .    .      .   .   .
+5  Young II, D.     12   34   26   60   4-5    1.0-3       .       4   2    .      1   .   .
+88 Dzuris, Ross     13   21   28   49  13-44   5.5-26      .       .   1   1-9     .   .   .
+55 Maurice, Kevin   13   17   22   39   7-29   4.0-23      .       .   3    .      .   .   .
+8A Jones, Chris     13   33    4   37   3-5    1.0-2      3-60    10   .    .      .   .   .
+91 Akinmoladun, F.  13   15   17   32   5-30   4.0-28      .       .  10    .      1   .   .
+44 Stoltenberg, M.  12    9   16   25   3-6    1.5-5       .       .   1    .      .   .   .
+96 Davis, Carlos    13   11   13   24   5-25   2.0-24      .       .   3    .      .   .   .
+16 Reed, Antonio    12   14    8   22    .        .        .       2   1    .      .   .   .
+3  Newby, Marcus    12    7   11   18   3-17   2.0-16      .       1   2    .      1   .   .
+49 Weber, Chris     13    5   12   17   1-1       .        .       .   .    .      .   .   .
+1B Jackson, Lamar   13   14    3   17   2-14   1.0-11      .       .   .    .      .   .   .
+56 Simpson, Brad    13    3    7   10    .        .        .       .   .    .      .   .   .
+41 McNitt, Luke     13    6    4   10    .        .        .       .   .   1-0     .   .   .
+13 Domann, JoJo     13    5    3    8    .        .        .       .   .    .      1   .   .
+1C Joseph, Boaz     12    2    6    8    .        .        .       .   .    .      .   .   .
+7  Barry, Mohamed   13    .    6    6    .        .        .       .   .   1-3     .   .   .
+94 Davis, Khalil    12    4    1    5   2-4       .        .       .   .    .      .   .   .
+1F King, Sedrick     8    .    4    4    .        .        .       .   1    .      .   .   .
+73 Hahn, Sam        13    2    1    3    .        .        .       .   .    .      .   .   .
+2A Davis, Alex      13    .    2    2    .        .        .       .   .    .      .   .   .
+6  Lee Jr., Eric     8    1    1    2   1-1       .        .       .   .    .      .   .   .
+29 Nabity, Graham   11    1    1    2    .        .        .       .   .    .      .   .   .
+87 Reilly, Brandon  11    2    .    2    .        .        .       .   .    .      .   .   .
+9  Neal, DaiShon     9    1    1    2    .        .        .       .   .    .      .   .   .
+45 Natter, A.J.      6    1    1    2    .        .        .       .   .    .      .   .   .
+35 Lightbourn, C.   12    2    .    2    .        .        .       .   .    .      .   .   .
+12 Gifford, Luke     4    .    1    1    .        .        .       .   .    .      .   .   .
+3A Brown, Drew      13    1    .    1    .        .        .       .   .    .      .   .   .
+11 Carter, Cethan   10    1    .    1    .        .        .       .   .    .      .   .   .
+39 Nelson, Jordan   13    .    1    1    .        .        .       .   .    .      .   .   .
+33 Bailey, C.       13    1    .    1    .        .        .       .   .    .      .   .   .
+28 Taylor, Adam      5    1    .    1    .        .        .       .   .    .      .   .   .
+89 Ketter, Connor    9    .    1    1    .        .        .       .   .    .      .   .   .
+4A Anderson, Avery   3    .    1    1    .        .        .       .   .    .      .   .   .
+5C Painter, Robby    7    1    .    1    .        .        .       .   .    .      .   .   .
+97 Rath, Logan       8    1    .    1    .        .        .       .   .    .      .   .   .
+3C Zlab, Tanner      1    1    .    1    .        .        .       .   .    .      .   .   .
+84 Cotton, Sam      13    1    .    1    .        .        .       .   .    .      .   .   .
+15 Pierson-El, D.   13    1    .    1    .        .        .       .   .    .      .   .   .
+   Total..........  13  459  396  855  85-250   26-173   16-122   45  31   3-12    4   1   .
+   Opponents......  13  494  438  932  75-253   15-135    9-153   60  27   5-34    5   4   1
+
+
+
+      
+RUSHING      GP  Att Gain Loss  Net   Avg  TD Lng Avg/G
+-------------------------------------------------------
+T.Newby      13  190  910   31  879   4.6   7  63  67.6
+T.Armstrong  11  113  604   92  512   4.5   8  37  46.5
+D.Ozigbo     11   97  429   17  412   4.2   5  42  37.5
+R.Bryant     12   43  179    7  172   4.0   1  22  14.3
+M.Wilbon     10   15   91    2   89   5.9   0  32   8.9
+A.Moore      11    4   58    0   58  14.5   1  24   5.3
+B.Reilly     11    8   49    3   46   5.8   0  13   4.2
+C.Carter     10    3   34    0   34  11.3   0  16   3.4
+D.Pierson-El 13   14   48   14   34   2.4   0   9   2.6
+J.Westerkamp 10    3   19    1   18   6.0   1  10   1.8
+L.McNitt     13    2    4    0    4   2.0   0   2   0.3
+C.Lightbourn 12    1    4    0    4   4.0   0   4   0.3
+S.Morgan Jr. 13    1    0    0    0   0.0   0   0   0.0
+R.Fyfe        8   16   54   82  -28  -1.8   1  21  -3.5
+TEAM         12   13    0   35  -35  -2.7   0   0  -2.9
+Total....... 13  523 2483  284 2199   4.2  24  63 169.2
+Opponents... 13  433 2189  267 1922   4.4  22  75 147.8
+
+
+PASSING      GP  Effic Cmp-Att-Int   Pct  Yds  TD Lng Avg/G
+-----------------------------------------------------------
+T.Armstrong  11  123.92  151-294-8  51.4 2180  14  72 198.2
+R.Fyfe        8  107.14   48-99-1   48.5  558   4  39  69.8
+Z.Darlington 13   52.93    2-6-0    33.3   14   0  12   1.1
+TEAM         12    0.00    0-1-0     0.0    0   0   0   0.0
+Total....... 13  118.39  201-400-9  50.2 2752  18  72 211.7
+Opponents... 13  120.97  254-422-16 60.2 2806  16  92 215.8
+
+
+RECEIVING       GP  No.  Yds   Avg  TD Long Avg/G
+-------------------------------------------------
+Westerkamp, J.  10   38  526  13.8   5   55  52.6
+Morgan Jr., S.  13   33  453  13.7   2   72  34.8
+Reilly, Brandon 11   21  412  19.6   2   45  37.5
+Moore, Alonzo   11   20  375  18.8   2   63  34.1
+Pierson-El, D.  13   20  254  12.7   1   40  19.5
+Carter, Cethan  10   19  190  10.0   1   33  19.0
+Newby, Terrell  13   18  149   8.3   1   31  11.5
+Cotton, Sam     13    8   87  10.9   0   17   6.7
+Bryant, Tre     12    8   56   7.0   1   35   4.7
+Ozigbo, Devine  11    5  100  20.0   0   39   9.1
+Reimers, Bryan  12    5   75  15.0   1   24   6.2
+Wilbon, Mikale  10    4   34   8.5   0   13   3.4
+Rahn, Gabe       6    1   35  35.0   1   35   5.8
+Foster, Trey    13    1    6   6.0   1    6   0.5
+Total.......... 13  201 2752  13.7  18   72 211.7
+Opponents...... 13  254 2806  11.0  16   92 215.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Pierson-El, D.    23  168   7.3  0   45
+Total..........   23  168   7.3  0   45
+Opponents......   21  224  10.7  0   44
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Williams, K.       5   44   8.8  1   23
+Gerry, Nathan      4   18   4.5  0   10
+Jones, Chris       3   60  20.0  1   33
+Williams, Aaron    3    0   0.0  0    4
+Kalu, Joshua       1    0   0.0  0    0
+Total..........   16  122   7.6  2   33
+Opponents......    9  153  17.0  2   48
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Bryant, Tre       23  508  22.1  0   59
+Nelson, Jordan     7  157  22.4  0   45
+McNitt, Luke       2   22  11.0  0   13
+Total..........   32  687  21.5  0   59
+Opponents......   38  840  22.1  0   39
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+Barry, Mohamed     1    3   3.0  0    3
+Dzuris, Ross       1    9   9.0  0    9
+Total..........    2   12   6.0  0    9
+Opponents......    1   34  34.0  0   34
+
+
+                         |------ PATs -----|
+SCORING        TD  FGs   Kick  Rush Rcv Pass DXP Sf Pts
+-------------------------------------------------------
+Brown, Drew     0 12-14  38-38  0-0   0  0-0  0  0   74
+Armstrong Jr.   8  0-0    0-0   0-0   0  0-0  0  0   48
+Newby, Terrell  8  0-0    0-0   0-0   0  0-0  0  0   48
+Westerkamp, J.  6  0-0    0-0   0-0   0  0-0  0  0   36
+Ozigbo, Devine  5  0-0    0-0   0-0   0  0-0  0  0   30
+Moore, Alonzo   3  0-0    0-0   0-0   0  0-0  0  0   18
+Reilly, Brandon 2  0-0    0-0   0-0   0  0-0  0  0   12
+Morgan Jr., S.  2  0-0    0-0   0-0   0  0-0  0  0   12
+Bryant, Tre     2  0-0    0-0   0-0   0  0-0  0  0   12
+Foster, Trey    1  0-0    0-0   0-0   0  0-0  0  0    6
+Rahn, Gabe      1  0-0    0-0   0-0   0  0-0  0  0    6
+Carter, Cethan  1  0-0    0-0   0-0   0  0-0  0  0    6
+Fyfe, Ryker     1  0-0    0-0   0-0   0  0-0  0  0    6
+Williams, K.    1  0-0    0-0   0-0   0  0-0  0  0    6
+Pierson-El, D.  1  0-0    0-0   0-0   0  0-0  0  0    6
+Jones, Chris    1  0-0    0-0   0-0   0  0-0  0  0    6
+Reimers, Bryan  1  0-0    0-0   0-0   0  0-0  0  0    6
+Lindsay, S.     0  0-1    5-5   0-0   0  0-0  0  0    5
+Darlington, Z.  0  0-0    0-0   1-1   0  0-0  0  0    2
+Total........  44 12-15  43-43  1-1   0  0-0  0  0  345
+Opponents....  40 12-17  31-34  1-4   0  0-2  0  1  311
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Armstrong Jr.   11   407  512 2180  2692 244.7
+Newby, Terrell  13   190  879    0   879  67.6
+Fyfe, Ryker      8   115  -28  558   530  66.2
+Ozigbo, Devine  11    97  412    0   412  37.5
+Bryant, Tre     12    43  172    0   172  14.3
+Wilbon, Mikale  10    15   89    0    89   8.9
+Moore, Alonzo   11     4   58    0    58   5.3
+Reilly, Brandon 11     8   46    0    46   4.2
+Pierson-El, D.  13    14   34    0    34   2.6
+Carter, Cethan  10     3   34    0    34   3.4
+Westerkamp, J.  10     3   18    0    18   1.8
+Darlington, Z.  13     6    0   14    14   1.1
+McNitt, Luke    13     2    4    0     4   0.3
+Lightbourn, C.  12     1    4    0     4   0.3
+TEAM            12    14  -35    0   -35  -2.9
+Total.......... 13   923 2199 2752  4951 380.8
+Opponents...... 13   855 1922 2806  4728 363.7
+
+
+FIELD 
+GOALS   FGM-FGA  Pct  1-19  20s  30s  40s  50s Lg Blk
+-----------------------------------------------------
+D.Brown   12-14  85.7  0-0  4-4  4-4  3-4  1-2  51  0
+S.Lindsay  0-1    0.0  0-0  0-0  0-1  0-0  0-0   0  1
+
+
+FG SEQUENCE    Nebraska        OPPONENTS
+----------------------------------------
+Fresno State   -               32,(26)
+Wyoming        (29)            42,46,(27)
+Oregon         -               -
+Northwestern   (23)            27
+Illinois       56,(29)         (24),(43),(33)
+Indiana        (40),(39)       (36),(45)
+Purdue         (30),(51),45    -
+Wisconsin      (35)            (44),45
+Ohio State     (20)            (28),(28)
+Minnesota      (46)            (42)
+Maryland       32              -
+Iowa           (35)            -
+Tennessee      (45)            (46)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING        No.  Yds   Avg Lng TB  FC I20 Blk
+------------------------------------------------
+Lightbourn, C.  65 2578  39.7  58  5  18  21   0
+TEAM             3   28   9.3  28  0   0   0   3
+Total.........  68 2606  38.3  58  5  18  21   3
+Opponents.....  66 2675  40.5  57  5  18  20   0
+
+
+KICKOFFS     No.   Yds   Avg  TB  OB  Retn  Net YdLn
+----------------------------------------------------
+Brown, Drew   63  4017  63.8  30   0
+Lindsay, S.    7   435  62.1   2   0
+Total........ 70  4452  63.6  32   0   840 40.2   24
+Opponents.... 61  3791  62.1  22   7   687 41.9   23
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Newby, Terrell  13  879  149    0    0    0 1028  79.1
+Bryant, Tre     12  172   56    0  508    0  736  61.3
+Westerkamp, J.  10   18  526    0    0    0  544  54.4
+Ozigbo, Devine  11  412  100    0    0    0  512  46.5
+Armstrong Jr.   11  512    0    0    0    0  512  46.5
+Reilly, Brandon 11   46  412    0    0    0  458  41.6
+Pierson-El, D.  13   34  254  168    0    0  456  35.1
+Morgan Jr., S.  13    0  453    0    0    0  453  34.8
+Moore, Alonzo   11   58  375    0    0    0  433  39.4
+Carter, Cethan  10   34  190    0    0    0  224  22.4
+Nelson, Jordan  13    0    0    0  157    0  157  12.1
+Wilbon, Mikale  10   89   34    0    0    0  123  12.3
+Cotton, Sam     13    0   87    0    0    0   87   6.7
+Reimers, Bryan  12    0   75    0    0    0   75   6.2
+Jones, Chris    13    0    0    0    0   60   60   4.6
+Williams, K.    13    0    0    0    0   44   44   3.4
+Rahn, Gabe       6    0   35    0    0    0   35   5.8
+McNitt, Luke    13    4    0    0   22    0   26   2.0
+Gerry, Nathan   11    0    0    0    0   18   18   1.6
+Foster, Trey    13    0    6    0    0    0    6   0.5
+Lightbourn, C.  12    4    0    0    0    0    4   0.3
+Fyfe, Ryker      8  -28    0    0    0    0  -28  -3.5
+TEAM            12  -35    0    0    0    0  -35  -2.9
+Total.......... 13 2199 2752  168  687  122 5928 456.0
+Opponents...... 13 1922 2806  224  840  153 5945 457.3
+
+
+                       |-------Tackles------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blk
+DEFENSIVE LEADERS   GP Solo  Ast  Tot TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kck Saf
+--------------------------------------------------------------------------------------------
+52 Banderas, Josh   13   40   53   93   8-13   0.5-5       .       .   3    .      .   .   .
+25 Gerry, Nathan    11   47   27   74   7-7    0.5-1      4-18     8   1    .      .   .   .
+1A Rose-Ivey, M.    13   30   40   70   8-17   1.0-9       .       .   1    .      .   .   .
+26 Williams, K.     13   43   26   69   4-2       .       5-44     2   .    .      .   .   .
+10 Kalu, Joshua     13   48   18   66   3-8    1.0-6      1-0     11   2    .      .   1   .
+24 Williams, Aaron  13   32   30   62   6-22   2.0-18     3-0      7   .    .      .   .   .
+5  Young II, D.     12   34   26   60   4-5    1.0-3       .       4   2    .      1   .   .
+88 Dzuris, Ross     13   21   28   49  13-44   5.5-26      .       .   1   1-9     .   .   .
+55 Maurice, Kevin   13   17   22   39   7-29   4.0-23      .       .   3    .      .   .   .
+8A Jones, Chris     13   33    4   37   3-5    1.0-2      3-60    10   .    .      .   .   .
+91 Akinmoladun, F.  13   15   17   32   5-30   4.0-28      .       .  10    .      1   .   .
+44 Stoltenberg, M.  12    9   16   25   3-6    1.5-5       .       .   1    .      .   .   .
+96 Davis, Carlos    13   11   13   24   5-25   2.0-24      .       .   3    .      .   .   .
+16 Reed, Antonio    12   14    8   22    .        .        .       2   1    .      .   .   .
+3  Newby, Marcus    12    7   11   18   3-17   2.0-16      .       1   2    .      1   .   .
+49 Weber, Chris     13    5   12   17   1-1       .        .       .   .    .      .   .   .
+1B Jackson, Lamar   13   14    3   17   2-14   1.0-11      .       .   .    .      .   .   .
+56 Simpson, Brad    13    3    7   10    .        .        .       .   .    .      .   .   .
+41 McNitt, Luke     13    6    4   10    .        .        .       .   .   1-0     .   .   .
+13 Domann, JoJo     13    5    3    8    .        .        .       .   .    .      1   .   .
+1C Joseph, Boaz     12    2    6    8    .        .        .       .   .    .      .   .   .
+7  Barry, Mohamed   13    .    6    6    .        .        .       .   .   1-3     .   .   .
+94 Davis, Khalil    12    4    1    5   2-4       .        .       .   .    .      .   .   .
+1F King, Sedrick     8    .    4    4    .        .        .       .   1    .      .   .   .
+73 Hahn, Sam        13    2    1    3    .        .        .       .   .    .      .   .   .
+2A Davis, Alex      13    .    2    2    .        .        .       .   .    .      .   .   .
+6  Lee Jr., Eric     8    1    1    2   1-1       .        .       .   .    .      .   .   .
+29 Nabity, Graham   11    1    1    2    .        .        .       .   .    .      .   .   .
+87 Reilly, Brandon  11    2    .    2    .        .        .       .   .    .      .   .   .
+9  Neal, DaiShon     9    1    1    2    .        .        .       .   .    .      .   .   .
+45 Natter, A.J.      6    1    1    2    .        .        .       .   .    .      .   .   .
+35 Lightbourn, C.   12    2    .    2    .        .        .       .   .    .      .   .   .
+12 Gifford, Luke     4    .    1    1    .        .        .       .   .    .      .   .   .
+3A Brown, Drew      13    1    .    1    .        .        .       .   .    .      .   .   .
+11 Carter, Cethan   10    1    .    1    .        .        .       .   .    .      .   .   .
+39 Nelson, Jordan   13    .    1    1    .        .        .       .   .    .      .   .   .
+33 Bailey, C.       13    1    .    1    .        .        .       .   .    .      .   .   .
+28 Taylor, Adam      5    1    .    1    .        .        .       .   .    .      .   .   .
+89 Ketter, Connor    9    .    1    1    .        .        .       .   .    .      .   .   .
+4A Anderson, Avery   3    .    1    1    .        .        .       .   .    .      .   .   .
+5C Painter, Robby    7    1    .    1    .        .        .       .   .    .      .   .   .
+97 Rath, Logan       8    1    .    1    .        .        .       .   .    .      .   .   .
+3C Zlab, Tanner      1    1    .    1    .        .        .       .   .    .      .   .   .
+84 Cotton, Sam      13    1    .    1    .        .        .       .   .    .      .   .   .
+15 Pierson-El, D.   13    1    .    1    .        .        .       .   .    .      .   .   .
+   Total..........  13  459  396  855  85-250   26-173   16-122   45  31   3-12    4   1   .
+   Opponents......  13  494  438  932  75-253   15-135    9-153   60  27   5-34    5   4   1
+
+
+          2016 Nebraska Football
+                All games
+
+TEAM STATISTICS          NEB          OPP
+-----------------------------------------
+SCORING...........       345          311
+  Points Per Game       26.5         23.9
+  Ps Off Turnovers        66           32
+FIRST DOWNS.......       266          231
+  Rushing.........       112           91
+  Passing.........       132          121
+  Penalty.........        22           19
+RUSHING YARDAGE...      2199         1922
+  Yards gained....      2483         2189
+  Yards lost......       284          267
+  Rushing Attempts       523          433
+  Avg Per Rush....       4.2          4.4
+  Avg Per Game....     169.2        147.8
+  TDs Rushing.....        24           22
+PASSING YARDAGE...      2752         2806
+  Comp-Att-Int.... 201-400-9   254-422-16
+  Avg Per Pass....       6.9          6.6
+  Avg Per Catch...      13.7         11.0
+  Avg Per Game....     211.7        215.8
+  TDs Passing.....        18           16
+TOTAL OFFENSE.....      4951         4728
+  Total Plays.....       923          855
+  Avg Per Play....       5.4          5.5
+  Avg Per Game....     380.8        363.7
+KICK RETURNS-Yds..    32-687       38-840
+PUNT RETURNS-Yds..    23-168       21-224
+INT RETURNS-Yds...    16-122        9-153
+KICK RETURN AVG...      21.5         22.1
+PUNT RETURN AVG...       7.3         10.7
+INT RETURN AVG....       7.6         17.0
+FUMBLES-LOST......      16-5         10-3
+PENALTIES-Yards...    75-695       65-578
+  Avg Per Game....      53.5         44.5
+PUNTS-Yards.......   68-2606      66-2675
+  Avg Per Punt....      38.3         40.5
+  Net punt avg. ..      33.6         36.5
+KICKOFFS-Yards....   70-4452      61-3791
+  Avg Per Kick....      63.6         62.1
+  Net kick avg. ..      40.2         41.9
+POSS. TIME/Game...     32:10        27:50
+3RD-DOWN Conv. ...    86/196       67/179
+  3rd-Down Pct....       44%          37%
+4TH-DOWN Conv. ...     12/21        12/26
+  4th-Down Pct....       57%          46%
+SACKS BY-Yards....    26-173       15-135
+MISC YARDS........         0           13
+TOUCHDOWNS SCORED         44           40
+FIELD GOALS-ATT...     12-15        12-17
+ON-SIDE KICKS.....       0-0          0-0
+RED-ZONE SCORES  (37-45) 82%  (29-34) 85%
+RED-ZONE TDs.... (28-45) 62%  (22-34) 65%
+PAT-ATTEMPTS....(43-43) 100%  (31-34) 91%
+ATTENDANCE.......     631402       347935
+  Games/Avg.......   7/90200      5/69587
+  Neut. Site Games                1/68496
+
+
+SCORE BY
+QUARTERS   1st  2nd  3rd  4th  OT     Tot
+---------  ---  ---  ---  ---  --     ---
+NEB......   75   68   77  125   0  -  345
+OPP......   56  122   72   55   6  -  311
+
+
+RUSHING      GP  Att Gain Loss  Net   Avg  TD Lng Avg/G
+-------------------------------------------------------
+T.Newby      13  190  910   31  879   4.6   7  63  67.6
+T.Armstrong  11  113  604   92  512   4.5   8  37  46.5
+D.Ozigbo     11   97  429   17  412   4.2   5  42  37.5
+R.Bryant     12   43  179    7  172   4.0   1  22  14.3
+M.Wilbon     10   15   91    2   89   5.9   0  32   8.9
+A.Moore      11    4   58    0   58  14.5   1  24   5.3
+B.Reilly     11    8   49    3   46   5.8   0  13   4.2
+C.Carter     10    3   34    0   34  11.3   0  16   3.4
+D.Pierson-El 13   14   48   14   34   2.4   0   9   2.6
+J.Westerkamp 10    3   19    1   18   6.0   1  10   1.8
+L.McNitt     13    2    4    0    4   2.0   0   2   0.3
+C.Lightbourn 12    1    4    0    4   4.0   0   4   0.3
+S.Morgan Jr. 13    1    0    0    0   0.0   0   0   0.0
+R.Fyfe        8   16   54   82  -28  -1.8   1  21  -3.5
+TEAM         12   13    0   35  -35  -2.7   0   0  -2.9
+Total....... 13  523 2483  284 2199   4.2  24  63 169.2
+Opponents... 13  433 2189  267 1922   4.4  22  75 147.8
+
+
+PASSING      GP  Effic Cmp-Att-Int   Pct  Yds  TD Lng Avg/G
+-----------------------------------------------------------
+T.Armstrong  11  123.92  151-294-8  51.4 2180  14  72 198.2
+R.Fyfe        8  107.14   48-99-1   48.5  558   4  39  69.8
+Z.Darlington 13   52.93    2-6-0    33.3   14   0  12   1.1
+TEAM         12    0.00    0-1-0     0.0    0   0   0   0.0
+Total....... 13  118.39  201-400-9  50.2 2752  18  72 211.7
+Opponents... 13  120.97  254-422-16 60.2 2806  16  92 215.8
+
+
+RECEIVING       GP  No.  Yds   Avg  TD Long Avg/G
+-------------------------------------------------
+Westerkamp, J.  10   38  526  13.8   5   55  52.6
+Morgan Jr., S.  13   33  453  13.7   2   72  34.8
+Reilly, Brandon 11   21  412  19.6   2   45  37.5
+Moore, Alonzo   11   20  375  18.8   2   63  34.1
+Pierson-El, D.  13   20  254  12.7   1   40  19.5
+Carter, Cethan  10   19  190  10.0   1   33  19.0
+Newby, Terrell  13   18  149   8.3   1   31  11.5
+Cotton, Sam     13    8   87  10.9   0   17   6.7
+Bryant, Tre     12    8   56   7.0   1   35   4.7
+Ozigbo, Devine  11    5  100  20.0   0   39   9.1
+Reimers, Bryan  12    5   75  15.0   1   24   6.2
+Wilbon, Mikale  10    4   34   8.5   0   13   3.4
+Rahn, Gabe       6    1   35  35.0   1   35   5.8
+Foster, Trey    13    1    6   6.0   1    6   0.5
+Total.......... 13  201 2752  13.7  18   72 211.7
+Opponents...... 13  254 2806  11.0  16   92 215.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Pierson-El, D.    23  168   7.3  0   45
+Total..........   23  168   7.3  0   45
+Opponents......   21  224  10.7  0   44
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Williams, K.       5   44   8.8  1   23
+Gerry, Nathan      4   18   4.5  0   10
+Jones, Chris       3   60  20.0  1   33
+Williams, Aaron    3    0   0.0  0    4
+Kalu, Joshua       1    0   0.0  0    0
+Total..........   16  122   7.6  2   33
+Opponents......    9  153  17.0  2   48
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Bryant, Tre       23  508  22.1  0   59
+Nelson, Jordan     7  157  22.4  0   45
+McNitt, Luke       2   22  11.0  0   13
+Total..........   32  687  21.5  0   59
+Opponents......   38  840  22.1  0   39
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+Barry, Mohamed     1    3   3.0  0    3
+Dzuris, Ross       1    9   9.0  0    9
+Total..........    2   12   6.0  0    9
+Opponents......    1   34  34.0  0   34
+
+
+                         |------ PATs -----|
+SCORING        TD  FGs   Kick  Rush Rcv Pass DXP Sf Pts
+-------------------------------------------------------
+Brown, Drew     0 12-14  38-38  0-0   0  0-0  0  0   74
+Armstrong Jr.   8  0-0    0-0   0-0   0  0-0  0  0   48
+Newby, Terrell  8  0-0    0-0   0-0   0  0-0  0  0   48
+Westerkamp, J.  6  0-0    0-0   0-0   0  0-0  0  0   36
+Ozigbo, Devine  5  0-0    0-0   0-0   0  0-0  0  0   30
+Moore, Alonzo   3  0-0    0-0   0-0   0  0-0  0  0   18
+Reilly, Brandon 2  0-0    0-0   0-0   0  0-0  0  0   12
+Morgan Jr., S.  2  0-0    0-0   0-0   0  0-0  0  0   12
+Bryant, Tre     2  0-0    0-0   0-0   0  0-0  0  0   12
+Foster, Trey    1  0-0    0-0   0-0   0  0-0  0  0    6
+Rahn, Gabe      1  0-0    0-0   0-0   0  0-0  0  0    6
+Carter, Cethan  1  0-0    0-0   0-0   0  0-0  0  0    6
+Fyfe, Ryker     1  0-0    0-0   0-0   0  0-0  0  0    6
+Williams, K.    1  0-0    0-0   0-0   0  0-0  0  0    6
+Pierson-El, D.  1  0-0    0-0   0-0   0  0-0  0  0    6
+Jones, Chris    1  0-0    0-0   0-0   0  0-0  0  0    6
+Reimers, Bryan  1  0-0    0-0   0-0   0  0-0  0  0    6
+Lindsay, S.     0  0-1    5-5   0-0   0  0-0  0  0    5
+Darlington, Z.  0  0-0    0-0   1-1   0  0-0  0  0    2
+Total........  44 12-15  43-43  1-1   0  0-0  0  0  345
+Opponents....  40 12-17  31-34  1-4   0  0-2  0  1  311
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Armstrong Jr.   11   407  512 2180  2692 244.7
+Newby, Terrell  13   190  879    0   879  67.6
+Fyfe, Ryker      8   115  -28  558   530  66.2
+Ozigbo, Devine  11    97  412    0   412  37.5
+Bryant, Tre     12    43  172    0   172  14.3
+Wilbon, Mikale  10    15   89    0    89   8.9
+Moore, Alonzo   11     4   58    0    58   5.3
+Reilly, Brandon 11     8   46    0    46   4.2
+Pierson-El, D.  13    14   34    0    34   2.6
+Carter, Cethan  10     3   34    0    34   3.4
+Westerkamp, J.  10     3   18    0    18   1.8
+Darlington, Z.  13     6    0   14    14   1.1
+McNitt, Luke    13     2    4    0     4   0.3
+Lightbourn, C.  12     1    4    0     4   0.3
+TEAM            12    14  -35    0   -35  -2.9
+Total.......... 13   923 2199 2752  4951 380.8
+Opponents...... 13   855 1922 2806  4728 363.7
+
+
+FIELD 
+GOALS   FGM-FGA  Pct  1-19  20s  30s  40s  50s Lg Blk
+-----------------------------------------------------
+D.Brown   12-14  85.7  0-0  4-4  4-4  3-4  1-2  51  0
+S.Lindsay  0-1    0.0  0-0  0-0  0-1  0-0  0-0   0  1
+
+
+FG SEQUENCE    Nebraska        OPPONENTS
+----------------------------------------
+Fresno State   -               32,(26)
+Wyoming        (29)            42,46,(27)
+Oregon         -               -
+Northwestern   (23)            27
+Illinois       56,(29)         (24),(43),(33)
+Indiana        (40),(39)       (36),(45)
+Purdue         (30),(51),45    -
+Wisconsin      (35)            (44),45
+Ohio State     (20)            (28),(28)
+Minnesota      (46)            (42)
+Maryland       32              -
+Iowa           (35)            -
+Tennessee      (45)            (46)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING        No.  Yds   Avg Lng TB  FC I20 Blk
+------------------------------------------------
+Lightbourn, C.  65 2578  39.7  58  5  18  21   0
+TEAM             3   28   9.3  28  0   0   0   3
+Total.........  68 2606  38.3  58  5  18  21   3
+Opponents.....  66 2675  40.5  57  5  18  20   0
+
+
+KICKOFFS     No.   Yds   Avg  TB  OB  Retn  Net YdLn
+----------------------------------------------------
+Brown, Drew   63  4017  63.8  30   0
+Lindsay, S.    7   435  62.1   2   0
+Total........ 70  4452  63.6  32   0   840 40.2   24
+Opponents.... 61  3791  62.1  22   7   687 41.9   23
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Newby, Terrell  13  879  149    0    0    0 1028  79.1
+Bryant, Tre     12  172   56    0  508    0  736  61.3
+Westerkamp, J.  10   18  526    0    0    0  544  54.4
+Ozigbo, Devine  11  412  100    0    0    0  512  46.5
+Armstrong Jr.   11  512    0    0    0    0  512  46.5
+Reilly, Brandon 11   46  412    0    0    0  458  41.6
+Pierson-El, D.  13   34  254  168    0    0  456  35.1
+Morgan Jr., S.  13    0  453    0    0    0  453  34.8
+Moore, Alonzo   11   58  375    0    0    0  433  39.4
+Carter, Cethan  10   34  190    0    0    0  224  22.4
+Nelson, Jordan  13    0    0    0  157    0  157  12.1
+Wilbon, Mikale  10   89   34    0    0    0  123  12.3
+Cotton, Sam     13    0   87    0    0    0   87   6.7
+Reimers, Bryan  12    0   75    0    0    0   75   6.2
+Jones, Chris    13    0    0    0    0   60   60   4.6
+Williams, K.    13    0    0    0    0   44   44   3.4
+Rahn, Gabe       6    0   35    0    0    0   35   5.8
+McNitt, Luke    13    4    0    0   22    0   26   2.0
+Gerry, Nathan   11    0    0    0    0   18   18   1.6
+Foster, Trey    13    0    6    0    0    0    6   0.5
+Lightbourn, C.  12    4    0    0    0    0    4   0.3
+Fyfe, Ryker      8  -28    0    0    0    0  -28  -3.5
+TEAM            12  -35    0    0    0    0  -35  -2.9
+Total.......... 13 2199 2752  168  687  122 5928 456.0
+Opponents...... 13 1922 2806  224  840  153 5945 457.3
+
+
+Page 1 / 1Zoom 100%
+
+
+
+Overall Defensive Statistics
+
+
+                       |-------Tackles------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blk
+DEFENSIVE LEADERS   GP Solo  Ast  Tot TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kck Saf
+--------------------------------------------------------------------------------------------
+52 Banderas, Josh   13   40   53   93   8-13   0.5-5       .       .   3    .      .   .   .
+25 Gerry, Nathan    11   47   27   74   7-7    0.5-1      4-18     8   1    .      .   .   .
+1A Rose-Ivey, M.    13   30   40   70   8-17   1.0-9       .       .   1    .      .   .   .
+26 Williams, K.     13   43   26   69   4-2       .       5-44     2   .    .      .   .   .
+10 Kalu, Joshua     13   48   18   66   3-8    1.0-6      1-0     11   2    .      .   1   .
+24 Williams, Aaron  13   32   30   62   6-22   2.0-18     3-0      7   .    .      .   .   .
+5  Young II, D.     12   34   26   60   4-5    1.0-3       .       4   2    .      1   .   .
+88 Dzuris, Ross     13   21   28   49  13-44   5.5-26      .       .   1   1-9     .   .   .
+55 Maurice, Kevin   13   17   22   39   7-29   4.0-23      .       .   3    .      .   .   .
+8A Jones, Chris     13   33    4   37   3-5    1.0-2      3-60    10   .    .      .   .   .
+91 Akinmoladun, F.  13   15   17   32   5-30   4.0-28      .       .  10    .      1   .   .
+44 Stoltenberg, M.  12    9   16   25   3-6    1.5-5       .       .   1    .      .   .   .
+96 Davis, Carlos    13   11   13   24   5-25   2.0-24      .       .   3    .      .   .   .
+16 Reed, Antonio    12   14    8   22    .        .        .       2   1    .      .   .   .
+3  Newby, Marcus    12    7   11   18   3-17   2.0-16      .       1   2    .      1   .   .
+49 Weber, Chris     13    5   12   17   1-1       .        .       .   .    .      .   .   .
+1B Jackson, Lamar   13   14    3   17   2-14   1.0-11      .       .   .    .      .   .   .
+56 Simpson, Brad    13    3    7   10    .        .        .       .   .    .      .   .   .
+41 McNitt, Luke     13    6    4   10    .        .        .       .   .   1-0     .   .   .
+13 Domann, JoJo     13    5    3    8    .        .        .       .   .    .      1   .   .
+1C Joseph, Boaz     12    2    6    8    .        .        .       .   .    .      .   .   .
+7  Barry, Mohamed   13    .    6    6    .        .        .       .   .   1-3     .   .   .
+94 Davis, Khalil    12    4    1    5   2-4       .        .       .   .    .      .   .   .
+1F King, Sedrick     8    .    4    4    .        .        .       .   1    .      .   .   .
+73 Hahn, Sam        13    2    1    3    .        .        .       .   .    .      .   .   .
+2A Davis, Alex      13    .    2    2    .        .        .       .   .    .      .   .   .
+6  Lee Jr., Eric     8    1    1    2   1-1       .        .       .   .    .      .   .   .
+29 Nabity, Graham   11    1    1    2    .        .        .       .   .    .      .   .   .
+87 Reilly, Brandon  11    2    .    2    .        .        .       .   .    .      .   .   .
+9  Neal, DaiShon     9    1    1    2    .        .        .       .   .    .      .   .   .
+45 Natter, A.J.      6    1    1    2    .        .        .       .   .    .      .   .   .
+35 Lightbourn, C.   12    2    .    2    .        .        .       .   .    .      .   .   .
+12 Gifford, Luke     4    .    1    1    .        .        .       .   .    .      .   .   .
+3A Brown, Drew      13    1    .    1    .        .        .       .   .    .      .   .   .
+11 Carter, Cethan   10    1    .    1    .        .        .       .   .    .      .   .   .
+39 Nelson, Jordan   13    .    1    1    .        .        .       .   .    .      .   .   .
+33 Bailey, C.       13    1    .    1    .        .        .       .   .    .      .   .   .
+28 Taylor, Adam      5    1    .    1    .        .        .       .   .    .      .   .   .
+89 Ketter, Connor    9    .    1    1    .        .        .       .   .    .      .   .   .
+4A Anderson, Avery   3    .    1    1    .        .        .       .   .    .      .   .   .
+5C Painter, Robby    7    1    .    1    .        .        .       .   .    .      .   .   .
+97 Rath, Logan       8    1    .    1    .        .        .       .   .    .      .   .   .
+3C Zlab, Tanner      1    1    .    1    .        .        .       .   .    .      .   .   .
+84 Cotton, Sam      13    1    .    1    .        .        .       .   .    .      .   .   .
+15 Pierson-El, D.   13    1    .    1    .        .        .       .   .    .      .   .   .
+   Total..........  13  459  396  855  85-250   26-173   16-122   45  31   3-12    4   1   .
+   Opponents......  13  494  438  932  75-253   15-135    9-153   60  27   5-34    5   4   1
+
+
+
+      
+RUSHING      GP  Att Gain Loss  Net   Avg  TD Lng Avg/G
+-------------------------------------------------------
+T.Newby      13  190  910   31  879   4.6   7  63  67.6
+T.Armstrong  11  113  604   92  512   4.5   8  37  46.5
+D.Ozigbo     11   97  429   17  412   4.2   5  42  37.5
+R.Bryant     12   43  179    7  172   4.0   1  22  14.3
+M.Wilbon     10   15   91    2   89   5.9   0  32   8.9
+A.Moore      11    4   58    0   58  14.5   1  24   5.3
+B.Reilly     11    8   49    3   46   5.8   0  13   4.2
+C.Carter     10    3   34    0   34  11.3   0  16   3.4
+D.Pierson-El 13   14   48   14   34   2.4   0   9   2.6
+J.Westerkamp 10    3   19    1   18   6.0   1  10   1.8
+L.McNitt     13    2    4    0    4   2.0   0   2   0.3
+C.Lightbourn 12    1    4    0    4   4.0   0   4   0.3
+S.Morgan Jr. 13    1    0    0    0   0.0   0   0   0.0
+R.Fyfe        8   16   54   82  -28  -1.8   1  21  -3.5
+TEAM         12   13    0   35  -35  -2.7   0   0  -2.9
+Total....... 13  523 2483  284 2199   4.2  24  63 169.2
+Opponents... 13  433 2189  267 1922   4.4  22  75 147.8
+
+
+PASSING      GP  Effic Cmp-Att-Int   Pct  Yds  TD Lng Avg/G
+-----------------------------------------------------------
+T.Armstrong  11  123.92  151-294-8  51.4 2180  14  72 198.2
+R.Fyfe        8  107.14   48-99-1   48.5  558   4  39  69.8
+Z.Darlington 13   52.93    2-6-0    33.3   14   0  12   1.1
+TEAM         12    0.00    0-1-0     0.0    0   0   0   0.0
+Total....... 13  118.39  201-400-9  50.2 2752  18  72 211.7
+Opponents... 13  120.97  254-422-16 60.2 2806  16  92 215.8
+
+
+RECEIVING       GP  No.  Yds   Avg  TD Long Avg/G
+-------------------------------------------------
+Westerkamp, J.  10   38  526  13.8   5   55  52.6
+Morgan Jr., S.  13   33  453  13.7   2   72  34.8
+Reilly, Brandon 11   21  412  19.6   2   45  37.5
+Moore, Alonzo   11   20  375  18.8   2   63  34.1
+Pierson-El, D.  13   20  254  12.7   1   40  19.5
+Carter, Cethan  10   19  190  10.0   1   33  19.0
+Newby, Terrell  13   18  149   8.3   1   31  11.5
+Cotton, Sam     13    8   87  10.9   0   17   6.7
+Bryant, Tre     12    8   56   7.0   1   35   4.7
+Ozigbo, Devine  11    5  100  20.0   0   39   9.1
+Reimers, Bryan  12    5   75  15.0   1   24   6.2
+Wilbon, Mikale  10    4   34   8.5   0   13   3.4
+Rahn, Gabe       6    1   35  35.0   1   35   5.8
+Foster, Trey    13    1    6   6.0   1    6   0.5
+Total.......... 13  201 2752  13.7  18   72 211.7
+Opponents...... 13  254 2806  11.0  16   92 215.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Pierson-El, D.    23  168   7.3  0   45
+Total..........   23  168   7.3  0   45
+Opponents......   21  224  10.7  0   44
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Williams, K.       5   44   8.8  1   23
+Gerry, Nathan      4   18   4.5  0   10
+Jones, Chris       3   60  20.0  1   33
+Williams, Aaron    3    0   0.0  0    4
+Kalu, Joshua       1    0   0.0  0    0
+Total..........   16  122   7.6  2   33
+Opponents......    9  153  17.0  2   48
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Bryant, Tre       23  508  22.1  0   59
+Nelson, Jordan     7  157  22.4  0   45
+McNitt, Luke       2   22  11.0  0   13
+Total..........   32  687  21.5  0   59
+Opponents......   38  840  22.1  0   39
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+Barry, Mohamed     1    3   3.0  0    3
+Dzuris, Ross       1    9   9.0  0    9
+Total..........    2   12   6.0  0    9
+Opponents......    1   34  34.0  0   34
+
+
+                         |------ PATs -----|
+SCORING        TD  FGs   Kick  Rush Rcv Pass DXP Sf Pts
+-------------------------------------------------------
+Brown, Drew     0 12-14  38-38  0-0   0  0-0  0  0   74
+Armstrong Jr.   8  0-0    0-0   0-0   0  0-0  0  0   48
+Newby, Terrell  8  0-0    0-0   0-0   0  0-0  0  0   48
+Westerkamp, J.  6  0-0    0-0   0-0   0  0-0  0  0   36
+Ozigbo, Devine  5  0-0    0-0   0-0   0  0-0  0  0   30
+Moore, Alonzo   3  0-0    0-0   0-0   0  0-0  0  0   18
+Reilly, Brandon 2  0-0    0-0   0-0   0  0-0  0  0   12
+Morgan Jr., S.  2  0-0    0-0   0-0   0  0-0  0  0   12
+Bryant, Tre     2  0-0    0-0   0-0   0  0-0  0  0   12
+Foster, Trey    1  0-0    0-0   0-0   0  0-0  0  0    6
+Rahn, Gabe      1  0-0    0-0   0-0   0  0-0  0  0    6
+Carter, Cethan  1  0-0    0-0   0-0   0  0-0  0  0    6
+Fyfe, Ryker     1  0-0    0-0   0-0   0  0-0  0  0    6
+Williams, K.    1  0-0    0-0   0-0   0  0-0  0  0    6
+Pierson-El, D.  1  0-0    0-0   0-0   0  0-0  0  0    6
+Jones, Chris    1  0-0    0-0   0-0   0  0-0  0  0    6
+Reimers, Bryan  1  0-0    0-0   0-0   0  0-0  0  0    6
+Lindsay, S.     0  0-1    5-5   0-0   0  0-0  0  0    5
+Darlington, Z.  0  0-0    0-0   1-1   0  0-0  0  0    2
+Total........  44 12-15  43-43  1-1   0  0-0  0  0  345
+Opponents....  40 12-17  31-34  1-4   0  0-2  0  1  311
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Armstrong Jr.   11   407  512 2180  2692 244.7
+Newby, Terrell  13   190  879    0   879  67.6
+Fyfe, Ryker      8   115  -28  558   530  66.2
+Ozigbo, Devine  11    97  412    0   412  37.5
+Bryant, Tre     12    43  172    0   172  14.3
+Wilbon, Mikale  10    15   89    0    89   8.9
+Moore, Alonzo   11     4   58    0    58   5.3
+Reilly, Brandon 11     8   46    0    46   4.2
+Pierson-El, D.  13    14   34    0    34   2.6
+Carter, Cethan  10     3   34    0    34   3.4
+Westerkamp, J.  10     3   18    0    18   1.8
+Darlington, Z.  13     6    0   14    14   1.1
+McNitt, Luke    13     2    4    0     4   0.3
+Lightbourn, C.  12     1    4    0     4   0.3
+TEAM            12    14  -35    0   -35  -2.9
+Total.......... 13   923 2199 2752  4951 380.8
+Opponents...... 13   855 1922 2806  4728 363.7
+
+
+FIELD 
+GOALS   FGM-FGA  Pct  1-19  20s  30s  40s  50s Lg Blk
+-----------------------------------------------------
+D.Brown   12-14  85.7  0-0  4-4  4-4  3-4  1-2  51  0
+S.Lindsay  0-1    0.0  0-0  0-0  0-1  0-0  0-0   0  1
+
+
+FG SEQUENCE    Nebraska        OPPONENTS
+----------------------------------------
+Fresno State   -               32,(26)
+Wyoming        (29)            42,46,(27)
+Oregon         -               -
+Northwestern   (23)            27
+Illinois       56,(29)         (24),(43),(33)
+Indiana        (40),(39)       (36),(45)
+Purdue         (30),(51),45    -
+Wisconsin      (35)            (44),45
+Ohio State     (20)            (28),(28)
+Minnesota      (46)            (42)
+Maryland       32              -
+Iowa           (35)            -
+Tennessee      (45)            (46)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING        No.  Yds   Avg Lng TB  FC I20 Blk
+------------------------------------------------
+Lightbourn, C.  65 2578  39.7  58  5  18  21   0
+TEAM             3   28   9.3  28  0   0   0   3
+Total.........  68 2606  38.3  58  5  18  21   3
+Opponents.....  66 2675  40.5  57  5  18  20   0
+
+
+KICKOFFS     No.   Yds   Avg  TB  OB  Retn  Net YdLn
+----------------------------------------------------
+Brown, Drew   63  4017  63.8  30   0
+Lindsay, S.    7   435  62.1   2   0
+Total........ 70  4452  63.6  32   0   840 40.2   24
+Opponents.... 61  3791  62.1  22   7   687 41.9   23
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Newby, Terrell  13  879  149    0    0    0 1028  79.1
+Bryant, Tre     12  172   56    0  508    0  736  61.3
+Westerkamp, J.  10   18  526    0    0    0  544  54.4
+Ozigbo, Devine  11  412  100    0    0    0  512  46.5
+Armstrong Jr.   11  512    0    0    0    0  512  46.5
+Reilly, Brandon 11   46  412    0    0    0  458  41.6
+Pierson-El, D.  13   34  254  168    0    0  456  35.1
+Morgan Jr., S.  13    0  453    0    0    0  453  34.8
+Moore, Alonzo   11   58  375    0    0    0  433  39.4
+Carter, Cethan  10   34  190    0    0    0  224  22.4
+Nelson, Jordan  13    0    0    0  157    0  157  12.1
+Wilbon, Mikale  10   89   34    0    0    0  123  12.3
+Cotton, Sam     13    0   87    0    0    0   87   6.7
+Reimers, Bryan  12    0   75    0    0    0   75   6.2
+Jones, Chris    13    0    0    0    0   60   60   4.6
+Williams, K.    13    0    0    0    0   44   44   3.4
+Rahn, Gabe       6    0   35    0    0    0   35   5.8
+McNitt, Luke    13    4    0    0   22    0   26   2.0
+Gerry, Nathan   11    0    0    0    0   18   18   1.6
+Foster, Trey    13    0    6    0    0    0    6   0.5
+Lightbourn, C.  12    4    0    0    0    0    4   0.3
+Fyfe, Ryker      8  -28    0    0    0    0  -28  -3.5
+TEAM            12  -35    0    0    0    0  -35  -2.9
+Total.......... 13 2199 2752  168  687  122 5928 456.0
+Opponents...... 13 1922 2806  224  840  153 5945 457.3
+
+
+                       |-------Tackles------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blk
+DEFENSIVE LEADERS   GP Solo  Ast  Tot TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kck Saf
+--------------------------------------------------------------------------------------------
+52 Banderas, Josh   13   40   53   93   8-13   0.5-5       .       .   3    .      .   .   .
+25 Gerry, Nathan    11   47   27   74   7-7    0.5-1      4-18     8   1    .      .   .   .
+1A Rose-Ivey, M.    13   30   40   70   8-17   1.0-9       .       .   1    .      .   .   .
+26 Williams, K.     13   43   26   69   4-2       .       5-44     2   .    .      .   .   .
+10 Kalu, Joshua     13   48   18   66   3-8    1.0-6      1-0     11   2    .      .   1   .
+24 Williams, Aaron  13   32   30   62   6-22   2.0-18     3-0      7   .    .      .   .   .
+5  Young II, D.     12   34   26   60   4-5    1.0-3       .       4   2    .      1   .   .
+88 Dzuris, Ross     13   21   28   49  13-44   5.5-26      .       .   1   1-9     .   .   .
+55 Maurice, Kevin   13   17   22   39   7-29   4.0-23      .       .   3    .      .   .   .
+8A Jones, Chris     13   33    4   37   3-5    1.0-2      3-60    10   .    .      .   .   .
+91 Akinmoladun, F.  13   15   17   32   5-30   4.0-28      .       .  10    .      1   .   .
+44 Stoltenberg, M.  12    9   16   25   3-6    1.5-5       .       .   1    .      .   .   .
+96 Davis, Carlos    13   11   13   24   5-25   2.0-24      .       .   3    .      .   .   .
+16 Reed, Antonio    12   14    8   22    .        .        .       2   1    .      .   .   .
+3  Newby, Marcus    12    7   11   18   3-17   2.0-16      .       1   2    .      1   .   .
+49 Weber, Chris     13    5   12   17   1-1       .        .       .   .    .      .   .   .
+1B Jackson, Lamar   13   14    3   17   2-14   1.0-11      .       .   .    .      .   .   .
+56 Simpson, Brad    13    3    7   10    .        .        .       .   .    .      .   .   .
+41 McNitt, Luke     13    6    4   10    .        .        .       .   .   1-0     .   .   .
+13 Domann, JoJo     13    5    3    8    .        .        .       .   .    .      1   .   .
+1C Joseph, Boaz     12    2    6    8    .        .        .       .   .    .      .   .   .
+7  Barry, Mohamed   13    .    6    6    .        .        .       .   .   1-3     .   .   .
+94 Davis, Khalil    12    4    1    5   2-4       .        .       .   .    .      .   .   .
+1F King, Sedrick     8    .    4    4    .        .        .       .   1    .      .   .   .
+73 Hahn, Sam        13    2    1    3    .        .        .       .   .    .      .   .   .
+2A Davis, Alex      13    .    2    2    .        .        .       .   .    .      .   .   .
+6  Lee Jr., Eric     8    1    1    2   1-1       .        .       .   .    .      .   .   .
+29 Nabity, Graham   11    1    1    2    .        .        .       .   .    .      .   .   .
+87 Reilly, Brandon  11    2    .    2    .        .        .       .   .    .      .   .   .
+9  Neal, DaiShon     9    1    1    2    .        .        .       .   .    .      .   .   .
+45 Natter, A.J.      6    1    1    2    .        .        .       .   .    .      .   .   .
+35 Lightbourn, C.   12    2    .    2    .        .        .       .   .    .      .   .   .
+12 Gifford, Luke     4    .    1    1    .        .        .       .   .    .      .   .   .
+3A Brown, Drew      13    1    .    1    .        .        .       .   .    .      .   .   .
+11 Carter, Cethan   10    1    .    1    .        .        .       .   .    .      .   .   .
+39 Nelson, Jordan   13    .    1    1    .        .        .       .   .    .      .   .   .
+33 Bailey, C.       13    1    .    1    .        .        .       .   .    .      .   .   .
+28 Taylor, Adam      5    1    .    1    .        .        .       .   .    .      .   .   .
+89 Ketter, Connor    9    .    1    1    .        .        .       .   .    .      .   .   .
+4A Anderson, Avery   3    .    1    1    .        .        .       .   .    .      .   .   .
+5C Painter, Robby    7    1    .    1    .        .        .       .   .    .      .   .   .
+97 Rath, Logan       8    1    .    1    .        .        .       .   .    .      .   .   .
+3C Zlab, Tanner      1    1    .    1    .        .        .       .   .    .      .   .   .
+84 Cotton, Sam      13    1    .    1    .        .        .       .   .    .      .   .   .
+15 Pierson-El, D.   13    1    .    1    .        .        .       .   .    .      .   .   .
+   Total..........  13  459  396  855  85-250   26-173   16-122   45  31   3-12    4   1   .
+   Opponents......  13  494  438  932  75-253   15-135    9-153   60  27   5-34    5   4   1
+
+
+          2016 Nebraska Football
+                All games
+
+TEAM STATISTICS          NEB          OPP
+-----------------------------------------
+SCORING...........       345          311
+  Points Per Game       26.5         23.9
+  Ps Off Turnovers        66           32
+FIRST DOWNS.......       266          231
+  Rushing.........       112           91
+  Passing.........       132          121
+  Penalty.........        22           19
+RUSHING YARDAGE...      2199         1922
+  Yards gained....      2483         2189
+  Yards lost......       284          267
+  Rushing Attempts       523          433
+  Avg Per Rush....       4.2          4.4
+  Avg Per Game....     169.2        147.8
+  TDs Rushing.....        24           22
+PASSING YARDAGE...      2752         2806
+  Comp-Att-Int.... 201-400-9   254-422-16
+  Avg Per Pass....       6.9          6.6
+  Avg Per Catch...      13.7         11.0
+  Avg Per Game....     211.7        215.8
+  TDs Passing.....        18           16
+TOTAL OFFENSE.....      4951         4728
+  Total Plays.....       923          855
+  Avg Per Play....       5.4          5.5
+  Avg Per Game....     380.8        363.7
+KICK RETURNS-Yds..    32-687       38-840
+PUNT RETURNS-Yds..    23-168       21-224
+INT RETURNS-Yds...    16-122        9-153
+KICK RETURN AVG...      21.5         22.1
+PUNT RETURN AVG...       7.3         10.7
+INT RETURN AVG....       7.6         17.0
+FUMBLES-LOST......      16-5         10-3
+PENALTIES-Yards...    75-695       65-578
+  Avg Per Game....      53.5         44.5
+PUNTS-Yards.......   68-2606      66-2675
+  Avg Per Punt....      38.3         40.5
+  Net punt avg. ..      33.6         36.5
+KICKOFFS-Yards....   70-4452      61-3791
+  Avg Per Kick....      63.6         62.1
+  Net kick avg. ..      40.2         41.9
+POSS. TIME/Game...     32:10        27:50
+3RD-DOWN Conv. ...    86/196       67/179
+  3rd-Down Pct....       44%          37%
+4TH-DOWN Conv. ...     12/21        12/26
+  4th-Down Pct....       57%          46%
+SACKS BY-Yards....    26-173       15-135
+MISC YARDS........         0           13
+TOUCHDOWNS SCORED         44           40
+FIELD GOALS-ATT...     12-15        12-17
+ON-SIDE KICKS.....       0-0          0-0
+RED-ZONE SCORES  (37-45) 82%  (29-34) 85%
+RED-ZONE TDs.... (28-45) 62%  (22-34) 65%
+PAT-ATTEMPTS....(43-43) 100%  (31-34) 91%
+ATTENDANCE.......     631402       347935
+  Games/Avg.......   7/90200      5/69587
+  Neut. Site Games                1/68496
+
+
+SCORE BY
+QUARTERS   1st  2nd  3rd  4th  OT     Tot
+---------  ---  ---  ---  ---  --     ---
+NEB......   75   68   77  125   0  -  345
+OPP......   56  122   72   55   6  -  311
+
+
+RUSHING      GP  Att Gain Loss  Net   Avg  TD Lng Avg/G
+-------------------------------------------------------
+T.Newby      13  190  910   31  879   4.6   7  63  67.6
+T.Armstrong  11  113  604   92  512   4.5   8  37  46.5
+D.Ozigbo     11   97  429   17  412   4.2   5  42  37.5
+R.Bryant     12   43  179    7  172   4.0   1  22  14.3
+M.Wilbon     10   15   91    2   89   5.9   0  32   8.9
+A.Moore      11    4   58    0   58  14.5   1  24   5.3
+B.Reilly     11    8   49    3   46   5.8   0  13   4.2
+C.Carter     10    3   34    0   34  11.3   0  16   3.4
+D.Pierson-El 13   14   48   14   34   2.4   0   9   2.6
+J.Westerkamp 10    3   19    1   18   6.0   1  10   1.8
+L.McNitt     13    2    4    0    4   2.0   0   2   0.3
+C.Lightbourn 12    1    4    0    4   4.0   0   4   0.3
+S.Morgan Jr. 13    1    0    0    0   0.0   0   0   0.0
+R.Fyfe        8   16   54   82  -28  -1.8   1  21  -3.5
+TEAM         12   13    0   35  -35  -2.7   0   0  -2.9
+Total....... 13  523 2483  284 2199   4.2  24  63 169.2
+Opponents... 13  433 2189  267 1922   4.4  22  75 147.8
+
+
+PASSING      GP  Effic Cmp-Att-Int   Pct  Yds  TD Lng Avg/G
+-----------------------------------------------------------
+T.Armstrong  11  123.92  151-294-8  51.4 2180  14  72 198.2
+R.Fyfe        8  107.14   48-99-1   48.5  558   4  39  69.8
+Z.Darlington 13   52.93    2-6-0    33.3   14   0  12   1.1
+TEAM         12    0.00    0-1-0     0.0    0   0   0   0.0
+Total....... 13  118.39  201-400-9  50.2 2752  18  72 211.7
+Opponents... 13  120.97  254-422-16 60.2 2806  16  92 215.8
+
+
+RECEIVING       GP  No.  Yds   Avg  TD Long Avg/G
+-------------------------------------------------
+Westerkamp, J.  10   38  526  13.8   5   55  52.6
+Morgan Jr., S.  13   33  453  13.7   2   72  34.8
+Reilly, Brandon 11   21  412  19.6   2   45  37.5
+Moore, Alonzo   11   20  375  18.8   2   63  34.1
+Pierson-El, D.  13   20  254  12.7   1   40  19.5
+Carter, Cethan  10   19  190  10.0   1   33  19.0
+Newby, Terrell  13   18  149   8.3   1   31  11.5
+Cotton, Sam     13    8   87  10.9   0   17   6.7
+Bryant, Tre     12    8   56   7.0   1   35   4.7
+Ozigbo, Devine  11    5  100  20.0   0   39   9.1
+Reimers, Bryan  12    5   75  15.0   1   24   6.2
+Wilbon, Mikale  10    4   34   8.5   0   13   3.4
+Rahn, Gabe       6    1   35  35.0   1   35   5.8
+Foster, Trey    13    1    6   6.0   1    6   0.5
+Total.......... 13  201 2752  13.7  18   72 211.7
+Opponents...... 13  254 2806  11.0  16   92 215.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Pierson-El, D.    23  168   7.3  0   45
+Total..........   23  168   7.3  0   45
+Opponents......   21  224  10.7  0   44
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Williams, K.       5   44   8.8  1   23
+Gerry, Nathan      4   18   4.5  0   10
+Jones, Chris       3   60  20.0  1   33
+Williams, Aaron    3    0   0.0  0    4
+Kalu, Joshua       1    0   0.0  0    0
+Total..........   16  122   7.6  2   33
+Opponents......    9  153  17.0  2   48
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Bryant, Tre       23  508  22.1  0   59
+Nelson, Jordan     7  157  22.4  0   45
+McNitt, Luke       2   22  11.0  0   13
+Total..........   32  687  21.5  0   59
+Opponents......   38  840  22.1  0   39
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+Barry, Mohamed     1    3   3.0  0    3
+Dzuris, Ross       1    9   9.0  0    9
+Total..........    2   12   6.0  0    9
+Opponents......    1   34  34.0  0   34
+
+
+                         |------ PATs -----|
+SCORING        TD  FGs   Kick  Rush Rcv Pass DXP Sf Pts
+-------------------------------------------------------
+Brown, Drew     0 12-14  38-38  0-0   0  0-0  0  0   74
+Armstrong Jr.   8  0-0    0-0   0-0   0  0-0  0  0   48
+Newby, Terrell  8  0-0    0-0   0-0   0  0-0  0  0   48
+Westerkamp, J.  6  0-0    0-0   0-0   0  0-0  0  0   36
+Ozigbo, Devine  5  0-0    0-0   0-0   0  0-0  0  0   30
+Moore, Alonzo   3  0-0    0-0   0-0   0  0-0  0  0   18
+Reilly, Brandon 2  0-0    0-0   0-0   0  0-0  0  0   12
+Morgan Jr., S.  2  0-0    0-0   0-0   0  0-0  0  0   12
+Bryant, Tre     2  0-0    0-0   0-0   0  0-0  0  0   12
+Foster, Trey    1  0-0    0-0   0-0   0  0-0  0  0    6
+Rahn, Gabe      1  0-0    0-0   0-0   0  0-0  0  0    6
+Carter, Cethan  1  0-0    0-0   0-0   0  0-0  0  0    6
+Fyfe, Ryker     1  0-0    0-0   0-0   0  0-0  0  0    6
+Williams, K.    1  0-0    0-0   0-0   0  0-0  0  0    6
+Pierson-El, D.  1  0-0    0-0   0-0   0  0-0  0  0    6
+Jones, Chris    1  0-0    0-0   0-0   0  0-0  0  0    6
+Reimers, Bryan  1  0-0    0-0   0-0   0  0-0  0  0    6
+Lindsay, S.     0  0-1    5-5   0-0   0  0-0  0  0    5
+Darlington, Z.  0  0-0    0-0   1-1   0  0-0  0  0    2
+Total........  44 12-15  43-43  1-1   0  0-0  0  0  345
+Opponents....  40 12-17  31-34  1-4   0  0-2  0  1  311
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Armstrong Jr.   11   407  512 2180  2692 244.7
+Newby, Terrell  13   190  879    0   879  67.6
+Fyfe, Ryker      8   115  -28  558   530  66.2
+Ozigbo, Devine  11    97  412    0   412  37.5
+Bryant, Tre     12    43  172    0   172  14.3
+Wilbon, Mikale  10    15   89    0    89   8.9
+Moore, Alonzo   11     4   58    0    58   5.3
+Reilly, Brandon 11     8   46    0    46   4.2
+Pierson-El, D.  13    14   34    0    34   2.6
+Carter, Cethan  10     3   34    0    34   3.4
+Westerkamp, J.  10     3   18    0    18   1.8
+Darlington, Z.  13     6    0   14    14   1.1
+McNitt, Luke    13     2    4    0     4   0.3
+Lightbourn, C.  12     1    4    0     4   0.3
+TEAM            12    14  -35    0   -35  -2.9
+Total.......... 13   923 2199 2752  4951 380.8
+Opponents...... 13   855 1922 2806  4728 363.7
+
+
+FIELD 
+GOALS   FGM-FGA  Pct  1-19  20s  30s  40s  50s Lg Blk
+-----------------------------------------------------
+D.Brown   12-14  85.7  0-0  4-4  4-4  3-4  1-2  51  0
+S.Lindsay  0-1    0.0  0-0  0-0  0-1  0-0  0-0   0  1
+
+
+FG SEQUENCE    Nebraska        OPPONENTS
+----------------------------------------
+Fresno State   -               32,(26)
+Wyoming        (29)            42,46,(27)
+Oregon         -               -
+Northwestern   (23)            27
+Illinois       56,(29)         (24),(43),(33)
+Indiana        (40),(39)       (36),(45)
+Purdue         (30),(51),45    -
+Wisconsin      (35)            (44),45
+Ohio State     (20)            (28),(28)
+Minnesota      (46)            (42)
+Maryland       32              -
+Iowa           (35)            -
+Tennessee      (45)            (46)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING        No.  Yds   Avg Lng TB  FC I20 Blk
+------------------------------------------------
+Lightbourn, C.  65 2578  39.7  58  5  18  21   0
+TEAM             3   28   9.3  28  0   0   0   3
+Total.........  68 2606  38.3  58  5  18  21   3
+Opponents.....  66 2675  40.5  57  5  18  20   0
+
+
+KICKOFFS     No.   Yds   Avg  TB  OB  Retn  Net YdLn
+----------------------------------------------------
+Brown, Drew   63  4017  63.8  30   0
+Lindsay, S.    7   435  62.1   2   0
+Total........ 70  4452  63.6  32   0   840 40.2   24
+Opponents.... 61  3791  62.1  22   7   687 41.9   23
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Newby, Terrell  13  879  149    0    0    0 1028  79.1
+Bryant, Tre     12  172   56    0  508    0  736  61.3
+Westerkamp, J.  10   18  526    0    0    0  544  54.4
+Ozigbo, Devine  11  412  100    0    0    0  512  46.5
+Armstrong Jr.   11  512    0    0    0    0  512  46.5
+Reilly, Brandon 11   46  412    0    0    0  458  41.6
+Pierson-El, D.  13   34  254  168    0    0  456  35.1
+Morgan Jr., S.  13    0  453    0    0    0  453  34.8
+Moore, Alonzo   11   58  375    0    0    0  433  39.4
+Carter, Cethan  10   34  190    0    0    0  224  22.4
+Nelson, Jordan  13    0    0    0  157    0  157  12.1
+Wilbon, Mikale  10   89   34    0    0    0  123  12.3
+Cotton, Sam     13    0   87    0    0    0   87   6.7
+Reimers, Bryan  12    0   75    0    0    0   75   6.2
+Jones, Chris    13    0    0    0    0   60   60   4.6
+Williams, K.    13    0    0    0    0   44   44   3.4
+Rahn, Gabe       6    0   35    0    0    0   35   5.8
+McNitt, Luke    13    4    0    0   22    0   26   2.0
+Gerry, Nathan   11    0    0    0    0   18   18   1.6
+Foster, Trey    13    0    6    0    0    0    6   0.5
+Lightbourn, C.  12    4    0    0    0    0    4   0.3
+Fyfe, Ryker      8  -28    0    0    0    0  -28  -3.5
+TEAM            12  -35    0    0    0    0  -35  -2.9
+Total.......... 13 2199 2752  168  687  122 5928 456.0
+Opponents...... 13 1922 2806  224  840  153 5945 457.3
+
+
+Page 1 / 1Zoom 100%
+
+
+
+Overall Defensive Statistics
+
+
+                       |-------Tackles------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blk
+DEFENSIVE LEADERS   GP Solo  Ast  Tot TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kck Saf
+--------------------------------------------------------------------------------------------
+52 Banderas, Josh   13   40   53   93   8-13   0.5-5       .       .   3    .      .   .   .
+25 Gerry, Nathan    11   47   27   74   7-7    0.5-1      4-18     8   1    .      .   .   .
+1A Rose-Ivey, M.    13   30   40   70   8-17   1.0-9       .       .   1    .      .   .   .
+26 Williams, K.     13   43   26   69   4-2       .       5-44     2   .    .      .   .   .
+10 Kalu, Joshua     13   48   18   66   3-8    1.0-6      1-0     11   2    .      .   1   .
+24 Williams, Aaron  13   32   30   62   6-22   2.0-18     3-0      7   .    .      .   .   .
+5  Young II, D.     12   34   26   60   4-5    1.0-3       .       4   2    .      1   .   .
+88 Dzuris, Ross     13   21   28   49  13-44   5.5-26      .       .   1   1-9     .   .   .
+55 Maurice, Kevin   13   17   22   39   7-29   4.0-23      .       .   3    .      .   .   .
+8A Jones, Chris     13   33    4   37   3-5    1.0-2      3-60    10   .    .      .   .   .
+91 Akinmoladun, F.  13   15   17   32   5-30   4.0-28      .       .  10    .      1   .   .
+44 Stoltenberg, M.  12    9   16   25   3-6    1.5-5       .       .   1    .      .   .   .
+96 Davis, Carlos    13   11   13   24   5-25   2.0-24      .       .   3    .      .   .   .
+16 Reed, Antonio    12   14    8   22    .        .        .       2   1    .      .   .   .
+3  Newby, Marcus    12    7   11   18   3-17   2.0-16      .       1   2    .      1   .   .
+49 Weber, Chris     13    5   12   17   1-1       .        .       .   .    .      .   .   .
+1B Jackson, Lamar   13   14    3   17   2-14   1.0-11      .       .   .    .      .   .   .
+56 Simpson, Brad    13    3    7   10    .        .        .       .   .    .      .   .   .
+41 McNitt, Luke     13    6    4   10    .        .        .       .   .   1-0     .   .   .
+13 Domann, JoJo     13    5    3    8    .        .        .       .   .    .      1   .   .
+1C Joseph, Boaz     12    2    6    8    .        .        .       .   .    .      .   .   .
+7  Barry, Mohamed   13    .    6    6    .        .        .       .   .   1-3     .   .   .
+94 Davis, Khalil    12    4    1    5   2-4       .        .       .   .    .      .   .   .
+1F King, Sedrick     8    .    4    4    .        .        .       .   1    .      .   .   .
+73 Hahn, Sam        13    2    1    3    .        .        .       .   .    .      .   .   .
+2A Davis, Alex      13    .    2    2    .        .        .       .   .    .      .   .   .
+6  Lee Jr., Eric     8    1    1    2   1-1       .        .       .   .    .      .   .   .
+29 Nabity, Graham   11    1    1    2    .        .        .       .   .    .      .   .   .
+87 Reilly, Brandon  11    2    .    2    .        .        .       .   .    .      .   .   .
+9  Neal, DaiShon     9    1    1    2    .        .        .       .   .    .      .   .   .
+45 Natter, A.J.      6    1    1    2    .        .        .       .   .    .      .   .   .
+35 Lightbourn, C.   12    2    .    2    .        .        .       .   .    .      .   .   .
+12 Gifford, Luke     4    .    1    1    .        .        .       .   .    .      .   .   .
+3A Brown, Drew      13    1    .    1    .        .        .       .   .    .      .   .   .
+11 Carter, Cethan   10    1    .    1    .        .        .       .   .    .      .   .   .
+39 Nelson, Jordan   13    .    1    1    .        .        .       .   .    .      .   .   .
+33 Bailey, C.       13    1    .    1    .        .        .       .   .    .      .   .   .
+28 Taylor, Adam      5    1    .    1    .        .        .       .   .    .      .   .   .
+89 Ketter, Connor    9    .    1    1    .        .        .       .   .    .      .   .   .
+4A Anderson, Avery   3    .    1    1    .        .        .       .   .    .      .   .   .
+5C Painter, Robby    7    1    .    1    .        .        .       .   .    .      .   .   .
+97 Rath, Logan       8    1    .    1    .        .        .       .   .    .      .   .   .
+3C Zlab, Tanner      1    1    .    1    .        .        .       .   .    .      .   .   .
+84 Cotton, Sam      13    1    .    1    .        .        .       .   .    .      .   .   .
+15 Pierson-El, D.   13    1    .    1    .        .        .       .   .    .      .   .   .
+   Total..........  13  459  396  855  85-250   26-173   16-122   45  31   3-12    4   1   .
+   Opponents......  13  494  438  932  75-253   15-135    9-153   60  27   5-34    5   4   1
+
+
+
+      
+RUSHING      GP  Att Gain Loss  Net   Avg  TD Lng Avg/G
+-------------------------------------------------------
+T.Newby      13  190  910   31  879   4.6   7  63  67.6
+T.Armstrong  11  113  604   92  512   4.5   8  37  46.5
+D.Ozigbo     11   97  429   17  412   4.2   5  42  37.5
+R.Bryant     12   43  179    7  172   4.0   1  22  14.3
+M.Wilbon     10   15   91    2   89   5.9   0  32   8.9
+A.Moore      11    4   58    0   58  14.5   1  24   5.3
+B.Reilly     11    8   49    3   46   5.8   0  13   4.2
+C.Carter     10    3   34    0   34  11.3   0  16   3.4
+D.Pierson-El 13   14   48   14   34   2.4   0   9   2.6
+J.Westerkamp 10    3   19    1   18   6.0   1  10   1.8
+L.McNitt     13    2    4    0    4   2.0   0   2   0.3
+C.Lightbourn 12    1    4    0    4   4.0   0   4   0.3
+S.Morgan Jr. 13    1    0    0    0   0.0   0   0   0.0
+R.Fyfe        8   16   54   82  -28  -1.8   1  21  -3.5
+TEAM         12   13    0   35  -35  -2.7   0   0  -2.9
+Total....... 13  523 2483  284 2199   4.2  24  63 169.2
+Opponents... 13  433 2189  267 1922   4.4  22  75 147.8
+
+
+PASSING      GP  Effic Cmp-Att-Int   Pct  Yds  TD Lng Avg/G
+-----------------------------------------------------------
+T.Armstrong  11  123.92  151-294-8  51.4 2180  14  72 198.2
+R.Fyfe        8  107.14   48-99-1   48.5  558   4  39  69.8
+Z.Darlington 13   52.93    2-6-0    33.3   14   0  12   1.1
+TEAM         12    0.00    0-1-0     0.0    0   0   0   0.0
+Total....... 13  118.39  201-400-9  50.2 2752  18  72 211.7
+Opponents... 13  120.97  254-422-16 60.2 2806  16  92 215.8
+
+
+RECEIVING       GP  No.  Yds   Avg  TD Long Avg/G
+-------------------------------------------------
+Westerkamp, J.  10   38  526  13.8   5   55  52.6
+Morgan Jr., S.  13   33  453  13.7   2   72  34.8
+Reilly, Brandon 11   21  412  19.6   2   45  37.5
+Moore, Alonzo   11   20  375  18.8   2   63  34.1
+Pierson-El, D.  13   20  254  12.7   1   40  19.5
+Carter, Cethan  10   19  190  10.0   1   33  19.0
+Newby, Terrell  13   18  149   8.3   1   31  11.5
+Cotton, Sam     13    8   87  10.9   0   17   6.7
+Bryant, Tre     12    8   56   7.0   1   35   4.7
+Ozigbo, Devine  11    5  100  20.0   0   39   9.1
+Reimers, Bryan  12    5   75  15.0   1   24   6.2
+Wilbon, Mikale  10    4   34   8.5   0   13   3.4
+Rahn, Gabe       6    1   35  35.0   1   35   5.8
+Foster, Trey    13    1    6   6.0   1    6   0.5
+Total.......... 13  201 2752  13.7  18   72 211.7
+Opponents...... 13  254 2806  11.0  16   92 215.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Pierson-El, D.    23  168   7.3  0   45
+Total..........   23  168   7.3  0   45
+Opponents......   21  224  10.7  0   44
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Williams, K.       5   44   8.8  1   23
+Gerry, Nathan      4   18   4.5  0   10
+Jones, Chris       3   60  20.0  1   33
+Williams, Aaron    3    0   0.0  0    4
+Kalu, Joshua       1    0   0.0  0    0
+Total..........   16  122   7.6  2   33
+Opponents......    9  153  17.0  2   48
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Bryant, Tre       23  508  22.1  0   59
+Nelson, Jordan     7  157  22.4  0   45
+McNitt, Luke       2   22  11.0  0   13
+Total..........   32  687  21.5  0   59
+Opponents......   38  840  22.1  0   39
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+Barry, Mohamed     1    3   3.0  0    3
+Dzuris, Ross       1    9   9.0  0    9
+Total..........    2   12   6.0  0    9
+Opponents......    1   34  34.0  0   34
+
+
+                         |------ PATs -----|
+SCORING        TD  FGs   Kick  Rush Rcv Pass DXP Sf Pts
+-------------------------------------------------------
+Brown, Drew     0 12-14  38-38  0-0   0  0-0  0  0   74
+Armstrong Jr.   8  0-0    0-0   0-0   0  0-0  0  0   48
+Newby, Terrell  8  0-0    0-0   0-0   0  0-0  0  0   48
+Westerkamp, J.  6  0-0    0-0   0-0   0  0-0  0  0   36
+Ozigbo, Devine  5  0-0    0-0   0-0   0  0-0  0  0   30
+Moore, Alonzo   3  0-0    0-0   0-0   0  0-0  0  0   18
+Reilly, Brandon 2  0-0    0-0   0-0   0  0-0  0  0   12
+Morgan Jr., S.  2  0-0    0-0   0-0   0  0-0  0  0   12
+Bryant, Tre     2  0-0    0-0   0-0   0  0-0  0  0   12
+Foster, Trey    1  0-0    0-0   0-0   0  0-0  0  0    6
+Rahn, Gabe      1  0-0    0-0   0-0   0  0-0  0  0    6
+Carter, Cethan  1  0-0    0-0   0-0   0  0-0  0  0    6
+Fyfe, Ryker     1  0-0    0-0   0-0   0  0-0  0  0    6
+Williams, K.    1  0-0    0-0   0-0   0  0-0  0  0    6
+Pierson-El, D.  1  0-0    0-0   0-0   0  0-0  0  0    6
+Jones, Chris    1  0-0    0-0   0-0   0  0-0  0  0    6
+Reimers, Bryan  1  0-0    0-0   0-0   0  0-0  0  0    6
+Lindsay, S.     0  0-1    5-5   0-0   0  0-0  0  0    5
+Darlington, Z.  0  0-0    0-0   1-1   0  0-0  0  0    2
+Total........  44 12-15  43-43  1-1   0  0-0  0  0  345
+Opponents....  40 12-17  31-34  1-4   0  0-2  0  1  311
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Armstrong Jr.   11   407  512 2180  2692 244.7
+Newby, Terrell  13   190  879    0   879  67.6
+Fyfe, Ryker      8   115  -28  558   530  66.2
+Ozigbo, Devine  11    97  412    0   412  37.5
+Bryant, Tre     12    43  172    0   172  14.3
+Wilbon, Mikale  10    15   89    0    89   8.9
+Moore, Alonzo   11     4   58    0    58   5.3
+Reilly, Brandon 11     8   46    0    46   4.2
+Pierson-El, D.  13    14   34    0    34   2.6
+Carter, Cethan  10     3   34    0    34   3.4
+Westerkamp, J.  10     3   18    0    18   1.8
+Darlington, Z.  13     6    0   14    14   1.1
+McNitt, Luke    13     2    4    0     4   0.3
+Lightbourn, C.  12     1    4    0     4   0.3
+TEAM            12    14  -35    0   -35  -2.9
+Total.......... 13   923 2199 2752  4951 380.8
+Opponents...... 13   855 1922 2806  4728 363.7
+
+
+FIELD 
+GOALS   FGM-FGA  Pct  1-19  20s  30s  40s  50s Lg Blk
+-----------------------------------------------------
+D.Brown   12-14  85.7  0-0  4-4  4-4  3-4  1-2  51  0
+S.Lindsay  0-1    0.0  0-0  0-0  0-1  0-0  0-0   0  1
+
+
+FG SEQUENCE    Nebraska        OPPONENTS
+----------------------------------------
+Fresno State   -               32,(26)
+Wyoming        (29)            42,46,(27)
+Oregon         -               -
+Northwestern   (23)            27
+Illinois       56,(29)         (24),(43),(33)
+Indiana        (40),(39)       (36),(45)
+Purdue         (30),(51),45    -
+Wisconsin      (35)            (44),45
+Ohio State     (20)            (28),(28)
+Minnesota      (46)            (42)
+Maryland       32              -
+Iowa           (35)            -
+Tennessee      (45)            (46)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING        No.  Yds   Avg Lng TB  FC I20 Blk
+------------------------------------------------
+Lightbourn, C.  65 2578  39.7  58  5  18  21   0
+TEAM             3   28   9.3  28  0   0   0   3
+Total.........  68 2606  38.3  58  5  18  21   3
+Opponents.....  66 2675  40.5  57  5  18  20   0
+
+
+KICKOFFS     No.   Yds   Avg  TB  OB  Retn  Net YdLn
+----------------------------------------------------
+Brown, Drew   63  4017  63.8  30   0
+Lindsay, S.    7   435  62.1   2   0
+Total........ 70  4452  63.6  32   0   840 40.2   24
+Opponents.... 61  3791  62.1  22   7   687 41.9   23
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Newby, Terrell  13  879  149    0    0    0 1028  79.1
+Bryant, Tre     12  172   56    0  508    0  736  61.3
+Westerkamp, J.  10   18  526    0    0    0  544  54.4
+Ozigbo, Devine  11  412  100    0    0    0  512  46.5
+Armstrong Jr.   11  512    0    0    0    0  512  46.5
+Reilly, Brandon 11   46  412    0    0    0  458  41.6
+Pierson-El, D.  13   34  254  168    0    0  456  35.1
+Morgan Jr., S.  13    0  453    0    0    0  453  34.8
+Moore, Alonzo   11   58  375    0    0    0  433  39.4
+Carter, Cethan  10   34  190    0    0    0  224  22.4
+Nelson, Jordan  13    0    0    0  157    0  157  12.1
+Wilbon, Mikale  10   89   34    0    0    0  123  12.3
+Cotton, Sam     13    0   87    0    0    0   87   6.7
+Reimers, Bryan  12    0   75    0    0    0   75   6.2
+Jones, Chris    13    0    0    0    0   60   60   4.6
+Williams, K.    13    0    0    0    0   44   44   3.4
+Rahn, Gabe       6    0   35    0    0    0   35   5.8
+McNitt, Luke    13    4    0    0   22    0   26   2.0
+Gerry, Nathan   11    0    0    0    0   18   18   1.6
+Foster, Trey    13    0    6    0    0    0    6   0.5
+Lightbourn, C.  12    4    0    0    0    0    4   0.3
+Fyfe, Ryker      8  -28    0    0    0    0  -28  -3.5
+TEAM            12  -35    0    0    0    0  -35  -2.9
+Total.......... 13 2199 2752  168  687  122 5928 456.0
+Opponents...... 13 1922 2806  224  840  153 5945 457.3
+
+
+                       |-------Tackles------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blk
+DEFENSIVE LEADERS   GP Solo  Ast  Tot TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kck Saf
+--------------------------------------------------------------------------------------------
+52 Banderas, Josh   13   40   53   93   8-13   0.5-5       .       .   3    .      .   .   .
+25 Gerry, Nathan    11   47   27   74   7-7    0.5-1      4-18     8   1    .      .   .   .
+1A Rose-Ivey, M.    13   30   40   70   8-17   1.0-9       .       .   1    .      .   .   .
+26 Williams, K.     13   43   26   69   4-2       .       5-44     2   .    .      .   .   .
+10 Kalu, Joshua     13   48   18   66   3-8    1.0-6      1-0     11   2    .      .   1   .
+24 Williams, Aaron  13   32   30   62   6-22   2.0-18     3-0      7   .    .      .   .   .
+5  Young II, D.     12   34   26   60   4-5    1.0-3       .       4   2    .      1   .   .
+88 Dzuris, Ross     13   21   28   49  13-44   5.5-26      .       .   1   1-9     .   .   .
+55 Maurice, Kevin   13   17   22   39   7-29   4.0-23      .       .   3    .      .   .   .
+8A Jones, Chris     13   33    4   37   3-5    1.0-2      3-60    10   .    .      .   .   .
+91 Akinmoladun, F.  13   15   17   32   5-30   4.0-28      .       .  10    .      1   .   .
+44 Stoltenberg, M.  12    9   16   25   3-6    1.5-5       .       .   1    .      .   .   .
+96 Davis, Carlos    13   11   13   24   5-25   2.0-24      .       .   3    .      .   .   .
+16 Reed, Antonio    12   14    8   22    .        .        .       2   1    .      .   .   .
+3  Newby, Marcus    12    7   11   18   3-17   2.0-16      .       1   2    .      1   .   .
+49 Weber, Chris     13    5   12   17   1-1       .        .       .   .    .      .   .   .
+1B Jackson, Lamar   13   14    3   17   2-14   1.0-11      .       .   .    .      .   .   .
+56 Simpson, Brad    13    3    7   10    .        .        .       .   .    .      .   .   .
+41 McNitt, Luke     13    6    4   10    .        .        .       .   .   1-0     .   .   .
+13 Domann, JoJo     13    5    3    8    .        .        .       .   .    .      1   .   .
+1C Joseph, Boaz     12    2    6    8    .        .        .       .   .    .      .   .   .
+7  Barry, Mohamed   13    .    6    6    .        .        .       .   .   1-3     .   .   .
+94 Davis, Khalil    12    4    1    5   2-4       .        .       .   .    .      .   .   .
+1F King, Sedrick     8    .    4    4    .        .        .       .   1    .      .   .   .
+73 Hahn, Sam        13    2    1    3    .        .        .       .   .    .      .   .   .
+2A Davis, Alex      13    .    2    2    .        .        .       .   .    .      .   .   .
+6  Lee Jr., Eric     8    1    1    2   1-1       .        .       .   .    .      .   .   .
+29 Nabity, Graham   11    1    1    2    .        .        .       .   .    .      .   .   .
+87 Reilly, Brandon  11    2    .    2    .        .        .       .   .    .      .   .   .
+9  Neal, DaiShon     9    1    1    2    .        .        .       .   .    .      .   .   .
+45 Natter, A.J.      6    1    1    2    .        .        .       .   .    .      .   .   .
+35 Lightbourn, C.   12    2    .    2    .        .        .       .   .    .      .   .   .
+12 Gifford, Luke     4    .    1    1    .        .        .       .   .    .      .   .   .
+3A Brown, Drew      13    1    .    1    .        .        .       .   .    .      .   .   .
+11 Carter, Cethan   10    1    .    1    .        .        .       .   .    .      .   .   .
+39 Nelson, Jordan   13    .    1    1    .        .        .       .   .    .      .   .   .
+33 Bailey, C.       13    1    .    1    .        .        .       .   .    .      .   .   .
+28 Taylor, Adam      5    1    .    1    .        .        .       .   .    .      .   .   .
+89 Ketter, Connor    9    .    1    1    .        .        .       .   .    .      .   .   .
+4A Anderson, Avery   3    .    1    1    .        .        .       .   .    .      .   .   .
+5C Painter, Robby    7    1    .    1    .        .        .       .   .    .      .   .   .
+97 Rath, Logan       8    1    .    1    .        .        .       .   .    .      .   .   .
+3C Zlab, Tanner      1    1    .    1    .        .        .       .   .    .      .   .   .
+84 Cotton, Sam      13    1    .    1    .        .        .       .   .    .      .   .   .
+15 Pierson-El, D.   13    1    .    1    .        .        .       .   .    .      .   .   .
+   Total..........  13  459  396  855  85-250   26-173   16-122   45  31   3-12    4   1   .
+   Opponents......  13  494  438  932  75-253   15-135    9-153   60  27   5-34    5   4   1
+

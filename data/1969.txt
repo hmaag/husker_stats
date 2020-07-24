@@ -1,0 +1,217 @@
+1969 Nebraska Cornhuskers
+Nebraska Overall Team Statistics (Final)
+(includes bowl game)
+
+                         NU    Opp. 
+First Downs, Rushing    119      82 
+First Downs, Passing     96      69 
+Penalties                13      12 
+Total First Downs       228     163 
+Rushing, Att.           586     535 
+Yds. Gained Rushing    2312    1856 
+Yds. Lost Rushing       399     497 
+Yds. Net Rushing       1913    1359 
+Per Game Average      173.9   123.5 
+Passing Att.            325     274 
+Passes Complete         174     112 
+Passes Intercepted       15      27 
+Net Yds. Passing       2160    1359 
+Per Game Average      196.3   123.5 
+Total Offense, Att.     911     809 
+Net Yds.               4073    2718 
+Per Game Average      370.2   246.3 
+Interceptions, No.       27      15 
+Net Yds. Returned       285     174 
+Punting, No.             72      93 
+Punts, Blocked            0       0 
+Total Yds. Punted      2672    3723 
+Per Punt Average       37.1    40.0 
+Punts Returned, No.      31      32 
+Net Yds.                280     329 
+Kickoffs Returned, No.   21      26 
+Net Yds.                364     516 
+Penalties, No.           50      55 
+Total Yds.              377     537 
+Fumbles, No.             33      26 
+Fumbles, Lost            17      16 
+Scoring, Total Points   254     119 
+Per Game Average       23.1    10.8
+
+
+SCORING BY QUARTERS
+        lst  2nd  3rd  4th  Total
+NEB      48   60   77   69    254
+OPP      42   38   20   19    119
+
+AVERAGE
+        lst  2nd  3rd  4th  Total
+NEB     4.4  5.5  7.0  6.3   23.1
+OPP     3.8  3.5  1.8  1.7   10.8
+
+1969 Nebraska Cornhuskers
+Nebraska Overall Individual Statistics (Final)
+(includes bowl game)
+
+RUSHING   Att  Gain Loss   Net   Avg  TD 
+Bomberger  10    44    0    44   4.4   0 
+Brownson   84   334  187   147   1.6   5 
+Frost      39   154   10   144   4.6   0 
+Green      58   254   12   242   4.1   0 
+Hughes     26   108    8   100   3.8   2 
+Kinney    191   619   29   590   3.0  10 
+Rogers      6    14   10     4   0.6   0 
+Schneiss   75   398    1   397   5.2   1 
+Tagge      83   322  133   189   2.2   4 
+Vactor     12    62    0    62   5.1   0 
+Dvorsak     2     3    9    -6  -3.0   0 
+Total     586  2312  399  1913   3.2  22 
+Opp.      545  1856  497  1359   2.5   8
+
+
+PASSING   Att Comp   Pct Int   Yds  TD 
+Brownson  121   63  .505   4   772   5 
+Dvorsak    10    2  .167   1    14   0 
+Kinney      5    2  .500   2    19   2 
+Tagge     189  107  .571   8  1355   3 
+Total     325  174  .538  15  2160  10 
+Opp.      274  112  .423  27  1359   6
+
+
+RECEIVING    No.   Yds   TD 
+Frost        26    413    2 
+Green         9     87    2 
+Hughes        2     26    0 
+Ingles       30    463    3 
+Kinney       44*   455    2 
+McFarland,J. 32    406    0 
+Mason         3     23    0 
+Patrick       3     40    0 
+Rogers        2     16    0 
+Schneiss     20    208    1 
+Vactor        2     16    0 
+Harvey        1      3    0 
+Total       174   2160   10 
+Opp.        112   1359    6
+
+
+PUNTING   No.   Yds.   Avg. 
+Schneiss   72   2672   37.1 
+Total      72   2672   37.1 
+Opp.       93   3723   40.0
+
+
+PUNT RETURNS  No.  Yds   Avg 
+Ingles        25   231   9.2 
+Kosch          2    22  11.0 
+Larson         4    27   6.8 
+Total         31   280   9.0 
+Opp.          32   329  10.2
+
+
+KICKOFF
+RETURNS    No.  Yds    Avg 
+Green       7   143   20.4 
+Hughes      2    43   21.5 
+Kosch       7   141   20.1 
+Larson      1     9    9.0 
+Patrick     1     1    1.0 
+Schneiss    1    12   12.0 
+Vactor      1    19   19.0 
+Ingles      1    -4   -4.0 
+Total      21   364   17.2 
+Opp.       26   516   19.4
+
+
+INTERCEPTIONS  No. Yds  TD 
+Anderson        3   48   0 
+Fiala           2    4   0 
+Larson          4   47   0 
+McClelland      1   14   0 
+Murtaugh        2   44   0 
+Reeves          3   30   0 
+Stephenson      8   65   0 
+Geddes          1   24   0 
+Periard         1    9   0 
+Morock          1    1   0 
+Morell          1   16   0 
+Total          27  285   0 
+Opp.           15  174   1
+
+
+TOTAL OFFENSE  No.  Yds   Avg 
+Bomberger      10    44   4.4 
+Brownson      205   919   4.4 
+Dvorsak        12     8   0.6 
+Frost          39   144   3.6 
+Green          58   242   4.1 
+Hughes         26   100   3.8 
+Kinney        196   609   3.1 
+Rogers          6     4   0.4 
+Schneiss       75   398   5.2 
+Tagge         272  1544*  5.6 
+Vactor         12    62   5.1 
+Total         911  4073   4.3 
+Opp.          809  2718   3.3
+
+
+             -----PAT----   
+SCORING  TD  Kick   Other  FG   Sfy Pts 
+Brownson  5   0-0    0-0   0-0   0   30 
+Frost     2   0-0    0-0   0-0   0   12 
+Hughes    2   0-0    0-0   0-0   0   12 
+Ingles    3   0-0    0-0   0-0   0   18 
+Kinney   12   0-0    1-1   0-0   0   74
+Rogers    0  29-27*  0-0  27-11* 0   60 
+Tagge     1   0-0    0-0   0-0   0   60 
+Schneiss  2   0-0    0-0   0-0   0   12 
+Dvorsak   0   0-0    0-0   0-0   0    0 
+Green     2   0-0    0-0   0-0   0   12 
+Total    27  29-27*  2-1  23-7   0  254 
+Opp.     15  14-14   0-0  10-5   0  119 
+* New Nebraska record
+
+DEFENSIVE STATS
+(Includes Sun Bowl)
+Linemen    UT  AT TFL-YD  R  BK  PI  BU  BP 
+Drakulich   4   4   0-0   0   0   0   0   0 
+Geddes     40  45   6-42  2   0   1   2   0 
+Hornbacher  3   6   0-0   0   0   0   0   0 
+Jacobson    3   9   1-9   0   0   0   0   0
+Liggett    37  43   8-51  1   0   0   3   0 
+Periard     6   4   1-1   0   0   1   1   0 
+Walline    31  35  17-86  1   0   0   2   0 
+Adkins      3   0   0-0   0   0   0   0   0 
+Ends
+Gutzman     1   1   1-8   0   0   0   0   0 
+Janssen     3   4   1-12  0   0   0   0   0 
+Jarmon     35  42  16-102 0   1   0   1   1 
+Wynn       16  10  11-62  1   0   0   0   0 
+Linebackers
+Fiala      17  34   1-4   0   0   2   1   0 
+Kobza       7   4   1-1   0   0   0   1   0 
+Larson     52  42  11-43  1   0   4   2   0 
+Morell     11  14   0-0   3   0   1   0   0 
+Murtaugh*  53  73   2-8   1   0   2   3   0 
+Backs
+Anderson   19  16   1-1   2   0   3   5   0 
+Decker      4   6   0-0   0   0   0   0   0 
+Kosch       6   1   0-0   0   0   0   0   0 
+McClelland  4   1   0-0   0   0   1   0   0 
+Reeves     27  39   1-1   0   0   3   2   0 
+Stephenson 26  22   2-5   2   0   8   4   0 
+Morock      5   2   0-0   0   0   1   1   0 
+Hollstein   1   0   0-0   0   0   0   0   0
+Offense
+Ingles      0   0   0-0   1   0   0   0   0  
+Topliff     1   1   0-0   0   0   0   0   0  
+Williams    0   1   0-0   0   0   0   0   0  
+Frost       3   0   0-0   0   0   0   0   0 
+Kinney      2   0   0-0   0   0   0   0   0 
+Schneiss    1   0   0-0   0   0   0   0   0 
+McFarland   0   0   0-0   1   0   0   0   0  
+Buda        0   1   0-0   0   0   0   0   0  
+Newton      1   0   0-0   0   0   0   0   0 
+Lowe        1   0   0-0   0   0   0   0   0 
+Patrick     0   0   0-0   1   0   0   0   0 
+
+* Murtaugh's two-year total of 136 assisted career tackles is a Nebraska record; old record 120 by Wayne Meylan. Murtaugh's total of 126 assisted tackles in 1969 is a new record; old Nebraska record 119 by Meylan.

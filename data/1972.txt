@@ -1,0 +1,184 @@
+Nebraska Overall Team Statistics (Final)
+(includes bowl game)
+                         NU    Opp. 
+First downs, rushing    160      67 
+First downs, passing    124      60 
+Penalties                11      10 
+Total first downs       295     137 
+Rushing, att.           677     559 
+Yds. gained rushing    3126    1738 
+Yds. lost rushing       400     441 
+Net yds. rushing       2726    1297 
+Per game ave.         227.5   108.1 
+Passing, att.           332     272 
+Passes, completed       178     104 
+Passes, intercepted      21      15 
+Net yds.               2691    1301 
+Per game ave.         224.3   108.4 
+Total offense, att.    1011     831 
+Net yds.               5417    2598 
+Per game ave.         541.4   216.5
+Interceptions, No.       15      21 
+Net yds. returned       176     106 
+Punting, No.             55     108 
+Punts, blocked            1       1 
+Total yards            2165    3534 
+Per punt ave.          39.4    32.7 
+Punts returned, No.      51      25 
+Net yds.                771     201 
+Kickoffs returned, No.   23      80 
+Net yds.                436    1365 
+Penalties, No.           50      43 
+Total yds. penalized    510     522 
+Fumbles, No.             27      38 
+Fumbles lost             21      24 
+Scoring, total pts.     501      97 
+Per game ave.          41.8     8.1
+
+SCORING BY QUARTERS
+        l     2     3     4    Tot
+NU    105   143   152    96    501
+Opp     3    27    21    46     97
+
+AVG. SCORING BY QUARTERS
+        l     2     3     4    Tot
+NU    8.8  11.9  12.7   8.0   41.8
+Opp   0.3   2.3   1.8   3.8    8.1
+
+1972 Nebraska Cornhuskers
+Nebraska Overall Individual Statistics (Final)
+(includes bowl game)
+
+RUSHING  Att.  Gn. Loss   Net   Avg. TD 
+Dixon     139  590   15   575   4.1   9 
+Rodgers    73  392   44   348   4.8  10 
+Olds       64  373   27   346   5.4   2 
+Goeller    86  347   15   332   3.9   6 
+Moran      58  320    6   314   5.4   4 
+Damkroger  67  247   18   229   3.4   1 
+Westbrook  39  199    1   198   5.1   1 
+Powell     21  180    6   176   8.3   0 
+Runty      40  206   46   160   4.0   3 
+Bahe       15   80    7    73   4.9   0 
+O'Holleran  5   37    0    37   7.4   0 
+Garson      9   38    2    36   4.0   0 
+Davis       5   22    1    21   4.2   0 
+List        2   13    0    13   6.5   0 
+Sanger      1    0    7    -7  -7.0   0 
+Humm       52   82  205  -123  -2.4   5 
+Total     677 3126  400  2726   4.0  41 
+Opp.      559 1738  441  1297   2.3   5
+
+
+PASSING Att  Comp    Pct Int  Yds  TD 
+Humm    285*  153   .537  16 2259* 18** 
+Runty    46    24   .522   5  380   6  
+Rodgers   1     1  1.000   0   52   1  
+Total   332   178   .536  21 2691* 25**
+Opp.    272   104   .382  15 1301   7  
+*Nebraska Record **Big 8 Record
+
+
+TOTAL
+OFFENSE      No.   Yds.   Avg. 
+Humm         337   2136   6.3 
+Dixon        139    575   4.1 
+Runty         86    559   7.0 
+Rodgers       74    400   5.4 
+Olds          64    346   5.4 
+Goeller       86    332   3.9 
+Moran         58    314   5.4 
+Damkroger     67    229   3.4 
+Westbrook     39    198   5.1 
+Powell        21    176   8.3 
+Bahe          15     73   4.9 
+O'Holleran     5     37   7.4 
+Garson         9     36   4.0 
+Davis          5     21   4.2 
+List           2     13   6.5 
+Sanger         1     -7  -7.0 
+Total       1011   5417   5.4 
+Opp.         831   2529   3.1
+
+
+PASS
+RECEIVING     No.  Yds.   TD 
+Rodgers       58*  1013*   9 
+Revelle       41    548    4 
+Anderson, F.  15    381    4 
+List          24    364    3 
+Bahe           7     87    2 
+Goeller        7     84    2 
+Garson         8     74    0 
+Damkroger      9     60    0 
+Olds           5     50    1 
+Powell         2     34    0 
+Longwell       3     24    0 
+Dixon          1      0    0 
+Total        178   2691   25 
+Opp.         104   1301    7 
+*Nebraska record.
+
+
+PUNTING    No. Yds.  Avg.  Blkd. 
+Sanger*    54  2165  40.1   0 
+*Team       1     0   0.0   1 
+Total      55  2165  39.4   1    
+Opp.      108  3534  32.7   1
+
+
+PUNT RETURNS  No.  Yds.  Avg.  TD 
+Rodgers       40   615   12.9   2 
+Borg           4    86   21.5   1 
+Bahe           7    70   10.0   0 
+Total         51   771   15.1   3 
+Opp.          25   201    8.0   0
+
+
+KICKOFF
+RETURNS    No.  Yds.  Avg. 
+Bahe        9   198   22.0 
+Rodgers     9   195   21.7 
+Garson      1    25   25.0 
+Damkroger   2    18    9.0 
+Alward      1     0    0.0 
+Hegener     1     0    0.0 
+Total      23   436   19.0 
+Opp.       80  1365   17.1
+
+
+                      ---PAT---
+SCORING       TD     Kick  Other   FG    TP
+Rodgers       21                        126
+Sanger              66-62         14-6   80
+Dixon          9                         54
+Goeller        8                         48
+Humm           5            1-0          30
+Anderson, F.   4                         24
+Moran          4                         24
+Revelle        4                         24
+List           3                         18
+Olds           3            1-0          18
+Runty          3                         18
+Bahe           2     1-1                 13
+Borg           1                          6
+Damkroger      1                          6
+Sloey          1                          6
+Westbrook      1                          6
+Team                 1-0                  0
+Total         70    68-63   2-0   14-6  501
+Opp.          12    11-10   1-0   10-5   97
+
+
+INTERCEPTIONS   No.   Yds.  TD
+Sloey            2     55    1
+Borg             2     54    0
+Thornton         2     35    0
+Blahak           4     26    0
+Manstedt         2      6    0
+Mason            2      0    0
+Pitts            1      0    0
+Total           15    176    1
+Opp.            21    106    0
+
+

@@ -1,0 +1,198 @@
+1988 Nebraska Cornhuskers
+Nebraska Overall Team Statistics (Final)
+(does not include bowl game)
+TEAM STATISTICS                NU      Opp.
+Total First Downs.............292       174
+  By Rush.....................229        83
+  By Pass......................49        68
+  By Penalty...................14        23
+Total Offensive Yards........5735      3153
+  Avg. Gain Per Game........477.9     262.8
+  Total Plays.................738       461
+  Avg. Gain Per Play..........6.4       4.2
+Net Yards Rushing............4588      1535
+  Avg. Gain Per Game........382.3     127.9
+  Rushing Attempts............738       461
+  Avg. Gain Per Rush..........6.2       3.3
+  Yards Gained Rushing.......4856      1939
+  Yards Lost Rushing..........268       404
+Net Yards Passing............1147      1618
+  Avg. Gain Per Game.........95.6     134.8
+  Avg. Gain Per Attempt.......7.1       5.7
+  Avg. Gain Per Comp. .......14.5      13.2
+  Attempts....................163       282
+  Completions..................79       123
+  Percentage.................48.5      43.6
+  Had Intercepted...............9        16
+Interceptions by...............17*        9
+  Yards Returned..............328        77
+  Avg. Return................19.3       8.6
+Punting Average..............40.6      38.9
+  No. of Punts.................44        80
+  Yards......................1786      3112
+  Had Blocked...................0         3
+Punts Returned.................41        20
+  Yards Returned..............463       178
+  Average Return.............11.3       8.9
+Kickoffs Returned..............41        59
+  Yards Returned..............819       949
+  Average Return.............20.0      16.1
+Penalties-Yards............82-702    67-530
+  Avg. Yards Per Game........58.5      44.2
+Fumbles-Lost................25-12      28-9
+Touchdowns.....................64        21
+  By Rush......................47        10
+  By Pass......................12        10
+  By Return.....................5         1
+PAT Kicks Made-Attempted....53-56     17-18
+PAT Run/Pass Made-Att. .......4-8       0-3
+Field Goals Made/Att. .......9-13     13-15
+Safeties........................1         0
+Total Points..................474       182
+  Avg. Per Game..............39.5      15.2
+Third Down Conversions.....73-153    44-169
+  Percentage.................47.7      26.0
+Fourth Down Conversions.....18-31      7-12
+  Percentage.................58.1      58.3
+Sacks by.......................38         9
+Time of Possession.........389:35    330:25
+  Avg. Time of Poss. .......32:28     27:32
+
+*Included intercepted fumble.
+
+SCORING BY QUARTERS
+           lst   2nd   3rd   4th  Total
+Nebraska   121   143   104   106    474
+Opponent    54    47    32    49    182
+
+Avg. SCORING BY QUARTERS
+           lst   2nd   3rd   4th  Total
+Nebraska  10.1  11.9   8.7   8.8   39.5
+Opponent   4.5   3.9   2.7   4.1   15.2
+
+
+1988 Nebraska Cornhuskers
+Nebraska Overall Individual Statistics (Final)
+(does not include bowl game)
+                                       NCAA
+PASSING  G Att Cmp  Pct  Yds Int LP TD  Eff.
+Taylor  12 151  72 .477 1067  7  82 11 121.8
+Gdowski  7   8   5 .625   64  0  14  1 171.0
+Joseph   7   4   2 .500   16  2   9  0 -16.4
+
+
+
+RECEIVING    G   No. Yds  Avg.  LP TD
+Gregory      12  20  239  12.0  21  2
+Millikan     12  16  308  19.3  82  7
+Brinson      11  11  148  13.5  52  1
+Bell         12   9  177  19.7  37  1
+Turner       12   8  150  18.8  59  0
+Clark        12   6   45   7.5  25  0
+Worden       12   3   32  10.7  14  0
+Kratzenstein 12   2   19   9.5  11  0
+Carpenter    12   2   12   6.0   9  0
+Flowers       8   1   11  11.0  11  0
+Devall        6   1    6   6.0   6  1
+
+
+                      XP    XP
+SCORING    G   TD   1-A   2-A  FG-A   Pts.
+Taylor     12  13   0-0   1-2   0-0    80
+Clark      12  12   0-0   1-2   0-0    74
+Barrios     9   0  24-24  0-0   6-9    42
+Millikan   12   7   0-0   0-0   0-0    42
+Drennan    10   0  28-30  0-0   3-4    37
+Knox       11   6   0-0   0-0   0-0    36
+Rodgers     5   3   0-0   1-1   0-0    20
+Joseph      7   3   0-0   0-0   0-0    18
+Carpenter  12   3   0-0   0-0   0-0    18
+Gregory    12   3   0-0   0-0   0-0    18
+Gdowski     7   2   0-0   0-1   0-0    12
+Flowers     8   2   0-0   0-0   0-0    12
+Brinson    11   2   0-0   0-0   0-0    12
+Baldwin     1   1   0-0   0-0   0-0     6
+Schmidt     3   1   0-0   0-0   0-0     6
+Devall      6   1   0-0   0-0   0-0     6
+C.Walker    8   1   0-0   0-0   0-0     6
+Blazek     11   1   0-0   0-0   0-0     6
+Bell       12   1   0-0   0-0   0-0     6
+Fryar      12   1   0-0   0-0   0-0     6
+Lewis      12   1   0-0   0-0   0-0     6
+TEAM       12   0   0-1   0-0   0-0    *2
+*Safety
+
+
+TOTAL                         Yds/  Yds/
+OFFENSE    G  Att Rush Pass Tot. Play  Game
+Taylor     12 308  826 1067 1893  6.1 157.8
+Clark      12 232 1497    0 1497  6.5 124.8
+Carpenter  12  72  498    0  498  6.9  41.5
+Knox       11  72  490    0  490  6.8  44.5
+
+
+
+ALL-PURPOSE                         Yds/
+YARDS    G  Rush  Rec   PR  KOR  Tot.  Game
+Clark   12  1497   45    0    0  1542 128.5
+Brinson 11    84  148  196  510   938  85.3
+Taylor  12   826    0    0    0   826  68.8
+Knox    11   490    0    0   27   517  47.0
+Bell    12   116  177  100  112   505  42.1
+
+
+INTERCEPTION
+RETURNS    G    No. Yards  Avg.   LP   TD
+Fryar      12   *4   100   25.0   86    1
+Jackson    11    4    74   18.5   55    0
+Blazek     11    3    80   26.7   75    1
+T.Lewis    10    1    45   45.0   45    0
+Pickens    12    1    18   18.0   18    0
+Croel      12    1     9    9.0    9    0
+Caliendo   12    1     2    2.0    2    0
+L.Hicks    11    1     0    0.0    0    0
+Cooper     12    1     0    0.0    0    0
+*Includes one intercepted fumble.
+
+
+
+PUNTING   G   No.  Yards  Avg.   LP   Blk 
+Kroeker  12    44  1,786  40.6   65    0
+
+
+
+FIELD
+GOALS       1-19  20-29  30-39  40-49  50+
+Barrios     0-0    0-0    4-4    2-5   0-0
+Drennan     0-0    2-2    0-0    1-2   0-0
+Opponents   1-1    3-3    2-3    2-3   5-5
+
+Barrios FGs (underlined good): (45, 44, 38, 48) (0), (DNP), (0), (46), (DNP), (0), (36, 37), (DNP), (30), (0), (41).
+Drennan FGs: (DNP), (0), (0), (40), (0), (0), (41), (DNP), (29, 23), (0), (0), (0).
+Opponent FGs: (35), (0), (42, 34), (22), (53, 54), (50), (0), (61), (25, 32, 19, 51), (42), (42), (29).
+
+
+
+KICKOFF
+RETURNS   G   No.  Yards   Avg.   LP  TD
+Brinson  11    23    510   22.2   41   0
+Rodgers   5     7    123   17.6   27   0
+Bell     12     6    112   18.7   28   0
+Knox     11     1     27   27.0   27   0
+Turner   12     1     25   25.0   25   0
+Kitrell   5     1     22   22.0   22   0
+Svehla   12     1      0    0.0    0   0
+Worden   12     1      0    0.0    0   0
+
+
+PUNT
+RETURNS    G  No.   Yds    Avg   LP   TD
+Brinson   11   21   196    9.3   75    1
+Gregory   12    7   118   16.9   64    1
+Bell      12   11   100    9.1   29    0
+C.Walker   8    0    34     --   34    1
+Croel     12    1     8    8.0    8    0
+Caliendo  12    1     7    7.0    7    0
+
+
+  DEFENSEThomasEtienneCooperPeteCaliendoMillsGriffinBlazekJacksonWellsTyranceFryarJobmanMarcoL.HicksCroelT.LewisSandersBrungardtHaggePickensMurrayFergusonSimsMonarrezCustardJ.AndersonCrippenBuchananSvehlaB.MillerHarchelroadValladaoGregoryBellVampolaK.WalkerEdgrenWanekL.LewisDrennanC.WalkerKnoxSettlesCarmerE.AndersonOlsonKratzensteinGarrettBroerJanky  PosOLBILBSSMGILBOLBDTSFSDTILBCBILBOLBCBOLBCBCBDTILBCBMGILBDTMGCBCCBILBOLBILBFBDTSEWBSSILBMGOGFBPKCBIBCBFSCBFSTETEOLBPK  G1211121012121211111212121212111210101210121071210810661239712123341112108113122121128  UT53523733342433192719202715141915121011119563165344321332211211111110000  AT4527212219261421111916714126788645636710200123001122000000001111  TT9879585553504740383836342926252220181715141199875544444333333211111111111  TFL17-1118-358-357-441-15-167-211-31-87-391-4002-91-52-1301-63-1202-81-11-22-11000001-1001-101-100001-300000000000  Sacks10-743-2007-441-12-84-1801-84-270001-802-13001-701-7001-8000000000000000000000000000 FmbCsd310210013101001000000000000000010000000000000000000 FmbRcv002000201002000000000000000000010000000001000000000 BlkKck000010000000000200000000000000000000000000000000000  PBU334021215104103442001100000100002000000000000000000  Int001010034003001110001000000000000000000000000000000QBH/IntCsd35-22-04-07-2-10-28-01-0-8-04-0-1-03-22-04-0--1-0--4-0-6-0-----1-0------1-0------------1-0-

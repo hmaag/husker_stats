@@ -1,0 +1,626 @@
+        2009 Nebraska Cornhuskers
+         Overall Team Statistics
+                All games
+
+TEAM STATISTICS           NU          OPP
+-----------------------------------------
+SCORING.............     352          146
+  Points Per Game...    25.1         10.4
+FIRST DOWNS.........     226          228
+  Rushing...........      98           84
+  Passing...........     111          112
+  Penalty...........      17           32
+RUSHING YARDAGE.....    2059         1304
+  Yards gained .....    2363         1709
+  Yards lost .......     304          405
+  Rushing Attempts..     512          465
+  Avg. Per Rush.....     4.0          2.8
+  Avg. Per Game.....   147.1         93.1
+  TDs Rushing.......      20            7
+PASSING YARDAGE....     2460         2504
+  Comp-Att-Int... 210-364-12   234-490-20
+  Avg. Per Pass....      6.8          5.1
+  Avg. Per Catch....    11.7         10.7
+  Avg. Per Game.....   175.7        178.9
+  TDs Passing.......      16            7
+TOTAL OFFENSE.......    4519         3808
+  Total Plays.......     876          955
+  Avg. Per Play.....     5.2          4.0
+  Avg. Per Game.....   322.8        272.0
+KICK RETURNS-YDS....  33-795       49-951
+PUNT RETURNS-YDS....  44-510       31-366
+INT RETURNS-YDS.....  20-296       12-128
+KICK RETURN AVG.....    24.1         19.4
+PUNT RETURN AVG.....    11.6         11.8
+INT RETURN AVG......    14.8         10.7
+FUMBLES-LOST........   21-11         26-8
+PENALTIES-Yards..... 100-894       84-678
+  Avg. Per Game.....    63.9         48.4
+PUNTS-Yards......... 78-3210      93-3849
+  Avg. Per Punt.....    41.2         41.4
+  Net punt avg......    34.7         35.3
+POSS TIME/Game......   30:30        29:30
+3RD-DOWN Conv.......   77/201       72/223
+  3rd-Down Pct......     38%          32%
+4TH-DOWN Conv.......     5/8        10/22
+  4th-Down Pct......     62%          45%
+SACKS BY-Yards......  44-312       19-121
+MISC YARDS..........      34            1
+TOUCHDOWNS SCORED...      40           16
+FIELD GOALS-ATTS....   24-28        12-24
+ON-SIDE KICKS.......     0-0          0-0
+RED-ZONE SCORES... 38-47 81%    16-25 64%
+RED-ZONE TDs...... 25-47 53%    11-25 44%
+PAT-ATTEMPTS..... 38-38 100%    12-14 86%
+ATTENDANCE..........  601216       268103
+  Games/Avg......... 7/85888      5/53621
+  Neut. Site Games                2/70409
+
+
+SCORE BY
+QUARTERS      1st  2nd  3rd  4th    Total
+-----------   ---  ---  ---  ---      ---
+Nebraska       87  111   58   96  -   352
+Opponents      27   64   23   32  -   146
+
+
+RUSHING     G-GS   Att Gain Loss  Net   Avg  TD Lng Avg/G
+---------------------------------------------------------
+R.Helu Jr.  14-14  220 1193   46 1147   5.2  10  63  81.9
+R.Burkhead   9-0    81  360   14  346   4.3   3  34  38.4
+Z.Lee       13-12  103  315  144  171   1.7   1  32  13.2
+D.Robinson   8-0    39  176   11  165   4.2   2  23  20.6
+C.Green      9-2    31  170   12  158   5.1   2  49  17.6
+N.Paul      14-14    3   50    2   48  16.0   1  30   3.4
+L.Ward       5-0    10   44    6   38   3.8   0   9   7.6
+A.Jones      5-0     7   18    0   18   2.6   0   8   3.6
+L.Washington 4-0     3   17    0   17   5.7   0   7   4.2
+M.Mendoza    7-0     4   11    1   10   2.5   0   7   1.4
+C.Okafor     1-0     1    9    0    9   9.0   0   9   9.0
+B.Cotton    14-1     0    0    0    0   0.0   1   0   0.0
+TEAM        10-0    10    0   68  -68  -6.8   0   0  -6.8
+Total....... 14    512 2363  304 2059   4.0  20  63 147.1
+Opponents....14    465 1709  405 1304   2.8   7  46  93.1
+
+
+PASSING  G-GS  Effic  Cmp-Att-Int  Pct  Yds  TD Lng  Avg/G
+----------------------------------------------------------
+Z.Lee   13-12  126.89  177-302-10  58.6 2143  14  74 164.8
+C.Green   9-2  100.37    33-62-2   53.2  317   2  45  35.2
+Total...   14  122.37  210-364-12  57.7 2460  16  74 175.7
+Opponents  14   87.23  234-490-20  47.8 2504   7  81 178.9
+
+
+RECEIVING        GP-GS  No.  Yds   Avg  TD Long Avg/G
+-----------------------------------------------------
+Paul, Niles      14-14   40  796  19.9   4   74  56.9
+McNeill, Mike    14-14   28  259   9.2   4   32  18.5
+Helu Jr., Roy    14-14   19  149   7.8   0   27  10.6
+Gilleylen, C     11-2    17  302  17.8   1   51  27.5
+Holt, Menelik    14-5    15  175  11.7   1   30  12.5
+Kinnie, Brandon  13-2    15  141   9.4   0   16  10.8
+Brooks, Chris    12-0    14  179  12.8   1   26  14.9
+Burkhead, Rex     9-0    13   90   6.9   1   24  10.0
+Cooper, Khiry    12-4    13   80   6.2   1   17   6.7
+Mendoza, Marcus   7-0     7   45   6.4   0    9   6.4
+Reed, Kyler      11-1     6   54   9.0   0   22   4.9
+Young, Dreu      12-9     5   78  15.6   0   34   6.5
+Cotton, Ben      14-1     5   43   8.6   1   24   3.1
+Robinson, D       8-0     4   26   6.5   0   19   3.2
+Legate, Tyler    14-4     3   27   9.0   1   13   1.9
+Hill, Ryan       13-0     2    8   4.0   1    7   0.6
+Bell, Antonio     6-0     1    3   3.0   0    3   0.5
+Cammack, Wes      9-0     1    2   2.0   0    2   0.2
+Jones, Austin     5-0     1    2   2.0   0    2   0.4
+Henry, Will       7-0     1    1   1.0   0    1   0.1
+Total..........  14     210 2460  11.7  16   74 175.7
+Opponents......  14     234 2504  10.7   7   81 178.9
+
+
+PUNT RETURNS       No.  Yds   Avg TD Long
+-----------------------------------------
+Paul, Niles         38  407  10.7  1   59
+Burkhead, Rex        4   73  18.2  0   33
+Martin, Eric         1    9   9.0  0    0
+May, Mathew          1   -4  -4.0  0    0
+Blatchford, J        0   25   0.0  1   25
+Total..........     44  510  11.6  2   59
+Opponents......     31  366  11.8  0   62
+
+
+INTERCEPTIONS      No.  Yds   Avg TD Long
+-----------------------------------------
+O'Hanlon, Matt       6  105  17.5  1   37
+Amukamara, Prince    5   63  12.6  0   40
+Gomes, Dejon         4   45  11.2  0   40
+Asante, Larry        2   74  37.0  1   74
+Hagg, Eric           1    0   0.0  0    0
+Dillard, Phillip     1    9   9.0  0    9
+Suh, Ndamukong       1    0   0.0  0    0
+Total..........     20  296  14.8  2   74
+Opponents......     12  128  10.7  1   45
+
+
+KICK RETURNS       No.  Yds   Avg TD Long
+-----------------------------------------
+Paul, Niles         16  446  27.9  0   49
+Marlowe, Tim        12  284  23.7  0   40
+Cotton, Ben          1    2   2.0  0    2
+Dennard, Alfonzo     1   25  25.0  0   25
+Legate, Tyler        1   22  22.0  0   22
+Burkhead, Rex        1   15  15.0  0   15
+Stoddard, Graham     1    1   1.0  0    1
+Total..........     33  795  24.1  0   49
+Opponents......     49  951  19.4  0   76
+
+
+FUMBLE RETURNS     No.  Yds   Avg TD Long
+-----------------------------------------
+Amukamara, Prince    1    4   4.0  0    4
+Meredith, Cameron    1    4   4.0  0    4
+Fisher, Sean         1   21  21.0  0   21
+Total..........      3   29   9.7  0   21
+Opponents......      1   82  82.0  1   82
+
+
+                        |------ PATs ------|
+SCORING       TD  FGs   Kick   Rush Rcv Pass DXP Saf Pts
+--------------------------------------------------------
+Henery, Alex   0 24-28  38-38   0-0   0  0-0  0   0  110
+Helu Jr., Roy 10  0-0    0-0    0-0   0  0-0  0   0   60
+Paul, Niles    6  0-0    0-0    0-0   1  0-0  0   0   38
+McNeill, Mike  4  0-0    0-0    0-0   0  0-0  0   0   24
+Burkhead, Rex  4  0-0    0-0    0-0   0  0-0  0   0   24
+Cotton, Ben    2  0-0    0-0    0-0   0  0-0  0   0   12
+Green, Cody    2  0-0    0-0    0-0   0  0-0  0   0   12
+Robinson, D    2  0-0    0-0    0-0   0  0-0  0   0   12
+O'Hanlon, Matt 1  0-0    0-0    0-0   0  0-0  0   0    6
+Hill, Ryan     1  0-0    0-0    0-0   0  0-0  0   0    6
+Blatchford, J  1  0-0    0-0    0-0   0  0-0  0   0    6
+Holt, Menelik  1  0-0    0-0    0-0   0  0-0  0   0    6
+Brooks, Chris  1  0-0    0-0    0-0   0  0-0  0   0    6
+Lee, Zac       1  0-0    0-0    0-0   0  1-1  0   0    6
+Gilleylen, C   1  0-0    0-0    0-0   0  0-1  0   0    6
+Legate, Tyler  1  0-0    0-0    0-0   0  0-0  0   0    6
+Cooper, Khiry  1  0-0    0-0    0-0   0  0-0  0   0    6
+Asante, Larry  1  0-0    0-0    0-0   0  0-0  0   0    6
+Total......   40 24-28  38-38   0-0   1  1-2  0   0  352
+Opponents..   16 12-24  12-14   0-0   0  0-1  0   1  146
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Lee, Zac        13   405  171 2143  2314 178.0
+Helu Jr., Roy   14   220 1147    0  1147  81.9
+Green, Cody      9    93  158  317   475  52.8
+Burkhead, Rex    9    81  346    0   346  38.4
+Robinson, D      8    39  165    0   165  20.6
+Paul, Niles     14     3   48    0    48   3.4
+Ward, Lester     5    10   38    0    38   7.6
+Jones, Austin    5     7   18    0    18   3.6
+Washington, L    4     3   17    0    17   4.2
+Mendoza, Marcus  7     4   10    0    10   1.4
+Okafor, Collins  1     1    9    0     9   9.0
+TEAM            10    10  -68    0   -68  -6.8
+Total........   14   876 2059 2460  4519 322.8
+Opponents....   14   955 1304 2504  3808 272.0
+
+
+FIELD
+GOALS   FGM-FGA  Pct  1-19  20s  30s  40s  50s Lg Blk
+-----------------------------------------------------
+A.Henery  24-28  85.7  1-1  8-8  6-6  7-8  2-5  52  0
+
+
+FG SEQUENCE    Nebraska                  OPPONENTS
+--------------------------------------------------
+Fla Atlantic   -                         46,(21)
+Arkansas St    (26),54                   (42)
+Va Tech        (40),(27),(19),(38),(38)  (39)
+Louisiana      (39),(46)                 50
+Missouri       -                         43,(33)
+Texas Tech     (21),51                   (32)
+Iowa State     -                         (52),49
+Baylor         (45),(22)                 (41),29
+Oklahoma       (28),43                   46,45,(28),42
+Kansas         (25),(34),(38)            (33)
+Kansas St      (34)                      (44),51,32
+Colorado       50                        52,37
+Texas          (45),(52),(28),(42)       (39),(46)
+Arizona        (47),(50),(41),(22)       -
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING        No.  Yds   Avg  Lng  TB  FC I20 Blk
+--------------------------------------------------
+Henery, Alex   77  3187  41.4   76   7   8  30   1
+TEAM            1    23  23.0   23   0   0   0   0
+Total......... 78  3210  41.2   76   7   8  30   1
+Opponents..... 93  3849  41.4   60   3  13  26   1
+
+
+KICKOFFS       No.   Yds   Avg  TB  OB  Retn  Net YdLn
+------------------------------------------------------
+Kunalic, Adi    78  5318  68.2  29   1
+Henery, Alex     1    50  50.0   0   0
+Total........   79  5368  67.9  29   1   951 48.6   21
+Opponents....   38  2371  62.4   4   1   795 39.4   30
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Paul, Niles     14   48  796  407  446    0 1697 121.2
+Helu Jr., Roy   14 1147  149    0    0    0 1296  92.6
+Burkhead, Rex    9  346   90   73   15    0  524  58.2
+Gilleylen, C    11    0  302    0    0    0  302  27.5
+Marlowe, Tim    13    0    0    0  284    0  284  21.8
+McNeill, Mike   14    0  259    0    0    0  259  18.5
+Robinson, D      8  165   26    0    0    0  191  23.9
+Brooks, Chris   12    0  179    0    0    0  179  14.9
+Holt, Menelik   14    0  175    0    0    0  175  12.5
+Lee, Zac        13  171    0    0    0    0  171  13.2
+Green, Cody      9  158    0    0    0    0  158  17.6
+Kinnie, Brandon 13    0  141    0    0    0  141  10.8
+O'Hanlon, Matt  14    0    0    0    0  105  105   7.5
+Cooper, Khiry   12    0   80    0    0    0   80   6.7
+Young, Dreu     12    0   78    0    0    0   78   6.5
+Asante, Larry   14    0    0    0    0   74   74   5.3
+Amukamara, P    14    0    0    0    0   63   63   4.5
+Mendoza, Marcus  7   10   45    0    0    0   55   7.9
+Reed, Kyler     11    0   54    0    0    0   54   4.9
+Legate, Tyler   14    0   27    0   22    0   49   3.5
+Cotton, Ben     14    0   43    0    2    0   45   3.2
+Gomes, Dejon    13    0    0    0    0   45   45   3.5
+Ward, Lester     5   38    0    0    0    0   38   7.6
+Blatchford, J   12    0    0   25    0    0   25   2.1
+Dennard, A      13    0    0    0   25    0   25   1.9
+Jones, Austin    5   18    2    0    0    0   20   4.0
+Washington, L    4   17    0    0    0    0   17   4.2
+Martin, Eric    14    0    0    9    0    0    9   0.6
+Okafor, Collins  1    9    0    0    0    0    9   9.0
+Dillard, P      12    0    0    0    0    9    9   0.8
+Hill, Ryan      13    0    8    0    0    0    8   0.6
+Bell, Antonio    6    0    3    0    0    0    3   0.5
+Cammack, Wes     9    0    2    0    0    0    2   0.2
+Henry, Will      7    0    1    0    0    0    1   0.1
+Stoddard, G     14    0    0    0    1    0    1   0.1
+May, Mathew     14    0    0   -4    0    0   -4  -0.3
+TEAM            10  -68    0    0    0    0  -68  -6.8
+Total.......    14 2059 2460  510  795  296 6120 437.1
+Opponents...    14 1304 2504  366  951  128 5253 375.2
+
+
+Page 1 / 1Zoom 100%
+
+
+Overall Defensive Statistics
+
+
+                            |-------Tackles------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blkd
+                      GP-GS Solo  Ast  Tot TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kick Saf
+--------------------------------------------------------------------------------------------------
+93 Suh, Ndamukong     14-14   52   33  85   24-93  12.0-77     1-0     10  26    .      1    3   .
+52 Dillard, Phillip    12-9   45   38  83   11-45   3.0-27     1-9      3   4    .      1    .   .
+4  Asante, Larry      14-14   42   37  79    1-2       .       2-74     7   .    .      2    .   .
+94 Crick, Jared       14-14   31   42  73   15-63   9.5-57      .       4  16   2-0     .    1   .
+33 O'Hanlon, Matt     14-14   39   30  69    2-19   2.0-19     6-105    5   .   2-0     1    .   .
+21 Amukamara, Prince  14-14   41   23  64    3-13   2.0-11     5-63    11   .   1-4     1    .   .
+95 Allen, Pierre      14-13   19   32  51   12-55   5.0-43      .       5   8    .      1    .   .
+99 Turner, Barry      14-14   28   23  51   16-50   5.5-39      .       5  13   1-0     1    .   .
+7  Gomes, Dejon        13-6   26   20  46    4-7       .       4-45     5   3    .      3    .   .
+28 Hagg, Eric         14-10   30   10  40    7-32   2.0-22     1-0      4   3    .      1    .   .
+51 Compton, Will       13-8   17   23  40    1-2    0.5-2       .       2   2    .      .    .   .
+42 Fisher, Sean        14-6   10   25  35    2-5    1.0-3       .       .   3   1-21    .    .   .
+15 Dennard, Alfonzo    13-9   21   10  31    4-10      .        .       8   .    .      .    .   .
+34 Meredith, Cameron   14-0   13    8  21    5-18   1.5-12      .       1   2   1-4     .    .   .
+55 Steinkuler, Baker   13-0    6   11  17    1-2       .        .       2   .    .      .    .   .
+46 Martin, Eric        14-0    8    7  15     .        .        .       .   .    .      .    2   .
+13 Smith, P.J.         14-0    8    7  15     .        .        .       1   .    .      .    .   .
+3  Thenarse, Rickey     4-0    3    8  11    1-2       .        .       .   .    .      1    .   .
+5  West, Anthony       13-5    9    2  11     .        .        .       4   .    .      .    .   .
+40 Lawrence, Blake      3-2    6    4  10     .        .        .       .   .    .      .    .   .
+38 Stoddard, Graham    14-0    7    3  10     .        .        .       .   .    .      .    .   .
+36 May, Mathew         14-0    1    9  10     .        .        .       .   .    .      .    .   .
+8  Cassidy, Austin     14-0    6    3   9     .        .        .       1   .    .      .    .   .
+23 Thorell, Lance      14-1    4    3   7     .        .        .       1   .    .      .    .   .
+30 Hays, Mike          14-0    2    3   5     .        .        .       .   .    .      .    .   .
+54 Koehler, Colton      4-0    2    3   5    1-1       .        .       1   .    .      .    .   .
+31 Dean, Jase           5-0    3    1   4     .        .        .       .   .    .      1    .   .
+14 Blue, Anthony       11-0    4    .   4     .        .        .       .   .    .      .    .   .
+24 Paul, Niles        14-14    4    .   4     .        .        .       .   .    .      .    .   .
+41 Grove, Thomas       13-0    1    2   3     .        .        .       .   .    .      .    .   .
+39 Blatchford, J       12-0    3    .   3     .        .        .       .   .    .      .    .   .
+98 Williams, Josh       3-0    2    1   3     .        .        .       .   .    .      .    .   .
+90 Henery, Alex        14-0    1    1   2     .        .        .       .   .    .      .    .   .
+8G Klingelhoefer, F     2-0    1    1   2     .        .        .       .   .    .      .    .   .
+90 Moore, Terrence      4-0    1    1   2     .        .        .       .   .    .      .    .   .
+80 Hill, Ryan          13-0    1    .   1     .        .        .       .   .    .      .    .   .
+58 Jackson, Justin      2-0    .    1   1     .        .        .       .   .    .      .    .   .
+12 Osborne, Courtney    6-0    1    .   1     .        .        .       .   .    .      .    .   .
+80 Harvey, David        2-1    1    .   1     .        .        .       .   .    .      .    .   .
+15 Washington, L        4-0    .    1   1     .        .        .       .   .    .      .    .   .
+82 Cammack, Wes         9-0    .    1   1     .        .        .       .   .    .      .    .   .
+22 Burkhead, Rex        9-0    1    .   1     .        .        .       .   .    .      .    .   .
+   Total..........     14-0  500  427  927  110-419  44-312   20-296   80  80   8-29   14    6   .
+   Opponents......     14-0    -    -    -     -     19-121   12-128   41  25  11-82   10    1   1
+
+
+
+
+      
+RUSHING     G-GS   Att Gain Loss  Net   Avg  TD Lng Avg/G
+---------------------------------------------------------
+R.Helu Jr.  14-14  220 1193   46 1147   5.2  10  63  81.9
+R.Burkhead   9-0    81  360   14  346   4.3   3  34  38.4
+Z.Lee       13-12  103  315  144  171   1.7   1  32  13.2
+D.Robinson   8-0    39  176   11  165   4.2   2  23  20.6
+C.Green      9-2    31  170   12  158   5.1   2  49  17.6
+N.Paul      14-14    3   50    2   48  16.0   1  30   3.4
+L.Ward       5-0    10   44    6   38   3.8   0   9   7.6
+A.Jones      5-0     7   18    0   18   2.6   0   8   3.6
+L.Washington 4-0     3   17    0   17   5.7   0   7   4.2
+M.Mendoza    7-0     4   11    1   10   2.5   0   7   1.4
+C.Okafor     1-0     1    9    0    9   9.0   0   9   9.0
+B.Cotton    14-1     0    0    0    0   0.0   1   0   0.0
+TEAM        10-0    10    0   68  -68  -6.8   0   0  -6.8
+Total....... 14    512 2363  304 2059   4.0  20  63 147.1
+Opponents....14    465 1709  405 1304   2.8   7  46  93.1
+
+
+PASSING  G-GS  Effic  Cmp-Att-Int  Pct  Yds  TD Lng  Avg/G
+----------------------------------------------------------
+Z.Lee   13-12  126.89  177-302-10  58.6 2143  14  74 164.8
+C.Green   9-2  100.37    33-62-2   53.2  317   2  45  35.2
+Total...   14  122.37  210-364-12  57.7 2460  16  74 175.7
+Opponents  14   87.23  234-490-20  47.8 2504   7  81 178.9
+
+
+RECEIVING        GP-GS  No.  Yds   Avg  TD Long Avg/G
+-----------------------------------------------------
+Paul, Niles      14-14   40  796  19.9   4   74  56.9
+McNeill, Mike    14-14   28  259   9.2   4   32  18.5
+Helu Jr., Roy    14-14   19  149   7.8   0   27  10.6
+Gilleylen, C     11-2    17  302  17.8   1   51  27.5
+Holt, Menelik    14-5    15  175  11.7   1   30  12.5
+Kinnie, Brandon  13-2    15  141   9.4   0   16  10.8
+Brooks, Chris    12-0    14  179  12.8   1   26  14.9
+Burkhead, Rex     9-0    13   90   6.9   1   24  10.0
+Cooper, Khiry    12-4    13   80   6.2   1   17   6.7
+Mendoza, Marcus   7-0     7   45   6.4   0    9   6.4
+Reed, Kyler      11-1     6   54   9.0   0   22   4.9
+Young, Dreu      12-9     5   78  15.6   0   34   6.5
+Cotton, Ben      14-1     5   43   8.6   1   24   3.1
+Robinson, D       8-0     4   26   6.5   0   19   3.2
+Legate, Tyler    14-4     3   27   9.0   1   13   1.9
+Hill, Ryan       13-0     2    8   4.0   1    7   0.6
+Bell, Antonio     6-0     1    3   3.0   0    3   0.5
+Cammack, Wes      9-0     1    2   2.0   0    2   0.2
+Jones, Austin     5-0     1    2   2.0   0    2   0.4
+Henry, Will       7-0     1    1   1.0   0    1   0.1
+Total..........  14     210 2460  11.7  16   74 175.7
+Opponents......  14     234 2504  10.7   7   81 178.9
+
+
+PUNT RETURNS       No.  Yds   Avg TD Long
+-----------------------------------------
+Paul, Niles         38  407  10.7  1   59
+Burkhead, Rex        4   73  18.2  0   33
+Martin, Eric         1    9   9.0  0    0
+May, Mathew          1   -4  -4.0  0    0
+Blatchford, J        0   25   0.0  1   25
+Total..........     44  510  11.6  2   59
+Opponents......     31  366  11.8  0   62
+
+
+INTERCEPTIONS      No.  Yds   Avg TD Long
+-----------------------------------------
+O'Hanlon, Matt       6  105  17.5  1   37
+Amukamara, Prince    5   63  12.6  0   40
+Gomes, Dejon         4   45  11.2  0   40
+Asante, Larry        2   74  37.0  1   74
+Hagg, Eric           1    0   0.0  0    0
+Dillard, Phillip     1    9   9.0  0    9
+Suh, Ndamukong       1    0   0.0  0    0
+Total..........     20  296  14.8  2   74
+Opponents......     12  128  10.7  1   45
+
+
+KICK RETURNS       No.  Yds   Avg TD Long
+-----------------------------------------
+Paul, Niles         16  446  27.9  0   49
+Marlowe, Tim        12  284  23.7  0   40
+Cotton, Ben          1    2   2.0  0    2
+Dennard, Alfonzo     1   25  25.0  0   25
+Legate, Tyler        1   22  22.0  0   22
+Burkhead, Rex        1   15  15.0  0   15
+Stoddard, Graham     1    1   1.0  0    1
+Total..........     33  795  24.1  0   49
+Opponents......     49  951  19.4  0   76
+
+
+FUMBLE RETURNS     No.  Yds   Avg TD Long
+-----------------------------------------
+Amukamara, Prince    1    4   4.0  0    4
+Meredith, Cameron    1    4   4.0  0    4
+Fisher, Sean         1   21  21.0  0   21
+Total..........      3   29   9.7  0   21
+Opponents......      1   82  82.0  1   82
+
+
+                        |------ PATs ------|
+SCORING       TD  FGs   Kick   Rush Rcv Pass DXP Saf Pts
+--------------------------------------------------------
+Henery, Alex   0 24-28  38-38   0-0   0  0-0  0   0  110
+Helu Jr., Roy 10  0-0    0-0    0-0   0  0-0  0   0   60
+Paul, Niles    6  0-0    0-0    0-0   1  0-0  0   0   38
+McNeill, Mike  4  0-0    0-0    0-0   0  0-0  0   0   24
+Burkhead, Rex  4  0-0    0-0    0-0   0  0-0  0   0   24
+Cotton, Ben    2  0-0    0-0    0-0   0  0-0  0   0   12
+Green, Cody    2  0-0    0-0    0-0   0  0-0  0   0   12
+Robinson, D    2  0-0    0-0    0-0   0  0-0  0   0   12
+O'Hanlon, Matt 1  0-0    0-0    0-0   0  0-0  0   0    6
+Hill, Ryan     1  0-0    0-0    0-0   0  0-0  0   0    6
+Blatchford, J  1  0-0    0-0    0-0   0  0-0  0   0    6
+Holt, Menelik  1  0-0    0-0    0-0   0  0-0  0   0    6
+Brooks, Chris  1  0-0    0-0    0-0   0  0-0  0   0    6
+Lee, Zac       1  0-0    0-0    0-0   0  1-1  0   0    6
+Gilleylen, C   1  0-0    0-0    0-0   0  0-1  0   0    6
+Legate, Tyler  1  0-0    0-0    0-0   0  0-0  0   0    6
+Cooper, Khiry  1  0-0    0-0    0-0   0  0-0  0   0    6
+Asante, Larry  1  0-0    0-0    0-0   0  0-0  0   0    6
+Total......   40 24-28  38-38   0-0   1  1-2  0   0  352
+Opponents..   16 12-24  12-14   0-0   0  0-1  0   1  146
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Lee, Zac        13   405  171 2143  2314 178.0
+Helu Jr., Roy   14   220 1147    0  1147  81.9
+Green, Cody      9    93  158  317   475  52.8
+Burkhead, Rex    9    81  346    0   346  38.4
+Robinson, D      8    39  165    0   165  20.6
+Paul, Niles     14     3   48    0    48   3.4
+Ward, Lester     5    10   38    0    38   7.6
+Jones, Austin    5     7   18    0    18   3.6
+Washington, L    4     3   17    0    17   4.2
+Mendoza, Marcus  7     4   10    0    10   1.4
+Okafor, Collins  1     1    9    0     9   9.0
+TEAM            10    10  -68    0   -68  -6.8
+Total........   14   876 2059 2460  4519 322.8
+Opponents....   14   955 1304 2504  3808 272.0
+
+
+FIELD
+GOALS   FGM-FGA  Pct  1-19  20s  30s  40s  50s Lg Blk
+-----------------------------------------------------
+A.Henery  24-28  85.7  1-1  8-8  6-6  7-8  2-5  52  0
+
+
+FG SEQUENCE    Nebraska                  OPPONENTS
+--------------------------------------------------
+Fla Atlantic   -                         46,(21)
+Arkansas St    (26),54                   (42)
+Va Tech        (40),(27),(19),(38),(38)  (39)
+Louisiana      (39),(46)                 50
+Missouri       -                         43,(33)
+Texas Tech     (21),51                   (32)
+Iowa State     -                         (52),49
+Baylor         (45),(22)                 (41),29
+Oklahoma       (28),43                   46,45,(28),42
+Kansas         (25),(34),(38)            (33)
+Kansas St      (34)                      (44),51,32
+Colorado       50                        52,37
+Texas          (45),(52),(28),(42)       (39),(46)
+Arizona        (47),(50),(41),(22)       -
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING        No.  Yds   Avg  Lng  TB  FC I20 Blk
+--------------------------------------------------
+Henery, Alex   77  3187  41.4   76   7   8  30   1
+TEAM            1    23  23.0   23   0   0   0   0
+Total......... 78  3210  41.2   76   7   8  30   1
+Opponents..... 93  3849  41.4   60   3  13  26   1
+
+
+KICKOFFS       No.   Yds   Avg  TB  OB  Retn  Net YdLn
+------------------------------------------------------
+Kunalic, Adi    78  5318  68.2  29   1
+Henery, Alex     1    50  50.0   0   0
+Total........   79  5368  67.9  29   1   951 48.6   21
+Opponents....   38  2371  62.4   4   1   795 39.4   30
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Paul, Niles     14   48  796  407  446    0 1697 121.2
+Helu Jr., Roy   14 1147  149    0    0    0 1296  92.6
+Burkhead, Rex    9  346   90   73   15    0  524  58.2
+Gilleylen, C    11    0  302    0    0    0  302  27.5
+Marlowe, Tim    13    0    0    0  284    0  284  21.8
+McNeill, Mike   14    0  259    0    0    0  259  18.5
+Robinson, D      8  165   26    0    0    0  191  23.9
+Brooks, Chris   12    0  179    0    0    0  179  14.9
+Holt, Menelik   14    0  175    0    0    0  175  12.5
+Lee, Zac        13  171    0    0    0    0  171  13.2
+Green, Cody      9  158    0    0    0    0  158  17.6
+Kinnie, Brandon 13    0  141    0    0    0  141  10.8
+O'Hanlon, Matt  14    0    0    0    0  105  105   7.5
+Cooper, Khiry   12    0   80    0    0    0   80   6.7
+Young, Dreu     12    0   78    0    0    0   78   6.5
+Asante, Larry   14    0    0    0    0   74   74   5.3
+Amukamara, P    14    0    0    0    0   63   63   4.5
+Mendoza, Marcus  7   10   45    0    0    0   55   7.9
+Reed, Kyler     11    0   54    0    0    0   54   4.9
+Legate, Tyler   14    0   27    0   22    0   49   3.5
+Cotton, Ben     14    0   43    0    2    0   45   3.2
+Gomes, Dejon    13    0    0    0    0   45   45   3.5
+Ward, Lester     5   38    0    0    0    0   38   7.6
+Blatchford, J   12    0    0   25    0    0   25   2.1
+Dennard, A      13    0    0    0   25    0   25   1.9
+Jones, Austin    5   18    2    0    0    0   20   4.0
+Washington, L    4   17    0    0    0    0   17   4.2
+Martin, Eric    14    0    0    9    0    0    9   0.6
+Okafor, Collins  1    9    0    0    0    0    9   9.0
+Dillard, P      12    0    0    0    0    9    9   0.8
+Hill, Ryan      13    0    8    0    0    0    8   0.6
+Bell, Antonio    6    0    3    0    0    0    3   0.5
+Cammack, Wes     9    0    2    0    0    0    2   0.2
+Henry, Will      7    0    1    0    0    0    1   0.1
+Stoddard, G     14    0    0    0    1    0    1   0.1
+May, Mathew     14    0    0   -4    0    0   -4  -0.3
+TEAM            10  -68    0    0    0    0  -68  -6.8
+Total.......    14 2059 2460  510  795  296 6120 437.1
+Opponents...    14 1304 2504  366  951  128 5253 375.2
+
+
+                            |-------Tackles------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blkd
+                      GP-GS Solo  Ast  Tot TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kick Saf
+--------------------------------------------------------------------------------------------------
+93 Suh, Ndamukong     14-14   52   33  85   24-93  12.0-77     1-0     10  26    .      1    3   .
+52 Dillard, Phillip    12-9   45   38  83   11-45   3.0-27     1-9      3   4    .      1    .   .
+4  Asante, Larry      14-14   42   37  79    1-2       .       2-74     7   .    .      2    .   .
+94 Crick, Jared       14-14   31   42  73   15-63   9.5-57      .       4  16   2-0     .    1   .
+33 O'Hanlon, Matt     14-14   39   30  69    2-19   2.0-19     6-105    5   .   2-0     1    .   .
+21 Amukamara, Prince  14-14   41   23  64    3-13   2.0-11     5-63    11   .   1-4     1    .   .
+95 Allen, Pierre      14-13   19   32  51   12-55   5.0-43      .       5   8    .      1    .   .
+99 Turner, Barry      14-14   28   23  51   16-50   5.5-39      .       5  13   1-0     1    .   .
+7  Gomes, Dejon        13-6   26   20  46    4-7       .       4-45     5   3    .      3    .   .
+28 Hagg, Eric         14-10   30   10  40    7-32   2.0-22     1-0      4   3    .      1    .   .
+51 Compton, Will       13-8   17   23  40    1-2    0.5-2       .       2   2    .      .    .   .
+42 Fisher, Sean        14-6   10   25  35    2-5    1.0-3       .       .   3   1-21    .    .   .
+15 Dennard, Alfonzo    13-9   21   10  31    4-10      .        .       8   .    .      .    .   .
+34 Meredith, Cameron   14-0   13    8  21    5-18   1.5-12      .       1   2   1-4     .    .   .
+55 Steinkuler, Baker   13-0    6   11  17    1-2       .        .       2   .    .      .    .   .
+46 Martin, Eric        14-0    8    7  15     .        .        .       .   .    .      .    2   .
+13 Smith, P.J.         14-0    8    7  15     .        .        .       1   .    .      .    .   .
+3  Thenarse, Rickey     4-0    3    8  11    1-2       .        .       .   .    .      1    .   .
+5  West, Anthony       13-5    9    2  11     .        .        .       4   .    .      .    .   .
+40 Lawrence, Blake      3-2    6    4  10     .        .        .       .   .    .      .    .   .
+38 Stoddard, Graham    14-0    7    3  10     .        .        .       .   .    .      .    .   .
+36 May, Mathew         14-0    1    9  10     .        .        .       .   .    .      .    .   .
+8  Cassidy, Austin     14-0    6    3   9     .        .        .       1   .    .      .    .   .
+23 Thorell, Lance      14-1    4    3   7     .        .        .       1   .    .      .    .   .
+30 Hays, Mike          14-0    2    3   5     .        .        .       .   .    .      .    .   .
+54 Koehler, Colton      4-0    2    3   5    1-1       .        .       1   .    .      .    .   .
+31 Dean, Jase           5-0    3    1   4     .        .        .       .   .    .      1    .   .
+14 Blue, Anthony       11-0    4    .   4     .        .        .       .   .    .      .    .   .
+24 Paul, Niles        14-14    4    .   4     .        .        .       .   .    .      .    .   .
+41 Grove, Thomas       13-0    1    2   3     .        .        .       .   .    .      .    .   .
+39 Blatchford, J       12-0    3    .   3     .        .        .       .   .    .      .    .   .
+98 Williams, Josh       3-0    2    1   3     .        .        .       .   .    .      .    .   .
+90 Henery, Alex        14-0    1    1   2     .        .        .       .   .    .      .    .   .
+8G Klingelhoefer, F     2-0    1    1   2     .        .        .       .   .    .      .    .   .
+90 Moore, Terrence      4-0    1    1   2     .        .        .       .   .    .      .    .   .
+80 Hill, Ryan          13-0    1    .   1     .        .        .       .   .    .      .    .   .
+58 Jackson, Justin      2-0    .    1   1     .        .        .       .   .    .      .    .   .
+12 Osborne, Courtney    6-0    1    .   1     .        .        .       .   .    .      .    .   .
+80 Harvey, David        2-1    1    .   1     .        .        .       .   .    .      .    .   .
+15 Washington, L        4-0    .    1   1     .        .        .       .   .    .      .    .   .
+82 Cammack, Wes         9-0    .    1   1     .        .        .       .   .    .      .    .   .
+22 Burkhead, Rex        9-0    1    .   1     .        .        .       .   .    .      .    .   .
+   Total..........     14-0  500  427  927  110-419  44-312   20-296   80  80   8-29   14    6   .
+   Opponents......     14-0    -    -    -     -     19-121   12-128   41  25  11-82   10    1   1
+

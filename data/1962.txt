@@ -1,0 +1,214 @@
+1962 Nebraska Cornhuskers
+Nebraska Overall Team Statistics (Final)
+(regular season only)
+
+  NEB                          OPP
+  134  First downs rushing      71
+   46  First downs passing      42
+    7  First downs penalties     5
+  187* Total first downs       118
+2,651  Yards gained rushing  1,578
+  196  Yards lost rushing      303
+2,455  Net gain rushing      1,275
+  551  Rushing plays           397
+  4.5  Average gain rushing    3.2
+  155  Passes attempted        151
+   70  Passes completed         68
+   10  Passes intercepted        9
+1,020  Passing yardage         918
+  6.6  Average gain passing    6.1
+  706  Total offensive plays   548
+3,475  Net yards gained      2,193
+  4.9  Average gain            4.0
+   43  Punts                    65
+1,558  Punting yardage       2,150
+ 36.2  Punting average        33.1
+   49  Penalties                39
+  428  Penalty yardage         291
+   32  Fumbles                  21
+   15  Fumbles lost             10
+
+*Nebraska record
+
+
+AVG. SCORING BY QUARTERS
+        1st  2nd  3rd  4th   Tot
+NU      5.0  7.1  8.8  4.8 - 25.7
+OPP     2.6  2.6  4.0  3.5 - 12.7
+1962 Nebraska Cornhuskers
+Nebraska Overall Individual Statistics (Final)
+(regular season only)
+
+RUSHING    No   Gain  Loss  Net  Avg
+Paschall    12    95    4    91  7.6
+McCloughan  39   238    6   232  5.9
+Powers      49   286    7   279  5.7
+Martin      25   130    0   130  5.2
+Stuewe      34   173    4   169  5.0
+Vujevich     2    10    0    10  5.0
+Young       55   273    6   267  4.9
+Ross        89   447   16   431  4.8
+McNulty      6    29    0    29  4.8
+Johnson     36   176   12   164  4.6
+Sebastian    3    13    0    13  4.3
+Thornton    62   251   13   238  3.8
+Claridge   104   425   55   370  3.6
+Smith        2     7    0     7  3.5
+Tucker      10    44   16    28  2.8
+Theisen     15    47    9    38  2.5
+Faiman       5     7   30   -23 -4.6
+Bonistall    3     0   18   -18 -6.0
+NEB        551  2651  196  2455  4.5
+OPP        397  1578  303  1275  3.2
+
+
+PASSING    Att Cmp Int   Pct   Yds   Avg
+Tucker       6   4   1  .667    46   7.7
+Theisen      5   3   0  .600    59  11.8
+Bonistall    2   1   0  .500     5   2.5
+Powers       2   1   0  .500    18   9.0
+Faiman      11   5   1  .455    63   5.7
+Claridge   128  56*  8  .438   829*  6.5
+McCloughan   1   0   0  .000     0   0.0
+NEB        155  70  10  .452  1020   6.6
+OPP        151  68   9  .450   918   6.1
+
+*Nebraska record
+
+
+TOTAL OFFENSE  Plays   Yds.   Avg.
+Paschall         12      91    7.6
+McCloughan       40     232    5.8
+Powers           51     297    5.8
+Martin           25     130    5.2
+Claridge        232    1199    5.2
+Stuewe           34     169    5.0
+Vujevich          2      10    5.0
+Theisen          20      97    4.9
+Young            55     267    4.9
+Ross             89     431    4.8
+McNulty           6      29    4.8
+Johnson          36     164    4.6
+Tucker           16      74    4.6
+Sebastian         3      13    4.3
+Thornton         62     238    3.8
+Smith             2       7    3.5
+Faiman           16      40    2.5
+Bonistall         5     -13   -2.6
+Neb. totals     706    3475    4.9
+Opp. totals     548    2193    4.0
+
+
+PUNTING       No.   Yds   Avg.  Blk
+Claridge      27    995   36.9    0
+Baffico       16    563   35.2    1
+Neb. totals   43   1558   36.2    1
+Opp. totals   65   2150   33.1    2
+
+
+              |------PAT-----|
+              Kick   Run  Pass
+SCORING   TD  At-M  At-M  At-M FG  Tot
+Claridge  10   0-0   3-2  11-0  0   64
+Thornton   3   0-0   2-2   0-0  0   22
+Ross       3   0-0   1-1   0-0  0   20
+Stuewe     3   0-0   0-0   0-0  0   18
+Martin     3   0-0   1-0   0-0  0   18
+McCloughan 2   0-0   0-0   0-1  0   14
+Johnson    2   0-0   0-0   0-0  0   12
+Tomlinson  1   0-0   0-0   0-3  0   12
+Huge       1   0-0   0-0   0-1  0    8
+Callahan   1   0-0   0-0   0-1  0    8
+Faiman     0  10-7   0-0   1-0  0    7
+Eger       1   0-0   0-0   0-0  0    6
+Powers     1   0-0   1-0   0-0  0    6
+Vujevich   1   0-0   0-0   0-0  0    6
+Tucker     1   0-0   0-0   1-0  0    6
+Theisen    1   0-0   0-0   0-0  0    6
+McNulty    1   0-0   0-0   0-0  0    6
+Comstock   1   0-0   0-0   0-0  0    6
+Young      1   0-0   0-0   0-0  0    6
+Baffico    0   6-4   0-0   0-0  0    4
+Ernst      0   1-0   0-0   0-0  0    0
+NEB       37  17-11  8-5  12-6  0  257
+OPP       18  12-8   4-3   2-1  1  127
+
+
+PASS RECEIVING  No.  Yds.  Avg.  TD
+Bryan            1    29   29.0   0
+Tomlinson        5   103   20.6   1
+Callahan        10   189   18.9   1
+Huge            11   208   18.9   1
+Comstock         4    59   14.8   1
+Ross             6    88   14.7   0
+Martin           1    14   14.0   0
+Vujevich         1    14   14.0   1
+Stuewe           3    41   13.7   0
+Eger             9   109   12.1   1
+Johnson          5    59   11.8   0
+Donovan          3    34   11.3   0
+Powers           2    21   10.5   0
+Theisen          3    27    9.0   0
+McCloughan       4    30    7.5   0
+Sebastian        1     5    5.0   0
+Hohn             1     0    0.0   0
+Neb. totals     70  1020   14.6   6
+Opp. totals     68   918   13.5   8
+
+
+PUNT RETURNS     No.  Yds.   Avg.
+Stuewe            4     64   16.0
+Johnson           3     28    9.3
+Theisen          11    100    9.1
+Baffico           1      9    9.0
+Ross              1      7    7.0
+Powers            1      6    6.0
+Paschall          3     15    5.0
+Robertson         1      5    5.0
+Martin            1      4    4.0
+McCloughan        4     13    3.3
+Tucker            2      6    3.0
+Tregonning        1      2    2.0
+Neb. totals      33    259    7.8
+Opp. totals      16    153    9.6
+
+
+KICKOFF
+RETURNS       No.   Yds    Avg.
+Paschall       1     34    34.0
+Stuewe         3     70    23.3
+Thornton       4     88    22.0
+Powers         5    106    21.5
+Ross           9    166    18.4
+Tomlinson      1     18    18.0
+Young          2     36    18.0
+McCloughan     1     17    17.0
+Johnson        2     32    16.0
+Callahan       1     13    13.0
+Huge           1      0     0.0
+Neb. totals   29    580    20.0
+Opp. totals   38    737    19.1
+
+
+INTERCEPTION
+RETURNS       No.   Yds    Avg.
+Martin         1     88    88.0
+Tucker         1     26    26.0
+Theisen        3     56    18.7
+Johnson        1     15    15.0
+Toogood        1      3     3.0
+Ross           1      0     0.0
+Brown          1      0     0.0
+Neb. totals    9    188    20.9
+Opp. totals   10     65     6.5
+
+
+SCHOOL RECORDS SET IN 1962
+Yards Passing, season:
+  829, Dennis Claridge
+Passes Completed, season:
+  56, Dennis Claridge (128 att.)
+Team First Downs, season: 187
+
+
+

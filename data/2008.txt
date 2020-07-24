@@ -1,0 +1,628 @@
+
+        2008 Nebraska Cornhuskers
+    Nebraska Overall Team Statistics
+               All games
+
+TEAM STATISTICS            NU         OPP
+-----------------------------------------
+SCORING..........         460         371
+ Avg. Per Game...        35.4        28.5
+FIRST DOWNS......         295         228
+ Rushing.........         113          83
+ Passing.........         171         117
+ Penalty.........          11          28
+RUSHING YARDAGE..        2207        1514
+ Yards gained....        2509        1895
+ Yards lost......         302         381
+ Attempts........         486         418
+ Avg. Per Rush...         4.5         3.6
+ Avg. Per Game...       169.8       116.5
+ TDs Rushing.....          27          24
+PASSING YARDAGE..        3653        3034
+ Att-Comp-Int....  433-295-11  385-222-12
+ Avg. Per Pass...         8.4         7.9
+ Avg. Per Catch..        12.4        13.7
+ Avg. Per Game...       281.0       233.4
+ TDs Passing.....          27          19
+TOTAL OFFENSE....        5860        4548
+ Total Plays.....         919         803
+ Avg. Per Play...         6.4         5.7
+ Avg. Per Game...       450.8       349.8
+KICK RETURNS-YDS.     57-1245     57-1364
+PUNT RETURNS-YDS.      31-376      22-208
+INT RETURNS-YDS..      12-202      11-249
+KICK RETURN AVG..        21.8        23.9
+PUNT RETURN AVG..        12.1         9.5
+INT RETURN AVG...        16.8        22.6
+FUMBLES-LOST.....       31-17        17-5
+PENALTIES-Yards..      94-800      64-477
+ Avg. Per Game...        61.5        36.7
+PUNTS-Yards......     48-1850     66-2544
+ Avg. Per Punt...        38.5        38.5
+ Net punt average        32.1        31.6
+POSS. TIME/Game..       34:01       25:59
+3RD-DOWN Conv. ..      84/178      57/169
+ 3rd-Down Pct....         47%         34%
+4TH-DOWN Conv. ..        5/13       10/21
+ 4th-Down Pct....         38%         48%
+SACKS BY-Yards...      35-269      21-128
+MISC YARDS.......           9           0
+TOUCHDOWNS SCORED          58          49
+FIELD GOALS-ATTS.       18-21       10-17
+ON-SIDE KICKS....         0-1         1-1
+RED-ZONE SCORES..   54-62 87%   37-49 76%
+RED-ZONE TDs.....   42-62 68%   29-49 59%
+PAT-ATTEMPTS.....   56-57 98%   45-49 92%
+ATTENDANCE.......      680564      235899
+ Games/Average...     8/85070     4/58975
+ Neut. Site Games                 1/67282
+
+
+SCORE BY
+QUARTERS   1st  2nd  3rd  4th  OT   Total
+---------  ---  ---  ---  ---  --     ---
+Nebraska    98  126   81  155   0  -  460
+Opponents  113  107   93   52   6  -  371
+
+
+RUSHING     GP-GS  Att Gain Loss  Net   Avg  TD Lng Avg/G
+---------------------------------------------------------
+R.Helu Jr.   13-2  125  839   36  803   6.4   7  57  61.8
+M.Lucky     12-11  125  550   33  517   4.1   7  58  43.1
+Q.Castille   13-1  106  505   38  467   4.4   6  58  35.9
+J.Ganz      13-13   92  417  159  258   2.8   5  33  19.8
+M.Mendoza     4-0   15  110    7  103   6.9   1  35  25.8
+N.Swift     13-13    2   23    0   23  11.5   0  16   1.8
+P.Witt        5-0    4   21    1   20   5.0   1  16   4.0
+T.Peterson  13-13    2   18    0   18   9.0   0  16   1.4
+Z.Lee         2-0    2   17    0   17   8.5   0  11   8.5
+A.Henery     13-0    1    9    0    9   9.0   0   9   0.7
+M.McNeill   13-12    1    0    0    0   0.0   0   0   0.0
+N.Paul       13-3    1    0    6   -6  -6.0   0   0  -0.5
+J.Wesch      13-0    1    0    9   -9  -9.0   0   0  -0.7
+TEAM          5-0    9    0   13  -13  -1.4   0   0  -2.6
+Total........  13  486 2509  302 2207   4.5  27  58 169.8
+Opponents....  13  418 1895  381 1514   3.6  24  67 116.5
+
+
+PASSING   G-GS   Effic Cmp-Att-Int   Pct  Yds  TD Lng Avg/G
+------------------------------------------------------------
+J.Ganz   13-13  153.62  285-420-11   67.9 3568  25  69 274.5
+P.Witt     5-0  125.40     6-8-0     75.0   48   0  23   9.6
+Z.Leec     2-0   71.00     1-2-0     50.0    5   0   5   2.5
+M.Lucky  12-11  530.80     2-2-0    100.0   24   2  20   2.0
+J.Wesch   13-0  167.20     1-1-0    100.0    8   0   8   0.6
+Total.....  13  154.49  295-433-11   68.1 3653  27  69 281.0
+Opponents   13  133.91  222-385-12   57.7 3034  19  68 233.4
+
+
+RECEIVING        GP-GS  No.  Yds   Avg  TD Long Avg/G
+-----------------------------------------------------
+Swift, Nate      13-13   63  941  14.9  10   67  72.4
+Peterson, Todd   13-13   62  786  12.7   4   36  60.5
+McNeill, Mike    13-12   32  442  13.8   6   53  34.0
+Holt, Menelik    12-4    30  355  11.8   1   25  29.6
+Lucky, Marlon    12-11   26  288  11.1   1   69  24.0
+Helu Jr., Roy    13-2    25  266  10.6   0   27  20.5
+Paul, Niles      13-3    23  214   9.3   0   21  16.5
+Young, Dreu      13-4     9  140  15.6   1   55  10.8
+Castille, Q.     13-1     9  109  12.1   0   31   8.4
+Teafatiller, H.  12-2     3   27   9.0   0   15   2.2
+Hill, Ryan       13-0     3    9   3.0   1    6   0.7
+Brooks, Chris    11-0     2   27  13.5   1   25   2.5
+Gilleylen, C.    11-0     2   11   5.5   0    6   1.0
+Mendoza, Marcus   4-0     2    7   3.5   0    7   1.8
+Ganz, Joe        13-13    1   20  20.0   1   20   1.5
+Cammack, Wes     13-0     1    5   5.0   0    5   0.4
+Lawson, Thomas   11-0     1    4   4.0   0    4   0.4
+Suh, Ndamukong   13-13    1    2   2.0   1    2   0.2
+Total..........  13     295 3653  12.4  27   69 281.0
+Opponents......  13     222 3034  13.7  19   68 233.4
+
+
+PUNT RETURNS      No.  Yds   Avg TD Long
+----------------------------------------
+Swift, Nate        23  296  12.9  1   88
+Paul, Niles         8   80  10.0  0   28
+Total..........    31  376  12.1  1   88
+Opponents......    22  208   9.5  0   33
+
+
+INTERCEPTIONS     No.  Yds   Avg TD Long
+----------------------------------------
+Potter, Zach        2   11   5.5  0   11
+Suh, Ndamukong      2   79  39.5  2   49
+West, Anthony       2   26  13.0  0   26
+Asante, Larry       1    0   0.0  0    0
+Murillo, A.         1   57  57.0  0   57
+Wortman, Tyler      1    8   8.0  0    8
+Thenarse, R.        1    0   0.0  0    0
+O'Hanlon, Matt      1   21  21.0  0   21
+Lawrence, Blake     1    0   0.0  0    0
+Total..........    12  202  16.8  2   57
+Opponents......    11  249  22.6  3   63
+
+
+KICK RETURNS      No.  Yds   Avg TD Long
+----------------------------------------
+Paul, Niles        41  969  23.6  1   85
+Dennard, Alfonzo    8  150  18.8  0   31
+Lawson, Thomas      3   31  10.3  0   20
+Gilleylen, C.       2   48  24.0  0   26
+Asante, Larry       2   31  15.5  0   20
+Teafatiller, H.     1   16  16.0  0   16
+Total..........    57 1245  21.8  1   85
+Opponents......    57 1364  23.9  1   98
+
+
+FUMBLE RETURNS    No.  Yds   Avg TD Long
+----------------------------------------
+Hagg, Eric          1    3   3.0  0    3
+Murillo, A.         1   11  11.0  0   11
+Total..........     2   14   7.0  0   11
+Opponents......     5  150  30.0  2   58
+
+
+                         |------ PATs -----|
+SCORING        TD  FGs   Kick  Rush Rcv Pass  DXP Saf Pts
+---------------------------------------------------------
+Henery, Alex    0 18-21  56-57  0-0   0  0-0   0   0  110
+Swift, Nate    11  0-0    0-0   0-0   0  0-0   0   0   66
+Lucky, Marlon   8  0-0    0-0   0-0   0  0-0   0   0   48
+Helu Jr., Roy   7  0-0    0-0   0-0   0  0-0   0   0   42
+McNeill, Mike   6  0-0    0-0   0-0   0  0-0   0   0   36
+Castille, Q.    6  0-0    0-0   0-0   0  0-0   0   0   36
+Ganz, Joe       6  0-0    0-0   0-0   0  0-1   0   0   36
+Peterson, Todd  4  0-0    0-0   0-0   0  0-0   0   0   24
+Suh, Ndamukong  3  0-0    0-0   0-0   0  0-0   0   0   18
+Brooks, Chris   1  0-0    0-0   0-0   0  0-0   0   0    6
+Young, Dreu     1  0-0    0-0   0-0   0  0-0   0   0    6
+Holt, Menelik   1  0-0    0-0   0-0   0  0-0   0   0    6
+Paul, Niles     1  0-0    0-0   0-0   0  0-0   0   0    6
+Mendoza, Marcus 1  0-0    0-0   0-0   0  0-0   0   0    6
+Witt, Patrick   1  0-0    0-0   0-0   0  0-0   0   0    6
+Hill, Ryan      1  0-0    0-0   0-0   0  0-0   0   0    6
+TEAM            0  0-0    0-0   0-0   0  0-0   0   1    2
+Hagg, Eric      0  0-0    0-0   0-0   0  0-0   0   0    0
+Total......... 58 18-21  56-57  0-0   0  0-1   0   1  460
+Opponents..... 49 10-17  45-49  0-0   0  0-0   0   1  371
+
+
+TOTAL OFFENSE     G Plays Rush Pass Total Avg/G
+-----------------------------------------------
+Ganz, Joe        13   512  258 3568  3826 294.3
+Helu Jr., Roy    13   125  803    0   803  61.8
+Lucky, Marlon    12   127  517   24   541  45.1
+Castille, Q.     13   106  467    0   467  35.9
+Mendoza, Marcus   4    15  103    0   103  25.8
+Witt, Patrick     5    12   20   48    68  13.6
+Swift, Nate      13     2   23    0    23   1.8
+Lee, Zac          2     4   17    5    22  11.0
+Peterson, Todd   13     2   18    0    18   1.4
+Henery, Alex     13     1    9    0     9   0.7
+Wesch, Jake      13     2   -9    8    -1  -0.1
+Paul, Niles      13     1   -6    0    -6  -0.5
+TEAM              5     9  -13    0   -13  -2.6
+Total..........  13   919 2207 3653  5860 450.8
+Opponents......  13   803 1514 3034  4548 349.8
+
+
+FIELD 
+GOALS   FGM-FGA  Pct  1-19  20s  30s  40s  50s Lg Blk
+-----------------------------------------------------
+A.Henery  18-21  85.7  1-1  7-7  3-4  6-6  1-3  57  1
+
+
+FG SEQUENCE     Nebraska              OPPONENTS
+----------------------------------------------------
+Western Mich.   (44),(44),(44),(44)   (19)
+San Jose St     -                     41,(41),32,(27)
+New Mexico St   35,(19)               20
+Virginia Tech   (48)                  (19),(38),(27),(36)
+Missouri        (28)                  (48),59
+Texas Tech      53,(21)               (26)
+Iowa State      -                     40
+Baylor          (27),52               19
+Oklahoma        -                     -
+Kansas          (35)                  -
+Kansas State    -                     -
+Colorado        (35),(27),(37),(57)   (37)
+Clemson         (48),(28),(28),(22)   20
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING     No.  Yds   Avg Long  TB  FC I20 Blkd
+------------------------------------------------
+D.Titchener  42 1649  39.3   58   3   5  13    0
+J.Wesch       5  201  40.2   55   2   1   1    0
+TEAM          1    0   0.0    0   0   0   0    1
+Total......  48 1850  38.5   58   5   6  14    1
+Opponents..  66 2544  38.5   69   4   9  18    1
+
+
+KICKOFFS        No.   Yds   Avg  TB  OB  Retn  Net YdLn
+-------------------------------------------------------
+Kunalic, Adi     81  5307  65.5  29   1
+Henery, Alex      6   250  41.7   0   0
+Titchener, Dan    1    52  52.0   0   0
+Total..........  88  5609  63.7  29   1  1364 41.6   28
+Opponents......  71  4435  62.5  10   4  1245 42.1   27
+
+
+ALL PURPOSE        G Rush  Rec   PR  KOR   IR  Tot Avg/G
+--------------------------------------------------------
+Swift, Nate       13   23  941  296    0    0 1260  96.9
+Paul, Niles       13   -6  214   80  969    0 1257  96.7
+Helu Jr., Roy     13  803  266    0    0    0 1069  82.2
+Lucky, Marlon     12  517  288    0    0    0  805  67.1
+Peterson, Todd    13   18  786    0    0    0  804  61.8
+Castille, Q.      13  467  109    0    0    0  576  44.3
+McNeill, Mike     13    0  442    0    0    0  442  34.0
+Holt, Menelik     12    0  355    0    0    0  355  29.6
+Ganz, Joe         13  258   20    0    0    0  278  21.4
+Dennard, Alfonzo  12    0    0    0  150    0  150  12.5
+Young, Dreu       13    0  140    0    0    0  140  10.8
+Mendoza, Marcus    4  103    7    0    0    0  110  27.5
+Suh, Ndamukong    13    0    2    0    0   79   81   6.2
+Gilleylen, C.     11    0   11    0   48    0   59   5.4
+Murillo, A.       13    0    0    0    0   57   57   4.4
+Teafatiller, H.   12    0   27    0   16    0   43   3.6
+Lawson, Thomas    11    0    4    0   31    0   35   3.2
+Asante, Larry     13    0    0    0   31    0   31   2.4
+Brooks, Chris     11    0   27    0    0    0   27   2.5
+West, Anthony     12    0    0    0    0   26   26   2.2
+O'Hanlon, Matt    13    0    0    0    0   21   21   1.6
+Witt, Patrick      5   20    0    0    0    0   20   4.0
+Lee, Zac           2   17    0    0    0    0   17   8.5
+Potter, Zach      13    0    0    0    0   11   11   0.8
+Hill, Ryan        13    0    9    0    0    0    9   0.7
+Henery, Alex      13    9    0    0    0    0    9   0.7
+Wortman, Tyler    13    0    0    0    0    8    8   0.6
+Cammack, Wes      13    0    5    0    0    0    5   0.4
+Wesch, Jake       13   -9    0    0    0    0   -9  -0.7
+TEAM               5  -13    0    0    0    0  -13  -2.6
+Total..........   13 2207 3653  376 1245  202 7683 591.0
+Opponents......   13 1514 3034  208 1364  249 6369 489.9
+
+
+
+
+
+
+Overall Defensive Statistics
+
+                           |--------Tackles-------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blkd
+DEFENSIVE LEADERS    GP-GS Solo  Ast Total  TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kick Saf
+---------------------------------------------------------------------------------------------------
+93 Suh, Ndamukong    13-13   39   37    76   19-85   7.5-67     2-79     3   7    .      1    2   .
+4  Asante, Larry     13-12   45   22    67    2-4    1.0-4      1-0      4   1    .      .    .   .
+33 O'Hanlon, Matt     13-9   33   19    52    2-5       .       1-21     5   1    .      .    .   .
+95 Allen, Pierre     13-11   21   31    52   10-37   5.0-27      .       1   2    .      1    .   .
+34 Glenn, Cody         9-9   26   25    51    6-20      .        .       4   4    .      1    .   .
+43 Steinkuhler, Ty   13-13   21   27    48    8-27   2.5-21      .       .   3    .      1    .   .
+98 Potter, Zach      13-13   14   33    47   16-54   5.5-44     2-11     7   6    .      1    3   .
+6  Murillo, A.       13-12   35    9    44    2-1       .       1-57     9   1   1-11    .    .   .
+28 Hagg, Eric        13-10   29   10    39    5-28   1.0-16      .       7   2   1-3     1    .   .
+52 Dillard, P.         9-5   13   25    38    2-9    0.5-6       .       1   1    .      .    .   .
+53 Wortman, Tyler     13-6   19   17    36    5-11      .       1-8      1   .    .      .    .   .
+21 Amukamara, P.      13-3   21   13    34    2-12   1.0-11      .       3   1    .      2    .   .
+5A West, Anthony     12-11   23    6    29    1-2    1.0-2      2-26     9   .    .      .    .   .
+3  Thenarse, R.       11-5   17    7    24    6-25   2.0-21     1-0      1   .    .      1    1   .
+23 Thorell, Lance     11-5   15    9    24     .        .        .       1   .    .      .    .   .
+40 Lawrence, Blake    10-2    8   13    21     .        .       1-0      1   1    .      .    .   .
+54 Koehler, Colton     7-1    7    9    16    1-2       .        .       .   .    .      .    .   .
+35 Holt, Matt          9-1   11    3    14     .        .        .       .   .    .      .    .   .
+88 Sievers, C.        13-0    9    5    14    3-6    1.0-1       .       .   2    .      1    .   .
+2  Culbert, Major      7-0    4    6    10     .        .        .       .   .    .      .    .   .
+56 Barfield, S.       11-0    7    3    10    3-16   3.0-16      .       .   .    .      .    .   .
+82 Cammack, Wes       13-0    8    1     9     .        .        .       .   .    .      .    .   .
+9B Moore, Terrence     7-0    3    5     8    2-11   2.0-11      .       .   .    .      .    .   .
+24 Paul, Niles        13-3    5    3     8     .        .        .       .   .   2-0     .    .   .
+22 Wald, Mason        13-0    4    2     6     .        .        .       .   .    .      .    .   .
+3H May, Mathew         8-0    5    1     6    1-8    1.0-8       .       .   .   1-0     1    .   .
+15 Dennard, Alfonzo   12-0    4    1     5     .        .        .       .   .    .      .    .   .
+89 Teafatiller, H.    12-2    4    1     5     .        .        .       .   .    .      .    .   .
+99 Turner, Barry       2-2    1    2     3    2-15   1.0-14      .       .   .    .      .    .   .
+17 Peterson, Todd    13-13    3    .     3     .        .        .       .   .    .      .    .   .
+30 Hays, Mike         13-0    2    1     3     .        .        .       .   .    .      .    .   .
+19 Castille, Q.       13-1    1    2     3     .        .        .       .   .    .      .    .   .
+80 Hill, Ryan         13-0    2    .     2     .        .        .       .   .    .      .    .   .
+94 Crick, Jared        9-0    1    1     2     .        .        .       1   .    .      .    .   .
+41 Grove, Thomas      13-0    1    1     2     .        .        .       .   .    .      .    .   .
+5  Lucky, Marlon     12-11    .    1     1     .        .        .       .   .    .      .    .   .
+18 Holt, Menelik      12-4    .    1     1     .        .        .       .   .    .      .    .   .
+65 Smith, Mike       13-12    1    .     1     .        .        .       .   .    .      .    .   .
+8  Cassidy, Austin     2-0    1    .     1     .        .        .       .   .    .      .    .   .
+10 Helu Jr., Roy      13-2    1    .     1     .        .        .       .   .    .      .    .   .
+12 Ganz, Joe         13-13    1    .     1     .        .        .       .   .    .      .    .   .
+68 Williams, Keith    13-9    1    .     1     .        .        .       .   .    .      .    .   .
+1  Brooks, Chris      11-0    1    .     1     .        .        .       .   .    .      .    .   .
+76 Murtha, Lydon       9-9    1    .     1     .        .        .       .   .    .      .    .   .
+20 Kunalic, Adi       13-0    1    .     1     .        .        .       .   .    .      .    .   .
+63 Martin, Ben         1-0    .    1     1     .        .        .       .   .    .      .    .   .
+47 Yancy, William      1-0    .    1     1     .        .        .       .   .    .      .    .   .
+8D O'Leary, T.J.      13-0    1    .     1     .        .        .       .   .    .      .    .   .
+TM TEAM                5-0    .    .     .     .        .        .       .   .    .      .    .   1
+   Total..........    13-0  470  354   824   98-378   35-269   12-202   58  32   5-14   11    6   1
+   Opponents......    13-0    -    -      -    -      21-128   11-249   38  11  17-150  19    2   1
+
+
+
+Page 1 / 1Zoom 100%
+      
+RUSHING     GP-GS  Att Gain Loss  Net   Avg  TD Lng Avg/G
+---------------------------------------------------------
+R.Helu Jr.   13-2  125  839   36  803   6.4   7  57  61.8
+M.Lucky     12-11  125  550   33  517   4.1   7  58  43.1
+Q.Castille   13-1  106  505   38  467   4.4   6  58  35.9
+J.Ganz      13-13   92  417  159  258   2.8   5  33  19.8
+M.Mendoza     4-0   15  110    7  103   6.9   1  35  25.8
+N.Swift     13-13    2   23    0   23  11.5   0  16   1.8
+P.Witt        5-0    4   21    1   20   5.0   1  16   4.0
+T.Peterson  13-13    2   18    0   18   9.0   0  16   1.4
+Z.Lee         2-0    2   17    0   17   8.5   0  11   8.5
+A.Henery     13-0    1    9    0    9   9.0   0   9   0.7
+M.McNeill   13-12    1    0    0    0   0.0   0   0   0.0
+N.Paul       13-3    1    0    6   -6  -6.0   0   0  -0.5
+J.Wesch      13-0    1    0    9   -9  -9.0   0   0  -0.7
+TEAM          5-0    9    0   13  -13  -1.4   0   0  -2.6
+Total........  13  486 2509  302 2207   4.5  27  58 169.8
+Opponents....  13  418 1895  381 1514   3.6  24  67 116.5
+
+
+PASSING   G-GS   Effic Cmp-Att-Int   Pct  Yds  TD Lng Avg/G
+------------------------------------------------------------
+J.Ganz   13-13  153.62  285-420-11   67.9 3568  25  69 274.5
+P.Witt     5-0  125.40     6-8-0     75.0   48   0  23   9.6
+Z.Leec     2-0   71.00     1-2-0     50.0    5   0   5   2.5
+M.Lucky  12-11  530.80     2-2-0    100.0   24   2  20   2.0
+J.Wesch   13-0  167.20     1-1-0    100.0    8   0   8   0.6
+Total.....  13  154.49  295-433-11   68.1 3653  27  69 281.0
+Opponents   13  133.91  222-385-12   57.7 3034  19  68 233.4
+
+
+RECEIVING        GP-GS  No.  Yds   Avg  TD Long Avg/G
+-----------------------------------------------------
+Swift, Nate      13-13   63  941  14.9  10   67  72.4
+Peterson, Todd   13-13   62  786  12.7   4   36  60.5
+McNeill, Mike    13-12   32  442  13.8   6   53  34.0
+Holt, Menelik    12-4    30  355  11.8   1   25  29.6
+Lucky, Marlon    12-11   26  288  11.1   1   69  24.0
+Helu Jr., Roy    13-2    25  266  10.6   0   27  20.5
+Paul, Niles      13-3    23  214   9.3   0   21  16.5
+Young, Dreu      13-4     9  140  15.6   1   55  10.8
+Castille, Q.     13-1     9  109  12.1   0   31   8.4
+Teafatiller, H.  12-2     3   27   9.0   0   15   2.2
+Hill, Ryan       13-0     3    9   3.0   1    6   0.7
+Brooks, Chris    11-0     2   27  13.5   1   25   2.5
+Gilleylen, C.    11-0     2   11   5.5   0    6   1.0
+Mendoza, Marcus   4-0     2    7   3.5   0    7   1.8
+Ganz, Joe        13-13    1   20  20.0   1   20   1.5
+Cammack, Wes     13-0     1    5   5.0   0    5   0.4
+Lawson, Thomas   11-0     1    4   4.0   0    4   0.4
+Suh, Ndamukong   13-13    1    2   2.0   1    2   0.2
+Total..........  13     295 3653  12.4  27   69 281.0
+Opponents......  13     222 3034  13.7  19   68 233.4
+
+
+PUNT RETURNS      No.  Yds   Avg TD Long
+----------------------------------------
+Swift, Nate        23  296  12.9  1   88
+Paul, Niles         8   80  10.0  0   28
+Total..........    31  376  12.1  1   88
+Opponents......    22  208   9.5  0   33
+
+
+INTERCEPTIONS     No.  Yds   Avg TD Long
+----------------------------------------
+Potter, Zach        2   11   5.5  0   11
+Suh, Ndamukong      2   79  39.5  2   49
+West, Anthony       2   26  13.0  0   26
+Asante, Larry       1    0   0.0  0    0
+Murillo, A.         1   57  57.0  0   57
+Wortman, Tyler      1    8   8.0  0    8
+Thenarse, R.        1    0   0.0  0    0
+O'Hanlon, Matt      1   21  21.0  0   21
+Lawrence, Blake     1    0   0.0  0    0
+Total..........    12  202  16.8  2   57
+Opponents......    11  249  22.6  3   63
+
+
+KICK RETURNS      No.  Yds   Avg TD Long
+----------------------------------------
+Paul, Niles        41  969  23.6  1   85
+Dennard, Alfonzo    8  150  18.8  0   31
+Lawson, Thomas      3   31  10.3  0   20
+Gilleylen, C.       2   48  24.0  0   26
+Asante, Larry       2   31  15.5  0   20
+Teafatiller, H.     1   16  16.0  0   16
+Total..........    57 1245  21.8  1   85
+Opponents......    57 1364  23.9  1   98
+
+
+FUMBLE RETURNS    No.  Yds   Avg TD Long
+----------------------------------------
+Hagg, Eric          1    3   3.0  0    3
+Murillo, A.         1   11  11.0  0   11
+Total..........     2   14   7.0  0   11
+Opponents......     5  150  30.0  2   58
+
+
+                         |------ PATs -----|
+SCORING        TD  FGs   Kick  Rush Rcv Pass  DXP Saf Pts
+---------------------------------------------------------
+Henery, Alex    0 18-21  56-57  0-0   0  0-0   0   0  110
+Swift, Nate    11  0-0    0-0   0-0   0  0-0   0   0   66
+Lucky, Marlon   8  0-0    0-0   0-0   0  0-0   0   0   48
+Helu Jr., Roy   7  0-0    0-0   0-0   0  0-0   0   0   42
+McNeill, Mike   6  0-0    0-0   0-0   0  0-0   0   0   36
+Castille, Q.    6  0-0    0-0   0-0   0  0-0   0   0   36
+Ganz, Joe       6  0-0    0-0   0-0   0  0-1   0   0   36
+Peterson, Todd  4  0-0    0-0   0-0   0  0-0   0   0   24
+Suh, Ndamukong  3  0-0    0-0   0-0   0  0-0   0   0   18
+Brooks, Chris   1  0-0    0-0   0-0   0  0-0   0   0    6
+Young, Dreu     1  0-0    0-0   0-0   0  0-0   0   0    6
+Holt, Menelik   1  0-0    0-0   0-0   0  0-0   0   0    6
+Paul, Niles     1  0-0    0-0   0-0   0  0-0   0   0    6
+Mendoza, Marcus 1  0-0    0-0   0-0   0  0-0   0   0    6
+Witt, Patrick   1  0-0    0-0   0-0   0  0-0   0   0    6
+Hill, Ryan      1  0-0    0-0   0-0   0  0-0   0   0    6
+TEAM            0  0-0    0-0   0-0   0  0-0   0   1    2
+Hagg, Eric      0  0-0    0-0   0-0   0  0-0   0   0    0
+Total......... 58 18-21  56-57  0-0   0  0-1   0   1  460
+Opponents..... 49 10-17  45-49  0-0   0  0-0   0   1  371
+
+
+TOTAL OFFENSE     G Plays Rush Pass Total Avg/G
+-----------------------------------------------
+Ganz, Joe        13   512  258 3568  3826 294.3
+Helu Jr., Roy    13   125  803    0   803  61.8
+Lucky, Marlon    12   127  517   24   541  45.1
+Castille, Q.     13   106  467    0   467  35.9
+Mendoza, Marcus   4    15  103    0   103  25.8
+Witt, Patrick     5    12   20   48    68  13.6
+Swift, Nate      13     2   23    0    23   1.8
+Lee, Zac          2     4   17    5    22  11.0
+Peterson, Todd   13     2   18    0    18   1.4
+Henery, Alex     13     1    9    0     9   0.7
+Wesch, Jake      13     2   -9    8    -1  -0.1
+Paul, Niles      13     1   -6    0    -6  -0.5
+TEAM              5     9  -13    0   -13  -2.6
+Total..........  13   919 2207 3653  5860 450.8
+Opponents......  13   803 1514 3034  4548 349.8
+
+
+FIELD 
+GOALS   FGM-FGA  Pct  1-19  20s  30s  40s  50s Lg Blk
+-----------------------------------------------------
+A.Henery  18-21  85.7  1-1  7-7  3-4  6-6  1-3  57  1
+
+
+FG SEQUENCE     Nebraska              OPPONENTS
+----------------------------------------------------
+Western Mich.   (44),(44),(44),(44)   (19)
+San Jose St     -                     41,(41),32,(27)
+New Mexico St   35,(19)               20
+Virginia Tech   (48)                  (19),(38),(27),(36)
+Missouri        (28)                  (48),59
+Texas Tech      53,(21)               (26)
+Iowa State      -                     40
+Baylor          (27),52               19
+Oklahoma        -                     -
+Kansas          (35)                  -
+Kansas State    -                     -
+Colorado        (35),(27),(37),(57)   (37)
+Clemson         (48),(28),(28),(22)   20
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING     No.  Yds   Avg Long  TB  FC I20 Blkd
+------------------------------------------------
+D.Titchener  42 1649  39.3   58   3   5  13    0
+J.Wesch       5  201  40.2   55   2   1   1    0
+TEAM          1    0   0.0    0   0   0   0    1
+Total......  48 1850  38.5   58   5   6  14    1
+Opponents..  66 2544  38.5   69   4   9  18    1
+
+
+KICKOFFS        No.   Yds   Avg  TB  OB  Retn  Net YdLn
+-------------------------------------------------------
+Kunalic, Adi     81  5307  65.5  29   1
+Henery, Alex      6   250  41.7   0   0
+Titchener, Dan    1    52  52.0   0   0
+Total..........  88  5609  63.7  29   1  1364 41.6   28
+Opponents......  71  4435  62.5  10   4  1245 42.1   27
+
+
+ALL PURPOSE        G Rush  Rec   PR  KOR   IR  Tot Avg/G
+--------------------------------------------------------
+Swift, Nate       13   23  941  296    0    0 1260  96.9
+Paul, Niles       13   -6  214   80  969    0 1257  96.7
+Helu Jr., Roy     13  803  266    0    0    0 1069  82.2
+Lucky, Marlon     12  517  288    0    0    0  805  67.1
+Peterson, Todd    13   18  786    0    0    0  804  61.8
+Castille, Q.      13  467  109    0    0    0  576  44.3
+McNeill, Mike     13    0  442    0    0    0  442  34.0
+Holt, Menelik     12    0  355    0    0    0  355  29.6
+Ganz, Joe         13  258   20    0    0    0  278  21.4
+Dennard, Alfonzo  12    0    0    0  150    0  150  12.5
+Young, Dreu       13    0  140    0    0    0  140  10.8
+Mendoza, Marcus    4  103    7    0    0    0  110  27.5
+Suh, Ndamukong    13    0    2    0    0   79   81   6.2
+Gilleylen, C.     11    0   11    0   48    0   59   5.4
+Murillo, A.       13    0    0    0    0   57   57   4.4
+Teafatiller, H.   12    0   27    0   16    0   43   3.6
+Lawson, Thomas    11    0    4    0   31    0   35   3.2
+Asante, Larry     13    0    0    0   31    0   31   2.4
+Brooks, Chris     11    0   27    0    0    0   27   2.5
+West, Anthony     12    0    0    0    0   26   26   2.2
+O'Hanlon, Matt    13    0    0    0    0   21   21   1.6
+Witt, Patrick      5   20    0    0    0    0   20   4.0
+Lee, Zac           2   17    0    0    0    0   17   8.5
+Potter, Zach      13    0    0    0    0   11   11   0.8
+Hill, Ryan        13    0    9    0    0    0    9   0.7
+Henery, Alex      13    9    0    0    0    0    9   0.7
+Wortman, Tyler    13    0    0    0    0    8    8   0.6
+Cammack, Wes      13    0    5    0    0    0    5   0.4
+Wesch, Jake       13   -9    0    0    0    0   -9  -0.7
+TEAM               5  -13    0    0    0    0  -13  -2.6
+Total..........   13 2207 3653  376 1245  202 7683 591.0
+Opponents......   13 1514 3034  208 1364  249 6369 489.9
+
+                           |--------Tackles-------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blkd
+DEFENSIVE LEADERS    GP-GS Solo  Ast Total  TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kick Saf
+---------------------------------------------------------------------------------------------------
+93 Suh, Ndamukong    13-13   39   37    76   19-85   7.5-67     2-79     3   7    .      1    2   .
+4  Asante, Larry     13-12   45   22    67    2-4    1.0-4      1-0      4   1    .      .    .   .
+33 O'Hanlon, Matt     13-9   33   19    52    2-5       .       1-21     5   1    .      .    .   .
+95 Allen, Pierre     13-11   21   31    52   10-37   5.0-27      .       1   2    .      1    .   .
+34 Glenn, Cody         9-9   26   25    51    6-20      .        .       4   4    .      1    .   .
+43 Steinkuhler, Ty   13-13   21   27    48    8-27   2.5-21      .       .   3    .      1    .   .
+98 Potter, Zach      13-13   14   33    47   16-54   5.5-44     2-11     7   6    .      1    3   .
+6  Murillo, A.       13-12   35    9    44    2-1       .       1-57     9   1   1-11    .    .   .
+28 Hagg, Eric        13-10   29   10    39    5-28   1.0-16      .       7   2   1-3     1    .   .
+52 Dillard, P.         9-5   13   25    38    2-9    0.5-6       .       1   1    .      .    .   .
+53 Wortman, Tyler     13-6   19   17    36    5-11      .       1-8      1   .    .      .    .   .
+21 Amukamara, P.      13-3   21   13    34    2-12   1.0-11      .       3   1    .      2    .   .
+5A West, Anthony     12-11   23    6    29    1-2    1.0-2      2-26     9   .    .      .    .   .
+3  Thenarse, R.       11-5   17    7    24    6-25   2.0-21     1-0      1   .    .      1    1   .
+23 Thorell, Lance     11-5   15    9    24     .        .        .       1   .    .      .    .   .
+40 Lawrence, Blake    10-2    8   13    21     .        .       1-0      1   1    .      .    .   .
+54 Koehler, Colton     7-1    7    9    16    1-2       .        .       .   .    .      .    .   .
+35 Holt, Matt          9-1   11    3    14     .        .        .       .   .    .      .    .   .
+88 Sievers, C.        13-0    9    5    14    3-6    1.0-1       .       .   2    .      1    .   .
+2  Culbert, Major      7-0    4    6    10     .        .        .       .   .    .      .    .   .
+56 Barfield, S.       11-0    7    3    10    3-16   3.0-16      .       .   .    .      .    .   .
+82 Cammack, Wes       13-0    8    1     9     .        .        .       .   .    .      .    .   .
+9B Moore, Terrence     7-0    3    5     8    2-11   2.0-11      .       .   .    .      .    .   .
+24 Paul, Niles        13-3    5    3     8     .        .        .       .   .   2-0     .    .   .
+22 Wald, Mason        13-0    4    2     6     .        .        .       .   .    .      .    .   .
+3H May, Mathew         8-0    5    1     6    1-8    1.0-8       .       .   .   1-0     1    .   .
+15 Dennard, Alfonzo   12-0    4    1     5     .        .        .       .   .    .      .    .   .
+89 Teafatiller, H.    12-2    4    1     5     .        .        .       .   .    .      .    .   .
+99 Turner, Barry       2-2    1    2     3    2-15   1.0-14      .       .   .    .      .    .   .
+17 Peterson, Todd    13-13    3    .     3     .        .        .       .   .    .      .    .   .
+30 Hays, Mike         13-0    2    1     3     .        .        .       .   .    .      .    .   .
+19 Castille, Q.       13-1    1    2     3     .        .        .       .   .    .      .    .   .
+80 Hill, Ryan         13-0    2    .     2     .        .        .       .   .    .      .    .   .
+94 Crick, Jared        9-0    1    1     2     .        .        .       1   .    .      .    .   .
+41 Grove, Thomas      13-0    1    1     2     .        .        .       .   .    .      .    .   .
+5  Lucky, Marlon     12-11    .    1     1     .        .        .       .   .    .      .    .   .
+18 Holt, Menelik      12-4    .    1     1     .        .        .       .   .    .      .    .   .
+65 Smith, Mike       13-12    1    .     1     .        .        .       .   .    .      .    .   .
+8  Cassidy, Austin     2-0    1    .     1     .        .        .       .   .    .      .    .   .
+10 Helu Jr., Roy      13-2    1    .     1     .        .        .       .   .    .      .    .   .
+12 Ganz, Joe         13-13    1    .     1     .        .        .       .   .    .      .    .   .
+68 Williams, Keith    13-9    1    .     1     .        .        .       .   .    .      .    .   .
+1  Brooks, Chris      11-0    1    .     1     .        .        .       .   .    .      .    .   .
+76 Murtha, Lydon       9-9    1    .     1     .        .        .       .   .    .      .    .   .
+20 Kunalic, Adi       13-0    1    .     1     .        .        .       .   .    .      .    .   .
+63 Martin, Ben         1-0    .    1     1     .        .        .       .   .    .      .    .   .
+47 Yancy, William      1-0    .    1     1     .        .        .       .   .    .      .    .   .
+8D O'Leary, T.J.      13-0    1    .     1     .        .        .       .   .    .      .    .   .
+TM TEAM                5-0    .    .     .     .        .        .       .   .    .      .    .   1
+   Total..........    13-0  470  354   824   98-378   35-269   12-202   58  32   5-14   11    6   1
+   Opponents......    13-0    -    -      -    -      21-128   11-249   38  11  17-150  19    2   1
+

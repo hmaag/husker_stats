@@ -1,0 +1,190 @@
+
+
+1981 Nebraska Cornhuskers
+Overall Team Statistics
+Bowl game not included
+
+
+TEAM STATISTICS           NU     Opp.
+First Downs Total        250      154
+  By Rushing             187       94
+  By Passing              57       51
+  By Penalty               6        9
+Rushing Yards Gained    3635     1544
+  Avg. Per Game        330.5    140.4
+Passing Net Yardage     1177     1101
+  Avg. Per Game        107.0    100.1
+Total Offense Net Yds   4812     2645
+  Total Plays            842      728
+  Avg. Per Play          5.7      3.6
+  Avg. Per Game        437.5    240.5
+Penalties Number          58       42
+  Yards Penalized        567      347
+Fumbles Number            43       41
+  Lost                    24       23
+Points Scored            349      103
+  Avg. Per Game         31.7      9.4
+
+	
+SCORING BY QUARTERS
+
+TOTAL    1     2     3      4      Tot
+NEB     65    72   111    101      349
+OPP     23    37    23     20      103
+
+AVG      1     2     3      4      Tot
+NEB    5.9   6.5   10.1   9.2     31.7
+OPP    2.1   3.4    2.1   1.8      9.4
+
+
+
+RUSHING   Att Gain Loss  Net Avg LG  TD
+Craig     173 1070   10 1060 6.1 94t  6
+Rozier    151  949    6  943 6.2 93t  5
+Bates      94  559    4  555 5.9 39   7
+Gill       76  335   72  263 3.5 30   3
+Brungardt  29  155    2  153 5.3 13   0
+Steels     19  140   22  118 6.2 29   0
+Mathison   16  118    1  117 7.3 22   2
+Wilkening  14   92    0   92 6.6 19   0
+Moravec    15   90    0   90 6.0 11   2
+Mason      25  101   15   86 3.4 14   1
+Mauer      27   90   34   56 2.1 14   0
+Fryar       7   30    4   26 3.7  9t  1
+Rathman     4   20    0   20 5.0  6   0
+P.Smith     4   18    0   18 4.5  6   0
+Patterson   2   16    0   16 8.0 11   0
+Hill        3   16    0   16 5.3  8   0
+Rogan       2    6    0    6 3.0  4   0
+NEB       661 3805  170 3635 5.5 94t 27
+OPP       503 1959  415 1544 3.1 56   6
+
+
+                             Avg/  Avg/
+PASSING  Att  Cmp   Pct  Yds  Att   Cmp
+Gill      91   47  51.6  619  6.8  13.2
+Mauer     69   35  50.7  460  6.7  13.1
+Mason     14    5  35.7   91  6.5  18.2
+Mathison   4    1  25.0    7  1.8   7.0
+Rozier     2    0   0.0    0  0.0   0.0
+Fryar      1    0   0.0    0  0.0   0.0
+NEB      181   88  48.6 1177  6.5  13.4
+OPP      225  103  45.8 1101  4.9  10.7
+
+                                  NCAA
+PASSING  Int  Int%  TD  TD%  LG   Rat.
+Gill       4   4.4   9  9.9  45t 132.6
+Mauer      4   5.8   5  7.2  49t 119.0
+Mason      2  14.3   0  0.0  55   61.7
+Mathison   1  25.0   0  0.0   7
+Rozier     0   0.0   0  0.0   0
+Fryar      0   0.0   0  0.0   0       
+NEB       11   6.1  14  7.7  55  116.6
+OPP       19   8.4   3  1.3  42   74.4
+
+PASSER'S TOTAL OFFENSE (Att./Yards)
+Gill 167/882, Rozier 154/975, Mauer 96/516,
+Mason 39/177, Mathison 20/124, Fryar 8/26.
+
+
+RECEIVING   No. Yds.  Avg.  LG  TD
+Ja.Williams  22  282  12.8  55   4
+Steels       15  187  12.5  21   2
+Brown        14  277  19.8  45t  3
+Craig        12   87   7.3  17   0
+Krenk         9  126  14.0  24   2
+Woodard       5   60  12.0  17   1
+Rozier        4   64  16.0  32   0
+Fryar         3   70  23.1  49t  1
+Bates         2    7   3.5   9t  1
+Brungardt     1   10  10.0  10   0
+Wilkening     1     7  7.0   7   0
+Nebraska     88 1177  13.4  55  14
+Opponents   103 1101  10.7  42   3
+
+
+SCORING    TDR TDP TDRt PATl  PAT2  FG  TP
+Seibel                 43-44       3-10 52
+Bates        7  1                       48
+Craig        6                          36
+Rozier       5      l                   36
+Fryar        1  1   2                   24
+Neil                                8-9 24
+Ja.Williams     4                       24
+Brown           3                       18
+Gill         3                          18
+Krenk           2                       12
+Mathison     2                          12
+Moravec      2                          12
+Steels          2                       12
+Felici              1                    6
+Mason        1                           6
+Woodard         1                        6
+Hagerman                1-1              1
+Nebraska    27 14   4  44-45  0  11-19 349*
+Opponents    6  3   0   8-8  1-1 13-20 103
+
+*Includes one safety.
+
+
+
+KICKOFF
+RETURNS    No. Yds.  Avg.  LG  TD
+Rozier      5   162  32.4  93t  1
+Steels      6   140  23.3  44   0
+Fryar       3    55  18.3  22   0
+Wilkening   1    21  21.0  21   0
+Krenk       1     5   5.0   5   0
+Craig       1     0   0.0   0   0
+Nebraska    17   383  22.5  93t 1
+Opponents   29   406  14.0  30  0
+
+
+PUNT
+RETURNS    No.  Yds.  Avg.   LG   TD
+Fryar      24   318   13.3   82t   2
+Lyday       9    79    8.8   29    0
+Lindquist   1    18   18.0   18    0
+Steels      1    16   16.0   16    0
+Craig       1    -3   -3.0   -3    0
+Nebraska   36   428   11.9   82t   2
+Opponents  10    84    8.4   17    0
+
+
+PUNTING    No.  Yds.  Avg.   LP  Blkd
+Campbell   42  1821   43.4   68    1
+Team        1    11   11.0   11    1
+Nebraska   43  1832   42.6   68    1
+Opponents  75  3204   42.7   63    0
+
+
+
+INTERCEPTION
+RETURNS       No. Yds. Avg.  LG  TD
+Krejci         4   19   4.8  11   0
+Van Norman     3   49  16.3  34   0
+Lyday          3   48  16.0  20   0
+Lindquist      3   26   8.7  23   0
+Felici         2   13   6.5  13t  1
+Ji.Williams    2    0   0.0   0   0
+Lewis          1   31  31.0  31   0
+Sims           1   18  18.0  18   0
+H.Waechter     1    2   2.0   2   0
+Weber          1    0   0.0   0   0
+Nebraska      21  206   9.8  31   1
+Opponents     10  106  10.6  32   0
+
+
+FIELD
+GOALS     1-19 20-29 30-39 40-49  50+
+Neil         0   3-3   4-5   1-1    0
+Seibel       0   1-4   2-3   0-3    0
+Nebraska     0   4-7   6-8   1-4    0
+Opponents    0   4-7   4-5   4-7  1-1
+
+Neil FGs (bold good): (0) (21) (30,37)
+(0) (0) (0) (0) (37) (27) (49)
+(38,37,24).
+Seibel FGs: (46,37) (24,27)  (0) (39)
+(37) (24)(26,42,40) (0) (0) (0) (0).
+

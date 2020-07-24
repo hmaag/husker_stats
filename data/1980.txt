@@ -1,0 +1,159 @@
+1980 Nebraska Cornhuskers
+Nebraska Overall Team Statistics (Final)
+(does not include bowl game)
+
+                             NU    Opp. 
+First Downs Total           293     153 
+  By Rushing                211      74 
+  By Passing                 66      66 
+  By Penalty                 16      13 
+Rushing Attempts            739     454 
+  Yards Gained             4389    1635 
+  Yards Lost                228     667 
+  Net Yardage              4161     968 
+  Average per Rush          5.6     2.1 
+  Average per Game        378.3    88.0 
+  Touchdowns by Rushing      45       7 
+Passing Attempted           174     259 
+  Completed                 102     118 
+  Net Yardage              1415    1350 
+  Percent Completed        58.6    45.6 
+  For Touchdowns             14       3 
+  Had Intercepted             6      14 
+  Average per Attempt       8.1     5.2 
+  Average per Completion   13.9    11.4 
+  Average per Game        128.6   122.7 
+Total Offense Plays         913     713 
+  Net Yardage              5576    2318 
+  Average per Play          6.1     3.3 
+  Average per Game        506.9   210.7 
+Punts                        39      74 
+  Had Blocked                 2       0 
+  Average                  35.7    42.2 
+Punts Returned               29      11 
+  Yardage                   235      62 
+  Returned for TDs            0       0 
+  Average per Return        8.1     5.6 
+Kickoff Returns              14      32 
+  Yardage                   344     575 
+  Returns for TDs             0       0 
+  Average per Return       21.6    17.9 
+Interception Returns         14       6 
+  Yardage                   231      37 
+  Returns for TDs             1       0 
+  Average per Return       16.5     6.2 
+Fumbles-lost              44-21   40-21 
+Penalties-yards          59-603  42-383 
+
+
+SCORING BY QUARTERS
+        1st   2nd   3rd   4th     Total
+NU      111   144    97    87       439 
+OPP.      6    34    19    34        93 
+
+AVG. SCORING BY QUARTERS
+        1st    2nd   3rd   4th    Total
+NU     10.1   13.1   8.8   7.9     39.9 
+OPP.    0.5    3.1   1.7   3.1      8.5 
+
+
+RUSHING   Att.   Gn.  Loss  Net   Avg  TD 
+Bates       14    90    0    90   6.4   0 
+Burke        6    27    6    21   3.5   0 
+Craig      108   788   19   769   7.1  15 
+Franklin   120   680    2   678   5.7   3 
+Fryar        2    14    0    14   7.0   0 
+Gemar        1     0  -10   -10    -    0 
+Gill         4    27    1    26   6.5   0 
+Johnson     72   385    6   679   5.3   6 
+Kotera      41   179    1   178   4.3   1 
+Mason       23   114   15    99   4.3   0 
+Mathison     9    49    1    48   5.3   1 
+Mauer       15   106    0   106   7.1   3 
+McCrady      7    20    6    14   2.0   0 
+Moravec     15    97    1    96   6.4   1 
+Quinn      108   442   94   348   3.2   6 
+Redwine    156  1156   37  1119   7.2   9 
+Simmons     14    66   18    48   3.4   0 
+Smith,Paul   2     5    0     5   2.5   0 
+Steels      17    95   10    85   5.0   0 
+Knoll        1     0    1    -1    -    0 
+Smith,Jeff   4    49    0    49  12.3   0
+
+
+PASSING  Att. Comp Int  Pct   Yds  TD 
+Gill       1    0   0  .000     0   0 
+Mason      5    1   0  .200    14   0 
+Mauer     11    5   0  .455    64   0 
+Quinn    157   96   6  .611  1337  14
+
+
+RECEIVING   No.  Yds   YPC   YPG  TD 
+Brown        28  416  14.9  37.8   5
+Davies        4   49  12.3   7.0   0
+Finn         20  217  10.9  19.7   3
+Franklin      1   12  12.0   1.1   0
+Johnson       6   26   4.3   2.6   0
+McCrady      12  195  16.3  17.7   2
+Noonan       10  187  18.7  18.7   3
+Redwine       7   67   9.6   7.4   0
+Steels       11  208  18.9  18.9   1
+Williams,J.   1   12  12.0   6.0   0
+Woodard       1   12  12.0  12.0   0
+Vergith       1   14  14.0  14.0   0
+
+
+INTERCEPTION
+RETURNS    No. Yds.  Avg. TDs  Long  
+Baker       2   85   42.5   1  77—M 
+Gary        1    0      0   0   0—PS 
+Krejci      1    8    8.0   0   8—OSU 
+Lindquist   3   -2     -    0   0—6,I 
+Sims        2   43   21.5   0  27—PS 
+Van Norman  1   30   30.0   0  30—K 
+Holbrook    1   64   64.0   0  64—KS 
+Lewis       1    3    3.0   0   3—C 
+Means       2    0      0   0   0—C,IS
+
+
+PUNTING    No.  Yds.   Avg.   Long  
+Gemar      37   1372   37.1   56—PS 
+Team        2     20   10.0   20—PS
+
+
+SCORING  TDs  Pat1 Pat2    FG   SAF  TP 
+Baker     1                           6 
+Brown     5                          30 
+Craig    15                          90 
+Finn      3                          18 
+Franklin  3                          18 
+Johnson   6                          36 
+Kotera    1                           6 
+Mathison  1                           6 
+Mandelko  1                           6 
+Mauer     3                          18 
+McCrady   2                          12 
+Neil          7-8          0-3        7 
+Noonan    3                          18 
+Moravec   1                           6 
+Quinn     6         0-1              36 
+Redwine   9                          54 
+Schoening     1-2                     1 
+Seibel       48-50         5-7       63 
+Steels    1                           6 
+Team
+vs. Iowa                          1   2 
+
+
+PUNT RETURNS   No.   Yds.  Avg.  TDs  Long 
+Liegl          28    244    8.0   0   43—I 
+Simmons         1     11   11.0   0   11—I
+
+
+KICKOFF
+RETURNS    No.   Yds.  Avg.   TDs  Long 
+Simmons     4    112   28.0    0   77—K 
+Steels      7    171   24.4    0   63—M 
+Craig       2     35   17.5    0   18—M 
+Fryar       1     26   26.0    0   26—KS
+

@@ -1,0 +1,619 @@
+        2006 Nebraska Cornhuskers
+ Nebraska Overall Team Statistics (Final)
+               All games
+
+TEAM STATISTICS           NU          OPP
+-----------------------------------------
+SCORING.............     428          256
+  Points Per Game...    30.6         18.3
+FIRST DOWNS.........     285          236
+  Rushing...........     125           82
+  Passing...........     144          144
+  Penalty...........      16           10
+RUSHING YARDAGE.....    2387         1632
+  Yards gained......    2723         2042
+  Yards lost........     336          410
+  Rushing Attempts..     554          436
+  Avg. Per Rush.....     4.3          3.7
+  Avg. Per Game.....   170.5        116.6
+  TDs Rushing.......      27           14
+PASSING YARDAGE....     3417         3014
+  Att-Comp-Int.... 411-244-8   446-238-12
+  Avg. Per Pass....      8.3          6.8
+  Avg. Per Catch....    14.0         12.7
+  Avg. Per Game.....   244.1        215.3
+  TDs Passing.......      32           17
+TOTAL OFFENSE.......    5804         4646
+  Total Plays.......     965          882
+  Avg. Per Play.....     6.0          5.3
+  Avg. Per Game.....   414.6        331.9
+KICK RETURNS-YDS....  28-488      61-1096
+PUNT RETURNS-YDS....  36-294        18-73
+INT RETURNS-YDS.....  12-113         8-83
+KICK RETURN AVG.....    17.4         18.0
+PUNT RETURN AVG.....     8.2          4.1
+INT RETURN AVG......     9.4         10.4
+FUMBLES-LOST........   25-17        32-13
+PENALTIES-YARDS.....  74-614       77-583
+  Avg. Per Game.....    43.9         41.6
+PUNTS-YARDS......... 68-2660      83-3336
+  Avg. Per Punt.....    39.1         40.2
+  Net punt avg......    37.2         35.7
+POSS. TIME/GAME.....   32:41        27:19
+3RD-DOWN CONV. .....  90/199       63/192
+  3rd-Down Pct......     45%          33%
+4TH-DOWN CONV. .....   14/23         9/23
+  4th-Down Pct......     61%          39%
+SACKS BY-YARDS......  31-238       30-206
+MISC YARDS..........      18           39
+TOUCHDOWNS SCORED...      59           32
+FIELD GOALS-ATTS....     5-7        12-17
+PAT-ATTEMPTS........   55-56        26-29
+ATTENDANCE..........  595309       321505
+  Games/Avg......... 7/85044      5/64301
+  Neut. Site Games..              2/73404
+
+
+SCORE BY
+QUARTERS  1st  2nd  3rd  4th  OT    Total
+--------- ---  ---  ---  ---  --    -----
+NEB.....  117  135   49  120   7  -   428
+OPP.....   45   83   46   82   0  -   256
+
+
+
+RUSHING     GP-GS  Att Gain Loss  Net   Avg  TD Lng Avg/G
+---------------------------------------------------------
+B.Jackson    14-9  188 1023   34  989   5.3   8  48  70.6
+M.Luckyn     14-6  141  762   34  728   5.2   6  51  52.0
+C.Glenn       9-0   71  375    5  370   5.2   8  36  41.1
+K.Wilson     12-0   75  354   19  335   4.5   4  30  27.9
+T.Nunn       14-9    4   21    2   19   4.8   0  18   1.4
+F.Hardy      13-0    3   16    2   14   4.7   0  13   1.1
+T.Gree      14-14    1    7    0    7   7.0   0   7   0.5
+M.Purify     14-5    1    1    0    1   1.0   0   1   0.1
+J.Ganz        5-0    3   10   20  -10  -3.3   0  10  -2.0
+D.Todd       14-8    1    0   15  -15 -15.0   0   0  -1.1
+TEAM          8-0    6    0   19  -19  -3.2   0   0  -2.4
+Z.Taylor    14-14   60  154  186  -32  -0.5   1  24  -2.3
+Total.......  14   554 2723  336 2387   4.3  27  51 170.5
+Opponents...  14   436 2042  410 1632   3.7  14  57 116.6
+
+
+PASSING    GP-GS  Effic Att-Cmp-Int  Pct   Yds  TD Lng Avg/G
+------------------------------------------------------------
+Z.Taylor   14-14  146.12  391-233-8  59.6 3197  26  78 228.4
+J.Ganz       5-0  208.83   13-7-0    53.8  122   3  31  24.4
+TEAM         8-0    0.00    2-0-0     0.0    0   0   0   0.0
+M.Lucky     14-6  320.00    2-1-0    50.0   25   1  25   1.8
+J.Wesch     11-0  572.80    1-1-0   100.0   17   1  17   1.5
+D.Titchener 14-0  335.20    1-1-0   100.0   28   0  28   2.0
+M.Purify    14-5  665.20    1-1-0   100.0   28   1  28   2.0
+Total....... 14   151.00  411-244-8  59.4 3417  32  78 244.1
+Opponents... 14   117.33  446-238-12 53.4 3014  17  66 215.3
+
+
+RECEIVING         GP-GS No.  Yds   Avg  TD Lng Avg/G
+----------------------------------------------------
+Nunn, Terrence    14-9   42  597  14.2   3  75  42.6
+Purify, Maurice   14-5   34  630  18.5   7  63  45.0
+Jackson, Brandon  14-9   33  313   9.5   2  49  22.4
+Lucky, Marlon     14-6   32  383  12.0   0  42  27.4
+Swift, Nate       14-3   22  374  17.0   2  49  26.7
+Peterson, Todd    14-2   19  307  16.2   2  48  21.9
+Hardy, Frantz     13-0   14  317  22.6   3  78  24.4
+Phillips, J.B.    14-12  13   82   6.3   2  10   5.9
+Herian, Matt      14-12  12  150  12.5   2  36  10.7
+Teafatiller, H    14-2    5   78  15.6   4  29   5.6
+Mueller, Josh     13-2    5   26   5.2   2   8   2.0
+Erickson, Dan     13-0    4   85  21.2   0  57   6.5
+Wilson, Kenny     12-0    3   20   6.7   0  13   1.7
+Todd, Dane        14-8    3   13   4.3   1   8   0.9
+Senske, Matt       4-0    2   13   6.5   1  12   3.2
+Turner, Barry     14-0    1   29  29.0   1  29   2.1
+Total..........   14    244 3417  14.0  32  78 244.1
+Opponents......   14    238 3014  12.7  17  66 215.3
+
+
+PUNT RETURNS       No.  Yds   Avg TD Long
+-----------------------------------------
+Nunn, Terrence      18  153   8.5  0   31
+Grixby, Cortney     13   92   7.1  0   23
+Swift, Nate          3   50  16.7  0   33
+Bradley, Stewart     1   -1  -1.0  0    0
+TEAM                 1    0   0.0  0    0
+Total..........     36  294   8.2  0   33
+Opponents......     18   73   4.1  0   16
+
+
+INTERCEPTIONS      No.  Yds   Avg TD Long
+-----------------------------------------
+Shanle, Andrew       4   19   4.8  0   19
+Ruud, Bo             2   54  27.0  0   40
+Suh, Ndamukong       1    0   0.0  0    0
+Thenarse, Rickey     1   25  25.0  0   25
+Jones, Andre         1    0   0.0  0    0
+Carriker, Adam       1   -3  -3.0  0    0
+Green, Tierre        1   15  15.0  0   15
+Grixby, Cortney      1    3   3.0  0    3
+Total..........     12  113   9.4  0   40
+Opponents......      8   83  10.4  0   52
+
+
+KICK RETURNS       No.  Yds   Avg TD Long
+-----------------------------------------
+Jackson, Brandon     9  157  17.4  0   27
+Lucky, Marlon        8  153  19.1  0   32
+Green, Tierre        3   59  19.7  0   23
+Hardy, Frantz        3   49  16.3  0   22
+Wilson, Kenny        2   42  21.0  0   27
+Peterson, Todd       1    0   0.0  0    0
+Phillips, J.B.       1   15  15.0  0   15
+Todd, Dane           1   13  13.0  0   13
+Total..........     28  488  17.4  0   32
+Opponents......     61 1096  18.0  0   78
+
+
+FUMBLE RETURNS     No.  Yds   Avg TD Long
+-----------------------------------------
+Rigoni, Brandon      1   11  11.0  0   11
+Ruud, Bo             1    7   7.0  0    7
+Total..........      2   18   9.0  0   11
+Opponents......      4   39   9.8  1   19
+
+
+                            |------ PATs -----|
+SCORING           TD  FGs   Kick  Rush Rcv Pass  Saf Pts
+--------------------------------------------------------
+Congdon, Jordan    0  5-7   55-56  0-0   0  0-0   0   70
+Jackson, Brandon  10  0-0    0-0   0-0   0  0-0   0   60
+Glenn, Cody        8  0-0    0-0   0-0   0  0-0   0   48
+Purify, Maurice    7  0-0    0-0   0-0   0  0-0   0   42
+Lucky, Marlon      6  0-0    0-0   0-0   0  0-0   0   36
+Teafatiller, H     4  0-0    0-0   0-0   0  0-0   0   24
+Wilson, Kenny      4  0-0    0-0   0-0   0  0-0   0   24
+Hardy, Frantz      3  0-0    0-0   0-0   0  0-0   0   18
+Nunn, Terrence     3  0-0    0-0   0-0   0  0-0   0   18
+Swift, Nate        2  0-0    0-0   0-0   1  0-0   0   14
+Phillips, J.B.     2  0-0    0-0   0-0   0  0-0   0   12
+Mueller, Josh      2  0-0    0-0   0-0   0  0-0   0   12
+Herian, Matt       2  0-0    0-0   0-0   0  0-0   0   12
+Peterson, Todd     2  0-0    0-0   0-0   0  0-0   0   12
+Taylor, Zac        1  0-0    0-0   0-0   0  1-2   0    6
+Todd, Dane         1  0-0    0-0   0-0   0  0-0   0    6
+Senske, Matt       1  0-0    0-0   0-0   0  0-0   0    6
+Turner, Barry      1  0-0    0-0   0-0   0  0-0   0    6
+TEAM               0  0-0    0-0   0-0   0  0-0   1    2
+Wesch, Jake        0  0-0    0-0   0-1   0  0-0   0    0
+Rigoni, Brandon    0  0-0    0-0   0-0   0  0-0   0    0
+Total..........   59  5-7   55-56  0-1   1  1-2   1  428
+Opponents......   32 12-17  26-29  0-1   1  1-2   0  256
+
+
+TOTAL OFFENSE     G  Plays Rush Pass Total Avg/G
+------------------------------------------------
+Taylor, Zac       14   451  -32 3197  3165 226.1
+Jackson, Brandon  14   188  989    0   989  70.6
+Lucky, Marlon     14   143  728   25   753  53.8
+Glenn, Cody        9    71  370    0   370  41.1
+Wilson, Kenny     12    75  335    0   335  27.9
+Ganz, Joe          5    16  -10  122   112  22.4
+Purify, Maurice   14     2    1   28    29   2.1
+Titchener, Dan    14     1    0   28    28   2.0
+Nunn, Terrence    14     4   19    0    19   1.4
+Wesch, Jake       11     1    0   17    17   1.5
+Hardy, Frantz     13     3   14    0    14   1.1
+Green, Tierre     14     1    7    0     7   0.5
+Todd, Dane        14     1  -15    0   -15  -1.1
+TEAM               8     8  -19    0   -19  -2.4
+Total..........   14   965 2387 3417  5804 414.6
+Opponents......   14   882 1632 3014  4646 331.9
+
+
+FIELD
+GOALS     FGM-FGA Pct  1-19  20s  30s  40s  50s  Lg Blk
+-------------------------------------------------------
+J.Congdon    5-7  71.4  0-0  2-2  2-3  1-2  0-0  40   0
+
+
+FG SEQUENCE   Nebraska    OPPONENTS
+-----------------------------------
+La. Tech      -           (23)
+Nicholls St   37          -
+USC           (38)        -
+Troy          -           -
+Kansas        (21)        (31),(35)
+Iowa State    -           -
+Kansas St     -           54,(53)
+Texas         -           (22),39,31,(22),(22)
+Oklahoma St   (26),42     -
+Missouri      (40),(33)   (26),(54)
+Texas A&M     -           (37),(20),42
+Colorado      -           55
+Oklahoma      -           -
+Auburn        -           (42)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING          No.   Yds   Avg Lng TB  FC I20 Blk
+---------------------------------------------------
+Titchener, Dan   66  2592  39.3  58  3  28  26   0
+Congdon, Jordan   2    68  34.0  35  0   0   2   0
+Total..........  68  2660  39.1  58  3  28  28   0
+Opponents......  83  3336  40.2  60  4  11  17   1
+
+
+KICKOFFS         No.  Yds   Avg  TB  OB  Retn  Net YdLn
+-------------------------------------------------------
+Congdon, Jordan  43  2395  55.7   4   1
+Wesch, Jake      33  2016  61.1   8   0
+Alegria, Jordan   1    59  59.0   0   0
+Total..........  77  4470  58.1  12   1  1096  40.7  24
+Opponents......  56  3330  59.5  25   1   488  41.8  23
+
+
+ALL PURPOSE       G  Rush  Rec   PR  KOR  IR  Tot Avg/G
+-------------------------------------------------------
+Jackson, Brandon  14  989  313    0  157   0 1459 104.2
+Lucky, Marlon     14  728  383    0  153   0 1264  90.3
+Nunn, Terrence    14   19  597  153    0   0  769  54.9
+Purify, Maurice   14    1  630    0    0   0  631  45.1
+Swift, Nate       14    0  374   50    0   0  424  30.3
+Wilson, Kenny     12  335   20    0   42   0  397  33.1
+Hardy, Frantz     13   14  317    0   49   0  380  29.2
+Glenn, Cody        9  370    0    0    0   0  370  41.1
+Peterson, Todd    14    0  307    0    0   0  307  21.9
+Herian, Matt      14    0  150    0    0   0  150  10.7
+Phillips, J.B.    14    0   82    0   15   0   97   6.9
+Grixby, Cortney   14    0    0   92    0   3   95   6.8
+Erickson, Dan     13    0   85    0    0   0   85   6.5
+Green, Tierre     14    7    0    0   59  15   81   5.8
+Teafatiller, Hun  14    0   78    0    0   0   78   5.6
+Ruud, Bo          14    0    0    0    0  54   54   3.9
+Turner, Barry     14    0   29    0    0   0   29   2.1
+Mueller, Josh     13    0   26    0    0   0   26   2.0
+Thenarse, Rickey  14    0    0    0    0  25   25   1.8
+Shanle, Andrew    14    0    0    0    0  19   19   1.4
+Senske, Matt       4    0   13    0    0   0   13   3.2
+Todd, Dane        14  -15   13    0   13   0   11   0.8
+Bradley, Stewart  14    0    0   -1    0   0   -1  -0.1
+Carriker, Adam    14    0    0    0    0  -3   -3  -0.2
+Ganz, Joe          5  -10    0    0    0   0  -10  -2.0
+TEAM               8  -19    0    0    0   0  -19  -2.4
+Taylor, Zac       14  -32    0    0    0   0  -32  -2.3
+Total..........   14 2387 3417  294  488 113 6699 478.5
+Opponents......   14 1632 3014   73 1096  83 5898 421.3
+
+
+
+Overall Defensive Statistics
+
+                        |-------Tackles-------| |Sacks|  |--Pass Def---| |-Fumbles-| Blk
+DEFENSIVE LEADERS    GP  UT   AT   TT   TFL/Yds  No-Yds  Int-Yd BrUp QBH Rcv-Yds  FF Kck Saf
+--------------------------------------------------------------------------------------------
+34 Bradley, Stewart  14  41   35   76     6-18  1.0-6      .       1   5   4-0     3   .   .
+25 Jones, Andre      14  52   22   74     2-13  1.0-12    1-0      7   .    .      .   .   .
+1D McKeon, Corey     13  32   37   69     8-28  1.0-15     .       3   2   1-0     2   .   .
+51 Ruud, Bo          14  36   29   65     7-31  2.0-23    2-54     4   4   2-7     3   .   .
+30 Green, Tierre     14  37   28   65     1-1      .      1-15     2   .   1-0     .   .   .
+8  Shanle, Andrew    14  41   16   57      .       .      4-19     7   4   1-0     .   .   .
+2  Grixby, Cortney   14  42   11   53     2-3      .      1-3     11   .   1-0     1   .   .
+90 Carriker, Adam    14  24   28   52    16-61  7.0-45    1--3     3  11    .      .   1   .
+44 Moore, Jay        14  23   22   45    17-70  6.0-43     .       3   5    .      .   .   .
+40 Brandenburgh, L   14  19   22   41     4-10  0.5-1      .       .   .    .      1   .   .
+15 Octavien, Steve    9  21   11   32     4-7   1.0-1      .       2   1    .      1   .   .
+54 Dagunduro, Ola    14  14   17   31     9-31  3.5-25     .       .   3    .      .   1   .
+94 Cryer, Barry      14  18   13   31    10-38  2.5-18     .       3   1    .      1   .   .
+43 Steinkuhler, Ty   14  15    7   22     3-8   0.5-1      .       .   .    .      1   .   .
+93 Suh, Ndamukong    14  12    7   19     8-45  3.5-37    1-0      .   2    .      1   .   .
+99 Turner, Barry     14  11    7   18     4-12  1.5-11     .       2   6   1-0     .   1   .
+46 Eisenhart, Ben    13   9    4   13     2-6      .       .       .   .    .      .   .   .
+23 Young, Corey      11   9    3   12      .       .       .       .   .    .      .   .   .
+6  Culbert, Major    12   6    6   12      .       .       .       .   .    .      .   1   .
+26 Erickson, Dan     13   6    6   12      .       .       .       .   .    .      .   .   .
+3  Thenarse, Rickey  14   5    4    9      .       .      1-25     1   .    .      1   .   .
+47 Kadavy, Andy      12   4    4    8      .       .       .       .   .    .      .   .   .
+33 O'Hanlon, Matt    12   1    7    8      .       .       .       .   .    .      .   .   .
+24 Rigoni, Brandon   13   4    2    6      .       .       .       .   .   1-11    .   .   .
+17 Peterson, Todd    14   3    2    5      .       .       .       .   .    .      .   .   .
+9K Wilson, Bryan     13   3    1    4     1-1      .       .       .   1   1-0     .   .   .
+52 Dillard, Phillip   1   3    1    4      .       .       .       .   .    .      .   .   .
+98 Potter, Zach      12   2    1    3      .       .       .       .   .    .      .   .   .
+37 Wesch, Jake       11   2    1    3      .       .       .       .   .    .      .   .   .
+86 Poulosky, Andy     6   1    1    2     1-3      .       .       .   1    .      .   .   .
+59 Byford, Brett     14   1    .    1      .       .       .       .   .    .      .   .   .
+61 Huff, Mike        14   1    .    1      .       .       .       .   .    .      .   .   .
+9X Henry, Will        1   .    1    1      .       .       .       .   .    .      .   .   .
+18 Spain, Tyrell      9   .    1    1      .       .       .       .   .    .      .   .   .
+21 Brothers, Titus    2   1    .    1      .       .       .       .   .    .      .   .   .
+96 Johnson, Brandon   6   .    1    1      .       .       .       .   .    .      .   .   .
+41 Todd, Dane        14   1    .    1      .       .       .       .   .    .      .   .   .
+88 Sievers, Clayton   9   1    .    1      .       .       .       .   .    .      .   .   .
+85 Phillips, J.B.    14   .    1    1      .       .       .       .   .    .      .   .   .
+29 Congdon, Jordan   14   1    .    1      .       .       .       .   .    .      .   .   .
+7  Hardy, Frantz     13   1    .    1      .       .       .       .   .    .      .   .   .
+87 Swift, Nate       14   1    .    1      .       .       .       .   .    .      .   .   .
+16 Purify, Maurice   14   1    .    1      .       .       .       .   .    .      .   .   .
+83 Nunn, Terrence    14   .    1    1      .       .       .       .   .    .      .   .   .
+13 Taylor, Zac       14   1    .    1      .       .       .       .   .    .      .   .   .
+TM TEAM               8   .    .    .      .       .       .       .   .    .      .   .   1
+   Total..........   14  506  360  866  105-386  31-238  12-113   49  46  13-18   15   4   1
+   Opponents......   14   -    -     -     -     30-206   8-83    50  14  17-39   19   .   .
+
+
+Page 1 / 1Zoom 100%
+      
+RUSHING     GP-GS  Att Gain Loss  Net   Avg  TD Lng Avg/G
+---------------------------------------------------------
+B.Jackson    14-9  188 1023   34  989   5.3   8  48  70.6
+M.Luckyn     14-6  141  762   34  728   5.2   6  51  52.0
+C.Glenn       9-0   71  375    5  370   5.2   8  36  41.1
+K.Wilson     12-0   75  354   19  335   4.5   4  30  27.9
+T.Nunn       14-9    4   21    2   19   4.8   0  18   1.4
+F.Hardy      13-0    3   16    2   14   4.7   0  13   1.1
+T.Gree      14-14    1    7    0    7   7.0   0   7   0.5
+M.Purify     14-5    1    1    0    1   1.0   0   1   0.1
+J.Ganz        5-0    3   10   20  -10  -3.3   0  10  -2.0
+D.Todd       14-8    1    0   15  -15 -15.0   0   0  -1.1
+TEAM          8-0    6    0   19  -19  -3.2   0   0  -2.4
+Z.Taylor    14-14   60  154  186  -32  -0.5   1  24  -2.3
+Total.......  14   554 2723  336 2387   4.3  27  51 170.5
+Opponents...  14   436 2042  410 1632   3.7  14  57 116.6
+
+
+PASSING    GP-GS  Effic Att-Cmp-Int  Pct   Yds  TD Lng Avg/G
+------------------------------------------------------------
+Z.Taylor   14-14  146.12  391-233-8  59.6 3197  26  78 228.4
+J.Ganz       5-0  208.83   13-7-0    53.8  122   3  31  24.4
+TEAM         8-0    0.00    2-0-0     0.0    0   0   0   0.0
+M.Lucky     14-6  320.00    2-1-0    50.0   25   1  25   1.8
+J.Wesch     11-0  572.80    1-1-0   100.0   17   1  17   1.5
+D.Titchener 14-0  335.20    1-1-0   100.0   28   0  28   2.0
+M.Purify    14-5  665.20    1-1-0   100.0   28   1  28   2.0
+Total....... 14   151.00  411-244-8  59.4 3417  32  78 244.1
+Opponents... 14   117.33  446-238-12 53.4 3014  17  66 215.3
+
+
+RECEIVING         GP-GS No.  Yds   Avg  TD Lng Avg/G
+----------------------------------------------------
+Nunn, Terrence    14-9   42  597  14.2   3  75  42.6
+Purify, Maurice   14-5   34  630  18.5   7  63  45.0
+Jackson, Brandon  14-9   33  313   9.5   2  49  22.4
+Lucky, Marlon     14-6   32  383  12.0   0  42  27.4
+Swift, Nate       14-3   22  374  17.0   2  49  26.7
+Peterson, Todd    14-2   19  307  16.2   2  48  21.9
+Hardy, Frantz     13-0   14  317  22.6   3  78  24.4
+Phillips, J.B.    14-12  13   82   6.3   2  10   5.9
+Herian, Matt      14-12  12  150  12.5   2  36  10.7
+Teafatiller, H    14-2    5   78  15.6   4  29   5.6
+Mueller, Josh     13-2    5   26   5.2   2   8   2.0
+Erickson, Dan     13-0    4   85  21.2   0  57   6.5
+Wilson, Kenny     12-0    3   20   6.7   0  13   1.7
+Todd, Dane        14-8    3   13   4.3   1   8   0.9
+Senske, Matt       4-0    2   13   6.5   1  12   3.2
+Turner, Barry     14-0    1   29  29.0   1  29   2.1
+Total..........   14    244 3417  14.0  32  78 244.1
+Opponents......   14    238 3014  12.7  17  66 215.3
+
+
+PUNT RETURNS       No.  Yds   Avg TD Long
+-----------------------------------------
+Nunn, Terrence      18  153   8.5  0   31
+Grixby, Cortney     13   92   7.1  0   23
+Swift, Nate          3   50  16.7  0   33
+Bradley, Stewart     1   -1  -1.0  0    0
+TEAM                 1    0   0.0  0    0
+Total..........     36  294   8.2  0   33
+Opponents......     18   73   4.1  0   16
+
+
+INTERCEPTIONS      No.  Yds   Avg TD Long
+-----------------------------------------
+Shanle, Andrew       4   19   4.8  0   19
+Ruud, Bo             2   54  27.0  0   40
+Suh, Ndamukong       1    0   0.0  0    0
+Thenarse, Rickey     1   25  25.0  0   25
+Jones, Andre         1    0   0.0  0    0
+Carriker, Adam       1   -3  -3.0  0    0
+Green, Tierre        1   15  15.0  0   15
+Grixby, Cortney      1    3   3.0  0    3
+Total..........     12  113   9.4  0   40
+Opponents......      8   83  10.4  0   52
+
+
+KICK RETURNS       No.  Yds   Avg TD Long
+-----------------------------------------
+Jackson, Brandon     9  157  17.4  0   27
+Lucky, Marlon        8  153  19.1  0   32
+Green, Tierre        3   59  19.7  0   23
+Hardy, Frantz        3   49  16.3  0   22
+Wilson, Kenny        2   42  21.0  0   27
+Peterson, Todd       1    0   0.0  0    0
+Phillips, J.B.       1   15  15.0  0   15
+Todd, Dane           1   13  13.0  0   13
+Total..........     28  488  17.4  0   32
+Opponents......     61 1096  18.0  0   78
+
+
+FUMBLE RETURNS     No.  Yds   Avg TD Long
+-----------------------------------------
+Rigoni, Brandon      1   11  11.0  0   11
+Ruud, Bo             1    7   7.0  0    7
+Total..........      2   18   9.0  0   11
+Opponents......      4   39   9.8  1   19
+
+
+                            |------ PATs -----|
+SCORING           TD  FGs   Kick  Rush Rcv Pass  Saf Pts
+--------------------------------------------------------
+Congdon, Jordan    0  5-7   55-56  0-0   0  0-0   0   70
+Jackson, Brandon  10  0-0    0-0   0-0   0  0-0   0   60
+Glenn, Cody        8  0-0    0-0   0-0   0  0-0   0   48
+Purify, Maurice    7  0-0    0-0   0-0   0  0-0   0   42
+Lucky, Marlon      6  0-0    0-0   0-0   0  0-0   0   36
+Teafatiller, H     4  0-0    0-0   0-0   0  0-0   0   24
+Wilson, Kenny      4  0-0    0-0   0-0   0  0-0   0   24
+Hardy, Frantz      3  0-0    0-0   0-0   0  0-0   0   18
+Nunn, Terrence     3  0-0    0-0   0-0   0  0-0   0   18
+Swift, Nate        2  0-0    0-0   0-0   1  0-0   0   14
+Phillips, J.B.     2  0-0    0-0   0-0   0  0-0   0   12
+Mueller, Josh      2  0-0    0-0   0-0   0  0-0   0   12
+Herian, Matt       2  0-0    0-0   0-0   0  0-0   0   12
+Peterson, Todd     2  0-0    0-0   0-0   0  0-0   0   12
+Taylor, Zac        1  0-0    0-0   0-0   0  1-2   0    6
+Todd, Dane         1  0-0    0-0   0-0   0  0-0   0    6
+Senske, Matt       1  0-0    0-0   0-0   0  0-0   0    6
+Turner, Barry      1  0-0    0-0   0-0   0  0-0   0    6
+TEAM               0  0-0    0-0   0-0   0  0-0   1    2
+Wesch, Jake        0  0-0    0-0   0-1   0  0-0   0    0
+Rigoni, Brandon    0  0-0    0-0   0-0   0  0-0   0    0
+Total..........   59  5-7   55-56  0-1   1  1-2   1  428
+Opponents......   32 12-17  26-29  0-1   1  1-2   0  256
+
+
+TOTAL OFFENSE     G  Plays Rush Pass Total Avg/G
+------------------------------------------------
+Taylor, Zac       14   451  -32 3197  3165 226.1
+Jackson, Brandon  14   188  989    0   989  70.6
+Lucky, Marlon     14   143  728   25   753  53.8
+Glenn, Cody        9    71  370    0   370  41.1
+Wilson, Kenny     12    75  335    0   335  27.9
+Ganz, Joe          5    16  -10  122   112  22.4
+Purify, Maurice   14     2    1   28    29   2.1
+Titchener, Dan    14     1    0   28    28   2.0
+Nunn, Terrence    14     4   19    0    19   1.4
+Wesch, Jake       11     1    0   17    17   1.5
+Hardy, Frantz     13     3   14    0    14   1.1
+Green, Tierre     14     1    7    0     7   0.5
+Todd, Dane        14     1  -15    0   -15  -1.1
+TEAM               8     8  -19    0   -19  -2.4
+Total..........   14   965 2387 3417  5804 414.6
+Opponents......   14   882 1632 3014  4646 331.9
+
+
+FIELD
+GOALS     FGM-FGA Pct  1-19  20s  30s  40s  50s  Lg Blk
+-------------------------------------------------------
+J.Congdon    5-7  71.4  0-0  2-2  2-3  1-2  0-0  40   0
+
+
+FG SEQUENCE   Nebraska    OPPONENTS
+-----------------------------------
+La. Tech      -           (23)
+Nicholls St   37          -
+USC           (38)        -
+Troy          -           -
+Kansas        (21)        (31),(35)
+Iowa State    -           -
+Kansas St     -           54,(53)
+Texas         -           (22),39,31,(22),(22)
+Oklahoma St   (26),42     -
+Missouri      (40),(33)   (26),(54)
+Texas A&M     -           (37),(20),42
+Colorado      -           55
+Oklahoma      -           -
+Auburn        -           (42)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING          No.   Yds   Avg Lng TB  FC I20 Blk
+---------------------------------------------------
+Titchener, Dan   66  2592  39.3  58  3  28  26   0
+Congdon, Jordan   2    68  34.0  35  0   0   2   0
+Total..........  68  2660  39.1  58  3  28  28   0
+Opponents......  83  3336  40.2  60  4  11  17   1
+
+
+KICKOFFS         No.  Yds   Avg  TB  OB  Retn  Net YdLn
+-------------------------------------------------------
+Congdon, Jordan  43  2395  55.7   4   1
+Wesch, Jake      33  2016  61.1   8   0
+Alegria, Jordan   1    59  59.0   0   0
+Total..........  77  4470  58.1  12   1  1096  40.7  24
+Opponents......  56  3330  59.5  25   1   488  41.8  23
+
+
+ALL PURPOSE       G  Rush  Rec   PR  KOR  IR  Tot Avg/G
+-------------------------------------------------------
+Jackson, Brandon  14  989  313    0  157   0 1459 104.2
+Lucky, Marlon     14  728  383    0  153   0 1264  90.3
+Nunn, Terrence    14   19  597  153    0   0  769  54.9
+Purify, Maurice   14    1  630    0    0   0  631  45.1
+Swift, Nate       14    0  374   50    0   0  424  30.3
+Wilson, Kenny     12  335   20    0   42   0  397  33.1
+Hardy, Frantz     13   14  317    0   49   0  380  29.2
+Glenn, Cody        9  370    0    0    0   0  370  41.1
+Peterson, Todd    14    0  307    0    0   0  307  21.9
+Herian, Matt      14    0  150    0    0   0  150  10.7
+Phillips, J.B.    14    0   82    0   15   0   97   6.9
+Grixby, Cortney   14    0    0   92    0   3   95   6.8
+Erickson, Dan     13    0   85    0    0   0   85   6.5
+Green, Tierre     14    7    0    0   59  15   81   5.8
+Teafatiller, Hun  14    0   78    0    0   0   78   5.6
+Ruud, Bo          14    0    0    0    0  54   54   3.9
+Turner, Barry     14    0   29    0    0   0   29   2.1
+Mueller, Josh     13    0   26    0    0   0   26   2.0
+Thenarse, Rickey  14    0    0    0    0  25   25   1.8
+Shanle, Andrew    14    0    0    0    0  19   19   1.4
+Senske, Matt       4    0   13    0    0   0   13   3.2
+Todd, Dane        14  -15   13    0   13   0   11   0.8
+Bradley, Stewart  14    0    0   -1    0   0   -1  -0.1
+Carriker, Adam    14    0    0    0    0  -3   -3  -0.2
+Ganz, Joe          5  -10    0    0    0   0  -10  -2.0
+TEAM               8  -19    0    0    0   0  -19  -2.4
+Taylor, Zac       14  -32    0    0    0   0  -32  -2.3
+Total..........   14 2387 3417  294  488 113 6699 478.5
+Opponents......   14 1632 3014   73 1096  83 5898 421.3
+                        |-------Tackles-------| |Sacks|  |--Pass Def---| |-Fumbles-| Blk
+DEFENSIVE LEADERS    GP  UT   AT   TT   TFL/Yds  No-Yds  Int-Yd BrUp QBH Rcv-Yds  FF Kck Saf
+--------------------------------------------------------------------------------------------
+34 Bradley, Stewart  14  41   35   76     6-18  1.0-6      .       1   5   4-0     3   .   .
+25 Jones, Andre      14  52   22   74     2-13  1.0-12    1-0      7   .    .      .   .   .
+1D McKeon, Corey     13  32   37   69     8-28  1.0-15     .       3   2   1-0     2   .   .
+51 Ruud, Bo          14  36   29   65     7-31  2.0-23    2-54     4   4   2-7     3   .   .
+30 Green, Tierre     14  37   28   65     1-1      .      1-15     2   .   1-0     .   .   .
+8  Shanle, Andrew    14  41   16   57      .       .      4-19     7   4   1-0     .   .   .
+2  Grixby, Cortney   14  42   11   53     2-3      .      1-3     11   .   1-0     1   .   .
+90 Carriker, Adam    14  24   28   52    16-61  7.0-45    1--3     3  11    .      .   1   .
+44 Moore, Jay        14  23   22   45    17-70  6.0-43     .       3   5    .      .   .   .
+40 Brandenburgh, L   14  19   22   41     4-10  0.5-1      .       .   .    .      1   .   .
+15 Octavien, Steve    9  21   11   32     4-7   1.0-1      .       2   1    .      1   .   .
+54 Dagunduro, Ola    14  14   17   31     9-31  3.5-25     .       .   3    .      .   1   .
+94 Cryer, Barry      14  18   13   31    10-38  2.5-18     .       3   1    .      1   .   .
+43 Steinkuhler, Ty   14  15    7   22     3-8   0.5-1      .       .   .    .      1   .   .
+93 Suh, Ndamukong    14  12    7   19     8-45  3.5-37    1-0      .   2    .      1   .   .
+99 Turner, Barry     14  11    7   18     4-12  1.5-11     .       2   6   1-0     .   1   .
+46 Eisenhart, Ben    13   9    4   13     2-6      .       .       .   .    .      .   .   .
+23 Young, Corey      11   9    3   12      .       .       .       .   .    .      .   .   .
+6  Culbert, Major    12   6    6   12      .       .       .       .   .    .      .   1   .
+26 Erickson, Dan     13   6    6   12      .       .       .       .   .    .      .   .   .
+3  Thenarse, Rickey  14   5    4    9      .       .      1-25     1   .    .      1   .   .
+47 Kadavy, Andy      12   4    4    8      .       .       .       .   .    .      .   .   .
+33 O'Hanlon, Matt    12   1    7    8      .       .       .       .   .    .      .   .   .
+24 Rigoni, Brandon   13   4    2    6      .       .       .       .   .   1-11    .   .   .
+17 Peterson, Todd    14   3    2    5      .       .       .       .   .    .      .   .   .
+9K Wilson, Bryan     13   3    1    4     1-1      .       .       .   1   1-0     .   .   .
+52 Dillard, Phillip   1   3    1    4      .       .       .       .   .    .      .   .   .
+98 Potter, Zach      12   2    1    3      .       .       .       .   .    .      .   .   .
+37 Wesch, Jake       11   2    1    3      .       .       .       .   .    .      .   .   .
+86 Poulosky, Andy     6   1    1    2     1-3      .       .       .   1    .      .   .   .
+59 Byford, Brett     14   1    .    1      .       .       .       .   .    .      .   .   .
+61 Huff, Mike        14   1    .    1      .       .       .       .   .    .      .   .   .
+9X Henry, Will        1   .    1    1      .       .       .       .   .    .      .   .   .
+18 Spain, Tyrell      9   .    1    1      .       .       .       .   .    .      .   .   .
+21 Brothers, Titus    2   1    .    1      .       .       .       .   .    .      .   .   .
+96 Johnson, Brandon   6   .    1    1      .       .       .       .   .    .      .   .   .
+41 Todd, Dane        14   1    .    1      .       .       .       .   .    .      .   .   .
+88 Sievers, Clayton   9   1    .    1      .       .       .       .   .    .      .   .   .
+85 Phillips, J.B.    14   .    1    1      .       .       .       .   .    .      .   .   .
+29 Congdon, Jordan   14   1    .    1      .       .       .       .   .    .      .   .   .
+7  Hardy, Frantz     13   1    .    1      .       .       .       .   .    .      .   .   .
+87 Swift, Nate       14   1    .    1      .       .       .       .   .    .      .   .   .
+16 Purify, Maurice   14   1    .    1      .       .       .       .   .    .      .   .   .
+83 Nunn, Terrence    14   .    1    1      .       .       .       .   .    .      .   .   .
+13 Taylor, Zac       14   1    .    1      .       .       .       .   .    .      .   .   .
+TM TEAM               8   .    .    .      .       .       .       .   .    .      .   .   1
+   Total..........   14  506  360  866  105-386  31-238  12-113   49  46  13-18   15   4   1
+   Opponents......   14   -    -     -     -     30-206   8-83    50  14  17-39   19   .   .

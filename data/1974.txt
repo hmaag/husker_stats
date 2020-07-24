@@ -1,0 +1,184 @@
+1974 Nebraska Cornhuskers
+Nebraska Overall Team Statistics (Final)
+(includes bowl game)
+
+                          NU   Opp.
+First downs, rushing     167    107
+First downs, passing      78     49
+Penalties                 12      5
+Total first down         257    161
+Rushing, Att.            666    604
+Yds. gained rushing     3319   2301
+Yds. lost rushing        175    352
+Net yds. rushing        3144   1949
+Per game avg.          261.7  162.4
+Passing, att.            223    181
+Passes, complete         121     79
+Passes, intercepted       15     16
+Net yds.                1690   1179
+Per game avg.          140.8   98.3
+Total offense, att.      899    785
+Net yds.                4834   3128
+Per game avg.          402.8  260.7
+Interceptions, No.        16     16
+Net yds. returned        184    143
+Punting, No.              44     78
+Punts, blocked             1      2
+Total yards             1668   2808
+Per punt ave.           37.9   36.0
+Punts returned, No.       39     15
+Net yds.                 403     45
+Kickoffs returned, No.    24     60
+Net yds.                 465    893
+Penalties, No.            41     56
+Total yds. penalized     376    497
+Fumbles, No.              37     38
+Fumbles, lost             19     21
+Scoring, total pts.      373    132
+Per game avg.           31.1   11.0
+
+
+SCORING BY QUARTERS
+        lst   2nd   3rd  4th  Total
+NU       70   103   108   92    373
+Opp.      7    17     7  101    132
+
+AVG. SCORING BY QUARTERS
+        lst   2nd   3rd  4th  Total
+NU      5.8   8.6   9.0  7.7   31.1
+Opp.    0.6   1.4   0.6  8.4   11.0
+
+
+1974 Nebraska Cornhuskers
+Nebraska Overall Individual Statistics (Final)
+(includes bowl game)
+
+RUSHING   Att. Gn. Loss  Net  Avg. TD
+Anthony   124  665   4   651   5.3  7
+Davis     123  662  10   652   5.3  3
+O'Leary   118  564  15   549   4.6  5
+Westbrook  53  386  14   372   7.0  3
+Gillespie  67  259   5   254   3.8  5
+Higgs      37  182  11   171   4.8  1
+Moran      32  178  10   168   5.3  4
+Humm       46  154  33   121   2.6  2
+Everett    27  102  19    83   3.1  2
+Bahe        8   51   0    51   6.4  0
+Heiser      6   41   0    41   6.8  0
+Walton      5   27   0    27   5.4  0
+Zabrocki    2   19   0    19   9.5  0
+Craig       1   16   0    16  16.0  0
+Talley      4   11   3     8   2.0  0
+Jenkins     0    0   0     0        1
+Doak        0    0   0     0        1
+Luck       13   12  33   -21  -1.6  0
+Total     666 3319 157  3162   4.7 34
+Opp.      604 2301 352  1949   3.2 12
+
+TOTAL OFFENSE No.   Yds.   Avg.
+Humm          233   1572    6.7
+Anthony       124    651    5.3
+Davis         125    687    5.5
+O'Leary       120    560    5.5
+Westbrook      55    388    7.1
+Gillespie      67    254    3.8
+Everett        38    193    5.8
+Higgs          37    171    4.8
+Moran          32    168    5.3
+Luck           34     62    1.8
+Bahe            8     51    6.4
+Heiser          6     41    6.8
+Walton          5     27    5.4
+Zabrocki        1     19    9.5
+Craig           1     16   16.0
+Talley          4      8    2.0
+Total          891  4868    5.5
+Opp.           790  3173    4.0
+
+PASSING  Att. Comp. Pct. Int. Yds.  TD
+Humm      187  106  .567  12  1451  12
+Everett    11    5  .455   1   110   1
+Luck       21    8  .381   1    83   1
+Davis       2    1  .500   0    35   0
+O'Leary     2    1  .500   1    11   1
+Total     223  121  .543  15  1690  15
+Opp.      181   79  .436  16  1179   6
+
+PASS RECEIVING   No.     Yds.    TD
+Westbrook        35      524      7
+Davis            19      185      1
+Bahe             15      214      0
+O'Leary          12      159      1
+Malito           11      212      2
+Mushinskie       11      173      2
+Jenkins           5      100      1
+Anthony           4       -3      0
+Heiser            3       36      0
+Gillespie         2       59      0
+Thomas            2       21      0
+Humm              1       11      1
+Everett           1       -1      0
+Total           121     1690     15
+Opp.             79     1179      6
+
+PUNTING   No.    Yds.    Avg  Blkd
+Lessman   44     1668    37.9    0
+Team       1        0            1
+Total     45     1668    37.9    1
+Opp.      78     2808    36.0    2
+
+PUNT RETURNS No.     Yds.    Avg.  TD
+Burrow       28      273     9.7    1
+Thomas        6       89    14.8    0
+Bahe          3       31    10.3    0
+Butterfield   1        8     8.0    0
+Ruud          1        2     2.0    0
+Total        39      403    10.4    1
+Opp.         15       45     3.0    0
+
+KICKOFF
+RETURNS      No.  Yds.   Avg.  TD
+Westbrook    14    259   18.5   0
+Bahe          4     95   23.8   0
+Higgs         1     20   20.0   0
+Thomas        1     15   15.0   0
+Gillespie     2     44   22.0   0
+Davis         2     62   31.0   0
+Total        24    465   19.4   0
+Opp.         60    893   14.8   0
+
+INTERCEPTIONS  No.  Yds.   TD
+Monds           2     40    0
+Ruud            2     32    0
+Burrow          4     20    0
+Johnson         1     20    0
+Heydorff        1     35    0
+Pate            1     14    0
+Dervin          1     12    0
+Kyros           3     11    0
+Starkebaum      1      0    0
+Total          16    184    0
+Opp.           16    143    0
+
+SCORING    TD  Pat1   Pat2  FG   Saf. T.
+Westbrook  10                         60
+Coyle          45-41       13-7       62
+Anthony     7                         42
+O'Leary     6                         36
+Gillespie   5                         30
+Davis       4         1-1             26
+Moran       4                         24
+Humm        3         1-1             20
+Everett     2                         12
+Jenkins     2                         12
+Mushinskie  2                         12
+Malito      2                         12
+Higgs       1                          6
+Burrow      1                          6
+Doak        1                          6
+Eveland         3-2         3-1        5
+Team                              1    2
+Total      50  48-43  2-2  16-8   1  373
+Opp.       18  16-16  2-2   8-2   0  136
+
+

@@ -1,0 +1,642 @@
+
+         1984 Nebraska Cornhuskers
+          Overall Team Statistics
+          Bowl game not included
+
+TEAM STATISTICS                 NU     Opp.
+First Downs....................245      130
+  By Rush......................175       59
+  By Pass.......................64       56
+  By Penalty.....................6       15
+Total Offense.................4703     2236
+  Avg. Gain Per Game.........427.5    203.3
+  Total Plays..................855      694
+  Avg. Plays Per Game.........77.7     63.1
+  Avg. Gain Per Play...........5.5      3.2
+Net Yards Rushing.............3422      867
+  Avg. Gain Per Game.........311.1     78.8
+  Rushing Attempts.............695      438
+  Avg. Gain Per Rush...........4.9      2.0
+  Yards Gained Rushing........3677     1301
+  Yards Lost Rushing...........255      434
+Net Yards Passing.............1281     1369
+  Avg. Gain Per Game.........116.5    124.5
+  Avg. Gain Per Attempt........8.0      5.3
+  Avg. Gain Per Completion....14.2     11.9
+  Attempts.....................160      256
+  Completions...................90      115
+  Percentage...................563     .449
+  Had Intercepted................9       16
+Interceptions by................17       11
+  Yards Returned...............295       73
+  Avg. Return.................17.4      6.6
+Punting Average...............40.3     41.2
+  Number of Punts...............51       98
+  Yards.......................2056     4040
+  Had Blocked....................2        2
+Punts Returned..................45       18
+  Yards Returned...............555       98
+  Average Return..............12.3      5.4
+Kickoffs Returned...............18       45
+  Yards Returned...............420      742
+  Average Return..............23.3     16.5
+Penalties-Yards.............55-503   48-420
+  Avg. Yards Per Game.........45.7     38.2
+Fumbles-Lost.................43-24    18-12
+Touchdowns......................49       13
+  By Rush.......................39        6
+  By Pass........................8        7
+  By Return......................2        0
+  By Fumble Recovery.............0        0
+Field Goals made/attempts.....5-12      5-9
+Extra Points made/attempts...44-49    12-13
+  By Kick....................42-45    12-12
+  By Rush......................1-2      0-0
+  By Pass......................1-2      0-1
+Safeties.........................2        0
+Total Points...................359      105
+  Avg. Per Game...............32.6      9.5
+First Down Plays...............377      273
+  Avg. Per Play................5.6      3.0
+Third Down Conversions......75-164   41-167
+  Percentage..................45.7     24.6
+Fourth Down Conversions......12-20     7-11
+  Percentage..................60.0     63.6
+Time of Possession..........353:49   307:13
+  Avg. Time of Possession....32:09    27:55
+
+         SCORE BY QUARTERS
+                    TOTAL
+Nebraska     63   112   61   123  -  359
+Opponents    24    20   17    44  -  105
+                    AVERAGE
+Nebraska    5.7  10.2  5.5  11.2  - 32.6
+Opponents   2.2   1.8  1.5   4.0  -  9.5
+
+
+                              Yds/  Yds/
+RUSHING  G  Att Gain Los  Net Play  Game LP TD
+DuBose   11 156 1057  17 1040  6.7  94.5 80  8
+J.Smith  10 177  945  10  935  5.3  93.5 23  7
+Rathman  11  75  382   1  381  5.1  34.6 20  4
+Porter   11  45  221   0  221  4.9  20.1 26  1
+Turner   11  77  296 106  190  2.5  17.3 48 10
+K.Jones   6  29  194   8  186  6.4  31.0 47  2
+Miles     4  25  110   6  104  4.2  26.0 20  1
+Swanson  11  15   91   0   91  6.1   8.3 19  1
+Sundberg 11  56  176 102   74  1.3   6.7 20  3
+Gatson    7   4   40   0   40 10.0   5.7 22  0
+Hoskins   8   5   24   0   24  4.8   3.0  8  1
+Kaelin    9   6   20   0   20  3.3   2.2  7  0
+Blakeman  7   8   22   5   17  2.1   2.4  8  1
+Mlinar    3   3   16   0   16  5.3   5.3 16  0
+Thompson 11   2   16   0   16  8.0   1.5 11  0
+Lindstrom 5   1   15   0   15 15.0   3.0 15  0
+Kelley    1   2   13   0   13  6.5  13.0 10  0
+Wooten    1   3   12   0   12  4.0  12.0  7  0
+Douglas   3   2   11   0   11  5.5   3.7  8  0
+Gamble   10   1   11   0   11 11.0   1.1 11  0
+Kingston  4   3    5   0    5  1.7   1.3  5  0
+NEB      11 695 3677 255 3422  4.9 311.1 80 39
+OPP      11 438 1301 434  867  2.0  78.8 29  6
+
+
+
+PASSING   G  Att Cmp  Pct  Yds Int TD LP  Eff.
+Sundberg  11  84  53 63.1  740  6  4  42 138.5
+Turner    11  75  37 49.3  541  3  4  64 119.5
+Douglas    3   1   0  0.0    0  0  0   0   0.0
+NEB       11 160  90 56.3 1281  9  8  64 128.8
+OPP       11 256 115 44.9 1369 16  7  63  86.4
+
+
+
+                           Yds/
+RECEIVING     G No.   Yds. Play   LP  TD
+Swanson      11  16   203  12.7   26   0
+Frain        11  15   218  14.5   30   1
+Hiemer       11  12   174  14.5   29   4
+Kimball      11  11   157  14.3   30   0
+DuBose       11   8   105  13.1   42   0
+Gamble       10   7   138  19.7   64   2
+R.Schnitzler 11   6   144  24.0   39   0
+J.Smith      10   6    81  13.5   30   0
+Porter       11   3     6   2.0    5   0
+Thompson     11   2    12   6.0    7   1
+Gatson        7   1    20  20.0   20   0
+Otte          2   1    12  12.0   12   0
+Lindstrom     5   1     7   7.0    7   0
+Miles         4   1     4   4.0    4   0
+Nebraska     11  90  1281  14.2   64   8
+Opponents    11 115  1369  11.9   63   7
+
+
+PUNTING     G   No.  Yds   Avg  LP Blk RtYd
+Livingston  11  49  2018  41.2  64   1   84
+Wingard      2   1    38  38.0  38   0    0
+TEAM        11   1     0   0.0   0   1   14
+Nebraska    11  51  2056  40.3  64   2   98
+Opponents   11  98  4040  41.2  72   2  555
+
+
+KICKOFF
+RETURNS     G  No.  Yds   Avg  LP TD
+Swanson    11   5   155  31.0  47  0
+DuBose     11   6   118  19.7  29  0
+Gamble     10   4    95  23.8  33  0
+J.Smith    10   2    36  18.0  19  0
+K.Jones     6   1    16  16.0  16  0
+Nebraska   11  18   420  23.3  47  0
+Opponents  11  45   742  16.5  31  0
+
+
+FIELD
+GOALS       G   1-19 20-29 30-39 40-49 50+
+Klein       11  0-0   2-3   2-2   0-3  0-0
+Livingston  11  0-0   1-1   0-1   0-2  0-0
+Nebraska    11  0-0   3-4   2-3   0-5  0-0
+Opponents   11  0-0   1-1   3-4   1-3  0-1
+
+NEBRASKA FIELD GOAL SEQUENCE (boldface good, b-blocked):
+(0), (L32b,L22), (0), (0), (K36), (K49,K28), (K48, K38), (0), (K20, L48), (0), (K49,K23,L46)
+
+
+PUNT
+RETURNS        G  No.  Yds   Avg  LP  TD
+Swanson       11   19  275  14.5  51   1
+J.Smith       10   15  225  15.0  51   0
+Burke         11    8   42   5.3  15   0
+Siebler        4    1    5   5.0   5   0
+DuBose        11    1    4   4.0   4   0
+R.Schnitzler  11    1    4   4.0   4   0
+Nebraska      11   45  555  12.3  51   1
+Opponents     11   18   98   5.4  14   0
+
+
+INTERCEPTIONS G  No.  Yds   Avg  LP   TD
+Clark        11   6   108  18.0  68    0
+Munford      11   2    61  30.5  57    1
+Watkins      11   2    37  18.5  26    0
+Burke        11   2    22  11.0  22    0
+Daum         11   2    19   9.5  14    0
+Weber        10   1    25  25.0  25    0
+Reeves       11   1    23  23.0  23    0
+Tyrer         4   1     0   0.0   0    0
+Nebraska     11  17   295  17.4  68    1
+Opponents    11  11    73   6.6  34    0
+
+
+                     PAT  PAT
+SCORING      G  TD  Kick  R/P  FG   Pts
+Turner      11  10    0    0    0    60
+DuBose      11   8    0    0    0    48
+J. Smith    10   7    0    1    0    44
+Klein       11   0  26-28  0   4-8   38
+Rathman     11   4    0    0    0    24
+Hiemer      11   4    0    0    0    24
+Livingston  11   0  16-17  0   1-4   19
+Sundberg    11   3    0    0    0    18
+Gamble      10   2    0    1    0    14
+Swanson     11   2    0    0    0    12
+K Jones      6   2    0    0    0    12
+Blakeman     7   1    0    0    0     6
+Miles        4   1    0    0    0     6
+Hoskins      8   1    0    0    0     6
+Porter      11   1    0    0    0     6
+Thompson    11   1    0    0    0     6
+Munford     11   1    0    0    0     6
+Frain       11   1    0    0    0     6
+Nebraska    11  49  42-45  2  5-12  359*
+Opponents   11  13  12-12  0  5-9   105
+*Includes two safeties.
+
+
+ DEFENSE
+Munford, LB
+Daum, LB
+Clark, S
+Strasburger, DE
+Weber, DE
+McCashland, M
+Spachman, DT
+Shead, MG
+Burke, CB
+Daffer, LB
+Skow, DT
+Graeber, MG
+Noonan, DT
+Stuckey, DT
+Reeves, DE
+Watkins, CB
+B.Smith, DE
+Parsons, LB
+Reinhardt, MG
+Zierke, DT
+Forch, LB
+Cartwright, M
+Harris, CB
+Washington, M
+Tucker, DE
+Carl, CB
+Tyrer, DE
+Proffitt, LB
+Carr, S
+Reynolds, DT
+Greene, CB
+Fisher, S
+Siebler, S
+Rogers, MG
+Gangwish, DE
+Pete, MG
+Bourne, DE
+Frain, TE
+ G
+11
+11
+11
+11
+10
+11
+11
+11
+11
+11
+11
+11
+11
+11
+11
+11
+8
+11
+9
+6
+11
+11
+10
+11
+10
+7
+4
+3
+9
+3
+3
+3
+4
+3
+3
+1
+1
+11
+ UT
+58
+39
+30
+30
+23
+26
+24
+26
+23
+16
+25
+16
+17
+6
+9
+15
+11
+10
+9
+8
+5
+8
+5
+4
+4
+3
+3
+4
+1
+3
+1
+2
+1
+1
+1
+1
+1
+0
+ AT
+38
+35
+15
+12
+18
+14
+14
+10
+12
+13
+4
+12
+9
+15
+11
+5
+3
+2
+2
+2
+3
+0
+2
+2
+2
+1
+1
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+ TT
+96
+74
+45
+42
+41
+40
+38
+36
+35
+29
+29
+28
+26
+21
+20
+20
+14
+12
+11
+10
+8
+8
+7
+6
+6
+4
+4
+4
+3
+3
+2
+2
+1
+1
+1
+1
+1
+0
+Sacks/Yds
+1/4
+4/32
+0/0
+6/43
+4/22
+0/0
+7/45
+2/15
+0/0
+0/0
+6/49
+4/26
+6/49
+1/16
+2/12
+0/0
+0/0
+0/0
+0/0
+1/12
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+TFL/Yds
+7/19
+6/34
+1/5
+12/66
+10/40
+4/10
+12/65
+6/21
+1/4
+3/5
+12/63
+7/39
+7/51
+2/18
+2/12
+1/1
+1/1
+1/1
+1/1
+4/23
+0/0
+1/3
+1/1
+0/0
+2/2
+0/0
+1/2
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+0/0
+ Int
+2
+2
+5
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+ PBU
+3
+3
+8
+7
+2
+2
+0
+0
+7
+3
+1
+0
+0
+0
+0
+5
+1
+3
+0
+0
+0
+1
+4
+3
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+FmbRec
+1
+0
+3
+1
+0
+0
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+BlkKck
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

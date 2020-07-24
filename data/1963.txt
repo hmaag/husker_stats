@@ -1,0 +1,177 @@
+1963 Nebraska Cornhuskers
+Nebraska Overall Team Statistics (Final)
+(regular season only)
+
+Nebraska                        Opp.
+  140   First downs rushing       61
+   40   First downs passing       50
+    5   First downs penalty        7
+  185   Total first downs        118
+2,843   Yards gained rushing   1,359
+  219   Yards lost rushing       360
+2,624   Net gain rushing         999
+  561   Rushing plays            354
+  4.9   Avg. gain rushing        2.8
+  124   Passes attempted         193
+   56   Passes completed          89
+    7   Passes had intercepted    14
+  850   Passing yardage        1,121
+  685   Total offensive plays    547
+3,474   Net yards gained       2,120
+  5.1   Avg. gain per play       3.9
+   45   Punts                     62
+1,497   Punting yardage        2,344
+ 33.3   Punting average         37.8
+   50   Penalties                 33
+  480   Penalty yardage          260
+   31   Fumbles                   28
+   15   Fumbles lost              14
+
+SCORING BY QUARTERS
+      l/Avg  2/Avg  3/Avg  4/Avg  Tot/Avg 
+NU   55/5.5 58/5.8 80/8.0 67/6.7  260/26.0
+OPP  13/1.2 32/3.2  3/0.3 59/5.9  107/10.7
+1963 Nebraska Cornhuskers
+Nebraska Overall Individual Statistics (Final)
+(regular season only)
+
+RUSHING      No.  Gain  Lost   Net  Avg.
+Woods         1     12     0    12  12.0
+Hohn         31    236     7   229   7.4
+Vactor       16    105     3   102   6.3
+R. Johnson   91    574     1   573   6.3
+B. Johnson    5     29     0    29   5.8
+Ross         92    524    28   496   5.4
+McCloughan   51    270     9   261   5.2
+Theisen      10     52     1    51   5.1
+Young        33    157     0   157   4.6
+Poggemeyer    4     18     0    18   4.5
+Paschall      5     22     0    22   4.4
+McNulty      11     45     0    45   4.1
+Smidt        33    143    12   131   3.9
+McGinn        2      7     0     7   3.5
+Smith        49    170     7   163   3.3
+Duda         53    220    51   169   3.2
+Claridge     69    258    79   179   2.6
+Tucker        3      1     7    -6  -7.0
+Solich        2      0    14   -14  -7.0
+Neb. tot.   561   2843   219  2624   4.9
+Opp. tot.   354   1359   360   999   2.8
+
+
+PASSING    Att. Comp.  Pct.   Gain  TD  Int.
+Woods        1    1   1.000     43   1    0
+Tucker       5    3    .600     73   0    0
+Claridge    66   31    .468    440   1    3
+Duda        51   21    .420    294   0    4
+Theisen      1    0    .000      0   0    0
+Neb. tot.  124   56    .448    760   2    7
+Opp. tot.  193   89    .461   1121   7   14
+
+
+PASS RECEIVING  No.    Yds     Avg.   TD
+Love             2      50     25.0    1
+Theisen          2      49     24.5    0
+Smidt            1      23     23.0    0
+Doepke           3      60     20.0    0
+Callahan         8     157     19.7    0
+McCloughan       6     103     17.2    0
+Jeter            9     151     16.7    1
+Tomlinson        9     129     14.3    0
+White            2      24     12.0    0
+McNulty          1      12     12.0    0
+Hohn             5      48      9.6    0
+Vactor           3      22      7.3    0
+Ross             5      22      4.4    0
+Neb tot.        56     850     16.8    2
+Opp. tot.       89    1121     12.5    7
+
+
+TOTAL OFFENSE  Plays   Yards     Avg.
+Woods            2        55     27.5
+Tucker           8        67      8.4
+Hohn            31       229      7.4
+Vactor          16       102      6.3
+R. Johnson      91       573      6.3
+B. Johnson       5        29      5.8
+Ross            92       496      5.4
+McCloughan      51       261      5.2
+Theisen         11        51      4.8
+Claridge       135       619      4.6
+Duda           104       463      4.6
+Young           33       157      4.6
+Poggemeyer       4        18      4.5
+Paschall         5        22      4.4
+McNulty         11        45      4.1
+Smidt           33       131      3,9
+McGinn           2         7      3.5
+Smith           49       163      3.3
+Solich           2       -14     -7.0
+Neb. tot.      685      3474      5.1
+Opp. tot.      547      2120      3.9
+
+
+                 -Extra Points-
+SCORING     TD   Kick  Run Pass  FG  Tot.
+R. Johnson   7   8-11  0-0  0-0   0   50
+Claridge     6   0-0   0-0  0-0   0   36
+Duda         5   0-0   1-1  0-0   0   32
+McCloughan   4   0-0   0-0  1-1   0   26
+Hohn         4   0-0   0-0  0-0   0   24
+Theisen      0  16-23  0-0  0-0   2   22
+Smidt        3   0-0   0-0  0-0   0   18
+Smith        2   0-0   0-0  0-0   0   12
+Ross         1   0-0   1-1  0-0   0    8
+Michka       1   0-0   0-0  0-0   0    6
+Tomlinson    1   0-0   0-0  0-0   0    6
+Jeter        1   0-0   0-0  0-0   0    6
+Love         1   0-0   0-0  0-0   0    6
+McNulty      1   0-0   0-0  0-0   0    6
+Neb. tot.   36  24-34  2-2  1-1   2  260
+Opp. tot.   15   8-11  0-1  0-3   3  107
+
+
+PUNTING         No.     Yds     Avg.   Blk
+Poggemeyer       1       34     34.0     0
+Theisen         12      401     33.4     0
+Claridge        32     1062     33.2     0
+Neb. tot.       45     1497     33.3     0
+Opp. tot.       62     2344     37.8     0
+
+
+PUNT RETURNS   No.     Yards       Avg.
+Paschall        1         19       19.0
+Ross           11        124       11.3
+Hohn            4         30        7.5
+Solich         11         67        6.1
+Theisen         2         11        5.5
+Vactor          1          1        1.0
+McCloughan      2          2        1.0
+
+
+KICKOFF RETURNS  No.      Yds      Avg.
+Solich            7       183      26.1
+Ross              2        47      23.5
+Hohn              3        43      14.3
+Vactor            4        50      12.5
+McCloughan        3        35      11.6
+Jeter             1         5       5.0
+Tomlinson         1         2       2.0
+Kiffin            1         0       0.0
+Michka            1         0       0.0
+
+INTERCEPTION
+RETURNS       No.     Yards       Avg.
+Hohn           1        53        53.0
+Tomlinson      1        34        34.0
+Theisen        1        33        33.0
+Woods          1        24        24.0
+Michka         1        16        16.0
+Duda           1        13        13.0
+McCloughan     3        38        12.7
+Smidt          1        11        11.0
+Vactor         2         3         1.5
+Brown          1         0         0.0
+Callahan       1         0         0.0
+
+

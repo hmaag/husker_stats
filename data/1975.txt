@@ -1,0 +1,175 @@
+     1975 Nebraska Cornhuskers
+Nebraska Overall Team Statistics (Final)
+        (includes bowl game)
+
+                         NU   Opp.
+First downs, rushing    171     73
+First downs, passing     88     60
+Penalties                14     12
+Total first downs       273    145
+Rushing, att.           749    520
+Yds. gained rushing    3203   1995
+Yds. lost rushing       279    318
+Net yds. rushing       2924   1677
+Per game avg.         243.6  139.7
+Passing, att.           246    232
+Passes, complete        141     90
+Passes, intercepted       6     14
+Net yds.               1832   1123
+Per game avg.         152.6   93.5
+Total offense, att.     995    752
+Net yds.               4756   2800
+Per game avg.         396.3  233.3
+Interceptions, No.       14      6
+Net yds. returned       111    168
+Punting, No.             65     91
+Punts, blocked            0      3
+Total yards            2591   3633
+Per punt ave.          39.8   39.9
+Punts returned, No.      53     20
+Net yds.                382     35
+Kickoffs returned, No.   23     57
+Net yds.                500   1038
+Penalties, No.           64     59
+Total yds. penalized    658    552
+Fumbles, No.             31     39
+Fumbles, lost            17     22
+Scoring total pts.      367    157
+Per game avg.          30.5   13.0
+
+
+SCORING BY QUARTERS
+        lst  2nd  3rd  4th  Total
+NU       98  103  103   63    367
+Opp.     16   34   41   46    137
+
+        lst  2nd  3rd  4th  Total
+NU      8.2  8.6  8.6  5.3   30.6
+Opp.    1.3  2.8  3.4  3.8   11.4
+
+RUSHING   Att.  Gn.  Loss  Net   Avg  TD
+Anthony   183   833   16   817   4.5   9
+O'Leary   131   656   12   644   4.9   7
+Davis     158   681    2   679   4.3   2
+Gillespie  68   251   13   238   3.5   4
+Craig      34   189   10   179   5.3   2
+Heiser     22   146   14   132   6.0   1
+Higgs      21    97    0    97   4.6   1
+Donnell    26    95    1    94   3.6   0
+Ferragamo  37    96   65    31   0.8   3
+Zabrocki    8    46    3    43   5.4   0
+Garcia      7    27    0    27   3.9   0
+Everett     2     6    1     5   2.5   0
+Thomas      2    13   10     3   1.5   0
+Brown       7     7    8    -1         0
+Luck       41    50  107   -57         1
+Panneton    1    10    0    10  10.0   0
+Team        1    17  -17               0
+Total     705  3203  279  2924   4.1  30
+Opp.      520  1994  317  1677   3.2  14
+
+TOTAL OFFENSE  No.  Yds.   Avg.
+Ferragamo     172   1184    6.9
+Anthony       183    817    4.5
+Davis         158    681    4.3
+O'Leary       134    644    4.8
+Luck          139    587    4.2
+Gillespie      68    238    3.5
+Craig          34    179    5.3
+Heiser         22    132    6.0
+Higgs          21     97    4.6
+Donnell        26     94    3.6
+Garcia         10     62    6.2
+Zabrocki        8     43    5.4
+Panneton        1     10   10.0
+Everett         2      5    2.5
+Thomas          2      3    1.5
+Brown           7     -1
+Team            1    -17       
+Total         995   4756    4.7
+Opp           752   2800    3.7
+
+PASSING    Att. Comp. Pct. Int  Yds.  TD
+Ferragamo  135   79   .585   5  1153  12
+Luck       105   59   .561   1   644   6
+Garcia       3    3  1.000   0    35   0
+O'Leary      3    0          0     0   0
+Total      246  141   .573   6  1832  18
+Opp.       232   90   .387  14  1123   2
+
+RECEIVING    No.   Yds.  TD
+Thomas       30    545    7
+Malito       15    230    2
+Davis        16    175    2
+Mushinskie   14    155    0
+Jenkins      12    153    5
+Craig        14    146    1
+Heiser       11    135    0
+Panneton      4     79    0
+Shamblin      7     78    0
+O'Leary      11     59    1
+Brown         2     40    0
+Gillespie     2     15    0
+Spaeth        1     12    0
+Bonness       1      5    0
+Anthony       1      5    0
+Total       141   1832   18
+Opp.         90   1123    2
+
+PUNTING     No.  Yds.  Avg.  Blk.
+Lessman      65  2591  39.8   0
+Opp.         91  3633  39.9   3
+
+PUNT RETURNS  No.  Yds.  Avg. TD
+Thomas        21   149   7.1   0
+Burrow        15   128   8.5   0
+Butterfield   12    55   4.5   0
+O'Leary        1    24  24.0   0
+Harvey         2    13   6.5   0
+Monds          1    12  12.0   0
+Stacey         1     1   1.0   0
+Total         53   382   7.2   0
+Opp.          20    35   1.7   0
+
+KICKOFF
+RETURNS    No.  Yds.  Avg.  TD
+Craig      11   207   18.8   0
+Thomas      4    91   22.7   0
+O'Leary     3    56   28.0   0
+Gillespie   2    42   21.0   0
+Anthony     1    26   26.0   0
+Zabrocki    1    20   20.0   0
+Davis       1     8    8.0   0
+Total      23   500   21.7   0
+Opp.       57  1038   18.2   0
+
+INTERCEPTIONS   No.   Yds.  TD
+Butterfield      4     28    0
+Pillen, Clete    1     27    0
+Stacey           2     20    0
+Jones            2     19    0
+Smith            2      8    0
+Coccia           1      6    0
+Burrow           2      3    0
+Total           14    111    0
+Opp.             6    168    1
+
+SCORING     TD    PAT    Other   FG    Total
+Coyle            42-40          17-10   70
+Anthony      9                          54
+O'Leary      8                          48
+Thomas       7                          42
+Jenkins      5                          30
+Davis        4                          24
+Gillespie    4                          24
+Craig        3                          18
+Ferragamo    3                          18
+Malito       2                          12
+Eveland      0    6-6            1-1     9
+Heiser       1                           6
+Higgs        1                           6
+Luck         1                           6
+Other                     1-1             
+Total       48   48-46    1-1   18-11  367
+Opp.        17   16-15          11-6   137
+

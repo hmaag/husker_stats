@@ -1,0 +1,320 @@
+
+
+       1971 Nebraska Cornhuskers
+Nebraska Overall Team Statistics (Final)
+         (Bowl game included)
+
+TEAM STATISTICS               NU   OPP
+--------------------------------------
+First downs                  294   169
+  By rushing                 189   94
+  By passing                  96   65
+  By penalty                   9   10
+Net yds. rushing            3283   1272
+  Yards per game           252.5   97.3
+  Attempts                   743   558
+  Yds. gained               3619   1893
+  Yds. lost                  336   621
+  Yards per carry           4.42   2.28
+Net yds. passing            2311   1451
+  Attempts                   300   282
+  Completions                170   123
+  Completion pct.          56.67   43.62
+  Yards per game           177.8   111.5
+  Yards per completion     13.59   11.80
+  Yards per attempt         7.70   5.15
+  Interceptions                6   29
+  Interception pct.         2.00   10.28
+Total offense, net          5594   2723
+  Attempts                  1043   840
+  Yards per game           430.3   209.5
+  Yards per attempt         5.36   3.24
+Interceptions, no.            29   6
+  Net yds. returned          409   26
+Punts-yds                60-2239   96-3759
+  Yards per punt            37.3   39.2
+  Blocked                      0   1
+Punt returns-yds          44-728   19-130
+Kickoff returns-yds       22-482   77-1356
+Penalties-yds             64-684   62-559
+Fumbles-lost               24-17   41-22
+Scoring, total points        507   104
+  Points per game           39.0   8.0
+
+        1971 Nebraska Cornhuskers
+ Nebraska Individual Statistics (Final)
+               All games
+
+PASSING   Att   Comp    Pct  Int  Yds   TD
+------------------------------------------
+Tagge      258   154   .597   4  2178   17
+Brownson    40    16   .400   2   133    1
+Kinney       1     0      0   0     0    0
+Rodgers      1     0      0   0     0    0
+Total ...  300   170   .567   6  2311   18
+Opp. ....  282   123   .436  29  1451    5
+
+
+RUSHING  Att.  Gain  Loss   Net  Avg. TD
+----------------------------------------
+Kinney     242  1155   19  1136  4.7  17
+Olds        75   534    7   527  7.1   1
+Dixon      148   541   26   515  3.5   7
+Tagge      112   482  152   330  2.9   9
+Rodgers     40   284   15   269  6.7   2
+Damkroger   36   215    5   208  5.8   0
+Goeller     20   102    0   102  5.1   0
+Brownson    34   137   53    84  2.5   4
+Butts       15    60    0    60  4.0   1
+List         4    38    0    38  9.5   0
+Hughes       4    29    0    29  7.3   1
+Runty        2    17    0    17  8.5   0
+Carstens     5    18    3    15  3.0   0
+Garson       3     9    2     7  2.3   0
+Longwell     1     0    0     0  ...   0
+Cox          1     0   10   -10  ...   0
+Team         1     0   30   -30  ...   0
+Total .... 743  3619  336  3283  4.4  42
+Opp. ..... 558  1893  621  1272  2.3   8
+
+
+TOTAL OFFENSE  No. Yds.  Avg.
+----------------------------
+Tagge         370  2494  6.7
+Kinney        243  1136  4.7
+Olds           75   527  7.0
+Dixon         148   515  3.5
+Rodgers        41   269  6.6
+Brownson       74   217  2.9
+Damkroger      36   208  5.8
+Goeller        20   102  5.1
+Butts          15    60  4.0
+List            4    38  9.5
+Hughes          4    29  7.3
+Runty           2    17  8.5
+Carstens        5    15  3.0
+Garson          3     7  2.3
+Longwell        1     0   -
+Cox             1   -10   -
+Team            1   -30   -
+Total .....  1043  5594  5.4
+Opp. ......   840  2723  3.2
+
+
+RECEIVING     No.  Yds.  TD
+---------------------------
+Rodgers        57   956  11
+Kinney         23   252   0
+Cox            26   378   1
+List           23   368   2
+Olds           12    79   1
+Anderson, F.    7    86   2
+Damkroger       7    36   1
+Longwell        5    38   0
+Garson          4    63   0
+Carstens        3    15   0
+Dixon           2    25   0
+Hughes          1    15   0
+Total ......  170  2311  18
+Opp. .......  123  1451   5
+
+
+PUNTING    No.    Yds.   Avg.
+-----------------------------
+Hughes        55  2031   36.8
+Sanger         4   159   39.8
+Longwell       1    49   49.0
+Total ......  60  2239   37.3
+Opp. .......  96  3759   39.2
+
+
+PUNT RETURNS  No. Yds.   Avg.  TD
+---------------------------------
+Rodgers       39   684   17.4   4
+Garson         1    24   24.0   0
+Anderson, J.   2     9    4.5   0
+Kosch          1     6    6.0   0
+Borg           1     5    5.0   0
+Total ......  44   728   16.5   4
+Opp. .......  19   130    6.8   0
+
+
+KICKOFF
+RETURNS    No. Yds.  Avg. TD
+-----------------------------
+Rodgers     10   304  30.4  1
+Kinney       9   163  18.1  0
+Damkroger    1     7   7.0  0
+Carstens     1     7   7.0  0
+Jamail       1     1   1.0  0
+Total ....  22   482  21.9  1
+Opp. .....  77  1356  17.5  1
+
+
+
+INTERCEPTIONS  No. Yds.  TD
+---------------------------
+Mason           6  135    3
+Terrio          5   15    0
+Anderson, J.    4   28    0
+Kosch           3  134    1
+Harper          3   12    0
+Hollstein       2   21    0
+Adkins          1   21    0
+Borg            1   18    0
+Fischer         1   14    1
+Jacobson        1    6    0
+Morell          1    5    0
+Blahak          1    0    0
+Total ........ 29  409    5
+Opp. .........  6   26    0
+
+
+                 PAT    PAT
+SCORING     TD  Kick  Other  FG  Sfty.  TP
+------------------------------------------
+Rodgers     18    -     -    -     -   108
+Kinney      17    -     -    -     -   102
+Sanger       -  68-63       11-6   -    81
+Tagge        9    -     1    -     -    56
+Dixon        7    -     -    -     -    42
+Brownson     4    -     -    -     -    24
+Mason        3    -     -    -     -    18
+List         2    -     -    -     -    12
+Anderson, F  2    -     -    -     -    12
+Olds         2    -     -    -     -    12
+Hughes       1    -     -    -     -     6
+Damkroger    1    -     -    -     -     6
+Butts        1    -     -    -     -     6
+Cox          1    -     -    -     -     6
+Fischer      1    -     -    -     -     6
+Kosch        1    -     -    -     -     6
+Johnson, M   -    -     -    -     1     2
+Team         -    -     -    -     1     2
+Total ....  70  68-63   1  11-6    2   507
+Opp. .....  14   12-9       5-3        104
+1971 Nebraska Cornhuskers
+Nebraska Defensive Statistics (Final)
+(Bowl game included)
+
+                TACKLES     TFL   Fum      
+                UT AT TT   # Yds  Rec Int PBU
+---------------------------------------------
+Rich Glover ..  55 47 102  15  77  1   -   1
+Bob Terrio ...  49 55 104   7  20  1   5   5
+Willie Harper   38 34  72  20 100  1   3   2
+Bill Kosch ...  31 15  46   3  15  2   3   3
+Larry Jacobson  30 45  75  12  73  -   1   1
+Bill Janssen    29 31  60  11  36  2   -   3
+Joe Blahak ...  29 23  52   2   3  -   1   3
+John Adkins ..  23 18  41  10  44  3   1   1
+Jim Branch ...  21 36  57   -   -  -   -   2
+Pat Morell ...  20 23  43   -   -  -   1   1
+John Dutton ..  20 12  32   5  16  -   -   1
+Monte Johnson   15 13  28   2   7  1   1   -
+Jim Anderson    15 13  28   -   -  1   4   7
+Dave Mason ...  12 21  33   3   7  1   6   3
+Bruce Hauge...  12 15  27   -   -  1   -   -
+Randy Borg ...  10 11  21   -   -  2   1   3
+John Pitts ...  10  8  18   -   -  -   -   1
+Steve Manstedt   8  4  12   2  12  -   -   1
+John Peterson    7  6  13   3  19  -   -   1
+Rich Sanger ..   6  2   8   -   -  -   -   -
+Gary Hollstein   5  4   9   -   -  -   2   -
+Bill Sloey ...   4  3   7   -   -  1   -   -
+John Hyland ..   4  5   9   -   -  -   -   -
+Tom McClelland   4  3   7   -   -  -   -   -
+Tom Robison ..   1  1   2   -   -  -   -   -
+Pat Fischer ..   -  -   -   -   -  -   1   -
+
+(Blocked kicks:
+ Terrio, Kosch, Johnson, Borg: 1 each)
+
+
+
+
+       1971 STAT HIGHS (13 Games)
+
+Player        Long Run     Best Day
+Jeff Kinney   66 vs KU     171 vs OU
+Gary Dixon    35 vs KU     104 vs KU
+Jerry Tagge   35 vs MU      85 vs MU
+J. Rodgers    36 vs KU      47 vs KU
+Bill Olds     67 vs TAM    100 vs TAM
+M. Damkroger  22 vs USU     36 vs MU
+Randy Butts   11 vs ISU     20 vs ISU
+Van Brownson  21 vs HAW     27 vs ISU
+Jeff Hughes   13 vs OSU     18 vs OSU
+Dave Goeller  12 vs ISU     33 vs KU
+Glen Garson    2 vs USU      2 vs USU
+Jim Carstens  11 vs KU      11 vs KU
+Jerry List    18 vs KU      18 vs KU
+Woody Cox    -10 vs KSU    -10 vs KSU
+Steve Runty   17 vs HAW     17 vs HAW
+
+Longest run from scrimmage for TD:
+ 67, Olds vs Texas A&M
+Longest run, no score:
+ 58, Olds, vs Iowa St
+Longest pass for TD:
+ 80, Tagge to List vs Hawaii
+Longest punt return for TD:
+ 92, Rodgers vs Oklahoma St
+Longest punt return, no score:
+ 32, Rodgers vs Utah St
+Longest kickoff return for TD:
+ 98, Rodgers vs Texas A&M
+Longest kickoff return, no score:
+ 31, Rodgers vs Utah St
+Longest pass interception for TD:
+ 95, Kosch vs Texas A&M
+Longest pass interception, no score:
+ 30, Mason vs Missouri, J. Anderson vs Alabama
+Most pass interceptions:
+ 2, Kosch vs Texas A&M, Anderson vs Okla. St
+Longest punt: 58, Hughes vs Iowa St
+Most TDs: 4, Kinney vs Oklahoma
+Most passes attempted:
+ 28, Tagge vs Missouri & Kansas St
+Most passes completed: 20, Tagge vs Kan. St
+Most yards passing: 285, Tagge vs Kan. St
+Most passes caught: 10, Rodgers vs Kan. St
+Most TD passes caught:
+ 3, Rodgers vs Minnesota
+Most pass yardage caught:
+ 127, Rodgers vs Texas A&M
+Most yards rushing: 171, Kinney vs Oklahoma
+Most total offense yards:
+ 319, Tagge vs Missouri
+Most FGs attempted: 3, Sanger vs Iowa St
+Most FGs made: 3, Sanger vs Iowa St
+Longest FG: 39, Sanger vs Iowa St
+
+TEAM HIGHS
+Yards rushing - 411, vs Kansas
+Passes attempted - 35, vs Missouri
+Passes completed - 21, vs Missouri
+Yards passing - 285, vs Kansas St.
+Total offense - 603, vs Missouri
+First downs - 28, vs Missouri
+Fumbles - 6, vs Texas A&M
+Fumbles lost - 4, vs Texas A&M
+Longest TD play - 80, vs Hawaii
+Passes had intercepted -
+ 2, vs Kansas & Kansas St.
+
+DEFENSIVE HIGHS AND LOWS
+                High       Low
+Yards rushing   279 OU     -42 KU
+Passes att.      46 KSU      9 TAM,CU
+Passes comp.     23 KSU      2 CU
+Passing yds     204 HAW     17 TAM
+Total offense   467 OU      56 KU
+Pass INTs         4 OSU      1 CU,KSU
+First downs      22 OU       7 TAM,MU,KU
+Fumbles caused    7 CU       0 USU
+Fumb. recovered   5 KU       0 ORE,USU,MU
+Longest TD play  34 USU,CU   1 OSU,KSU
+
+
+

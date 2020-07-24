@@ -1,0 +1,636 @@
+TEAM STATISTICS            NU         OPP
+-----------------------------------------
+SCORING.............      456         213
+  Points Per Game...     41.5        19.4
+FIRST DOWNS.........      252         183
+  Rushing...........      185          64
+  Passing...........       57          99
+  Penalty...........       10          20
+RUSHING YARDAGE.....     3842        1249
+  Yds gained rushing     4076        1522
+  Yds lost rushing..      234         273
+  Rushing Attempts..      636         345
+  Average Per Rush..      6.0         3.6
+  Average Per Game..    349.3       113.5
+  TDs Rushing.......       45          12
+PASSING YARDAGE.....     1217        2291
+  Att-Comp-Int...... 172-84-8  393-179-14
+  Average Per Pass..      7.1         5.8
+  Average Per Catch      14.5        12.8
+  Average Per Game..    110.6       208.3
+  TDs Passing.......       11          10
+TOTAL OFFENSE.......     5059        3540
+  Total Plays.......      808         738
+  Average Per Play..      6.3         4.8
+  Average Per Game..    459.9       321.8
+KICK RETURNS-YARDS..   23-383      44-954
+PUNT RETURNS-YARDS..   46-506      23-289
+INT RETURNS-YARDS...   14-168        8-79
+KICK RETURN AVG.....     16.7        21.7
+PUNT RETURN AVG.....     11.0        12.6
+INT RETURN AVG......     12.0         9.9
+FUMBLES-LOST........     26-9        14-5
+PENALTIES-YARDS.....   71-622      84-656
+  Average Per Game..     56.5        59.6
+PUNTS-YARDS.........  42-1736     76-2831
+  Average Per Punt..     41.3        37.2
+  Net punt average..     34.5        30.6
+POSSESSION TIME/GAME    32:12       27:48
+3RD-DOWN CONVERSIONS   66/145      52/168
+  3rd-Down Pct......      46%         31%
+4TH-DOWN CONVERSIONS    13/21        5/13
+  4th-Down Pct......      62%         38%
+SACKS BY-YARDS......   25-145       10-75
+MISC YARDS..........       34           8
+TOUCHDOWNS SCORED...       63          26
+FIELD GOALS-ATTEMPTS     5-10       11-18
+PAT-ATTEMPTS........    61-61       22-24
+ATTENDANCE..........   467269      309067
+  Games/Average.....  6/77878     5/61813
+
+
+SCORE BY
+QUARTERS    1st  2nd  3rd  4th  OT    Tot
+----------  ---  ---  ---  ---  --    ---
+NEBRASKA    150  111   78  111   6  - 456
+OPPONENTS    34   74   53   49   3  - 213
+
+
+RUSHING          GP  Att Gain Loss  Net   Avg  TD Lng Avg/G
+-----------------------------------------------------------
+Alexander,Dan    11  182 1174   20 1154   6.3   8  56 104.9
+Crouch, Eric     11  169 1119  148  971   5.7  20  62  88.3
+Buckhalter,C.    11  106  769   19  750   7.1   7  58  68.2
+Miller, Willie   11   45  225    0  225   5.0   2  43  20.5
+Diedrick,D.      11   33  224   12  212   6.4   3  30  19.3
+Davies, Judd     11   18  183    0  183  10.2   1  57  16.6
+Lord, Jammal      6   28  138    8  130   4.6   4  11  21.7
+Collins,Thunder   4   13   77    0   77   5.9   0  17  19.2
+Grixby, DeAntae  11   10   61    0   61   6.1   0  10   5.5
+Kastl,Paul        6    6   26    0   26   4.3   0   8   4.3
+Miller,Robin      4    5   23    0   23   4.6   0   9   5.8
+Newcombe, Bobby  11    9   32   14   18   2.0   0   8   1.6
+Albertson,Matt    2    2    9    0    9   4.5   0   6   4.5
+Chrisman, Joe     4    5   11    3    8   1.6   0   8   2.0
+Davis,Josh        3    1    3    0    3   3.0   0   3   1.0
+Tomasevicz,Curt   2    1    2    0    2   2.0   0   2   1.0
+TEAM              8    2    0    4   -4  -2.0   0   0  -0.5
+Lindstrom,Brett   2    1    0    6   -6  -6.0   0   0  -3.0
+Total..........  11  636 4076  234 3842   6.0  45  62 349.3
+Opponents......  11  345 1522  273 1249   3.6  12  69 113.5
+
+
+PASSING     GP   Effic Att-Cmp-Int  Pct  Yds  TD Lng Avg/G
+----------------------------------------------------------
+E.Crouch    11  121.66  156-75-7   48.1 1101  11  52 100.1
+J.Lord       6  104.65   16-9-1    56.2  116   0  27  19.3
+B.Newcombe  11    0.00    0-0-0     0.0    0   0   0   0.0
+Total.....  11  120.07  172-84-8   48.8 1217  11  52 110.6
+Opponents   11   95.79 393-179-14  45.5 2291  10  53 208.3
+
+
+RECEIVING        GP  No.  Yds   Avg  TD Lng Avg/G
+-------------------------------------------------
+Davison, Matt    11   21  389  18.5   3  43  35.4
+Wistrom,Tracey   11   19  314  16.5   5  52  28.5
+Newcombe, Bobby  11   19  249  13.1   0  36  22.6
+Gibson, John     11    8   41   5.1   1   9   3.7
+Buckhalter,C.    11    5   85  17.0   1  34   7.7
+Bowling,Jon      11    4   46  11.5   1  13   4.2
+Davies, Judd     11    3   49  16.3   0  27   4.5
+Alexander,Dan    11    2   17   8.5   0  14   1.5
+Diedrick,D.      11    1   12  12.0   0  12   1.1
+Thomas, Wilson    8    1    8   8.0   0   8   1.0
+Golliday,Aaron   11    1    7   7.0   0   7   0.6
+Total..........  11   84 1217  14.5  11  52 110.6
+Opponents......  11  179 2291  12.8  10  53 208.3
+
+
+PUNT RETURNS    No.  Yds   Avg TD Long
+--------------------------------------
+Newcombe, Bobby  20  291  14.6  1   94
+Walker,Joe       16  115   7.2  0   37
+TEAM              3   -3  -1.0  0    0
+Cornelsen,Ben     3   49  16.3  0   21
+Demps,Mike        2    8   4.0  0    6
+Terpening,Aaron   1   15  15.0  0   15
+Craver, Keyuo     1   31  31.0  2   19
+Total..........  46  506  11.0  3   94
+Opponents......  23  289  12.6  1   83
+
+
+INTERCEPTIONS  No.  Yds   Avg TD Long
+-------------------------------------
+Watchorn,Troy    5   64  12.8  1   39
+Walker,Joe       2   24  12.0  1   19
+Polk, Carlos     1   39  39.0  1   39
+Shanle,Scott     1   18  18.0  0   18
+Kaiser,Loran     1   13  13.0  0   13
+Amos,Willie      1    0   0.0  0    0
+Slechta,Jeremy   1   10  10.0  0   10
+Swiney, Erwin    1    0   0.0  0    0
+Groce, DeJuan    1    0   0.0  0    0
+Total........   14  168  12.0  3   39
+Opponents....    8   79   9.9  2   40
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Walker,Joe        13  258  19.8  0   34
+Stella,Randy       2   43  21.5  0   25
+Buckhalter,C.      1   19  19.0  0   19
+Johnson,Trevor     1    7   7.0  0    7
+Davies, Judd       1    5   5.0  0    5
+Grixby, DeAntae    1   11  11.0  0   11
+Diedrick,D.        1   12  12.0  0   12
+Hollowell, T.J.    1    0   0.0  0    0
+Newcombe, Bobby    1   20  20.0  0   20
+Hassebroek,Troy    1    8   8.0  0    8
+Total..........   23  383  16.7  0   34
+Opponents......   44  954  21.7  1  100
+
+
+FUMBLE RETURNS    No.  Yds   Avg TD Long
+----------------------------------------
+Burrow,Jamie        1   28  28.0  1   28
+Swiney, Erwin       1    6   6.0  0    6
+Walker,Joe          1    0   0.0  0    0
+Total..........     3   34  11.3  1   28
+Opponents......     1    8   8.0  0    8
+
+                   |------ PATs -----|
+SCORING        TD  FGs   Kick Rush Rcv Pass DXP Saf Pts
+--------------------------------------------------------------
+Crouch, Eric   20  0-0   0-0   0-0   0  1-1  0   0  120
+Brown,Josh      0  5-10 60-60  0-0   0  0-0  0   0   75
+Buckhalter,C.   8  0-0   0-0   0-0   0  0-0  0   0   48
+Alexander,Dan   8  0-0   0-0   0-0   0  0-0  0   0   48
+Wistrom,Tracey  5  0-0   0-0   0-0   0  0-0  0   0   30
+Lord, Jammal    4  0-0   0-0   0-0   0  0-0  0   0   24
+Diedrick,D.     3  0-0   0-0   0-0   0  0-0  0   0   18
+Davison, Matt   3  0-0   0-0   0-0   0  0-0  0   0   18
+Craver, Keyuo   2  0-0   0-0   0-0   0  0-0  0   0   12
+Miller, Willie  2  0-0   0-0   0-0   0  0-0  0   0   12
+Bowling,Jon     1  0-0   0-0   0-0   0  0-0  0   0    6
+Newcombe, Bobby 1  0-0   0-0   0-0   0  0-0  0   0    6
+Davies, Judd    1  0-0   0-0   0-0   0  0-0  0   0    6
+Walker,Joe      1  0-0   0-0   0-0   0  0-0  0   0    6
+Burrow,Jamie    1  0-0   0-0   0-0   0  0-0  0   0    6
+Gibson, John    1  0-0   0-0   0-0   0  0-0  0   0    6
+Polk, Carlos    1  0-0   0-0   0-0   0  0-0  0   0    6
+Watchorn,Troy   1  0-0   0-0   0-0   0  0-0  0   0    6
+Golliday,Aaron  0  0-0   0-0   0-0   1  0-0  0   0    2
+Long, Chace     0  0-0   1-1   0-0   0  0-0  0   0    1
+Total........  63  5-10 61-61  0-0   1  1-1  0   0  456
+Opponents....  26 11-18 22-24  0-0   1  1-2  0   0  213
+
+
+TOTAL OFFENSE    G  Plays Rush Pass Total Avg/G
+-----------------------------------------------
+Crouch, Eric     11   325  971 1101  2072 188.4
+Alexander,Dan    11   182 1154    0  1154 104.9
+Buckhalter,C.    11   106  750    0   750  68.2
+Lord, Jammal      6    44  130  116   246  41.0
+Miller, Willie   11    45  225    0   225  20.5
+Diedrick,D.      11    33  212    0   212  19.3
+Davies, Judd     11    18  183    0   183  16.6
+Collins,Thunder   4    13   77    0    77  19.2
+Grixby, DeAntae  11    10   61    0    61   5.5
+Kastl,Paul        6     6   26    0    26   4.3
+Miller,Robin      4     5   23    0    23   5.8
+Newcombe, Bobby  11     9   18    0    18   1.6
+Albertson,Matt    2     2    9    0     9   4.5
+Chrisman, Joe     4     5    8    0     8   2.0
+Davis,Josh        3     1    3    0     3   1.0
+Tomasevicz,Curt   2     1    2    0     2   1.0
+TEAM              8     2   -4    0    -4  -0.5
+Lindstrom,Brett   2     1   -6    0    -6  -3.0
+Total........    11   808 3842 1217  5059 459.9
+Opponents....    11   738 1249 2291  3540 321.8
+
+
+FIELD GOALS  FGM-FGA  Pct  1-19 20-29 30-39 40-49 50-99 Lg Blk
+--------------------------------------------------------------
+Brown,Josh     5-10  50.0  0-0   3-4   1-3   1-3   0-0  40   0
+
+
+FG SEQUENCE   Nebraska          OPPONENTS
+-----------------------------------------
+San Jose St   -                 29,44
+Notre Dame    -                 (29)
+Iowa          -                 (40),(39)
+Missouri      42                (27)
+Iowa State    39,(40),(24),48   -
+Texas Tech    -                 (41)
+Baylor        (33)              -
+Oklahoma      -                 43,(19)
+Kansas        -                 (45)
+Kansas St     28                (38),(27),(29)
+Colorado      32,(20),(29)      29,37,(32),42,41
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING         No.  Yds   Avg Lng TB FC I20 Blk
+------------------------------------------------
+Hadenfeldt,Dan   39 1708  43.8  62  5  6   5   0
+TEAM              2    0   0.0   0  0  0   0   2
+Brown,Josh        1   28  28.0  28  0  1   0   0
+Total..........  42 1736  41.3  62  5  7   5   2
+Opponents......  76 2831  37.2  57  5  0  21   2
+
+
+ALL PURPOSE       G Rush  Rec   PR  KOR   IR  Tot Avg/G
+-------------------------------------------------------
+Alexander,Dan    11 1154   17    0    0    0 1171 106.5
+Crouch, Eric     11  971    0    0    0    0  971  88.3
+Buckhalter,C.    11  750   85    0   19    0  854  77.6
+Newcombe, Bobby  11   18  249  291   20    0  578  52.5
+Walker,Joe       11    0    0  115  258   24  397  36.1
+Davison, Matt    11    0  389    0    0    0  389  35.4
+Wistrom,Tracey   11    0  314    0    0    0  314  28.5
+Davies, Judd     11  183   49    0    5    0  237  21.5
+Diedrick,D.      11  212   12    0   12    0  236  21.5
+Miller, Willie   11  225    0    0    0    0  225  20.5
+Lord, Jammal      6  130    0    0    0    0  130  21.7
+Collins,Thunder   4   77    0    0    0    0   77  19.2
+Grixby, DeAntae  11   61    0    0   11    0   72   6.5
+Watchorn,Troy    11    0    0    0    0   64   64   5.8
+Cornelsen,Ben     5    0    0   49    0    0   49   9.8
+Bowling,Jon      11    0   46    0    0    0   46   4.2
+Stella,Randy     10    0    0    0   43    0   43   4.3
+Gibson, John     11    0   41    0    0    0   41   3.7
+Polk, Carlos     11    0    0    0    0   39   39   3.5
+Craver, Keyuo    11    0    0   31    0    0   31   2.8
+Kastl,Paul        6   26    0    0    0    0   26   4.3
+Miller,Robin      4   23    0    0    0    0   23   5.8
+Shanle,Scott     11    0    0    0    0   18   18   1.6
+Terpening,Aaron  11    0    0   15    0    0   15   1.4
+Kaiser,Loran      8    0    0    0    0   13   13   1.6
+Slechta,Jeremy   11    0    0    0    0   10   10   0.9
+Albertson,Matt    2    9    0    0    0    0    9   4.5
+Demps,Mike        2    0    0    8    0    0    8   4.0
+Hassebroek,Troy  11    0    0    0    8    0    8   0.7
+Chrisman, Joe     4    8    0    0    0    0    8   2.0
+Thomas, Wilson    8    0    8    0    0    0    8   1.0
+Golliday,Aaron   11    0    7    0    0    0    7   0.6
+Johnson,Trevor   10    0    0    0    7    0    7   0.7
+Davis,Josh        3    3    0    0    0    0    3   1.0
+Tomasevicz,Curt   2    2    0    0    0    0    2   1.0
+Lindstrom,Brett   2   -6    0    0    0    0   -6  -3.0
+TEAM              8   -4    0   -3    0    0   -7  -0.9
+Total........    11 3842 1217  506  383  168 6116 556.0
+Opponents....    11 1249 2291  289  954   79 4862 442.0
+
+
+Page 1 / 1Zoom 100%
+
+
+
+Overall Defensive Statistics
+
+                    |--------Tackles-------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blk
+                 GP Solo  Ast  Tot   TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kck Saf
+-------------------------------------------------------------------------------------------
+Polk, Carlos     11   40   49   89     9-30   1.5-13     1-39     4  13    .      .   1   .
+Stella,Randy     10   34   24   58    15-40   5.5-29      .       1   7    .      1   1   .
+Craver, Keyuo    11   33   23   56     6-20   2.5-16      .      13   .    .      .   2   .
+Vanden Bosch,K.  11   30   26   56    17-66   5.5-37      .       .  26    .      1   .   .
+Shanle,Scott     11   30   25   55     4-7    1.0-4      1-18     1   4    .      1   .   .
+Lohr,Jason       11   19   27   46     6-16   2.0-10      .       .   5    .      .   .   .
+Walker,Joe       11   24   20   44     2-2       .       2-24     7   4   1-0     1   .   .
+Booker, Dion     11   18   16   34     2-10      .        .       1   2    .      .   .   .
+Kelsay,Chris     11    9   20   29     2-5    0.5-4       .       3   9    .      1   .   .
+Watchorn,Troy    11   10   17   27     2-3       .       5-64     2   .    .      .   .   .
+Groce, DeJuan    11   20    6   26     1-6       .       1-0     16   .    .      1   .   .
+Kaiser,Loran      8    8   17   25      .     0.5-1      1-13     .   3    .      .   .   .
+Slechta,Jeremy   11    9   16   25     3-12   1.0-7      1-10     5   6   1-0     .   .   .
+Vedral, Mark      9   13   10   23     4-7       .        .       2   6    .      .   .   .
+Finley,Clint     11   18    4   22     1-1       .        .       4   .    .      .   .   .
+Swiney, Erwin    11   14    5   19      .        .       1-0      9   .   1-6     .   .   .
+Ricketts,Pat     11    8   10   18      .        .        .       1   .    .      .   .   .
+Smith,Justin     11    8    6   14     2-2       .        .       .   4    .      .   .   .
+Burrow,Jamie     11    6    8   14     3-8    1.0-6       .       .   4   1-28    .   .   .
+Adams,Demoine    11    4    8   12     1-1       .        .       1   5    .      .   .   .
+Amos,Willie      11    4    5    9      .        .       1-0      2   .   1-0     .   .   .
+Wichmann,J.P.    11    5    4    9     3-13   2.0-12      .       .   1    .      .   .   .
+Hollowell, T.J.  11    5    2    7      .        .        .       .   .    .      .   .   .
+Terpening,Aaron  11    2    4    6      .        .        .       .   .    .      .   1   .
+Penny,Jon         8    3    3    6      .        .        .       .   .    .      .   .   .
+Grixby, DeAntae  11    2    4    6      .        .        .       .   .    .      .   .   .
+Johnson,Bl.       4    3    3    6      .        .        .       .   1    .      .   1   .
+Nelson,Casey     10    2    3    5      .        .        .       .   3    .      .   .   .
+Woodward,Wes     11    2    3    5     1-1       .        .       1   .    .      .   .   .
+Clanton,Jon      10    1    4    5      .        .        .       .   4    .      .   .   .
+Tata,Tony         9    .    4    4      .        .        .       1   .    .      .   .   .
+Diedrick,D.      11    2    2    4      .        .        .       .   .    .      .   .   .
+Kabongo,Patrick   7    1    3    4     1-1       .        .       .   .    .      .   .   .
+Tagoa'i,Junior    5    1    2    3     1-4    1.0-4       .       .   .    .      .   .   .
+Long, Chace      10    3    .    3      .        .        .       .   .    .      .   .   .
+Ringenberg,Kyle   4    .    2    2      .        .        .       .   .    .      .   .   .
+Blomeier,Rob      3    .    2    2      .        .        .       .   .    .      .   .   .
+Newcombe, Bobby  11    2    .    2      .        .        .       .   .    .      .   .   .
+Davies, Judd     11    1    1    2      .        .        .       .   .    .      .   .   .
+Hemje, Jeff       6    1    1    2      .        .        .       1   .    .      .   .   .
+Thomas, Benard    7    1    1    2     1-5       .        .       .   1    .      .   .   .
+Hadenfeldt, Dan   9    1    1    2      .        .        .       .   .    .      .   .   .
+McClary,Dwayne    3    2    .    2     1-23      .        .       .   .    .      .   .   .
+Baker,Rod         2    .    1    1      .        .        .       .   .    .      .   .   .
+Crouch, Eric     11    1    .    1      .        .        .       .   .    .      .   .   .
+Buckhalter,C.    11    1    .    1      .        .        .       .   .    .      .   .   .
+Mooberry,Br.      3    1    .    1     1-2    1.0-2       .       .   .    .      .   .   .
+Garrison,John     9    .    1    1      .        .        .       .   .    .      .   .   .
+Butler, Terrell   7    .    1    1      .        .        .       .   .    .      .   .   .
+Pippens,Jerrell   4    .    1    1      .        .        .       .   .    .      .   .   .
+Boettner,Mic      3    .    1    1      .        .        .       .   .    .      .   .   .
+Ickes, Matt       1    .    .    .      .        .        .       1   .    .      .   .   .
+Total........    11  402  396  798    89-285   25-145   14-168   76 108   5-34    6   6   .
+Opponents....    11    -    -    -      -      10-75     8-79    22   4   9-8     5   2   .
+
+
+
+      
+RUSHING          GP  Att Gain Loss  Net   Avg  TD Lng Avg/G
+-----------------------------------------------------------
+Alexander,Dan    11  182 1174   20 1154   6.3   8  56 104.9
+Crouch, Eric     11  169 1119  148  971   5.7  20  62  88.3
+Buckhalter,C.    11  106  769   19  750   7.1   7  58  68.2
+Miller, Willie   11   45  225    0  225   5.0   2  43  20.5
+Diedrick,D.      11   33  224   12  212   6.4   3  30  19.3
+Davies, Judd     11   18  183    0  183  10.2   1  57  16.6
+Lord, Jammal      6   28  138    8  130   4.6   4  11  21.7
+Collins,Thunder   4   13   77    0   77   5.9   0  17  19.2
+Grixby, DeAntae  11   10   61    0   61   6.1   0  10   5.5
+Kastl,Paul        6    6   26    0   26   4.3   0   8   4.3
+Miller,Robin      4    5   23    0   23   4.6   0   9   5.8
+Newcombe, Bobby  11    9   32   14   18   2.0   0   8   1.6
+Albertson,Matt    2    2    9    0    9   4.5   0   6   4.5
+Chrisman, Joe     4    5   11    3    8   1.6   0   8   2.0
+Davis,Josh        3    1    3    0    3   3.0   0   3   1.0
+Tomasevicz,Curt   2    1    2    0    2   2.0   0   2   1.0
+TEAM              8    2    0    4   -4  -2.0   0   0  -0.5
+Lindstrom,Brett   2    1    0    6   -6  -6.0   0   0  -3.0
+Total..........  11  636 4076  234 3842   6.0  45  62 349.3
+Opponents......  11  345 1522  273 1249   3.6  12  69 113.5
+
+
+PASSING     GP   Effic Att-Cmp-Int  Pct  Yds  TD Lng Avg/G
+----------------------------------------------------------
+E.Crouch    11  121.66  156-75-7   48.1 1101  11  52 100.1
+J.Lord       6  104.65   16-9-1    56.2  116   0  27  19.3
+B.Newcombe  11    0.00    0-0-0     0.0    0   0   0   0.0
+Total.....  11  120.07  172-84-8   48.8 1217  11  52 110.6
+Opponents   11   95.79 393-179-14  45.5 2291  10  53 208.3
+
+
+RECEIVING        GP  No.  Yds   Avg  TD Lng Avg/G
+-------------------------------------------------
+Davison, Matt    11   21  389  18.5   3  43  35.4
+Wistrom,Tracey   11   19  314  16.5   5  52  28.5
+Newcombe, Bobby  11   19  249  13.1   0  36  22.6
+Gibson, John     11    8   41   5.1   1   9   3.7
+Buckhalter,C.    11    5   85  17.0   1  34   7.7
+Bowling,Jon      11    4   46  11.5   1  13   4.2
+Davies, Judd     11    3   49  16.3   0  27   4.5
+Alexander,Dan    11    2   17   8.5   0  14   1.5
+Diedrick,D.      11    1   12  12.0   0  12   1.1
+Thomas, Wilson    8    1    8   8.0   0   8   1.0
+Golliday,Aaron   11    1    7   7.0   0   7   0.6
+Total..........  11   84 1217  14.5  11  52 110.6
+Opponents......  11  179 2291  12.8  10  53 208.3
+
+
+PUNT RETURNS    No.  Yds   Avg TD Long
+--------------------------------------
+Newcombe, Bobby  20  291  14.6  1   94
+Walker,Joe       16  115   7.2  0   37
+TEAM              3   -3  -1.0  0    0
+Cornelsen,Ben     3   49  16.3  0   21
+Demps,Mike        2    8   4.0  0    6
+Terpening,Aaron   1   15  15.0  0   15
+Craver, Keyuo     1   31  31.0  2   19
+Total..........  46  506  11.0  3   94
+Opponents......  23  289  12.6  1   83
+
+
+INTERCEPTIONS  No.  Yds   Avg TD Long
+-------------------------------------
+Watchorn,Troy    5   64  12.8  1   39
+Walker,Joe       2   24  12.0  1   19
+Polk, Carlos     1   39  39.0  1   39
+Shanle,Scott     1   18  18.0  0   18
+Kaiser,Loran     1   13  13.0  0   13
+Amos,Willie      1    0   0.0  0    0
+Slechta,Jeremy   1   10  10.0  0   10
+Swiney, Erwin    1    0   0.0  0    0
+Groce, DeJuan    1    0   0.0  0    0
+Total........   14  168  12.0  3   39
+Opponents....    8   79   9.9  2   40
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Walker,Joe        13  258  19.8  0   34
+Stella,Randy       2   43  21.5  0   25
+Buckhalter,C.      1   19  19.0  0   19
+Johnson,Trevor     1    7   7.0  0    7
+Davies, Judd       1    5   5.0  0    5
+Grixby, DeAntae    1   11  11.0  0   11
+Diedrick,D.        1   12  12.0  0   12
+Hollowell, T.J.    1    0   0.0  0    0
+Newcombe, Bobby    1   20  20.0  0   20
+Hassebroek,Troy    1    8   8.0  0    8
+Total..........   23  383  16.7  0   34
+Opponents......   44  954  21.7  1  100
+
+
+FUMBLE RETURNS    No.  Yds   Avg TD Long
+----------------------------------------
+Burrow,Jamie        1   28  28.0  1   28
+Swiney, Erwin       1    6   6.0  0    6
+Walker,Joe          1    0   0.0  0    0
+Total..........     3   34  11.3  1   28
+Opponents......     1    8   8.0  0    8
+
+                   |------ PATs -----|
+SCORING        TD  FGs   Kick Rush Rcv Pass DXP Saf Pts
+--------------------------------------------------------------
+Crouch, Eric   20  0-0   0-0   0-0   0  1-1  0   0  120
+Brown,Josh      0  5-10 60-60  0-0   0  0-0  0   0   75
+Buckhalter,C.   8  0-0   0-0   0-0   0  0-0  0   0   48
+Alexander,Dan   8  0-0   0-0   0-0   0  0-0  0   0   48
+Wistrom,Tracey  5  0-0   0-0   0-0   0  0-0  0   0   30
+Lord, Jammal    4  0-0   0-0   0-0   0  0-0  0   0   24
+Diedrick,D.     3  0-0   0-0   0-0   0  0-0  0   0   18
+Davison, Matt   3  0-0   0-0   0-0   0  0-0  0   0   18
+Craver, Keyuo   2  0-0   0-0   0-0   0  0-0  0   0   12
+Miller, Willie  2  0-0   0-0   0-0   0  0-0  0   0   12
+Bowling,Jon     1  0-0   0-0   0-0   0  0-0  0   0    6
+Newcombe, Bobby 1  0-0   0-0   0-0   0  0-0  0   0    6
+Davies, Judd    1  0-0   0-0   0-0   0  0-0  0   0    6
+Walker,Joe      1  0-0   0-0   0-0   0  0-0  0   0    6
+Burrow,Jamie    1  0-0   0-0   0-0   0  0-0  0   0    6
+Gibson, John    1  0-0   0-0   0-0   0  0-0  0   0    6
+Polk, Carlos    1  0-0   0-0   0-0   0  0-0  0   0    6
+Watchorn,Troy   1  0-0   0-0   0-0   0  0-0  0   0    6
+Golliday,Aaron  0  0-0   0-0   0-0   1  0-0  0   0    2
+Long, Chace     0  0-0   1-1   0-0   0  0-0  0   0    1
+Total........  63  5-10 61-61  0-0   1  1-1  0   0  456
+Opponents....  26 11-18 22-24  0-0   1  1-2  0   0  213
+
+
+TOTAL OFFENSE    G  Plays Rush Pass Total Avg/G
+-----------------------------------------------
+Crouch, Eric     11   325  971 1101  2072 188.4
+Alexander,Dan    11   182 1154    0  1154 104.9
+Buckhalter,C.    11   106  750    0   750  68.2
+Lord, Jammal      6    44  130  116   246  41.0
+Miller, Willie   11    45  225    0   225  20.5
+Diedrick,D.      11    33  212    0   212  19.3
+Davies, Judd     11    18  183    0   183  16.6
+Collins,Thunder   4    13   77    0    77  19.2
+Grixby, DeAntae  11    10   61    0    61   5.5
+Kastl,Paul        6     6   26    0    26   4.3
+Miller,Robin      4     5   23    0    23   5.8
+Newcombe, Bobby  11     9   18    0    18   1.6
+Albertson,Matt    2     2    9    0     9   4.5
+Chrisman, Joe     4     5    8    0     8   2.0
+Davis,Josh        3     1    3    0     3   1.0
+Tomasevicz,Curt   2     1    2    0     2   1.0
+TEAM              8     2   -4    0    -4  -0.5
+Lindstrom,Brett   2     1   -6    0    -6  -3.0
+Total........    11   808 3842 1217  5059 459.9
+Opponents....    11   738 1249 2291  3540 321.8
+
+
+FIELD GOALS  FGM-FGA  Pct  1-19 20-29 30-39 40-49 50-99 Lg Blk
+--------------------------------------------------------------
+Brown,Josh     5-10  50.0  0-0   3-4   1-3   1-3   0-0  40   0
+
+
+FG SEQUENCE   Nebraska          OPPONENTS
+-----------------------------------------
+San Jose St   -                 29,44
+Notre Dame    -                 (29)
+Iowa          -                 (40),(39)
+Missouri      42                (27)
+Iowa State    39,(40),(24),48   -
+Texas Tech    -                 (41)
+Baylor        (33)              -
+Oklahoma      -                 43,(19)
+Kansas        -                 (45)
+Kansas St     28                (38),(27),(29)
+Colorado      32,(20),(29)      29,37,(32),42,41
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING         No.  Yds   Avg Lng TB FC I20 Blk
+------------------------------------------------
+Hadenfeldt,Dan   39 1708  43.8  62  5  6   5   0
+TEAM              2    0   0.0   0  0  0   0   2
+Brown,Josh        1   28  28.0  28  0  1   0   0
+Total..........  42 1736  41.3  62  5  7   5   2
+Opponents......  76 2831  37.2  57  5  0  21   2
+
+
+ALL PURPOSE       G Rush  Rec   PR  KOR   IR  Tot Avg/G
+-------------------------------------------------------
+Alexander,Dan    11 1154   17    0    0    0 1171 106.5
+Crouch, Eric     11  971    0    0    0    0  971  88.3
+Buckhalter,C.    11  750   85    0   19    0  854  77.6
+Newcombe, Bobby  11   18  249  291   20    0  578  52.5
+Walker,Joe       11    0    0  115  258   24  397  36.1
+Davison, Matt    11    0  389    0    0    0  389  35.4
+Wistrom,Tracey   11    0  314    0    0    0  314  28.5
+Davies, Judd     11  183   49    0    5    0  237  21.5
+Diedrick,D.      11  212   12    0   12    0  236  21.5
+Miller, Willie   11  225    0    0    0    0  225  20.5
+Lord, Jammal      6  130    0    0    0    0  130  21.7
+Collins,Thunder   4   77    0    0    0    0   77  19.2
+Grixby, DeAntae  11   61    0    0   11    0   72   6.5
+Watchorn,Troy    11    0    0    0    0   64   64   5.8
+Cornelsen,Ben     5    0    0   49    0    0   49   9.8
+Bowling,Jon      11    0   46    0    0    0   46   4.2
+Stella,Randy     10    0    0    0   43    0   43   4.3
+Gibson, John     11    0   41    0    0    0   41   3.7
+Polk, Carlos     11    0    0    0    0   39   39   3.5
+Craver, Keyuo    11    0    0   31    0    0   31   2.8
+Kastl,Paul        6   26    0    0    0    0   26   4.3
+Miller,Robin      4   23    0    0    0    0   23   5.8
+Shanle,Scott     11    0    0    0    0   18   18   1.6
+Terpening,Aaron  11    0    0   15    0    0   15   1.4
+Kaiser,Loran      8    0    0    0    0   13   13   1.6
+Slechta,Jeremy   11    0    0    0    0   10   10   0.9
+Albertson,Matt    2    9    0    0    0    0    9   4.5
+Demps,Mike        2    0    0    8    0    0    8   4.0
+Hassebroek,Troy  11    0    0    0    8    0    8   0.7
+Chrisman, Joe     4    8    0    0    0    0    8   2.0
+Thomas, Wilson    8    0    8    0    0    0    8   1.0
+Golliday,Aaron   11    0    7    0    0    0    7   0.6
+Johnson,Trevor   10    0    0    0    7    0    7   0.7
+Davis,Josh        3    3    0    0    0    0    3   1.0
+Tomasevicz,Curt   2    2    0    0    0    0    2   1.0
+Lindstrom,Brett   2   -6    0    0    0    0   -6  -3.0
+TEAM              8   -4    0   -3    0    0   -7  -0.9
+Total........    11 3842 1217  506  383  168 6116 556.0
+Opponents....    11 1249 2291  289  954   79 4862 442.0
+
+                    |--------Tackles-------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blk
+                 GP Solo  Ast  Tot   TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kck Saf
+-------------------------------------------------------------------------------------------
+Polk, Carlos     11   40   49   89     9-30   1.5-13     1-39     4  13    .      .   1   .
+Stella,Randy     10   34   24   58    15-40   5.5-29      .       1   7    .      1   1   .
+Craver, Keyuo    11   33   23   56     6-20   2.5-16      .      13   .    .      .   2   .
+Vanden Bosch,K.  11   30   26   56    17-66   5.5-37      .       .  26    .      1   .   .
+Shanle,Scott     11   30   25   55     4-7    1.0-4      1-18     1   4    .      1   .   .
+Lohr,Jason       11   19   27   46     6-16   2.0-10      .       .   5    .      .   .   .
+Walker,Joe       11   24   20   44     2-2       .       2-24     7   4   1-0     1   .   .
+Booker, Dion     11   18   16   34     2-10      .        .       1   2    .      .   .   .
+Kelsay,Chris     11    9   20   29     2-5    0.5-4       .       3   9    .      1   .   .
+Watchorn,Troy    11   10   17   27     2-3       .       5-64     2   .    .      .   .   .
+Groce, DeJuan    11   20    6   26     1-6       .       1-0     16   .    .      1   .   .
+Kaiser,Loran      8    8   17   25      .     0.5-1      1-13     .   3    .      .   .   .
+Slechta,Jeremy   11    9   16   25     3-12   1.0-7      1-10     5   6   1-0     .   .   .
+Vedral, Mark      9   13   10   23     4-7       .        .       2   6    .      .   .   .
+Finley,Clint     11   18    4   22     1-1       .        .       4   .    .      .   .   .
+Swiney, Erwin    11   14    5   19      .        .       1-0      9   .   1-6     .   .   .
+Ricketts,Pat     11    8   10   18      .        .        .       1   .    .      .   .   .
+Smith,Justin     11    8    6   14     2-2       .        .       .   4    .      .   .   .
+Burrow,Jamie     11    6    8   14     3-8    1.0-6       .       .   4   1-28    .   .   .
+Adams,Demoine    11    4    8   12     1-1       .        .       1   5    .      .   .   .
+Amos,Willie      11    4    5    9      .        .       1-0      2   .   1-0     .   .   .
+Wichmann,J.P.    11    5    4    9     3-13   2.0-12      .       .   1    .      .   .   .
+Hollowell, T.J.  11    5    2    7      .        .        .       .   .    .      .   .   .
+Terpening,Aaron  11    2    4    6      .        .        .       .   .    .      .   1   .
+Penny,Jon         8    3    3    6      .        .        .       .   .    .      .   .   .
+Grixby, DeAntae  11    2    4    6      .        .        .       .   .    .      .   .   .
+Johnson,Bl.       4    3    3    6      .        .        .       .   1    .      .   1   .
+Nelson,Casey     10    2    3    5      .        .        .       .   3    .      .   .   .
+Woodward,Wes     11    2    3    5     1-1       .        .       1   .    .      .   .   .
+Clanton,Jon      10    1    4    5      .        .        .       .   4    .      .   .   .
+Tata,Tony         9    .    4    4      .        .        .       1   .    .      .   .   .
+Diedrick,D.      11    2    2    4      .        .        .       .   .    .      .   .   .
+Kabongo,Patrick   7    1    3    4     1-1       .        .       .   .    .      .   .   .
+Tagoa'i,Junior    5    1    2    3     1-4    1.0-4       .       .   .    .      .   .   .
+Long, Chace      10    3    .    3      .        .        .       .   .    .      .   .   .
+Ringenberg,Kyle   4    .    2    2      .        .        .       .   .    .      .   .   .
+Blomeier,Rob      3    .    2    2      .        .        .       .   .    .      .   .   .
+Newcombe, Bobby  11    2    .    2      .        .        .       .   .    .      .   .   .
+Davies, Judd     11    1    1    2      .        .        .       .   .    .      .   .   .
+Hemje, Jeff       6    1    1    2      .        .        .       1   .    .      .   .   .
+Thomas, Benard    7    1    1    2     1-5       .        .       .   1    .      .   .   .
+Hadenfeldt, Dan   9    1    1    2      .        .        .       .   .    .      .   .   .
+McClary,Dwayne    3    2    .    2     1-23      .        .       .   .    .      .   .   .
+Baker,Rod         2    .    1    1      .        .        .       .   .    .      .   .   .
+Crouch, Eric     11    1    .    1      .        .        .       .   .    .      .   .   .
+Buckhalter,C.    11    1    .    1      .        .        .       .   .    .      .   .   .
+Mooberry,Br.      3    1    .    1     1-2    1.0-2       .       .   .    .      .   .   .
+Garrison,John     9    .    1    1      .        .        .       .   .    .      .   .   .
+Butler, Terrell   7    .    1    1      .        .        .       .   .    .      .   .   .
+Pippens,Jerrell   4    .    1    1      .        .        .       .   .    .      .   .   .
+Boettner,Mic      3    .    1    1      .        .        .       .   .    .      .   .   .
+Ickes, Matt       1    .    .    .      .        .        .       1   .    .      .   .   .
+Total........    11  402  396  798    89-285   25-145   14-168   76 108   5-34    6   6   .
+Opponents....    11    -    -    -      -      10-75     8-79    22   4   9-8     5   2   .
+

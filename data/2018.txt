@@ -1,0 +1,3065 @@
+          2018 Nebraska Football
+         Overall Team Statistics
+                All games
+
+TEAM STATISTICS          NEB          OPP
+-----------------------------------------
+SCORING...........       360          375
+  Points Per Game       30.0         31.2
+  Pts Off Turnovers       71           54
+FIRST DOWNS.......       278          272
+  Rushing.........       130          114
+  Passing.........       130          129
+  Penalty.........        18           29
+RUSHING YARDAGE...      2508         2349
+  Yards gained....      2861         2621
+  Yards lost......       353          272
+  Rushing Attempts       464          470
+  Avg. Per Rush...       5.4          5.0
+  Avg. Per Game...     209.0        195.8
+  TDs Rushing.....        25           29
+PASSING YARDAGE...      2966         2853
+  Comp-Att-Int... 257-404-11   238-425-11
+  Avg. Per Pass...       7.3          6.7
+  Avg. Per Catch..      11.5         12.0
+  Avg. Per Game...     247.2        237.8
+  TDs Passing.....        19           15
+TOTAL OFFENSE.....      5474         5202
+  Total Plays.....       868          895
+  Avg. Per Play...       6.3          5.8
+  Avg. Per Game...     456.2        433.5
+KICK RETURNS-Yds..    31-490       34-695
+PUNT RETURNS-Yds..    16-150       18-203
+INT RETURNS-Yds...     11-16        11-71
+KICK RETURN AVG...      15.8         20.4
+PUNT RETURN AVG...       9.4         11.3
+INT RETURN AVG....       1.5          6.5
+FUMBLES-LOST......     28-11         22-9
+PENALTIES-Yards...    92-850       78-681
+  Avg. Per Game...      70.8         56.8
+PUNTS-Yards.......   57-2394      58-2467
+  Avg. Per Punt...      42.0         42.5
+  Net punt avg....      37.0         37.2
+KICKOFFS-Yards....   72-4413      71-4072
+  Avg. Per Kick...      61.3         57.4
+  Net kick avg....      39.8         40.6
+POSS. TIME/Game...     27:44        32:16
+3RD-DOWN Conv. ...    58/156       76/176
+  3rd-Down Pct....       37%          43%
+4TH-DOWN Conv. ...      9/20        11/19
+  4th-Down Pct....       45%          58%
+SACKS BY-Yards....    25-172       28-196
+MISC YARDS........         0            0
+TOUCHDOWNS SCORED         45           47
+FIELD GOALS-ATTS..     14-18        15-20
+ON-SIDE KICKS.....       0-0          0-1
+RED-ZONE SCORES  (39-44) 89%  (45-55) 82%
+RED-ZONE TDs.... (27-44) 61%  (33-55) 60%
+PAT-ATTEMPTS.... (40-41) 98%  (40-41) 98%
+ATTENDANCE........    623240       407962
+  Games/Avg.......   7/89034      5/81592
+
+
+SCORE BY
+QUARTERS   1st  2nd  3rd  4th  OT     Tot
+--------   ---  ---  ---  ---  --     ---
+NEB......   98   91   66  105   0  -  360
+OPP......   93  106   84   89   3  -  375
+
+
+RUSHING      G-GS   Att Gain Loss  Net   Avg  TD Long Avg/G
+-----------------------------------------------------------
+D.Ozigbo     12-9   155 1100   18 1082   7.0  12   66  90.2
+A.Martinez   11-11  140  847  218  629   4.5   8   53  57.2
+M.Washington 11-2    77  480   25  455   5.9   3   49  41.4
+G.Bell        4-3    35  183   10  173   4.9   0   45  43.2
+W.Mazour     12-0    11   81    5   76   6.9   1   18   6.3
+A.Bunch       5-1    16   69   29   40   2.5   0   23   8.0
+JDSpielman   10-10    7   24    0   24   3.4   0    6   2.4
+N.Vedral      1-0     7   35   22   13   1.9   1   20  13.0
+T.Lindsey     4-0     2    9    0    9   4.5   0    9   2.2
+A.Rose        7-0     1    7    0    7   7.0   0    7   1.0
+M.Wilbon      6-0     4    8    1    7   1.8   0    4   1.2
+L.Gifford    12-12    1    5    0    5   5.0   0    5   0.4
+M.Jones       1-0     1    5    0    5   5.0   0    5   5.0
+S.Morgan     12-12    1    4    0    4   4.0   0    4   0.3
+K.Warner      9-7     1    4    0    4   4.0   0    4   0.4
+TEAM          11-0    5    0   25  -25  -5.0   0    0  -2.3
+Total......... 12   464 2861  353 2508   5.4  25   66 209.0
+Opponents..... 12   470 2621  272 2349   5.0  29   88 195.8
+
+
+PASSING     G-GS  Effic Cmp-Att-Int  Pct  Yds  TD Lng Avg/G
+------------------------------------------------------------
+A.Martinez  11-11 139.46  224-347-8  64.6 2617  17  75 237.9
+A.Bunch       5-1 128.68   31-47-2   66.0  320   2  33  64.0
+N.Vedral      1-0  27.07    2-9-1    22.2   29   0  21  29.0
+M.Washington 11-2   0.00    0-1-0     0.0    0   0   0   0.0
+Total........ 12  135.36  257-404-11 63.6 2966  19  75 247.2
+Opponents.... 12  118.86  238-425-11 56.0 2853  15  69 237.8
+
+
+RECEIVING       GP-GS  No.  Yds   Avg  TD Long Avg/G
+----------------------------------------------------
+Stanley Morgan  12-12   70 1004  14.3   7   67  83.7
+JD Spielman     10-10   66  818  12.4   8   75  81.8
+M. Washington   11-2    24  221   9.2   1   35  20.1
+Devine Ozigbo   12-9    23  203   8.8   0   19  16.9
+Jack Stoll      12-12   21  245  11.7   3   37  20.4
+Kade Warner      9-7    17   95   5.6   0   14  10.6
+Mike Williams   12-2    12  122  10.2   0   24  10.2
+Bryan Reimers   10-3     6   52   8.7   0   20   5.2
+Kurt Rafdal     12-0     4   67  16.8   0   26   5.6
+Greg Bell        4-3     4   14   3.5   0    6   3.5
+Tyjon Lindsey    4-0     3   22   7.3   0   14   5.5
+Austin Allen    12-0     2   54  27.0   0   41   4.5
+Wyatt Mazour    12-0     1   21  21.0   0   21   1.8
+Miles Jones      1-0     1   21  21.0   0   21  21.0
+Jaron Woodyard   8-0     1   10  10.0   0   10   1.2
+K. Legrone       3-0     1    8   8.0   0    8   2.7
+Adrian Martinez 11-11    1  -11 -11.0   0    0  -1.0
+Total.......... 12     257 2966  11.5  19   75 247.2
+Opponents...... 12     238 2853  12.0  15   69 237.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+JD Spielman        6  104  17.3  1   77
+Tyjon Lindsey      5    1   0.2  0    3
+Stanley Morgan     4   19   4.8  0   18
+Marquel Dismuke    1   26  26.0  0    0
+Total..........   16  150   9.4  1   77
+Opponents......   18  203  11.3  2   60
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Lamar Jackson      2    0   0.0  0    0
+D. Williams        2    0   0.0  0    0
+Antonio Reed       2    0   0.0  0    0
+Dedrick Young      1    0   0.0  0    0
+Peyton Newell      1    0   0.0  0    0
+Aaron Williams     1    0   0.0  0    0
+M. Stoltenberg     1    2   2.0  0    2
+Tre Neal           1   14  14.0  0   14
+Total..........   11   16   1.5  0   14
+Opponents......   11   71   6.5  0   22
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+M. Washington     13  204  15.7  0   27
+JD Spielman        8  169  21.1  0   31
+Jaron Woodyard     4   50  12.5  0   19
+Wyatt Mazour       3   48  16.0  0   21
+Jack Stoll         2   16   8.0  0   10
+Mikale Wilbon      1    3   3.0  0    3
+Total..........   31  490  15.8  0   31
+Opponents......   34  695  20.4  0   87
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+D. Williams        1    5   5.0  0    5
+Total..........    1    5   5.0  0    5
+Opponents......    3   19   6.3  1   10
+
+
+                           |------ PATs -----|
+SCORING          TD  FGs   Kick  Rush Rcv Pass  DXP Saf Pts
+-----------------------------------------------------------
+B. Pickering      0 14-18  40-41  0-0   0  0-0   0   0   82
+Devine Ozigbo    12  0-0    0-0   0-0   0  0-0   0   0   72
+JD Spielman       9  0-0    0-0   0-0   0  0-0   0   0   54
+Adrian Martinez   8  0-0    0-0   1-1   0  2-2   0   0   50
+Stanley Morgan    7  0-0    0-0   0-0   1  0-0   0   0   44
+M. Washington     4  0-0    0-0   0-0   0  0-0   0   0   24
+Jack Stoll        3  0-0    0-0   0-0   0  0-0   0   0   18
+Noah Vedral       1  0-0    0-0   0-0   0  0-0   0   0    6
+Wyatt Mazour      1  0-0    0-0   0-0   0  0-0   0   0    6
+Marquel Dismuke   0  0-0    0-0   0-0   0  0-0   0   1    2
+Kade Warner       0  0-0    0-0   0-0   1  0-0   0   0    2
+Andrew Bunch      0  0-0    0-0   0-0   0  0-1   0   0    0
+Total..........  45 14-18  40-41  1-1   2  2-3   0   1  360
+Opponents......  47 15-20  40-41  1-3   1  1-2   0   2  375
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Adrian Martinez 11   487  629 2617  3246 295.1
+Devine Ozigbo   12   155 1082    0  1082  90.2
+M. Washington   11    78  455    0   455  41.4
+Andrew Bunch     5    63   40  320   360  72.0
+Greg Bell        4    35  173    0   173  43.2
+Wyatt Mazour    12    11   76    0    76   6.3
+Noah Vedral      1    16   13   29    42  42.0
+JD Spielman     10     7   24    0    24   2.4
+Tyjon Lindsey    4     2    9    0     9   2.2
+Austin Rose      7     1    7    0     7   1.0
+Mikale Wilbon    6     4    7    0     7   1.2
+Luke Gifford    12     1    5    0     5   0.4
+Miles Jones      1     1    5    0     5   5.0
+Kade Warner      9     1    4    0     4   0.4
+Stanley Morgan  12     1    4    0     4   0.3
+TEAM            11     5  -25    0   -25  -2.3
+Total.......... 12   868 2508 2966  5474 456.2
+Opponents...... 12   895 2349 2853  5202 433.5
+
+
+FIELD GOALS  FGM-FGA  Pct 1-19  20s  30s  40s  50s  Lg Blk
+----------------------------------------------------------
+B.Pickering   14-18  77.8  1-1  5-5  6-7  2-4  0-1  47   0
+
+
+FG SEQUENCE       Nebraska          OPPONENTS
+---------------------------------------------
+Colorado          43                (40),(35),37,43
+Troy              33,(23),(32)      (37)
+Michigan          (35)              (50),(38)
+Purdue            54                (31),(25)
+Wisconsin         (31)              (30),(28)
+Northwestern      45,(34)           42,(31),(37)
+Minnesota         (32)              -
+Bethune-Cookman   (29)              (28)
+Ohio State        (18)              -
+Illinois          (27)              -
+Michigan State    (36),(20),(47)    (34),41,(26)
+IOWA              (27),(46)         37,(41)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING          No.  Yds   Avg Long  TB  FC I20 Blkd
+-----------------------------------------------------
+Isaac Armstrong   32 1396  43.6   73   3   8   9    1
+C. Lightbourn     24  998  41.6   52   1   3   3    0
+TEAM               1    0   0.0    0   0   0   0    0
+Total..........   57 2394  42.0   73   4  11  12    1
+Opponents......   58 2467  42.5   79   8  16  21    1
+
+
+KICKOFFS         No.   Yds   Avg  TB  OB  Retn  Net YdLn
+--------------------------------------------------------
+C. Lightbourn     52  3284  63.2  28   2
+B. Pickering      18  1076  59.8   6   0
+Isaac Armstrong    1    52  52.0   0   0
+TEAM               1     1   1.0   0   0
+Total..........   72  4413  61.3  34   2   695 39.8   25
+Opponents......   71  4072  57.4  28   3   490 40.6   24
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Devine Ozigbo   12 1082  203    0    0    0 1285 107.1
+JD Spielman     10   24  818  104  169    0 1115 111.5
+Stanley Morgan  12    4 1004   19    0    0 1027  85.6
+M. Washington   11  455  221    0  204    0  880  80.0
+Adrian Martinez 11  629  -11    0    0    0  618  56.2
+Jack Stoll      12    0  245    0   16    0  261  21.8
+Greg Bell        4  173   14    0    0    0  187  46.8
+Wyatt Mazour    12   76   21    0   48    0  145  12.1
+Mike Williams   12    0  122    0    0    0  122  10.2
+Kade Warner      9    4   95    0    0    0   99  11.0
+Kurt Rafdal     12    0   67    0    0    0   67   5.6
+Jaron Woodyard   8    0   10    0   50    0   60   7.5
+Austin Allen    12    0   54    0    0    0   54   4.5
+Bryan Reimers   10    0   52    0    0    0   52   5.2
+Andrew Bunch     5   40    0    0    0    0   40   8.0
+Tyjon Lindsey    4    9   22    1    0    0   32   8.0
+Miles Jones      1    5   21    0    0    0   26  26.0
+Marquel Dismuke  8    0    0   26    0    0   26   3.2
+Tre Neal        12    0    0    0    0   14   14   1.2
+Noah Vedral      1   13    0    0    0    0   13  13.0
+Mikale Wilbon    6    7    0    0    3    0   10   1.7
+K. Legrone       3    0    8    0    0    0    8   2.7
+Austin Rose      7    7    0    0    0    0    7   1.0
+Luke Gifford    12    5    0    0    0    0    5   0.4
+M. Stoltenberg   8    0    0    0    0    2    2   0.2
+TEAM            11  -25    0    0    0    0  -25  -2.3
+Total.......... 12 2508 2966  150  490   16 6130 510.8
+Opponents...... 12 2349 2853  203  695   71 6171 514.2
+
+
+Page 1 / 1Zoom 100%
+
+
+
+Overall Defensive Statistics
+
+                         |--------Tackles--------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blkd
+DEFENSIVE LEADERS  GP-GS Solo  Ast Total   TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kick Saf
+--------------------------------------------------------------------------------------------------
+7  Mohamed Barry   12-12   55   57   112    11-39   2.0-15      .       1   5    .      .    .   .
+5  Dedrick Young   12-12   41   42    83     3-3       .       1-0      5   3    .      .    .   .
+24 Aaron Williams  12-11   45   25    70     3-6       .       1-0      4   1   1-0     .    .   .
+12 Luke Gifford    12-12   35   27    62    13-63   5.5-52      .       2   7    .      1    .   .
+14 Tre Neal        12-12   35   22    57     2-2       .       1-14     5   2    .      2    .   .
+2E Antonio Reed     12-2   32   12    44     3-19   1.0-10     2-0      3   .    .      2    .   .
+94 Khalil Davis     12-0   24   17    41     8-32   3.0-19      .       .   4   1-0     1    .   .
+23 Dicaprio Bootle 12-12   26   13    39      .        .        .      15   .    .      1    .   .
+43 Tyrin Ferguson    8-4   19   17    36     6-21   1.0-4       .       1   .    .      .    .   .
+91 F. Akinmoladun  12-12   11   18    29     3-10   2.5-10      .       .   4    .      .    .   .
+21 Lamar Jackson   12-11   21    7    28     1-1       .       2-0      7   .    .      1    .   .
+96 Carlos Davis     12-9   13   14    27     3-13   1.0-8       .       5   1   1-0     .    .   .
+95 Ben Stille      12-11   10   15    25     5-28   5.0-28      .       2   6    .      .    .   .
+41 D. Williams      12-1   15    8    23     1-0       .       2-0      2   .   1-5     2    .   .
+13 JoJo Domann       8-2   10    9    19     1-7    1.0-7       .       2   .   1-0     2    .   .
+31 Collin Miller    12-0    9    8    17     1-7       .        .       .   .    .      .    .   .
+3  Will Honas        4-0    6    9    15     1-1       .        .       .   1    .      .    .   .
+57 J. Weinmaster    11-0    3   10    13      .        .        .       .   .    .      .    .   .
+6  Eric Lee Jr.      9-1    7    6    13      .        .        .       .   .    .      .    .   .
+1C Cam Taylor       11-0    9    3    12      .        .        .       3   .   1-0     .    .   .
+93 Damion Daniels   12-0    3    9    12     1-1       .        .       .   .   1-0     .    .   .
+4A Caleb Tannor     12-0    6    4    10     1-7    1.0-7       .       .   .    .      .    .   .
+1A Marquel Dismuke   8-0    8    2    10      .        .        .       .   .    .      .    1   1
+44 M. Stoltenberg    8-4    2    7     9     2-7    1.0-6      1-2      .   .    .      .    .   .
+42 J. Stovall        8-0    4    4     8      .        .        .       .   .   1-0     .    .   .
+2D Alex Davis       12-4    1    4     5      .        .        .       .   .    .      .    .   .
+99 Peyton Newell    12-0    1    4     5      .        .       1-0      .   .    .      .    .   .
+97 Deontre Thomas    4-0    4    .     4     1-1       .        .       .   .    .      .    .   .
+18 Guy Thomas        4-0    .    4     4      .        .        .       1   .    .      .    .   .
+16 Ethan Cox        11-0    2    1     3      .        .        .       .   .    .      .    .   .
+9  DaiShon Neal      7-0    1    2     3      .        .        .       .   .    .      .    .   .
+9A Chase Urbach     10-0    2    1     3      .        .        .       .   .   1-0     .    .   .
+10 JD Spielman     10-10    1    1     2      .        .        .       .   .    .      .    .   .
+30 Eli Sullivan      7-0    1    .     1      .        .        .       .   .    .      .    .   .
+75 Fyn Anderson      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+55 Chris Walker      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+47 Matt Jarzynka     1-0    1    .     1     1-6    1.0-6       .       .   .    .      .    .   .
+56 Boe Wilson       12-9    .    1     1      .        .        .       .   .    .      .    .   .
+3E Simon Otte        1-0    .    1     1      .        .        .       .   .    .      .    .   .
+34 Breon Dixon       4-0    1    .     1      .        .        .       .   .    .      .    .   .
+1B Braxton Clark     4-0    1    .     1      .        .        .       .   .    .      .    .   .
+65 C. Gaylord       10-0    1    .     1      .        .        .       .   .    .      .    .   .
+88 Jaron Woodyard    8-0    .    1     1      .        .        .       .   .    .      .    .   .
+81 Kade Warner       9-7    1    .     1      .        .        .       .   .    .      .    .   .
+37 Wyatt Mazour     12-0    .    1     1      .        .        .       .   .    .      .    .   .
+86 Jack Stoll      12-12    1    .     1      .        .        .       .   .    .      .    .   .
+2  Adrian Martinez 11-11    1    .     1      .        .        .       .   .    .      .    .   .
+35 C. Lightbourn     9-0    1    .     1      .        .        .       .   .    .      .    .   .
+22 Devine Ozigbo    12-9    1    .     1      .        .        .       .   .    .      .    .   .
+   Total..........  12-0  471  388   859    71-274   25-172   11-16    58  34   9-5    12    1   1
+   Opponents......  12-0  476  378   854    88-309   28-196   11-71    28  24  11-19   19    1   2
+
+
+
+      
+RUSHING      G-GS   Att Gain Loss  Net   Avg  TD Long Avg/G
+-----------------------------------------------------------
+D.Ozigbo     12-9   155 1100   18 1082   7.0  12   66  90.2
+A.Martinez   11-11  140  847  218  629   4.5   8   53  57.2
+M.Washington 11-2    77  480   25  455   5.9   3   49  41.4
+G.Bell        4-3    35  183   10  173   4.9   0   45  43.2
+W.Mazour     12-0    11   81    5   76   6.9   1   18   6.3
+A.Bunch       5-1    16   69   29   40   2.5   0   23   8.0
+JDSpielman   10-10    7   24    0   24   3.4   0    6   2.4
+N.Vedral      1-0     7   35   22   13   1.9   1   20  13.0
+T.Lindsey     4-0     2    9    0    9   4.5   0    9   2.2
+A.Rose        7-0     1    7    0    7   7.0   0    7   1.0
+M.Wilbon      6-0     4    8    1    7   1.8   0    4   1.2
+L.Gifford    12-12    1    5    0    5   5.0   0    5   0.4
+M.Jones       1-0     1    5    0    5   5.0   0    5   5.0
+S.Morgan     12-12    1    4    0    4   4.0   0    4   0.3
+K.Warner      9-7     1    4    0    4   4.0   0    4   0.4
+TEAM          11-0    5    0   25  -25  -5.0   0    0  -2.3
+Total......... 12   464 2861  353 2508   5.4  25   66 209.0
+Opponents..... 12   470 2621  272 2349   5.0  29   88 195.8
+
+
+PASSING     G-GS  Effic Cmp-Att-Int  Pct  Yds  TD Lng Avg/G
+------------------------------------------------------------
+A.Martinez  11-11 139.46  224-347-8  64.6 2617  17  75 237.9
+A.Bunch       5-1 128.68   31-47-2   66.0  320   2  33  64.0
+N.Vedral      1-0  27.07    2-9-1    22.2   29   0  21  29.0
+M.Washington 11-2   0.00    0-1-0     0.0    0   0   0   0.0
+Total........ 12  135.36  257-404-11 63.6 2966  19  75 247.2
+Opponents.... 12  118.86  238-425-11 56.0 2853  15  69 237.8
+
+
+RECEIVING       GP-GS  No.  Yds   Avg  TD Long Avg/G
+----------------------------------------------------
+Stanley Morgan  12-12   70 1004  14.3   7   67  83.7
+JD Spielman     10-10   66  818  12.4   8   75  81.8
+M. Washington   11-2    24  221   9.2   1   35  20.1
+Devine Ozigbo   12-9    23  203   8.8   0   19  16.9
+Jack Stoll      12-12   21  245  11.7   3   37  20.4
+Kade Warner      9-7    17   95   5.6   0   14  10.6
+Mike Williams   12-2    12  122  10.2   0   24  10.2
+Bryan Reimers   10-3     6   52   8.7   0   20   5.2
+Kurt Rafdal     12-0     4   67  16.8   0   26   5.6
+Greg Bell        4-3     4   14   3.5   0    6   3.5
+Tyjon Lindsey    4-0     3   22   7.3   0   14   5.5
+Austin Allen    12-0     2   54  27.0   0   41   4.5
+Wyatt Mazour    12-0     1   21  21.0   0   21   1.8
+Miles Jones      1-0     1   21  21.0   0   21  21.0
+Jaron Woodyard   8-0     1   10  10.0   0   10   1.2
+K. Legrone       3-0     1    8   8.0   0    8   2.7
+Adrian Martinez 11-11    1  -11 -11.0   0    0  -1.0
+Total.......... 12     257 2966  11.5  19   75 247.2
+Opponents...... 12     238 2853  12.0  15   69 237.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+JD Spielman        6  104  17.3  1   77
+Tyjon Lindsey      5    1   0.2  0    3
+Stanley Morgan     4   19   4.8  0   18
+Marquel Dismuke    1   26  26.0  0    0
+Total..........   16  150   9.4  1   77
+Opponents......   18  203  11.3  2   60
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Lamar Jackson      2    0   0.0  0    0
+D. Williams        2    0   0.0  0    0
+Antonio Reed       2    0   0.0  0    0
+Dedrick Young      1    0   0.0  0    0
+Peyton Newell      1    0   0.0  0    0
+Aaron Williams     1    0   0.0  0    0
+M. Stoltenberg     1    2   2.0  0    2
+Tre Neal           1   14  14.0  0   14
+Total..........   11   16   1.5  0   14
+Opponents......   11   71   6.5  0   22
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+M. Washington     13  204  15.7  0   27
+JD Spielman        8  169  21.1  0   31
+Jaron Woodyard     4   50  12.5  0   19
+Wyatt Mazour       3   48  16.0  0   21
+Jack Stoll         2   16   8.0  0   10
+Mikale Wilbon      1    3   3.0  0    3
+Total..........   31  490  15.8  0   31
+Opponents......   34  695  20.4  0   87
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+D. Williams        1    5   5.0  0    5
+Total..........    1    5   5.0  0    5
+Opponents......    3   19   6.3  1   10
+
+
+                           |------ PATs -----|
+SCORING          TD  FGs   Kick  Rush Rcv Pass  DXP Saf Pts
+-----------------------------------------------------------
+B. Pickering      0 14-18  40-41  0-0   0  0-0   0   0   82
+Devine Ozigbo    12  0-0    0-0   0-0   0  0-0   0   0   72
+JD Spielman       9  0-0    0-0   0-0   0  0-0   0   0   54
+Adrian Martinez   8  0-0    0-0   1-1   0  2-2   0   0   50
+Stanley Morgan    7  0-0    0-0   0-0   1  0-0   0   0   44
+M. Washington     4  0-0    0-0   0-0   0  0-0   0   0   24
+Jack Stoll        3  0-0    0-0   0-0   0  0-0   0   0   18
+Noah Vedral       1  0-0    0-0   0-0   0  0-0   0   0    6
+Wyatt Mazour      1  0-0    0-0   0-0   0  0-0   0   0    6
+Marquel Dismuke   0  0-0    0-0   0-0   0  0-0   0   1    2
+Kade Warner       0  0-0    0-0   0-0   1  0-0   0   0    2
+Andrew Bunch      0  0-0    0-0   0-0   0  0-1   0   0    0
+Total..........  45 14-18  40-41  1-1   2  2-3   0   1  360
+Opponents......  47 15-20  40-41  1-3   1  1-2   0   2  375
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Adrian Martinez 11   487  629 2617  3246 295.1
+Devine Ozigbo   12   155 1082    0  1082  90.2
+M. Washington   11    78  455    0   455  41.4
+Andrew Bunch     5    63   40  320   360  72.0
+Greg Bell        4    35  173    0   173  43.2
+Wyatt Mazour    12    11   76    0    76   6.3
+Noah Vedral      1    16   13   29    42  42.0
+JD Spielman     10     7   24    0    24   2.4
+Tyjon Lindsey    4     2    9    0     9   2.2
+Austin Rose      7     1    7    0     7   1.0
+Mikale Wilbon    6     4    7    0     7   1.2
+Luke Gifford    12     1    5    0     5   0.4
+Miles Jones      1     1    5    0     5   5.0
+Kade Warner      9     1    4    0     4   0.4
+Stanley Morgan  12     1    4    0     4   0.3
+TEAM            11     5  -25    0   -25  -2.3
+Total.......... 12   868 2508 2966  5474 456.2
+Opponents...... 12   895 2349 2853  5202 433.5
+
+
+FIELD GOALS  FGM-FGA  Pct 1-19  20s  30s  40s  50s  Lg Blk
+----------------------------------------------------------
+B.Pickering   14-18  77.8  1-1  5-5  6-7  2-4  0-1  47   0
+
+
+FG SEQUENCE       Nebraska          OPPONENTS
+---------------------------------------------
+Colorado          43                (40),(35),37,43
+Troy              33,(23),(32)      (37)
+Michigan          (35)              (50),(38)
+Purdue            54                (31),(25)
+Wisconsin         (31)              (30),(28)
+Northwestern      45,(34)           42,(31),(37)
+Minnesota         (32)              -
+Bethune-Cookman   (29)              (28)
+Ohio State        (18)              -
+Illinois          (27)              -
+Michigan State    (36),(20),(47)    (34),41,(26)
+IOWA              (27),(46)         37,(41)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING          No.  Yds   Avg Long  TB  FC I20 Blkd
+-----------------------------------------------------
+Isaac Armstrong   32 1396  43.6   73   3   8   9    1
+C. Lightbourn     24  998  41.6   52   1   3   3    0
+TEAM               1    0   0.0    0   0   0   0    0
+Total..........   57 2394  42.0   73   4  11  12    1
+Opponents......   58 2467  42.5   79   8  16  21    1
+
+
+KICKOFFS         No.   Yds   Avg  TB  OB  Retn  Net YdLn
+--------------------------------------------------------
+C. Lightbourn     52  3284  63.2  28   2
+B. Pickering      18  1076  59.8   6   0
+Isaac Armstrong    1    52  52.0   0   0
+TEAM               1     1   1.0   0   0
+Total..........   72  4413  61.3  34   2   695 39.8   25
+Opponents......   71  4072  57.4  28   3   490 40.6   24
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Devine Ozigbo   12 1082  203    0    0    0 1285 107.1
+JD Spielman     10   24  818  104  169    0 1115 111.5
+Stanley Morgan  12    4 1004   19    0    0 1027  85.6
+M. Washington   11  455  221    0  204    0  880  80.0
+Adrian Martinez 11  629  -11    0    0    0  618  56.2
+Jack Stoll      12    0  245    0   16    0  261  21.8
+Greg Bell        4  173   14    0    0    0  187  46.8
+Wyatt Mazour    12   76   21    0   48    0  145  12.1
+Mike Williams   12    0  122    0    0    0  122  10.2
+Kade Warner      9    4   95    0    0    0   99  11.0
+Kurt Rafdal     12    0   67    0    0    0   67   5.6
+Jaron Woodyard   8    0   10    0   50    0   60   7.5
+Austin Allen    12    0   54    0    0    0   54   4.5
+Bryan Reimers   10    0   52    0    0    0   52   5.2
+Andrew Bunch     5   40    0    0    0    0   40   8.0
+Tyjon Lindsey    4    9   22    1    0    0   32   8.0
+Miles Jones      1    5   21    0    0    0   26  26.0
+Marquel Dismuke  8    0    0   26    0    0   26   3.2
+Tre Neal        12    0    0    0    0   14   14   1.2
+Noah Vedral      1   13    0    0    0    0   13  13.0
+Mikale Wilbon    6    7    0    0    3    0   10   1.7
+K. Legrone       3    0    8    0    0    0    8   2.7
+Austin Rose      7    7    0    0    0    0    7   1.0
+Luke Gifford    12    5    0    0    0    0    5   0.4
+M. Stoltenberg   8    0    0    0    0    2    2   0.2
+TEAM            11  -25    0    0    0    0  -25  -2.3
+Total.......... 12 2508 2966  150  490   16 6130 510.8
+Opponents...... 12 2349 2853  203  695   71 6171 514.2
+
+                         |--------Tackles--------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blkd
+DEFENSIVE LEADERS  GP-GS Solo  Ast Total   TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kick Saf
+--------------------------------------------------------------------------------------------------
+7  Mohamed Barry   12-12   55   57   112    11-39   2.0-15      .       1   5    .      .    .   .
+5  Dedrick Young   12-12   41   42    83     3-3       .       1-0      5   3    .      .    .   .
+24 Aaron Williams  12-11   45   25    70     3-6       .       1-0      4   1   1-0     .    .   .
+12 Luke Gifford    12-12   35   27    62    13-63   5.5-52      .       2   7    .      1    .   .
+14 Tre Neal        12-12   35   22    57     2-2       .       1-14     5   2    .      2    .   .
+2E Antonio Reed     12-2   32   12    44     3-19   1.0-10     2-0      3   .    .      2    .   .
+94 Khalil Davis     12-0   24   17    41     8-32   3.0-19      .       .   4   1-0     1    .   .
+23 Dicaprio Bootle 12-12   26   13    39      .        .        .      15   .    .      1    .   .
+43 Tyrin Ferguson    8-4   19   17    36     6-21   1.0-4       .       1   .    .      .    .   .
+91 F. Akinmoladun  12-12   11   18    29     3-10   2.5-10      .       .   4    .      .    .   .
+21 Lamar Jackson   12-11   21    7    28     1-1       .       2-0      7   .    .      1    .   .
+96 Carlos Davis     12-9   13   14    27     3-13   1.0-8       .       5   1   1-0     .    .   .
+95 Ben Stille      12-11   10   15    25     5-28   5.0-28      .       2   6    .      .    .   .
+41 D. Williams      12-1   15    8    23     1-0       .       2-0      2   .   1-5     2    .   .
+13 JoJo Domann       8-2   10    9    19     1-7    1.0-7       .       2   .   1-0     2    .   .
+31 Collin Miller    12-0    9    8    17     1-7       .        .       .   .    .      .    .   .
+3  Will Honas        4-0    6    9    15     1-1       .        .       .   1    .      .    .   .
+57 J. Weinmaster    11-0    3   10    13      .        .        .       .   .    .      .    .   .
+6  Eric Lee Jr.      9-1    7    6    13      .        .        .       .   .    .      .    .   .
+1C Cam Taylor       11-0    9    3    12      .        .        .       3   .   1-0     .    .   .
+93 Damion Daniels   12-0    3    9    12     1-1       .        .       .   .   1-0     .    .   .
+4A Caleb Tannor     12-0    6    4    10     1-7    1.0-7       .       .   .    .      .    .   .
+1A Marquel Dismuke   8-0    8    2    10      .        .        .       .   .    .      .    1   1
+44 M. Stoltenberg    8-4    2    7     9     2-7    1.0-6      1-2      .   .    .      .    .   .
+42 J. Stovall        8-0    4    4     8      .        .        .       .   .   1-0     .    .   .
+2D Alex Davis       12-4    1    4     5      .        .        .       .   .    .      .    .   .
+99 Peyton Newell    12-0    1    4     5      .        .       1-0      .   .    .      .    .   .
+97 Deontre Thomas    4-0    4    .     4     1-1       .        .       .   .    .      .    .   .
+18 Guy Thomas        4-0    .    4     4      .        .        .       1   .    .      .    .   .
+16 Ethan Cox        11-0    2    1     3      .        .        .       .   .    .      .    .   .
+9  DaiShon Neal      7-0    1    2     3      .        .        .       .   .    .      .    .   .
+9A Chase Urbach     10-0    2    1     3      .        .        .       .   .   1-0     .    .   .
+10 JD Spielman     10-10    1    1     2      .        .        .       .   .    .      .    .   .
+30 Eli Sullivan      7-0    1    .     1      .        .        .       .   .    .      .    .   .
+75 Fyn Anderson      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+55 Chris Walker      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+47 Matt Jarzynka     1-0    1    .     1     1-6    1.0-6       .       .   .    .      .    .   .
+56 Boe Wilson       12-9    .    1     1      .        .        .       .   .    .      .    .   .
+3E Simon Otte        1-0    .    1     1      .        .        .       .   .    .      .    .   .
+34 Breon Dixon       4-0    1    .     1      .        .        .       .   .    .      .    .   .
+1B Braxton Clark     4-0    1    .     1      .        .        .       .   .    .      .    .   .
+65 C. Gaylord       10-0    1    .     1      .        .        .       .   .    .      .    .   .
+88 Jaron Woodyard    8-0    .    1     1      .        .        .       .   .    .      .    .   .
+81 Kade Warner       9-7    1    .     1      .        .        .       .   .    .      .    .   .
+37 Wyatt Mazour     12-0    .    1     1      .        .        .       .   .    .      .    .   .
+86 Jack Stoll      12-12    1    .     1      .        .        .       .   .    .      .    .   .
+2  Adrian Martinez 11-11    1    .     1      .        .        .       .   .    .      .    .   .
+35 C. Lightbourn     9-0    1    .     1      .        .        .       .   .    .      .    .   .
+22 Devine Ozigbo    12-9    1    .     1      .        .        .       .   .    .      .    .   .
+   Total..........  12-0  471  388   859    71-274   25-172   11-16    58  34   9-5    12    1   1
+   Opponents......  12-0  476  378   854    88-309   28-196   11-71    28  24  11-19   19    1   2
+
+          2018 Nebraska Football
+         Overall Team Statistics
+                All games
+
+TEAM STATISTICS          NEB          OPP
+-----------------------------------------
+SCORING...........       360          375
+  Points Per Game       30.0         31.2
+  Pts Off Turnovers       71           54
+FIRST DOWNS.......       278          272
+  Rushing.........       130          114
+  Passing.........       130          129
+  Penalty.........        18           29
+RUSHING YARDAGE...      2508         2349
+  Yards gained....      2861         2621
+  Yards lost......       353          272
+  Rushing Attempts       464          470
+  Avg. Per Rush...       5.4          5.0
+  Avg. Per Game...     209.0        195.8
+  TDs Rushing.....        25           29
+PASSING YARDAGE...      2966         2853
+  Comp-Att-Int... 257-404-11   238-425-11
+  Avg. Per Pass...       7.3          6.7
+  Avg. Per Catch..      11.5         12.0
+  Avg. Per Game...     247.2        237.8
+  TDs Passing.....        19           15
+TOTAL OFFENSE.....      5474         5202
+  Total Plays.....       868          895
+  Avg. Per Play...       6.3          5.8
+  Avg. Per Game...     456.2        433.5
+KICK RETURNS-Yds..    31-490       34-695
+PUNT RETURNS-Yds..    16-150       18-203
+INT RETURNS-Yds...     11-16        11-71
+KICK RETURN AVG...      15.8         20.4
+PUNT RETURN AVG...       9.4         11.3
+INT RETURN AVG....       1.5          6.5
+FUMBLES-LOST......     28-11         22-9
+PENALTIES-Yards...    92-850       78-681
+  Avg. Per Game...      70.8         56.8
+PUNTS-Yards.......   57-2394      58-2467
+  Avg. Per Punt...      42.0         42.5
+  Net punt avg....      37.0         37.2
+KICKOFFS-Yards....   72-4413      71-4072
+  Avg. Per Kick...      61.3         57.4
+  Net kick avg....      39.8         40.6
+POSS. TIME/Game...     27:44        32:16
+3RD-DOWN Conv. ...    58/156       76/176
+  3rd-Down Pct....       37%          43%
+4TH-DOWN Conv. ...      9/20        11/19
+  4th-Down Pct....       45%          58%
+SACKS BY-Yards....    25-172       28-196
+MISC YARDS........         0            0
+TOUCHDOWNS SCORED         45           47
+FIELD GOALS-ATTS..     14-18        15-20
+ON-SIDE KICKS.....       0-0          0-1
+RED-ZONE SCORES  (39-44) 89%  (45-55) 82%
+RED-ZONE TDs.... (27-44) 61%  (33-55) 60%
+PAT-ATTEMPTS.... (40-41) 98%  (40-41) 98%
+ATTENDANCE........    623240       407962
+  Games/Avg.......   7/89034      5/81592
+
+
+SCORE BY
+QUARTERS   1st  2nd  3rd  4th  OT     Tot
+--------   ---  ---  ---  ---  --     ---
+NEB......   98   91   66  105   0  -  360
+OPP......   93  106   84   89   3  -  375
+
+
+RUSHING      G-GS   Att Gain Loss  Net   Avg  TD Long Avg/G
+-----------------------------------------------------------
+D.Ozigbo     12-9   155 1100   18 1082   7.0  12   66  90.2
+A.Martinez   11-11  140  847  218  629   4.5   8   53  57.2
+M.Washington 11-2    77  480   25  455   5.9   3   49  41.4
+G.Bell        4-3    35  183   10  173   4.9   0   45  43.2
+W.Mazour     12-0    11   81    5   76   6.9   1   18   6.3
+A.Bunch       5-1    16   69   29   40   2.5   0   23   8.0
+JDSpielman   10-10    7   24    0   24   3.4   0    6   2.4
+N.Vedral      1-0     7   35   22   13   1.9   1   20  13.0
+T.Lindsey     4-0     2    9    0    9   4.5   0    9   2.2
+A.Rose        7-0     1    7    0    7   7.0   0    7   1.0
+M.Wilbon      6-0     4    8    1    7   1.8   0    4   1.2
+L.Gifford    12-12    1    5    0    5   5.0   0    5   0.4
+M.Jones       1-0     1    5    0    5   5.0   0    5   5.0
+S.Morgan     12-12    1    4    0    4   4.0   0    4   0.3
+K.Warner      9-7     1    4    0    4   4.0   0    4   0.4
+TEAM          11-0    5    0   25  -25  -5.0   0    0  -2.3
+Total......... 12   464 2861  353 2508   5.4  25   66 209.0
+Opponents..... 12   470 2621  272 2349   5.0  29   88 195.8
+
+
+PASSING     G-GS  Effic Cmp-Att-Int  Pct  Yds  TD Lng Avg/G
+------------------------------------------------------------
+A.Martinez  11-11 139.46  224-347-8  64.6 2617  17  75 237.9
+A.Bunch       5-1 128.68   31-47-2   66.0  320   2  33  64.0
+N.Vedral      1-0  27.07    2-9-1    22.2   29   0  21  29.0
+M.Washington 11-2   0.00    0-1-0     0.0    0   0   0   0.0
+Total........ 12  135.36  257-404-11 63.6 2966  19  75 247.2
+Opponents.... 12  118.86  238-425-11 56.0 2853  15  69 237.8
+
+
+RECEIVING       GP-GS  No.  Yds   Avg  TD Long Avg/G
+----------------------------------------------------
+Stanley Morgan  12-12   70 1004  14.3   7   67  83.7
+JD Spielman     10-10   66  818  12.4   8   75  81.8
+M. Washington   11-2    24  221   9.2   1   35  20.1
+Devine Ozigbo   12-9    23  203   8.8   0   19  16.9
+Jack Stoll      12-12   21  245  11.7   3   37  20.4
+Kade Warner      9-7    17   95   5.6   0   14  10.6
+Mike Williams   12-2    12  122  10.2   0   24  10.2
+Bryan Reimers   10-3     6   52   8.7   0   20   5.2
+Kurt Rafdal     12-0     4   67  16.8   0   26   5.6
+Greg Bell        4-3     4   14   3.5   0    6   3.5
+Tyjon Lindsey    4-0     3   22   7.3   0   14   5.5
+Austin Allen    12-0     2   54  27.0   0   41   4.5
+Wyatt Mazour    12-0     1   21  21.0   0   21   1.8
+Miles Jones      1-0     1   21  21.0   0   21  21.0
+Jaron Woodyard   8-0     1   10  10.0   0   10   1.2
+K. Legrone       3-0     1    8   8.0   0    8   2.7
+Adrian Martinez 11-11    1  -11 -11.0   0    0  -1.0
+Total.......... 12     257 2966  11.5  19   75 247.2
+Opponents...... 12     238 2853  12.0  15   69 237.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+JD Spielman        6  104  17.3  1   77
+Tyjon Lindsey      5    1   0.2  0    3
+Stanley Morgan     4   19   4.8  0   18
+Marquel Dismuke    1   26  26.0  0    0
+Total..........   16  150   9.4  1   77
+Opponents......   18  203  11.3  2   60
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Lamar Jackson      2    0   0.0  0    0
+D. Williams        2    0   0.0  0    0
+Antonio Reed       2    0   0.0  0    0
+Dedrick Young      1    0   0.0  0    0
+Peyton Newell      1    0   0.0  0    0
+Aaron Williams     1    0   0.0  0    0
+M. Stoltenberg     1    2   2.0  0    2
+Tre Neal           1   14  14.0  0   14
+Total..........   11   16   1.5  0   14
+Opponents......   11   71   6.5  0   22
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+M. Washington     13  204  15.7  0   27
+JD Spielman        8  169  21.1  0   31
+Jaron Woodyard     4   50  12.5  0   19
+Wyatt Mazour       3   48  16.0  0   21
+Jack Stoll         2   16   8.0  0   10
+Mikale Wilbon      1    3   3.0  0    3
+Total..........   31  490  15.8  0   31
+Opponents......   34  695  20.4  0   87
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+D. Williams        1    5   5.0  0    5
+Total..........    1    5   5.0  0    5
+Opponents......    3   19   6.3  1   10
+
+
+                           |------ PATs -----|
+SCORING          TD  FGs   Kick  Rush Rcv Pass  DXP Saf Pts
+-----------------------------------------------------------
+B. Pickering      0 14-18  40-41  0-0   0  0-0   0   0   82
+Devine Ozigbo    12  0-0    0-0   0-0   0  0-0   0   0   72
+JD Spielman       9  0-0    0-0   0-0   0  0-0   0   0   54
+Adrian Martinez   8  0-0    0-0   1-1   0  2-2   0   0   50
+Stanley Morgan    7  0-0    0-0   0-0   1  0-0   0   0   44
+M. Washington     4  0-0    0-0   0-0   0  0-0   0   0   24
+Jack Stoll        3  0-0    0-0   0-0   0  0-0   0   0   18
+Noah Vedral       1  0-0    0-0   0-0   0  0-0   0   0    6
+Wyatt Mazour      1  0-0    0-0   0-0   0  0-0   0   0    6
+Marquel Dismuke   0  0-0    0-0   0-0   0  0-0   0   1    2
+Kade Warner       0  0-0    0-0   0-0   1  0-0   0   0    2
+Andrew Bunch      0  0-0    0-0   0-0   0  0-1   0   0    0
+Total..........  45 14-18  40-41  1-1   2  2-3   0   1  360
+Opponents......  47 15-20  40-41  1-3   1  1-2   0   2  375
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Adrian Martinez 11   487  629 2617  3246 295.1
+Devine Ozigbo   12   155 1082    0  1082  90.2
+M. Washington   11    78  455    0   455  41.4
+Andrew Bunch     5    63   40  320   360  72.0
+Greg Bell        4    35  173    0   173  43.2
+Wyatt Mazour    12    11   76    0    76   6.3
+Noah Vedral      1    16   13   29    42  42.0
+JD Spielman     10     7   24    0    24   2.4
+Tyjon Lindsey    4     2    9    0     9   2.2
+Austin Rose      7     1    7    0     7   1.0
+Mikale Wilbon    6     4    7    0     7   1.2
+Luke Gifford    12     1    5    0     5   0.4
+Miles Jones      1     1    5    0     5   5.0
+Kade Warner      9     1    4    0     4   0.4
+Stanley Morgan  12     1    4    0     4   0.3
+TEAM            11     5  -25    0   -25  -2.3
+Total.......... 12   868 2508 2966  5474 456.2
+Opponents...... 12   895 2349 2853  5202 433.5
+
+
+FIELD GOALS  FGM-FGA  Pct 1-19  20s  30s  40s  50s  Lg Blk
+----------------------------------------------------------
+B.Pickering   14-18  77.8  1-1  5-5  6-7  2-4  0-1  47   0
+
+
+FG SEQUENCE       Nebraska          OPPONENTS
+---------------------------------------------
+Colorado          43                (40),(35),37,43
+Troy              33,(23),(32)      (37)
+Michigan          (35)              (50),(38)
+Purdue            54                (31),(25)
+Wisconsin         (31)              (30),(28)
+Northwestern      45,(34)           42,(31),(37)
+Minnesota         (32)              -
+Bethune-Cookman   (29)              (28)
+Ohio State        (18)              -
+Illinois          (27)              -
+Michigan State    (36),(20),(47)    (34),41,(26)
+IOWA              (27),(46)         37,(41)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING          No.  Yds   Avg Long  TB  FC I20 Blkd
+-----------------------------------------------------
+Isaac Armstrong   32 1396  43.6   73   3   8   9    1
+C. Lightbourn     24  998  41.6   52   1   3   3    0
+TEAM               1    0   0.0    0   0   0   0    0
+Total..........   57 2394  42.0   73   4  11  12    1
+Opponents......   58 2467  42.5   79   8  16  21    1
+
+
+KICKOFFS         No.   Yds   Avg  TB  OB  Retn  Net YdLn
+--------------------------------------------------------
+C. Lightbourn     52  3284  63.2  28   2
+B. Pickering      18  1076  59.8   6   0
+Isaac Armstrong    1    52  52.0   0   0
+TEAM               1     1   1.0   0   0
+Total..........   72  4413  61.3  34   2   695 39.8   25
+Opponents......   71  4072  57.4  28   3   490 40.6   24
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Devine Ozigbo   12 1082  203    0    0    0 1285 107.1
+JD Spielman     10   24  818  104  169    0 1115 111.5
+Stanley Morgan  12    4 1004   19    0    0 1027  85.6
+M. Washington   11  455  221    0  204    0  880  80.0
+Adrian Martinez 11  629  -11    0    0    0  618  56.2
+Jack Stoll      12    0  245    0   16    0  261  21.8
+Greg Bell        4  173   14    0    0    0  187  46.8
+Wyatt Mazour    12   76   21    0   48    0  145  12.1
+Mike Williams   12    0  122    0    0    0  122  10.2
+Kade Warner      9    4   95    0    0    0   99  11.0
+Kurt Rafdal     12    0   67    0    0    0   67   5.6
+Jaron Woodyard   8    0   10    0   50    0   60   7.5
+Austin Allen    12    0   54    0    0    0   54   4.5
+Bryan Reimers   10    0   52    0    0    0   52   5.2
+Andrew Bunch     5   40    0    0    0    0   40   8.0
+Tyjon Lindsey    4    9   22    1    0    0   32   8.0
+Miles Jones      1    5   21    0    0    0   26  26.0
+Marquel Dismuke  8    0    0   26    0    0   26   3.2
+Tre Neal        12    0    0    0    0   14   14   1.2
+Noah Vedral      1   13    0    0    0    0   13  13.0
+Mikale Wilbon    6    7    0    0    3    0   10   1.7
+K. Legrone       3    0    8    0    0    0    8   2.7
+Austin Rose      7    7    0    0    0    0    7   1.0
+Luke Gifford    12    5    0    0    0    0    5   0.4
+M. Stoltenberg   8    0    0    0    0    2    2   0.2
+TEAM            11  -25    0    0    0    0  -25  -2.3
+Total.......... 12 2508 2966  150  490   16 6130 510.8
+Opponents...... 12 2349 2853  203  695   71 6171 514.2
+
+
+Page 1 / 1Zoom 100%
+
+
+
+Overall Defensive Statistics
+
+                         |--------Tackles--------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blkd
+DEFENSIVE LEADERS  GP-GS Solo  Ast Total   TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kick Saf
+--------------------------------------------------------------------------------------------------
+7  Mohamed Barry   12-12   55   57   112    11-39   2.0-15      .       1   5    .      .    .   .
+5  Dedrick Young   12-12   41   42    83     3-3       .       1-0      5   3    .      .    .   .
+24 Aaron Williams  12-11   45   25    70     3-6       .       1-0      4   1   1-0     .    .   .
+12 Luke Gifford    12-12   35   27    62    13-63   5.5-52      .       2   7    .      1    .   .
+14 Tre Neal        12-12   35   22    57     2-2       .       1-14     5   2    .      2    .   .
+2E Antonio Reed     12-2   32   12    44     3-19   1.0-10     2-0      3   .    .      2    .   .
+94 Khalil Davis     12-0   24   17    41     8-32   3.0-19      .       .   4   1-0     1    .   .
+23 Dicaprio Bootle 12-12   26   13    39      .        .        .      15   .    .      1    .   .
+43 Tyrin Ferguson    8-4   19   17    36     6-21   1.0-4       .       1   .    .      .    .   .
+91 F. Akinmoladun  12-12   11   18    29     3-10   2.5-10      .       .   4    .      .    .   .
+21 Lamar Jackson   12-11   21    7    28     1-1       .       2-0      7   .    .      1    .   .
+96 Carlos Davis     12-9   13   14    27     3-13   1.0-8       .       5   1   1-0     .    .   .
+95 Ben Stille      12-11   10   15    25     5-28   5.0-28      .       2   6    .      .    .   .
+41 D. Williams      12-1   15    8    23     1-0       .       2-0      2   .   1-5     2    .   .
+13 JoJo Domann       8-2   10    9    19     1-7    1.0-7       .       2   .   1-0     2    .   .
+31 Collin Miller    12-0    9    8    17     1-7       .        .       .   .    .      .    .   .
+3  Will Honas        4-0    6    9    15     1-1       .        .       .   1    .      .    .   .
+57 J. Weinmaster    11-0    3   10    13      .        .        .       .   .    .      .    .   .
+6  Eric Lee Jr.      9-1    7    6    13      .        .        .       .   .    .      .    .   .
+1C Cam Taylor       11-0    9    3    12      .        .        .       3   .   1-0     .    .   .
+93 Damion Daniels   12-0    3    9    12     1-1       .        .       .   .   1-0     .    .   .
+4A Caleb Tannor     12-0    6    4    10     1-7    1.0-7       .       .   .    .      .    .   .
+1A Marquel Dismuke   8-0    8    2    10      .        .        .       .   .    .      .    1   1
+44 M. Stoltenberg    8-4    2    7     9     2-7    1.0-6      1-2      .   .    .      .    .   .
+42 J. Stovall        8-0    4    4     8      .        .        .       .   .   1-0     .    .   .
+2D Alex Davis       12-4    1    4     5      .        .        .       .   .    .      .    .   .
+99 Peyton Newell    12-0    1    4     5      .        .       1-0      .   .    .      .    .   .
+97 Deontre Thomas    4-0    4    .     4     1-1       .        .       .   .    .      .    .   .
+18 Guy Thomas        4-0    .    4     4      .        .        .       1   .    .      .    .   .
+16 Ethan Cox        11-0    2    1     3      .        .        .       .   .    .      .    .   .
+9  DaiShon Neal      7-0    1    2     3      .        .        .       .   .    .      .    .   .
+9A Chase Urbach     10-0    2    1     3      .        .        .       .   .   1-0     .    .   .
+10 JD Spielman     10-10    1    1     2      .        .        .       .   .    .      .    .   .
+30 Eli Sullivan      7-0    1    .     1      .        .        .       .   .    .      .    .   .
+75 Fyn Anderson      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+55 Chris Walker      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+47 Matt Jarzynka     1-0    1    .     1     1-6    1.0-6       .       .   .    .      .    .   .
+56 Boe Wilson       12-9    .    1     1      .        .        .       .   .    .      .    .   .
+3E Simon Otte        1-0    .    1     1      .        .        .       .   .    .      .    .   .
+34 Breon Dixon       4-0    1    .     1      .        .        .       .   .    .      .    .   .
+1B Braxton Clark     4-0    1    .     1      .        .        .       .   .    .      .    .   .
+65 C. Gaylord       10-0    1    .     1      .        .        .       .   .    .      .    .   .
+88 Jaron Woodyard    8-0    .    1     1      .        .        .       .   .    .      .    .   .
+81 Kade Warner       9-7    1    .     1      .        .        .       .   .    .      .    .   .
+37 Wyatt Mazour     12-0    .    1     1      .        .        .       .   .    .      .    .   .
+86 Jack Stoll      12-12    1    .     1      .        .        .       .   .    .      .    .   .
+2  Adrian Martinez 11-11    1    .     1      .        .        .       .   .    .      .    .   .
+35 C. Lightbourn     9-0    1    .     1      .        .        .       .   .    .      .    .   .
+22 Devine Ozigbo    12-9    1    .     1      .        .        .       .   .    .      .    .   .
+   Total..........  12-0  471  388   859    71-274   25-172   11-16    58  34   9-5    12    1   1
+   Opponents......  12-0  476  378   854    88-309   28-196   11-71    28  24  11-19   19    1   2
+
+
+
+      
+RUSHING      G-GS   Att Gain Loss  Net   Avg  TD Long Avg/G
+-----------------------------------------------------------
+D.Ozigbo     12-9   155 1100   18 1082   7.0  12   66  90.2
+A.Martinez   11-11  140  847  218  629   4.5   8   53  57.2
+M.Washington 11-2    77  480   25  455   5.9   3   49  41.4
+G.Bell        4-3    35  183   10  173   4.9   0   45  43.2
+W.Mazour     12-0    11   81    5   76   6.9   1   18   6.3
+A.Bunch       5-1    16   69   29   40   2.5   0   23   8.0
+JDSpielman   10-10    7   24    0   24   3.4   0    6   2.4
+N.Vedral      1-0     7   35   22   13   1.9   1   20  13.0
+T.Lindsey     4-0     2    9    0    9   4.5   0    9   2.2
+A.Rose        7-0     1    7    0    7   7.0   0    7   1.0
+M.Wilbon      6-0     4    8    1    7   1.8   0    4   1.2
+L.Gifford    12-12    1    5    0    5   5.0   0    5   0.4
+M.Jones       1-0     1    5    0    5   5.0   0    5   5.0
+S.Morgan     12-12    1    4    0    4   4.0   0    4   0.3
+K.Warner      9-7     1    4    0    4   4.0   0    4   0.4
+TEAM          11-0    5    0   25  -25  -5.0   0    0  -2.3
+Total......... 12   464 2861  353 2508   5.4  25   66 209.0
+Opponents..... 12   470 2621  272 2349   5.0  29   88 195.8
+
+
+PASSING     G-GS  Effic Cmp-Att-Int  Pct  Yds  TD Lng Avg/G
+------------------------------------------------------------
+A.Martinez  11-11 139.46  224-347-8  64.6 2617  17  75 237.9
+A.Bunch       5-1 128.68   31-47-2   66.0  320   2  33  64.0
+N.Vedral      1-0  27.07    2-9-1    22.2   29   0  21  29.0
+M.Washington 11-2   0.00    0-1-0     0.0    0   0   0   0.0
+Total........ 12  135.36  257-404-11 63.6 2966  19  75 247.2
+Opponents.... 12  118.86  238-425-11 56.0 2853  15  69 237.8
+
+
+RECEIVING       GP-GS  No.  Yds   Avg  TD Long Avg/G
+----------------------------------------------------
+Stanley Morgan  12-12   70 1004  14.3   7   67  83.7
+JD Spielman     10-10   66  818  12.4   8   75  81.8
+M. Washington   11-2    24  221   9.2   1   35  20.1
+Devine Ozigbo   12-9    23  203   8.8   0   19  16.9
+Jack Stoll      12-12   21  245  11.7   3   37  20.4
+Kade Warner      9-7    17   95   5.6   0   14  10.6
+Mike Williams   12-2    12  122  10.2   0   24  10.2
+Bryan Reimers   10-3     6   52   8.7   0   20   5.2
+Kurt Rafdal     12-0     4   67  16.8   0   26   5.6
+Greg Bell        4-3     4   14   3.5   0    6   3.5
+Tyjon Lindsey    4-0     3   22   7.3   0   14   5.5
+Austin Allen    12-0     2   54  27.0   0   41   4.5
+Wyatt Mazour    12-0     1   21  21.0   0   21   1.8
+Miles Jones      1-0     1   21  21.0   0   21  21.0
+Jaron Woodyard   8-0     1   10  10.0   0   10   1.2
+K. Legrone       3-0     1    8   8.0   0    8   2.7
+Adrian Martinez 11-11    1  -11 -11.0   0    0  -1.0
+Total.......... 12     257 2966  11.5  19   75 247.2
+Opponents...... 12     238 2853  12.0  15   69 237.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+JD Spielman        6  104  17.3  1   77
+Tyjon Lindsey      5    1   0.2  0    3
+Stanley Morgan     4   19   4.8  0   18
+Marquel Dismuke    1   26  26.0  0    0
+Total..........   16  150   9.4  1   77
+Opponents......   18  203  11.3  2   60
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Lamar Jackson      2    0   0.0  0    0
+D. Williams        2    0   0.0  0    0
+Antonio Reed       2    0   0.0  0    0
+Dedrick Young      1    0   0.0  0    0
+Peyton Newell      1    0   0.0  0    0
+Aaron Williams     1    0   0.0  0    0
+M. Stoltenberg     1    2   2.0  0    2
+Tre Neal           1   14  14.0  0   14
+Total..........   11   16   1.5  0   14
+Opponents......   11   71   6.5  0   22
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+M. Washington     13  204  15.7  0   27
+JD Spielman        8  169  21.1  0   31
+Jaron Woodyard     4   50  12.5  0   19
+Wyatt Mazour       3   48  16.0  0   21
+Jack Stoll         2   16   8.0  0   10
+Mikale Wilbon      1    3   3.0  0    3
+Total..........   31  490  15.8  0   31
+Opponents......   34  695  20.4  0   87
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+D. Williams        1    5   5.0  0    5
+Total..........    1    5   5.0  0    5
+Opponents......    3   19   6.3  1   10
+
+
+                           |------ PATs -----|
+SCORING          TD  FGs   Kick  Rush Rcv Pass  DXP Saf Pts
+-----------------------------------------------------------
+B. Pickering      0 14-18  40-41  0-0   0  0-0   0   0   82
+Devine Ozigbo    12  0-0    0-0   0-0   0  0-0   0   0   72
+JD Spielman       9  0-0    0-0   0-0   0  0-0   0   0   54
+Adrian Martinez   8  0-0    0-0   1-1   0  2-2   0   0   50
+Stanley Morgan    7  0-0    0-0   0-0   1  0-0   0   0   44
+M. Washington     4  0-0    0-0   0-0   0  0-0   0   0   24
+Jack Stoll        3  0-0    0-0   0-0   0  0-0   0   0   18
+Noah Vedral       1  0-0    0-0   0-0   0  0-0   0   0    6
+Wyatt Mazour      1  0-0    0-0   0-0   0  0-0   0   0    6
+Marquel Dismuke   0  0-0    0-0   0-0   0  0-0   0   1    2
+Kade Warner       0  0-0    0-0   0-0   1  0-0   0   0    2
+Andrew Bunch      0  0-0    0-0   0-0   0  0-1   0   0    0
+Total..........  45 14-18  40-41  1-1   2  2-3   0   1  360
+Opponents......  47 15-20  40-41  1-3   1  1-2   0   2  375
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Adrian Martinez 11   487  629 2617  3246 295.1
+Devine Ozigbo   12   155 1082    0  1082  90.2
+M. Washington   11    78  455    0   455  41.4
+Andrew Bunch     5    63   40  320   360  72.0
+Greg Bell        4    35  173    0   173  43.2
+Wyatt Mazour    12    11   76    0    76   6.3
+Noah Vedral      1    16   13   29    42  42.0
+JD Spielman     10     7   24    0    24   2.4
+Tyjon Lindsey    4     2    9    0     9   2.2
+Austin Rose      7     1    7    0     7   1.0
+Mikale Wilbon    6     4    7    0     7   1.2
+Luke Gifford    12     1    5    0     5   0.4
+Miles Jones      1     1    5    0     5   5.0
+Kade Warner      9     1    4    0     4   0.4
+Stanley Morgan  12     1    4    0     4   0.3
+TEAM            11     5  -25    0   -25  -2.3
+Total.......... 12   868 2508 2966  5474 456.2
+Opponents...... 12   895 2349 2853  5202 433.5
+
+
+FIELD GOALS  FGM-FGA  Pct 1-19  20s  30s  40s  50s  Lg Blk
+----------------------------------------------------------
+B.Pickering   14-18  77.8  1-1  5-5  6-7  2-4  0-1  47   0
+
+
+FG SEQUENCE       Nebraska          OPPONENTS
+---------------------------------------------
+Colorado          43                (40),(35),37,43
+Troy              33,(23),(32)      (37)
+Michigan          (35)              (50),(38)
+Purdue            54                (31),(25)
+Wisconsin         (31)              (30),(28)
+Northwestern      45,(34)           42,(31),(37)
+Minnesota         (32)              -
+Bethune-Cookman   (29)              (28)
+Ohio State        (18)              -
+Illinois          (27)              -
+Michigan State    (36),(20),(47)    (34),41,(26)
+IOWA              (27),(46)         37,(41)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING          No.  Yds   Avg Long  TB  FC I20 Blkd
+-----------------------------------------------------
+Isaac Armstrong   32 1396  43.6   73   3   8   9    1
+C. Lightbourn     24  998  41.6   52   1   3   3    0
+TEAM               1    0   0.0    0   0   0   0    0
+Total..........   57 2394  42.0   73   4  11  12    1
+Opponents......   58 2467  42.5   79   8  16  21    1
+
+
+KICKOFFS         No.   Yds   Avg  TB  OB  Retn  Net YdLn
+--------------------------------------------------------
+C. Lightbourn     52  3284  63.2  28   2
+B. Pickering      18  1076  59.8   6   0
+Isaac Armstrong    1    52  52.0   0   0
+TEAM               1     1   1.0   0   0
+Total..........   72  4413  61.3  34   2   695 39.8   25
+Opponents......   71  4072  57.4  28   3   490 40.6   24
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Devine Ozigbo   12 1082  203    0    0    0 1285 107.1
+JD Spielman     10   24  818  104  169    0 1115 111.5
+Stanley Morgan  12    4 1004   19    0    0 1027  85.6
+M. Washington   11  455  221    0  204    0  880  80.0
+Adrian Martinez 11  629  -11    0    0    0  618  56.2
+Jack Stoll      12    0  245    0   16    0  261  21.8
+Greg Bell        4  173   14    0    0    0  187  46.8
+Wyatt Mazour    12   76   21    0   48    0  145  12.1
+Mike Williams   12    0  122    0    0    0  122  10.2
+Kade Warner      9    4   95    0    0    0   99  11.0
+Kurt Rafdal     12    0   67    0    0    0   67   5.6
+Jaron Woodyard   8    0   10    0   50    0   60   7.5
+Austin Allen    12    0   54    0    0    0   54   4.5
+Bryan Reimers   10    0   52    0    0    0   52   5.2
+Andrew Bunch     5   40    0    0    0    0   40   8.0
+Tyjon Lindsey    4    9   22    1    0    0   32   8.0
+Miles Jones      1    5   21    0    0    0   26  26.0
+Marquel Dismuke  8    0    0   26    0    0   26   3.2
+Tre Neal        12    0    0    0    0   14   14   1.2
+Noah Vedral      1   13    0    0    0    0   13  13.0
+Mikale Wilbon    6    7    0    0    3    0   10   1.7
+K. Legrone       3    0    8    0    0    0    8   2.7
+Austin Rose      7    7    0    0    0    0    7   1.0
+Luke Gifford    12    5    0    0    0    0    5   0.4
+M. Stoltenberg   8    0    0    0    0    2    2   0.2
+TEAM            11  -25    0    0    0    0  -25  -2.3
+Total.......... 12 2508 2966  150  490   16 6130 510.8
+Opponents...... 12 2349 2853  203  695   71 6171 514.2
+
+                         |--------Tackles--------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blkd
+DEFENSIVE LEADERS  GP-GS Solo  Ast Total   TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kick Saf
+--------------------------------------------------------------------------------------------------
+7  Mohamed Barry   12-12   55   57   112    11-39   2.0-15      .       1   5    .      .    .   .
+5  Dedrick Young   12-12   41   42    83     3-3       .       1-0      5   3    .      .    .   .
+24 Aaron Williams  12-11   45   25    70     3-6       .       1-0      4   1   1-0     .    .   .
+12 Luke Gifford    12-12   35   27    62    13-63   5.5-52      .       2   7    .      1    .   .
+14 Tre Neal        12-12   35   22    57     2-2       .       1-14     5   2    .      2    .   .
+2E Antonio Reed     12-2   32   12    44     3-19   1.0-10     2-0      3   .    .      2    .   .
+94 Khalil Davis     12-0   24   17    41     8-32   3.0-19      .       .   4   1-0     1    .   .
+23 Dicaprio Bootle 12-12   26   13    39      .        .        .      15   .    .      1    .   .
+43 Tyrin Ferguson    8-4   19   17    36     6-21   1.0-4       .       1   .    .      .    .   .
+91 F. Akinmoladun  12-12   11   18    29     3-10   2.5-10      .       .   4    .      .    .   .
+21 Lamar Jackson   12-11   21    7    28     1-1       .       2-0      7   .    .      1    .   .
+96 Carlos Davis     12-9   13   14    27     3-13   1.0-8       .       5   1   1-0     .    .   .
+95 Ben Stille      12-11   10   15    25     5-28   5.0-28      .       2   6    .      .    .   .
+41 D. Williams      12-1   15    8    23     1-0       .       2-0      2   .   1-5     2    .   .
+13 JoJo Domann       8-2   10    9    19     1-7    1.0-7       .       2   .   1-0     2    .   .
+31 Collin Miller    12-0    9    8    17     1-7       .        .       .   .    .      .    .   .
+3  Will Honas        4-0    6    9    15     1-1       .        .       .   1    .      .    .   .
+57 J. Weinmaster    11-0    3   10    13      .        .        .       .   .    .      .    .   .
+6  Eric Lee Jr.      9-1    7    6    13      .        .        .       .   .    .      .    .   .
+1C Cam Taylor       11-0    9    3    12      .        .        .       3   .   1-0     .    .   .
+93 Damion Daniels   12-0    3    9    12     1-1       .        .       .   .   1-0     .    .   .
+4A Caleb Tannor     12-0    6    4    10     1-7    1.0-7       .       .   .    .      .    .   .
+1A Marquel Dismuke   8-0    8    2    10      .        .        .       .   .    .      .    1   1
+44 M. Stoltenberg    8-4    2    7     9     2-7    1.0-6      1-2      .   .    .      .    .   .
+42 J. Stovall        8-0    4    4     8      .        .        .       .   .   1-0     .    .   .
+2D Alex Davis       12-4    1    4     5      .        .        .       .   .    .      .    .   .
+99 Peyton Newell    12-0    1    4     5      .        .       1-0      .   .    .      .    .   .
+97 Deontre Thomas    4-0    4    .     4     1-1       .        .       .   .    .      .    .   .
+18 Guy Thomas        4-0    .    4     4      .        .        .       1   .    .      .    .   .
+16 Ethan Cox        11-0    2    1     3      .        .        .       .   .    .      .    .   .
+9  DaiShon Neal      7-0    1    2     3      .        .        .       .   .    .      .    .   .
+9A Chase Urbach     10-0    2    1     3      .        .        .       .   .   1-0     .    .   .
+10 JD Spielman     10-10    1    1     2      .        .        .       .   .    .      .    .   .
+30 Eli Sullivan      7-0    1    .     1      .        .        .       .   .    .      .    .   .
+75 Fyn Anderson      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+55 Chris Walker      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+47 Matt Jarzynka     1-0    1    .     1     1-6    1.0-6       .       .   .    .      .    .   .
+56 Boe Wilson       12-9    .    1     1      .        .        .       .   .    .      .    .   .
+3E Simon Otte        1-0    .    1     1      .        .        .       .   .    .      .    .   .
+34 Breon Dixon       4-0    1    .     1      .        .        .       .   .    .      .    .   .
+1B Braxton Clark     4-0    1    .     1      .        .        .       .   .    .      .    .   .
+65 C. Gaylord       10-0    1    .     1      .        .        .       .   .    .      .    .   .
+88 Jaron Woodyard    8-0    .    1     1      .        .        .       .   .    .      .    .   .
+81 Kade Warner       9-7    1    .     1      .        .        .       .   .    .      .    .   .
+37 Wyatt Mazour     12-0    .    1     1      .        .        .       .   .    .      .    .   .
+86 Jack Stoll      12-12    1    .     1      .        .        .       .   .    .      .    .   .
+2  Adrian Martinez 11-11    1    .     1      .        .        .       .   .    .      .    .   .
+35 C. Lightbourn     9-0    1    .     1      .        .        .       .   .    .      .    .   .
+22 Devine Ozigbo    12-9    1    .     1      .        .        .       .   .    .      .    .   .
+   Total..........  12-0  471  388   859    71-274   25-172   11-16    58  34   9-5    12    1   1
+   Opponents......  12-0  476  378   854    88-309   28-196   11-71    28  24  11-19   19    1   2
+
+          2018 Nebraska Football
+         Overall Team Statistics
+                All games
+
+TEAM STATISTICS          NEB          OPP
+-----------------------------------------
+SCORING...........       360          375
+  Points Per Game       30.0         31.2
+  Pts Off Turnovers       71           54
+FIRST DOWNS.......       278          272
+  Rushing.........       130          114
+  Passing.........       130          129
+  Penalty.........        18           29
+RUSHING YARDAGE...      2508         2349
+  Yards gained....      2861         2621
+  Yards lost......       353          272
+  Rushing Attempts       464          470
+  Avg. Per Rush...       5.4          5.0
+  Avg. Per Game...     209.0        195.8
+  TDs Rushing.....        25           29
+PASSING YARDAGE...      2966         2853
+  Comp-Att-Int... 257-404-11   238-425-11
+  Avg. Per Pass...       7.3          6.7
+  Avg. Per Catch..      11.5         12.0
+  Avg. Per Game...     247.2        237.8
+  TDs Passing.....        19           15
+TOTAL OFFENSE.....      5474         5202
+  Total Plays.....       868          895
+  Avg. Per Play...       6.3          5.8
+  Avg. Per Game...     456.2        433.5
+KICK RETURNS-Yds..    31-490       34-695
+PUNT RETURNS-Yds..    16-150       18-203
+INT RETURNS-Yds...     11-16        11-71
+KICK RETURN AVG...      15.8         20.4
+PUNT RETURN AVG...       9.4         11.3
+INT RETURN AVG....       1.5          6.5
+FUMBLES-LOST......     28-11         22-9
+PENALTIES-Yards...    92-850       78-681
+  Avg. Per Game...      70.8         56.8
+PUNTS-Yards.......   57-2394      58-2467
+  Avg. Per Punt...      42.0         42.5
+  Net punt avg....      37.0         37.2
+KICKOFFS-Yards....   72-4413      71-4072
+  Avg. Per Kick...      61.3         57.4
+  Net kick avg....      39.8         40.6
+POSS. TIME/Game...     27:44        32:16
+3RD-DOWN Conv. ...    58/156       76/176
+  3rd-Down Pct....       37%          43%
+4TH-DOWN Conv. ...      9/20        11/19
+  4th-Down Pct....       45%          58%
+SACKS BY-Yards....    25-172       28-196
+MISC YARDS........         0            0
+TOUCHDOWNS SCORED         45           47
+FIELD GOALS-ATTS..     14-18        15-20
+ON-SIDE KICKS.....       0-0          0-1
+RED-ZONE SCORES  (39-44) 89%  (45-55) 82%
+RED-ZONE TDs.... (27-44) 61%  (33-55) 60%
+PAT-ATTEMPTS.... (40-41) 98%  (40-41) 98%
+ATTENDANCE........    623240       407962
+  Games/Avg.......   7/89034      5/81592
+
+
+SCORE BY
+QUARTERS   1st  2nd  3rd  4th  OT     Tot
+--------   ---  ---  ---  ---  --     ---
+NEB......   98   91   66  105   0  -  360
+OPP......   93  106   84   89   3  -  375
+
+
+RUSHING      G-GS   Att Gain Loss  Net   Avg  TD Long Avg/G
+-----------------------------------------------------------
+D.Ozigbo     12-9   155 1100   18 1082   7.0  12   66  90.2
+A.Martinez   11-11  140  847  218  629   4.5   8   53  57.2
+M.Washington 11-2    77  480   25  455   5.9   3   49  41.4
+G.Bell        4-3    35  183   10  173   4.9   0   45  43.2
+W.Mazour     12-0    11   81    5   76   6.9   1   18   6.3
+A.Bunch       5-1    16   69   29   40   2.5   0   23   8.0
+JDSpielman   10-10    7   24    0   24   3.4   0    6   2.4
+N.Vedral      1-0     7   35   22   13   1.9   1   20  13.0
+T.Lindsey     4-0     2    9    0    9   4.5   0    9   2.2
+A.Rose        7-0     1    7    0    7   7.0   0    7   1.0
+M.Wilbon      6-0     4    8    1    7   1.8   0    4   1.2
+L.Gifford    12-12    1    5    0    5   5.0   0    5   0.4
+M.Jones       1-0     1    5    0    5   5.0   0    5   5.0
+S.Morgan     12-12    1    4    0    4   4.0   0    4   0.3
+K.Warner      9-7     1    4    0    4   4.0   0    4   0.4
+TEAM          11-0    5    0   25  -25  -5.0   0    0  -2.3
+Total......... 12   464 2861  353 2508   5.4  25   66 209.0
+Opponents..... 12   470 2621  272 2349   5.0  29   88 195.8
+
+
+PASSING     G-GS  Effic Cmp-Att-Int  Pct  Yds  TD Lng Avg/G
+------------------------------------------------------------
+A.Martinez  11-11 139.46  224-347-8  64.6 2617  17  75 237.9
+A.Bunch       5-1 128.68   31-47-2   66.0  320   2  33  64.0
+N.Vedral      1-0  27.07    2-9-1    22.2   29   0  21  29.0
+M.Washington 11-2   0.00    0-1-0     0.0    0   0   0   0.0
+Total........ 12  135.36  257-404-11 63.6 2966  19  75 247.2
+Opponents.... 12  118.86  238-425-11 56.0 2853  15  69 237.8
+
+
+RECEIVING       GP-GS  No.  Yds   Avg  TD Long Avg/G
+----------------------------------------------------
+Stanley Morgan  12-12   70 1004  14.3   7   67  83.7
+JD Spielman     10-10   66  818  12.4   8   75  81.8
+M. Washington   11-2    24  221   9.2   1   35  20.1
+Devine Ozigbo   12-9    23  203   8.8   0   19  16.9
+Jack Stoll      12-12   21  245  11.7   3   37  20.4
+Kade Warner      9-7    17   95   5.6   0   14  10.6
+Mike Williams   12-2    12  122  10.2   0   24  10.2
+Bryan Reimers   10-3     6   52   8.7   0   20   5.2
+Kurt Rafdal     12-0     4   67  16.8   0   26   5.6
+Greg Bell        4-3     4   14   3.5   0    6   3.5
+Tyjon Lindsey    4-0     3   22   7.3   0   14   5.5
+Austin Allen    12-0     2   54  27.0   0   41   4.5
+Wyatt Mazour    12-0     1   21  21.0   0   21   1.8
+Miles Jones      1-0     1   21  21.0   0   21  21.0
+Jaron Woodyard   8-0     1   10  10.0   0   10   1.2
+K. Legrone       3-0     1    8   8.0   0    8   2.7
+Adrian Martinez 11-11    1  -11 -11.0   0    0  -1.0
+Total.......... 12     257 2966  11.5  19   75 247.2
+Opponents...... 12     238 2853  12.0  15   69 237.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+JD Spielman        6  104  17.3  1   77
+Tyjon Lindsey      5    1   0.2  0    3
+Stanley Morgan     4   19   4.8  0   18
+Marquel Dismuke    1   26  26.0  0    0
+Total..........   16  150   9.4  1   77
+Opponents......   18  203  11.3  2   60
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Lamar Jackson      2    0   0.0  0    0
+D. Williams        2    0   0.0  0    0
+Antonio Reed       2    0   0.0  0    0
+Dedrick Young      1    0   0.0  0    0
+Peyton Newell      1    0   0.0  0    0
+Aaron Williams     1    0   0.0  0    0
+M. Stoltenberg     1    2   2.0  0    2
+Tre Neal           1   14  14.0  0   14
+Total..........   11   16   1.5  0   14
+Opponents......   11   71   6.5  0   22
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+M. Washington     13  204  15.7  0   27
+JD Spielman        8  169  21.1  0   31
+Jaron Woodyard     4   50  12.5  0   19
+Wyatt Mazour       3   48  16.0  0   21
+Jack Stoll         2   16   8.0  0   10
+Mikale Wilbon      1    3   3.0  0    3
+Total..........   31  490  15.8  0   31
+Opponents......   34  695  20.4  0   87
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+D. Williams        1    5   5.0  0    5
+Total..........    1    5   5.0  0    5
+Opponents......    3   19   6.3  1   10
+
+
+                           |------ PATs -----|
+SCORING          TD  FGs   Kick  Rush Rcv Pass  DXP Saf Pts
+-----------------------------------------------------------
+B. Pickering      0 14-18  40-41  0-0   0  0-0   0   0   82
+Devine Ozigbo    12  0-0    0-0   0-0   0  0-0   0   0   72
+JD Spielman       9  0-0    0-0   0-0   0  0-0   0   0   54
+Adrian Martinez   8  0-0    0-0   1-1   0  2-2   0   0   50
+Stanley Morgan    7  0-0    0-0   0-0   1  0-0   0   0   44
+M. Washington     4  0-0    0-0   0-0   0  0-0   0   0   24
+Jack Stoll        3  0-0    0-0   0-0   0  0-0   0   0   18
+Noah Vedral       1  0-0    0-0   0-0   0  0-0   0   0    6
+Wyatt Mazour      1  0-0    0-0   0-0   0  0-0   0   0    6
+Marquel Dismuke   0  0-0    0-0   0-0   0  0-0   0   1    2
+Kade Warner       0  0-0    0-0   0-0   1  0-0   0   0    2
+Andrew Bunch      0  0-0    0-0   0-0   0  0-1   0   0    0
+Total..........  45 14-18  40-41  1-1   2  2-3   0   1  360
+Opponents......  47 15-20  40-41  1-3   1  1-2   0   2  375
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Adrian Martinez 11   487  629 2617  3246 295.1
+Devine Ozigbo   12   155 1082    0  1082  90.2
+M. Washington   11    78  455    0   455  41.4
+Andrew Bunch     5    63   40  320   360  72.0
+Greg Bell        4    35  173    0   173  43.2
+Wyatt Mazour    12    11   76    0    76   6.3
+Noah Vedral      1    16   13   29    42  42.0
+JD Spielman     10     7   24    0    24   2.4
+Tyjon Lindsey    4     2    9    0     9   2.2
+Austin Rose      7     1    7    0     7   1.0
+Mikale Wilbon    6     4    7    0     7   1.2
+Luke Gifford    12     1    5    0     5   0.4
+Miles Jones      1     1    5    0     5   5.0
+Kade Warner      9     1    4    0     4   0.4
+Stanley Morgan  12     1    4    0     4   0.3
+TEAM            11     5  -25    0   -25  -2.3
+Total.......... 12   868 2508 2966  5474 456.2
+Opponents...... 12   895 2349 2853  5202 433.5
+
+
+FIELD GOALS  FGM-FGA  Pct 1-19  20s  30s  40s  50s  Lg Blk
+----------------------------------------------------------
+B.Pickering   14-18  77.8  1-1  5-5  6-7  2-4  0-1  47   0
+
+
+FG SEQUENCE       Nebraska          OPPONENTS
+---------------------------------------------
+Colorado          43                (40),(35),37,43
+Troy              33,(23),(32)      (37)
+Michigan          (35)              (50),(38)
+Purdue            54                (31),(25)
+Wisconsin         (31)              (30),(28)
+Northwestern      45,(34)           42,(31),(37)
+Minnesota         (32)              -
+Bethune-Cookman   (29)              (28)
+Ohio State        (18)              -
+Illinois          (27)              -
+Michigan State    (36),(20),(47)    (34),41,(26)
+IOWA              (27),(46)         37,(41)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING          No.  Yds   Avg Long  TB  FC I20 Blkd
+-----------------------------------------------------
+Isaac Armstrong   32 1396  43.6   73   3   8   9    1
+C. Lightbourn     24  998  41.6   52   1   3   3    0
+TEAM               1    0   0.0    0   0   0   0    0
+Total..........   57 2394  42.0   73   4  11  12    1
+Opponents......   58 2467  42.5   79   8  16  21    1
+
+
+KICKOFFS         No.   Yds   Avg  TB  OB  Retn  Net YdLn
+--------------------------------------------------------
+C. Lightbourn     52  3284  63.2  28   2
+B. Pickering      18  1076  59.8   6   0
+Isaac Armstrong    1    52  52.0   0   0
+TEAM               1     1   1.0   0   0
+Total..........   72  4413  61.3  34   2   695 39.8   25
+Opponents......   71  4072  57.4  28   3   490 40.6   24
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Devine Ozigbo   12 1082  203    0    0    0 1285 107.1
+JD Spielman     10   24  818  104  169    0 1115 111.5
+Stanley Morgan  12    4 1004   19    0    0 1027  85.6
+M. Washington   11  455  221    0  204    0  880  80.0
+Adrian Martinez 11  629  -11    0    0    0  618  56.2
+Jack Stoll      12    0  245    0   16    0  261  21.8
+Greg Bell        4  173   14    0    0    0  187  46.8
+Wyatt Mazour    12   76   21    0   48    0  145  12.1
+Mike Williams   12    0  122    0    0    0  122  10.2
+Kade Warner      9    4   95    0    0    0   99  11.0
+Kurt Rafdal     12    0   67    0    0    0   67   5.6
+Jaron Woodyard   8    0   10    0   50    0   60   7.5
+Austin Allen    12    0   54    0    0    0   54   4.5
+Bryan Reimers   10    0   52    0    0    0   52   5.2
+Andrew Bunch     5   40    0    0    0    0   40   8.0
+Tyjon Lindsey    4    9   22    1    0    0   32   8.0
+Miles Jones      1    5   21    0    0    0   26  26.0
+Marquel Dismuke  8    0    0   26    0    0   26   3.2
+Tre Neal        12    0    0    0    0   14   14   1.2
+Noah Vedral      1   13    0    0    0    0   13  13.0
+Mikale Wilbon    6    7    0    0    3    0   10   1.7
+K. Legrone       3    0    8    0    0    0    8   2.7
+Austin Rose      7    7    0    0    0    0    7   1.0
+Luke Gifford    12    5    0    0    0    0    5   0.4
+M. Stoltenberg   8    0    0    0    0    2    2   0.2
+TEAM            11  -25    0    0    0    0  -25  -2.3
+Total.......... 12 2508 2966  150  490   16 6130 510.8
+Opponents...... 12 2349 2853  203  695   71 6171 514.2
+
+
+Page 1 / 1Zoom 100%
+
+
+
+Overall Defensive Statistics
+
+                         |--------Tackles--------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blkd
+DEFENSIVE LEADERS  GP-GS Solo  Ast Total   TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kick Saf
+--------------------------------------------------------------------------------------------------
+7  Mohamed Barry   12-12   55   57   112    11-39   2.0-15      .       1   5    .      .    .   .
+5  Dedrick Young   12-12   41   42    83     3-3       .       1-0      5   3    .      .    .   .
+24 Aaron Williams  12-11   45   25    70     3-6       .       1-0      4   1   1-0     .    .   .
+12 Luke Gifford    12-12   35   27    62    13-63   5.5-52      .       2   7    .      1    .   .
+14 Tre Neal        12-12   35   22    57     2-2       .       1-14     5   2    .      2    .   .
+2E Antonio Reed     12-2   32   12    44     3-19   1.0-10     2-0      3   .    .      2    .   .
+94 Khalil Davis     12-0   24   17    41     8-32   3.0-19      .       .   4   1-0     1    .   .
+23 Dicaprio Bootle 12-12   26   13    39      .        .        .      15   .    .      1    .   .
+43 Tyrin Ferguson    8-4   19   17    36     6-21   1.0-4       .       1   .    .      .    .   .
+91 F. Akinmoladun  12-12   11   18    29     3-10   2.5-10      .       .   4    .      .    .   .
+21 Lamar Jackson   12-11   21    7    28     1-1       .       2-0      7   .    .      1    .   .
+96 Carlos Davis     12-9   13   14    27     3-13   1.0-8       .       5   1   1-0     .    .   .
+95 Ben Stille      12-11   10   15    25     5-28   5.0-28      .       2   6    .      .    .   .
+41 D. Williams      12-1   15    8    23     1-0       .       2-0      2   .   1-5     2    .   .
+13 JoJo Domann       8-2   10    9    19     1-7    1.0-7       .       2   .   1-0     2    .   .
+31 Collin Miller    12-0    9    8    17     1-7       .        .       .   .    .      .    .   .
+3  Will Honas        4-0    6    9    15     1-1       .        .       .   1    .      .    .   .
+57 J. Weinmaster    11-0    3   10    13      .        .        .       .   .    .      .    .   .
+6  Eric Lee Jr.      9-1    7    6    13      .        .        .       .   .    .      .    .   .
+1C Cam Taylor       11-0    9    3    12      .        .        .       3   .   1-0     .    .   .
+93 Damion Daniels   12-0    3    9    12     1-1       .        .       .   .   1-0     .    .   .
+4A Caleb Tannor     12-0    6    4    10     1-7    1.0-7       .       .   .    .      .    .   .
+1A Marquel Dismuke   8-0    8    2    10      .        .        .       .   .    .      .    1   1
+44 M. Stoltenberg    8-4    2    7     9     2-7    1.0-6      1-2      .   .    .      .    .   .
+42 J. Stovall        8-0    4    4     8      .        .        .       .   .   1-0     .    .   .
+2D Alex Davis       12-4    1    4     5      .        .        .       .   .    .      .    .   .
+99 Peyton Newell    12-0    1    4     5      .        .       1-0      .   .    .      .    .   .
+97 Deontre Thomas    4-0    4    .     4     1-1       .        .       .   .    .      .    .   .
+18 Guy Thomas        4-0    .    4     4      .        .        .       1   .    .      .    .   .
+16 Ethan Cox        11-0    2    1     3      .        .        .       .   .    .      .    .   .
+9  DaiShon Neal      7-0    1    2     3      .        .        .       .   .    .      .    .   .
+9A Chase Urbach     10-0    2    1     3      .        .        .       .   .   1-0     .    .   .
+10 JD Spielman     10-10    1    1     2      .        .        .       .   .    .      .    .   .
+30 Eli Sullivan      7-0    1    .     1      .        .        .       .   .    .      .    .   .
+75 Fyn Anderson      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+55 Chris Walker      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+47 Matt Jarzynka     1-0    1    .     1     1-6    1.0-6       .       .   .    .      .    .   .
+56 Boe Wilson       12-9    .    1     1      .        .        .       .   .    .      .    .   .
+3E Simon Otte        1-0    .    1     1      .        .        .       .   .    .      .    .   .
+34 Breon Dixon       4-0    1    .     1      .        .        .       .   .    .      .    .   .
+1B Braxton Clark     4-0    1    .     1      .        .        .       .   .    .      .    .   .
+65 C. Gaylord       10-0    1    .     1      .        .        .       .   .    .      .    .   .
+88 Jaron Woodyard    8-0    .    1     1      .        .        .       .   .    .      .    .   .
+81 Kade Warner       9-7    1    .     1      .        .        .       .   .    .      .    .   .
+37 Wyatt Mazour     12-0    .    1     1      .        .        .       .   .    .      .    .   .
+86 Jack Stoll      12-12    1    .     1      .        .        .       .   .    .      .    .   .
+2  Adrian Martinez 11-11    1    .     1      .        .        .       .   .    .      .    .   .
+35 C. Lightbourn     9-0    1    .     1      .        .        .       .   .    .      .    .   .
+22 Devine Ozigbo    12-9    1    .     1      .        .        .       .   .    .      .    .   .
+   Total..........  12-0  471  388   859    71-274   25-172   11-16    58  34   9-5    12    1   1
+   Opponents......  12-0  476  378   854    88-309   28-196   11-71    28  24  11-19   19    1   2
+
+
+
+      
+RUSHING      G-GS   Att Gain Loss  Net   Avg  TD Long Avg/G
+-----------------------------------------------------------
+D.Ozigbo     12-9   155 1100   18 1082   7.0  12   66  90.2
+A.Martinez   11-11  140  847  218  629   4.5   8   53  57.2
+M.Washington 11-2    77  480   25  455   5.9   3   49  41.4
+G.Bell        4-3    35  183   10  173   4.9   0   45  43.2
+W.Mazour     12-0    11   81    5   76   6.9   1   18   6.3
+A.Bunch       5-1    16   69   29   40   2.5   0   23   8.0
+JDSpielman   10-10    7   24    0   24   3.4   0    6   2.4
+N.Vedral      1-0     7   35   22   13   1.9   1   20  13.0
+T.Lindsey     4-0     2    9    0    9   4.5   0    9   2.2
+A.Rose        7-0     1    7    0    7   7.0   0    7   1.0
+M.Wilbon      6-0     4    8    1    7   1.8   0    4   1.2
+L.Gifford    12-12    1    5    0    5   5.0   0    5   0.4
+M.Jones       1-0     1    5    0    5   5.0   0    5   5.0
+S.Morgan     12-12    1    4    0    4   4.0   0    4   0.3
+K.Warner      9-7     1    4    0    4   4.0   0    4   0.4
+TEAM          11-0    5    0   25  -25  -5.0   0    0  -2.3
+Total......... 12   464 2861  353 2508   5.4  25   66 209.0
+Opponents..... 12   470 2621  272 2349   5.0  29   88 195.8
+
+
+PASSING     G-GS  Effic Cmp-Att-Int  Pct  Yds  TD Lng Avg/G
+------------------------------------------------------------
+A.Martinez  11-11 139.46  224-347-8  64.6 2617  17  75 237.9
+A.Bunch       5-1 128.68   31-47-2   66.0  320   2  33  64.0
+N.Vedral      1-0  27.07    2-9-1    22.2   29   0  21  29.0
+M.Washington 11-2   0.00    0-1-0     0.0    0   0   0   0.0
+Total........ 12  135.36  257-404-11 63.6 2966  19  75 247.2
+Opponents.... 12  118.86  238-425-11 56.0 2853  15  69 237.8
+
+
+RECEIVING       GP-GS  No.  Yds   Avg  TD Long Avg/G
+----------------------------------------------------
+Stanley Morgan  12-12   70 1004  14.3   7   67  83.7
+JD Spielman     10-10   66  818  12.4   8   75  81.8
+M. Washington   11-2    24  221   9.2   1   35  20.1
+Devine Ozigbo   12-9    23  203   8.8   0   19  16.9
+Jack Stoll      12-12   21  245  11.7   3   37  20.4
+Kade Warner      9-7    17   95   5.6   0   14  10.6
+Mike Williams   12-2    12  122  10.2   0   24  10.2
+Bryan Reimers   10-3     6   52   8.7   0   20   5.2
+Kurt Rafdal     12-0     4   67  16.8   0   26   5.6
+Greg Bell        4-3     4   14   3.5   0    6   3.5
+Tyjon Lindsey    4-0     3   22   7.3   0   14   5.5
+Austin Allen    12-0     2   54  27.0   0   41   4.5
+Wyatt Mazour    12-0     1   21  21.0   0   21   1.8
+Miles Jones      1-0     1   21  21.0   0   21  21.0
+Jaron Woodyard   8-0     1   10  10.0   0   10   1.2
+K. Legrone       3-0     1    8   8.0   0    8   2.7
+Adrian Martinez 11-11    1  -11 -11.0   0    0  -1.0
+Total.......... 12     257 2966  11.5  19   75 247.2
+Opponents...... 12     238 2853  12.0  15   69 237.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+JD Spielman        6  104  17.3  1   77
+Tyjon Lindsey      5    1   0.2  0    3
+Stanley Morgan     4   19   4.8  0   18
+Marquel Dismuke    1   26  26.0  0    0
+Total..........   16  150   9.4  1   77
+Opponents......   18  203  11.3  2   60
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Lamar Jackson      2    0   0.0  0    0
+D. Williams        2    0   0.0  0    0
+Antonio Reed       2    0   0.0  0    0
+Dedrick Young      1    0   0.0  0    0
+Peyton Newell      1    0   0.0  0    0
+Aaron Williams     1    0   0.0  0    0
+M. Stoltenberg     1    2   2.0  0    2
+Tre Neal           1   14  14.0  0   14
+Total..........   11   16   1.5  0   14
+Opponents......   11   71   6.5  0   22
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+M. Washington     13  204  15.7  0   27
+JD Spielman        8  169  21.1  0   31
+Jaron Woodyard     4   50  12.5  0   19
+Wyatt Mazour       3   48  16.0  0   21
+Jack Stoll         2   16   8.0  0   10
+Mikale Wilbon      1    3   3.0  0    3
+Total..........   31  490  15.8  0   31
+Opponents......   34  695  20.4  0   87
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+D. Williams        1    5   5.0  0    5
+Total..........    1    5   5.0  0    5
+Opponents......    3   19   6.3  1   10
+
+
+                           |------ PATs -----|
+SCORING          TD  FGs   Kick  Rush Rcv Pass  DXP Saf Pts
+-----------------------------------------------------------
+B. Pickering      0 14-18  40-41  0-0   0  0-0   0   0   82
+Devine Ozigbo    12  0-0    0-0   0-0   0  0-0   0   0   72
+JD Spielman       9  0-0    0-0   0-0   0  0-0   0   0   54
+Adrian Martinez   8  0-0    0-0   1-1   0  2-2   0   0   50
+Stanley Morgan    7  0-0    0-0   0-0   1  0-0   0   0   44
+M. Washington     4  0-0    0-0   0-0   0  0-0   0   0   24
+Jack Stoll        3  0-0    0-0   0-0   0  0-0   0   0   18
+Noah Vedral       1  0-0    0-0   0-0   0  0-0   0   0    6
+Wyatt Mazour      1  0-0    0-0   0-0   0  0-0   0   0    6
+Marquel Dismuke   0  0-0    0-0   0-0   0  0-0   0   1    2
+Kade Warner       0  0-0    0-0   0-0   1  0-0   0   0    2
+Andrew Bunch      0  0-0    0-0   0-0   0  0-1   0   0    0
+Total..........  45 14-18  40-41  1-1   2  2-3   0   1  360
+Opponents......  47 15-20  40-41  1-3   1  1-2   0   2  375
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Adrian Martinez 11   487  629 2617  3246 295.1
+Devine Ozigbo   12   155 1082    0  1082  90.2
+M. Washington   11    78  455    0   455  41.4
+Andrew Bunch     5    63   40  320   360  72.0
+Greg Bell        4    35  173    0   173  43.2
+Wyatt Mazour    12    11   76    0    76   6.3
+Noah Vedral      1    16   13   29    42  42.0
+JD Spielman     10     7   24    0    24   2.4
+Tyjon Lindsey    4     2    9    0     9   2.2
+Austin Rose      7     1    7    0     7   1.0
+Mikale Wilbon    6     4    7    0     7   1.2
+Luke Gifford    12     1    5    0     5   0.4
+Miles Jones      1     1    5    0     5   5.0
+Kade Warner      9     1    4    0     4   0.4
+Stanley Morgan  12     1    4    0     4   0.3
+TEAM            11     5  -25    0   -25  -2.3
+Total.......... 12   868 2508 2966  5474 456.2
+Opponents...... 12   895 2349 2853  5202 433.5
+
+
+FIELD GOALS  FGM-FGA  Pct 1-19  20s  30s  40s  50s  Lg Blk
+----------------------------------------------------------
+B.Pickering   14-18  77.8  1-1  5-5  6-7  2-4  0-1  47   0
+
+
+FG SEQUENCE       Nebraska          OPPONENTS
+---------------------------------------------
+Colorado          43                (40),(35),37,43
+Troy              33,(23),(32)      (37)
+Michigan          (35)              (50),(38)
+Purdue            54                (31),(25)
+Wisconsin         (31)              (30),(28)
+Northwestern      45,(34)           42,(31),(37)
+Minnesota         (32)              -
+Bethune-Cookman   (29)              (28)
+Ohio State        (18)              -
+Illinois          (27)              -
+Michigan State    (36),(20),(47)    (34),41,(26)
+IOWA              (27),(46)         37,(41)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING          No.  Yds   Avg Long  TB  FC I20 Blkd
+-----------------------------------------------------
+Isaac Armstrong   32 1396  43.6   73   3   8   9    1
+C. Lightbourn     24  998  41.6   52   1   3   3    0
+TEAM               1    0   0.0    0   0   0   0    0
+Total..........   57 2394  42.0   73   4  11  12    1
+Opponents......   58 2467  42.5   79   8  16  21    1
+
+
+KICKOFFS         No.   Yds   Avg  TB  OB  Retn  Net YdLn
+--------------------------------------------------------
+C. Lightbourn     52  3284  63.2  28   2
+B. Pickering      18  1076  59.8   6   0
+Isaac Armstrong    1    52  52.0   0   0
+TEAM               1     1   1.0   0   0
+Total..........   72  4413  61.3  34   2   695 39.8   25
+Opponents......   71  4072  57.4  28   3   490 40.6   24
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Devine Ozigbo   12 1082  203    0    0    0 1285 107.1
+JD Spielman     10   24  818  104  169    0 1115 111.5
+Stanley Morgan  12    4 1004   19    0    0 1027  85.6
+M. Washington   11  455  221    0  204    0  880  80.0
+Adrian Martinez 11  629  -11    0    0    0  618  56.2
+Jack Stoll      12    0  245    0   16    0  261  21.8
+Greg Bell        4  173   14    0    0    0  187  46.8
+Wyatt Mazour    12   76   21    0   48    0  145  12.1
+Mike Williams   12    0  122    0    0    0  122  10.2
+Kade Warner      9    4   95    0    0    0   99  11.0
+Kurt Rafdal     12    0   67    0    0    0   67   5.6
+Jaron Woodyard   8    0   10    0   50    0   60   7.5
+Austin Allen    12    0   54    0    0    0   54   4.5
+Bryan Reimers   10    0   52    0    0    0   52   5.2
+Andrew Bunch     5   40    0    0    0    0   40   8.0
+Tyjon Lindsey    4    9   22    1    0    0   32   8.0
+Miles Jones      1    5   21    0    0    0   26  26.0
+Marquel Dismuke  8    0    0   26    0    0   26   3.2
+Tre Neal        12    0    0    0    0   14   14   1.2
+Noah Vedral      1   13    0    0    0    0   13  13.0
+Mikale Wilbon    6    7    0    0    3    0   10   1.7
+K. Legrone       3    0    8    0    0    0    8   2.7
+Austin Rose      7    7    0    0    0    0    7   1.0
+Luke Gifford    12    5    0    0    0    0    5   0.4
+M. Stoltenberg   8    0    0    0    0    2    2   0.2
+TEAM            11  -25    0    0    0    0  -25  -2.3
+Total.......... 12 2508 2966  150  490   16 6130 510.8
+Opponents...... 12 2349 2853  203  695   71 6171 514.2
+
+                         |--------Tackles--------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blkd
+DEFENSIVE LEADERS  GP-GS Solo  Ast Total   TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kick Saf
+--------------------------------------------------------------------------------------------------
+7  Mohamed Barry   12-12   55   57   112    11-39   2.0-15      .       1   5    .      .    .   .
+5  Dedrick Young   12-12   41   42    83     3-3       .       1-0      5   3    .      .    .   .
+24 Aaron Williams  12-11   45   25    70     3-6       .       1-0      4   1   1-0     .    .   .
+12 Luke Gifford    12-12   35   27    62    13-63   5.5-52      .       2   7    .      1    .   .
+14 Tre Neal        12-12   35   22    57     2-2       .       1-14     5   2    .      2    .   .
+2E Antonio Reed     12-2   32   12    44     3-19   1.0-10     2-0      3   .    .      2    .   .
+94 Khalil Davis     12-0   24   17    41     8-32   3.0-19      .       .   4   1-0     1    .   .
+23 Dicaprio Bootle 12-12   26   13    39      .        .        .      15   .    .      1    .   .
+43 Tyrin Ferguson    8-4   19   17    36     6-21   1.0-4       .       1   .    .      .    .   .
+91 F. Akinmoladun  12-12   11   18    29     3-10   2.5-10      .       .   4    .      .    .   .
+21 Lamar Jackson   12-11   21    7    28     1-1       .       2-0      7   .    .      1    .   .
+96 Carlos Davis     12-9   13   14    27     3-13   1.0-8       .       5   1   1-0     .    .   .
+95 Ben Stille      12-11   10   15    25     5-28   5.0-28      .       2   6    .      .    .   .
+41 D. Williams      12-1   15    8    23     1-0       .       2-0      2   .   1-5     2    .   .
+13 JoJo Domann       8-2   10    9    19     1-7    1.0-7       .       2   .   1-0     2    .   .
+31 Collin Miller    12-0    9    8    17     1-7       .        .       .   .    .      .    .   .
+3  Will Honas        4-0    6    9    15     1-1       .        .       .   1    .      .    .   .
+57 J. Weinmaster    11-0    3   10    13      .        .        .       .   .    .      .    .   .
+6  Eric Lee Jr.      9-1    7    6    13      .        .        .       .   .    .      .    .   .
+1C Cam Taylor       11-0    9    3    12      .        .        .       3   .   1-0     .    .   .
+93 Damion Daniels   12-0    3    9    12     1-1       .        .       .   .   1-0     .    .   .
+4A Caleb Tannor     12-0    6    4    10     1-7    1.0-7       .       .   .    .      .    .   .
+1A Marquel Dismuke   8-0    8    2    10      .        .        .       .   .    .      .    1   1
+44 M. Stoltenberg    8-4    2    7     9     2-7    1.0-6      1-2      .   .    .      .    .   .
+42 J. Stovall        8-0    4    4     8      .        .        .       .   .   1-0     .    .   .
+2D Alex Davis       12-4    1    4     5      .        .        .       .   .    .      .    .   .
+99 Peyton Newell    12-0    1    4     5      .        .       1-0      .   .    .      .    .   .
+97 Deontre Thomas    4-0    4    .     4     1-1       .        .       .   .    .      .    .   .
+18 Guy Thomas        4-0    .    4     4      .        .        .       1   .    .      .    .   .
+16 Ethan Cox        11-0    2    1     3      .        .        .       .   .    .      .    .   .
+9  DaiShon Neal      7-0    1    2     3      .        .        .       .   .    .      .    .   .
+9A Chase Urbach     10-0    2    1     3      .        .        .       .   .   1-0     .    .   .
+10 JD Spielman     10-10    1    1     2      .        .        .       .   .    .      .    .   .
+30 Eli Sullivan      7-0    1    .     1      .        .        .       .   .    .      .    .   .
+75 Fyn Anderson      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+55 Chris Walker      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+47 Matt Jarzynka     1-0    1    .     1     1-6    1.0-6       .       .   .    .      .    .   .
+56 Boe Wilson       12-9    .    1     1      .        .        .       .   .    .      .    .   .
+3E Simon Otte        1-0    .    1     1      .        .        .       .   .    .      .    .   .
+34 Breon Dixon       4-0    1    .     1      .        .        .       .   .    .      .    .   .
+1B Braxton Clark     4-0    1    .     1      .        .        .       .   .    .      .    .   .
+65 C. Gaylord       10-0    1    .     1      .        .        .       .   .    .      .    .   .
+88 Jaron Woodyard    8-0    .    1     1      .        .        .       .   .    .      .    .   .
+81 Kade Warner       9-7    1    .     1      .        .        .       .   .    .      .    .   .
+37 Wyatt Mazour     12-0    .    1     1      .        .        .       .   .    .      .    .   .
+86 Jack Stoll      12-12    1    .     1      .        .        .       .   .    .      .    .   .
+2  Adrian Martinez 11-11    1    .     1      .        .        .       .   .    .      .    .   .
+35 C. Lightbourn     9-0    1    .     1      .        .        .       .   .    .      .    .   .
+22 Devine Ozigbo    12-9    1    .     1      .        .        .       .   .    .      .    .   .
+   Total..........  12-0  471  388   859    71-274   25-172   11-16    58  34   9-5    12    1   1
+   Opponents......  12-0  476  378   854    88-309   28-196   11-71    28  24  11-19   19    1   2
+
+          2018 Nebraska Football
+         Overall Team Statistics
+                All games
+
+TEAM STATISTICS          NEB          OPP
+-----------------------------------------
+SCORING...........       360          375
+  Points Per Game       30.0         31.2
+  Pts Off Turnovers       71           54
+FIRST DOWNS.......       278          272
+  Rushing.........       130          114
+  Passing.........       130          129
+  Penalty.........        18           29
+RUSHING YARDAGE...      2508         2349
+  Yards gained....      2861         2621
+  Yards lost......       353          272
+  Rushing Attempts       464          470
+  Avg. Per Rush...       5.4          5.0
+  Avg. Per Game...     209.0        195.8
+  TDs Rushing.....        25           29
+PASSING YARDAGE...      2966         2853
+  Comp-Att-Int... 257-404-11   238-425-11
+  Avg. Per Pass...       7.3          6.7
+  Avg. Per Catch..      11.5         12.0
+  Avg. Per Game...     247.2        237.8
+  TDs Passing.....        19           15
+TOTAL OFFENSE.....      5474         5202
+  Total Plays.....       868          895
+  Avg. Per Play...       6.3          5.8
+  Avg. Per Game...     456.2        433.5
+KICK RETURNS-Yds..    31-490       34-695
+PUNT RETURNS-Yds..    16-150       18-203
+INT RETURNS-Yds...     11-16        11-71
+KICK RETURN AVG...      15.8         20.4
+PUNT RETURN AVG...       9.4         11.3
+INT RETURN AVG....       1.5          6.5
+FUMBLES-LOST......     28-11         22-9
+PENALTIES-Yards...    92-850       78-681
+  Avg. Per Game...      70.8         56.8
+PUNTS-Yards.......   57-2394      58-2467
+  Avg. Per Punt...      42.0         42.5
+  Net punt avg....      37.0         37.2
+KICKOFFS-Yards....   72-4413      71-4072
+  Avg. Per Kick...      61.3         57.4
+  Net kick avg....      39.8         40.6
+POSS. TIME/Game...     27:44        32:16
+3RD-DOWN Conv. ...    58/156       76/176
+  3rd-Down Pct....       37%          43%
+4TH-DOWN Conv. ...      9/20        11/19
+  4th-Down Pct....       45%          58%
+SACKS BY-Yards....    25-172       28-196
+MISC YARDS........         0            0
+TOUCHDOWNS SCORED         45           47
+FIELD GOALS-ATTS..     14-18        15-20
+ON-SIDE KICKS.....       0-0          0-1
+RED-ZONE SCORES  (39-44) 89%  (45-55) 82%
+RED-ZONE TDs.... (27-44) 61%  (33-55) 60%
+PAT-ATTEMPTS.... (40-41) 98%  (40-41) 98%
+ATTENDANCE........    623240       407962
+  Games/Avg.......   7/89034      5/81592
+
+
+SCORE BY
+QUARTERS   1st  2nd  3rd  4th  OT     Tot
+--------   ---  ---  ---  ---  --     ---
+NEB......   98   91   66  105   0  -  360
+OPP......   93  106   84   89   3  -  375
+
+
+RUSHING      G-GS   Att Gain Loss  Net   Avg  TD Long Avg/G
+-----------------------------------------------------------
+D.Ozigbo     12-9   155 1100   18 1082   7.0  12   66  90.2
+A.Martinez   11-11  140  847  218  629   4.5   8   53  57.2
+M.Washington 11-2    77  480   25  455   5.9   3   49  41.4
+G.Bell        4-3    35  183   10  173   4.9   0   45  43.2
+W.Mazour     12-0    11   81    5   76   6.9   1   18   6.3
+A.Bunch       5-1    16   69   29   40   2.5   0   23   8.0
+JDSpielman   10-10    7   24    0   24   3.4   0    6   2.4
+N.Vedral      1-0     7   35   22   13   1.9   1   20  13.0
+T.Lindsey     4-0     2    9    0    9   4.5   0    9   2.2
+A.Rose        7-0     1    7    0    7   7.0   0    7   1.0
+M.Wilbon      6-0     4    8    1    7   1.8   0    4   1.2
+L.Gifford    12-12    1    5    0    5   5.0   0    5   0.4
+M.Jones       1-0     1    5    0    5   5.0   0    5   5.0
+S.Morgan     12-12    1    4    0    4   4.0   0    4   0.3
+K.Warner      9-7     1    4    0    4   4.0   0    4   0.4
+TEAM          11-0    5    0   25  -25  -5.0   0    0  -2.3
+Total......... 12   464 2861  353 2508   5.4  25   66 209.0
+Opponents..... 12   470 2621  272 2349   5.0  29   88 195.8
+
+
+PASSING     G-GS  Effic Cmp-Att-Int  Pct  Yds  TD Lng Avg/G
+------------------------------------------------------------
+A.Martinez  11-11 139.46  224-347-8  64.6 2617  17  75 237.9
+A.Bunch       5-1 128.68   31-47-2   66.0  320   2  33  64.0
+N.Vedral      1-0  27.07    2-9-1    22.2   29   0  21  29.0
+M.Washington 11-2   0.00    0-1-0     0.0    0   0   0   0.0
+Total........ 12  135.36  257-404-11 63.6 2966  19  75 247.2
+Opponents.... 12  118.86  238-425-11 56.0 2853  15  69 237.8
+
+
+RECEIVING       GP-GS  No.  Yds   Avg  TD Long Avg/G
+----------------------------------------------------
+Stanley Morgan  12-12   70 1004  14.3   7   67  83.7
+JD Spielman     10-10   66  818  12.4   8   75  81.8
+M. Washington   11-2    24  221   9.2   1   35  20.1
+Devine Ozigbo   12-9    23  203   8.8   0   19  16.9
+Jack Stoll      12-12   21  245  11.7   3   37  20.4
+Kade Warner      9-7    17   95   5.6   0   14  10.6
+Mike Williams   12-2    12  122  10.2   0   24  10.2
+Bryan Reimers   10-3     6   52   8.7   0   20   5.2
+Kurt Rafdal     12-0     4   67  16.8   0   26   5.6
+Greg Bell        4-3     4   14   3.5   0    6   3.5
+Tyjon Lindsey    4-0     3   22   7.3   0   14   5.5
+Austin Allen    12-0     2   54  27.0   0   41   4.5
+Wyatt Mazour    12-0     1   21  21.0   0   21   1.8
+Miles Jones      1-0     1   21  21.0   0   21  21.0
+Jaron Woodyard   8-0     1   10  10.0   0   10   1.2
+K. Legrone       3-0     1    8   8.0   0    8   2.7
+Adrian Martinez 11-11    1  -11 -11.0   0    0  -1.0
+Total.......... 12     257 2966  11.5  19   75 247.2
+Opponents...... 12     238 2853  12.0  15   69 237.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+JD Spielman        6  104  17.3  1   77
+Tyjon Lindsey      5    1   0.2  0    3
+Stanley Morgan     4   19   4.8  0   18
+Marquel Dismuke    1   26  26.0  0    0
+Total..........   16  150   9.4  1   77
+Opponents......   18  203  11.3  2   60
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Lamar Jackson      2    0   0.0  0    0
+D. Williams        2    0   0.0  0    0
+Antonio Reed       2    0   0.0  0    0
+Dedrick Young      1    0   0.0  0    0
+Peyton Newell      1    0   0.0  0    0
+Aaron Williams     1    0   0.0  0    0
+M. Stoltenberg     1    2   2.0  0    2
+Tre Neal           1   14  14.0  0   14
+Total..........   11   16   1.5  0   14
+Opponents......   11   71   6.5  0   22
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+M. Washington     13  204  15.7  0   27
+JD Spielman        8  169  21.1  0   31
+Jaron Woodyard     4   50  12.5  0   19
+Wyatt Mazour       3   48  16.0  0   21
+Jack Stoll         2   16   8.0  0   10
+Mikale Wilbon      1    3   3.0  0    3
+Total..........   31  490  15.8  0   31
+Opponents......   34  695  20.4  0   87
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+D. Williams        1    5   5.0  0    5
+Total..........    1    5   5.0  0    5
+Opponents......    3   19   6.3  1   10
+
+
+                           |------ PATs -----|
+SCORING          TD  FGs   Kick  Rush Rcv Pass  DXP Saf Pts
+-----------------------------------------------------------
+B. Pickering      0 14-18  40-41  0-0   0  0-0   0   0   82
+Devine Ozigbo    12  0-0    0-0   0-0   0  0-0   0   0   72
+JD Spielman       9  0-0    0-0   0-0   0  0-0   0   0   54
+Adrian Martinez   8  0-0    0-0   1-1   0  2-2   0   0   50
+Stanley Morgan    7  0-0    0-0   0-0   1  0-0   0   0   44
+M. Washington     4  0-0    0-0   0-0   0  0-0   0   0   24
+Jack Stoll        3  0-0    0-0   0-0   0  0-0   0   0   18
+Noah Vedral       1  0-0    0-0   0-0   0  0-0   0   0    6
+Wyatt Mazour      1  0-0    0-0   0-0   0  0-0   0   0    6
+Marquel Dismuke   0  0-0    0-0   0-0   0  0-0   0   1    2
+Kade Warner       0  0-0    0-0   0-0   1  0-0   0   0    2
+Andrew Bunch      0  0-0    0-0   0-0   0  0-1   0   0    0
+Total..........  45 14-18  40-41  1-1   2  2-3   0   1  360
+Opponents......  47 15-20  40-41  1-3   1  1-2   0   2  375
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Adrian Martinez 11   487  629 2617  3246 295.1
+Devine Ozigbo   12   155 1082    0  1082  90.2
+M. Washington   11    78  455    0   455  41.4
+Andrew Bunch     5    63   40  320   360  72.0
+Greg Bell        4    35  173    0   173  43.2
+Wyatt Mazour    12    11   76    0    76   6.3
+Noah Vedral      1    16   13   29    42  42.0
+JD Spielman     10     7   24    0    24   2.4
+Tyjon Lindsey    4     2    9    0     9   2.2
+Austin Rose      7     1    7    0     7   1.0
+Mikale Wilbon    6     4    7    0     7   1.2
+Luke Gifford    12     1    5    0     5   0.4
+Miles Jones      1     1    5    0     5   5.0
+Kade Warner      9     1    4    0     4   0.4
+Stanley Morgan  12     1    4    0     4   0.3
+TEAM            11     5  -25    0   -25  -2.3
+Total.......... 12   868 2508 2966  5474 456.2
+Opponents...... 12   895 2349 2853  5202 433.5
+
+
+FIELD GOALS  FGM-FGA  Pct 1-19  20s  30s  40s  50s  Lg Blk
+----------------------------------------------------------
+B.Pickering   14-18  77.8  1-1  5-5  6-7  2-4  0-1  47   0
+
+
+FG SEQUENCE       Nebraska          OPPONENTS
+---------------------------------------------
+Colorado          43                (40),(35),37,43
+Troy              33,(23),(32)      (37)
+Michigan          (35)              (50),(38)
+Purdue            54                (31),(25)
+Wisconsin         (31)              (30),(28)
+Northwestern      45,(34)           42,(31),(37)
+Minnesota         (32)              -
+Bethune-Cookman   (29)              (28)
+Ohio State        (18)              -
+Illinois          (27)              -
+Michigan State    (36),(20),(47)    (34),41,(26)
+IOWA              (27),(46)         37,(41)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING          No.  Yds   Avg Long  TB  FC I20 Blkd
+-----------------------------------------------------
+Isaac Armstrong   32 1396  43.6   73   3   8   9    1
+C. Lightbourn     24  998  41.6   52   1   3   3    0
+TEAM               1    0   0.0    0   0   0   0    0
+Total..........   57 2394  42.0   73   4  11  12    1
+Opponents......   58 2467  42.5   79   8  16  21    1
+
+
+KICKOFFS         No.   Yds   Avg  TB  OB  Retn  Net YdLn
+--------------------------------------------------------
+C. Lightbourn     52  3284  63.2  28   2
+B. Pickering      18  1076  59.8   6   0
+Isaac Armstrong    1    52  52.0   0   0
+TEAM               1     1   1.0   0   0
+Total..........   72  4413  61.3  34   2   695 39.8   25
+Opponents......   71  4072  57.4  28   3   490 40.6   24
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Devine Ozigbo   12 1082  203    0    0    0 1285 107.1
+JD Spielman     10   24  818  104  169    0 1115 111.5
+Stanley Morgan  12    4 1004   19    0    0 1027  85.6
+M. Washington   11  455  221    0  204    0  880  80.0
+Adrian Martinez 11  629  -11    0    0    0  618  56.2
+Jack Stoll      12    0  245    0   16    0  261  21.8
+Greg Bell        4  173   14    0    0    0  187  46.8
+Wyatt Mazour    12   76   21    0   48    0  145  12.1
+Mike Williams   12    0  122    0    0    0  122  10.2
+Kade Warner      9    4   95    0    0    0   99  11.0
+Kurt Rafdal     12    0   67    0    0    0   67   5.6
+Jaron Woodyard   8    0   10    0   50    0   60   7.5
+Austin Allen    12    0   54    0    0    0   54   4.5
+Bryan Reimers   10    0   52    0    0    0   52   5.2
+Andrew Bunch     5   40    0    0    0    0   40   8.0
+Tyjon Lindsey    4    9   22    1    0    0   32   8.0
+Miles Jones      1    5   21    0    0    0   26  26.0
+Marquel Dismuke  8    0    0   26    0    0   26   3.2
+Tre Neal        12    0    0    0    0   14   14   1.2
+Noah Vedral      1   13    0    0    0    0   13  13.0
+Mikale Wilbon    6    7    0    0    3    0   10   1.7
+K. Legrone       3    0    8    0    0    0    8   2.7
+Austin Rose      7    7    0    0    0    0    7   1.0
+Luke Gifford    12    5    0    0    0    0    5   0.4
+M. Stoltenberg   8    0    0    0    0    2    2   0.2
+TEAM            11  -25    0    0    0    0  -25  -2.3
+Total.......... 12 2508 2966  150  490   16 6130 510.8
+Opponents...... 12 2349 2853  203  695   71 6171 514.2
+
+
+Page 1 / 1Zoom 100%
+
+
+
+Overall Defensive Statistics
+
+                         |--------Tackles--------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blkd
+DEFENSIVE LEADERS  GP-GS Solo  Ast Total   TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kick Saf
+--------------------------------------------------------------------------------------------------
+7  Mohamed Barry   12-12   55   57   112    11-39   2.0-15      .       1   5    .      .    .   .
+5  Dedrick Young   12-12   41   42    83     3-3       .       1-0      5   3    .      .    .   .
+24 Aaron Williams  12-11   45   25    70     3-6       .       1-0      4   1   1-0     .    .   .
+12 Luke Gifford    12-12   35   27    62    13-63   5.5-52      .       2   7    .      1    .   .
+14 Tre Neal        12-12   35   22    57     2-2       .       1-14     5   2    .      2    .   .
+2E Antonio Reed     12-2   32   12    44     3-19   1.0-10     2-0      3   .    .      2    .   .
+94 Khalil Davis     12-0   24   17    41     8-32   3.0-19      .       .   4   1-0     1    .   .
+23 Dicaprio Bootle 12-12   26   13    39      .        .        .      15   .    .      1    .   .
+43 Tyrin Ferguson    8-4   19   17    36     6-21   1.0-4       .       1   .    .      .    .   .
+91 F. Akinmoladun  12-12   11   18    29     3-10   2.5-10      .       .   4    .      .    .   .
+21 Lamar Jackson   12-11   21    7    28     1-1       .       2-0      7   .    .      1    .   .
+96 Carlos Davis     12-9   13   14    27     3-13   1.0-8       .       5   1   1-0     .    .   .
+95 Ben Stille      12-11   10   15    25     5-28   5.0-28      .       2   6    .      .    .   .
+41 D. Williams      12-1   15    8    23     1-0       .       2-0      2   .   1-5     2    .   .
+13 JoJo Domann       8-2   10    9    19     1-7    1.0-7       .       2   .   1-0     2    .   .
+31 Collin Miller    12-0    9    8    17     1-7       .        .       .   .    .      .    .   .
+3  Will Honas        4-0    6    9    15     1-1       .        .       .   1    .      .    .   .
+57 J. Weinmaster    11-0    3   10    13      .        .        .       .   .    .      .    .   .
+6  Eric Lee Jr.      9-1    7    6    13      .        .        .       .   .    .      .    .   .
+1C Cam Taylor       11-0    9    3    12      .        .        .       3   .   1-0     .    .   .
+93 Damion Daniels   12-0    3    9    12     1-1       .        .       .   .   1-0     .    .   .
+4A Caleb Tannor     12-0    6    4    10     1-7    1.0-7       .       .   .    .      .    .   .
+1A Marquel Dismuke   8-0    8    2    10      .        .        .       .   .    .      .    1   1
+44 M. Stoltenberg    8-4    2    7     9     2-7    1.0-6      1-2      .   .    .      .    .   .
+42 J. Stovall        8-0    4    4     8      .        .        .       .   .   1-0     .    .   .
+2D Alex Davis       12-4    1    4     5      .        .        .       .   .    .      .    .   .
+99 Peyton Newell    12-0    1    4     5      .        .       1-0      .   .    .      .    .   .
+97 Deontre Thomas    4-0    4    .     4     1-1       .        .       .   .    .      .    .   .
+18 Guy Thomas        4-0    .    4     4      .        .        .       1   .    .      .    .   .
+16 Ethan Cox        11-0    2    1     3      .        .        .       .   .    .      .    .   .
+9  DaiShon Neal      7-0    1    2     3      .        .        .       .   .    .      .    .   .
+9A Chase Urbach     10-0    2    1     3      .        .        .       .   .   1-0     .    .   .
+10 JD Spielman     10-10    1    1     2      .        .        .       .   .    .      .    .   .
+30 Eli Sullivan      7-0    1    .     1      .        .        .       .   .    .      .    .   .
+75 Fyn Anderson      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+55 Chris Walker      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+47 Matt Jarzynka     1-0    1    .     1     1-6    1.0-6       .       .   .    .      .    .   .
+56 Boe Wilson       12-9    .    1     1      .        .        .       .   .    .      .    .   .
+3E Simon Otte        1-0    .    1     1      .        .        .       .   .    .      .    .   .
+34 Breon Dixon       4-0    1    .     1      .        .        .       .   .    .      .    .   .
+1B Braxton Clark     4-0    1    .     1      .        .        .       .   .    .      .    .   .
+65 C. Gaylord       10-0    1    .     1      .        .        .       .   .    .      .    .   .
+88 Jaron Woodyard    8-0    .    1     1      .        .        .       .   .    .      .    .   .
+81 Kade Warner       9-7    1    .     1      .        .        .       .   .    .      .    .   .
+37 Wyatt Mazour     12-0    .    1     1      .        .        .       .   .    .      .    .   .
+86 Jack Stoll      12-12    1    .     1      .        .        .       .   .    .      .    .   .
+2  Adrian Martinez 11-11    1    .     1      .        .        .       .   .    .      .    .   .
+35 C. Lightbourn     9-0    1    .     1      .        .        .       .   .    .      .    .   .
+22 Devine Ozigbo    12-9    1    .     1      .        .        .       .   .    .      .    .   .
+   Total..........  12-0  471  388   859    71-274   25-172   11-16    58  34   9-5    12    1   1
+   Opponents......  12-0  476  378   854    88-309   28-196   11-71    28  24  11-19   19    1   2
+
+
+
+      
+RUSHING      G-GS   Att Gain Loss  Net   Avg  TD Long Avg/G
+-----------------------------------------------------------
+D.Ozigbo     12-9   155 1100   18 1082   7.0  12   66  90.2
+A.Martinez   11-11  140  847  218  629   4.5   8   53  57.2
+M.Washington 11-2    77  480   25  455   5.9   3   49  41.4
+G.Bell        4-3    35  183   10  173   4.9   0   45  43.2
+W.Mazour     12-0    11   81    5   76   6.9   1   18   6.3
+A.Bunch       5-1    16   69   29   40   2.5   0   23   8.0
+JDSpielman   10-10    7   24    0   24   3.4   0    6   2.4
+N.Vedral      1-0     7   35   22   13   1.9   1   20  13.0
+T.Lindsey     4-0     2    9    0    9   4.5   0    9   2.2
+A.Rose        7-0     1    7    0    7   7.0   0    7   1.0
+M.Wilbon      6-0     4    8    1    7   1.8   0    4   1.2
+L.Gifford    12-12    1    5    0    5   5.0   0    5   0.4
+M.Jones       1-0     1    5    0    5   5.0   0    5   5.0
+S.Morgan     12-12    1    4    0    4   4.0   0    4   0.3
+K.Warner      9-7     1    4    0    4   4.0   0    4   0.4
+TEAM          11-0    5    0   25  -25  -5.0   0    0  -2.3
+Total......... 12   464 2861  353 2508   5.4  25   66 209.0
+Opponents..... 12   470 2621  272 2349   5.0  29   88 195.8
+
+
+PASSING     G-GS  Effic Cmp-Att-Int  Pct  Yds  TD Lng Avg/G
+------------------------------------------------------------
+A.Martinez  11-11 139.46  224-347-8  64.6 2617  17  75 237.9
+A.Bunch       5-1 128.68   31-47-2   66.0  320   2  33  64.0
+N.Vedral      1-0  27.07    2-9-1    22.2   29   0  21  29.0
+M.Washington 11-2   0.00    0-1-0     0.0    0   0   0   0.0
+Total........ 12  135.36  257-404-11 63.6 2966  19  75 247.2
+Opponents.... 12  118.86  238-425-11 56.0 2853  15  69 237.8
+
+
+RECEIVING       GP-GS  No.  Yds   Avg  TD Long Avg/G
+----------------------------------------------------
+Stanley Morgan  12-12   70 1004  14.3   7   67  83.7
+JD Spielman     10-10   66  818  12.4   8   75  81.8
+M. Washington   11-2    24  221   9.2   1   35  20.1
+Devine Ozigbo   12-9    23  203   8.8   0   19  16.9
+Jack Stoll      12-12   21  245  11.7   3   37  20.4
+Kade Warner      9-7    17   95   5.6   0   14  10.6
+Mike Williams   12-2    12  122  10.2   0   24  10.2
+Bryan Reimers   10-3     6   52   8.7   0   20   5.2
+Kurt Rafdal     12-0     4   67  16.8   0   26   5.6
+Greg Bell        4-3     4   14   3.5   0    6   3.5
+Tyjon Lindsey    4-0     3   22   7.3   0   14   5.5
+Austin Allen    12-0     2   54  27.0   0   41   4.5
+Wyatt Mazour    12-0     1   21  21.0   0   21   1.8
+Miles Jones      1-0     1   21  21.0   0   21  21.0
+Jaron Woodyard   8-0     1   10  10.0   0   10   1.2
+K. Legrone       3-0     1    8   8.0   0    8   2.7
+Adrian Martinez 11-11    1  -11 -11.0   0    0  -1.0
+Total.......... 12     257 2966  11.5  19   75 247.2
+Opponents...... 12     238 2853  12.0  15   69 237.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+JD Spielman        6  104  17.3  1   77
+Tyjon Lindsey      5    1   0.2  0    3
+Stanley Morgan     4   19   4.8  0   18
+Marquel Dismuke    1   26  26.0  0    0
+Total..........   16  150   9.4  1   77
+Opponents......   18  203  11.3  2   60
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Lamar Jackson      2    0   0.0  0    0
+D. Williams        2    0   0.0  0    0
+Antonio Reed       2    0   0.0  0    0
+Dedrick Young      1    0   0.0  0    0
+Peyton Newell      1    0   0.0  0    0
+Aaron Williams     1    0   0.0  0    0
+M. Stoltenberg     1    2   2.0  0    2
+Tre Neal           1   14  14.0  0   14
+Total..........   11   16   1.5  0   14
+Opponents......   11   71   6.5  0   22
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+M. Washington     13  204  15.7  0   27
+JD Spielman        8  169  21.1  0   31
+Jaron Woodyard     4   50  12.5  0   19
+Wyatt Mazour       3   48  16.0  0   21
+Jack Stoll         2   16   8.0  0   10
+Mikale Wilbon      1    3   3.0  0    3
+Total..........   31  490  15.8  0   31
+Opponents......   34  695  20.4  0   87
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+D. Williams        1    5   5.0  0    5
+Total..........    1    5   5.0  0    5
+Opponents......    3   19   6.3  1   10
+
+
+                           |------ PATs -----|
+SCORING          TD  FGs   Kick  Rush Rcv Pass  DXP Saf Pts
+-----------------------------------------------------------
+B. Pickering      0 14-18  40-41  0-0   0  0-0   0   0   82
+Devine Ozigbo    12  0-0    0-0   0-0   0  0-0   0   0   72
+JD Spielman       9  0-0    0-0   0-0   0  0-0   0   0   54
+Adrian Martinez   8  0-0    0-0   1-1   0  2-2   0   0   50
+Stanley Morgan    7  0-0    0-0   0-0   1  0-0   0   0   44
+M. Washington     4  0-0    0-0   0-0   0  0-0   0   0   24
+Jack Stoll        3  0-0    0-0   0-0   0  0-0   0   0   18
+Noah Vedral       1  0-0    0-0   0-0   0  0-0   0   0    6
+Wyatt Mazour      1  0-0    0-0   0-0   0  0-0   0   0    6
+Marquel Dismuke   0  0-0    0-0   0-0   0  0-0   0   1    2
+Kade Warner       0  0-0    0-0   0-0   1  0-0   0   0    2
+Andrew Bunch      0  0-0    0-0   0-0   0  0-1   0   0    0
+Total..........  45 14-18  40-41  1-1   2  2-3   0   1  360
+Opponents......  47 15-20  40-41  1-3   1  1-2   0   2  375
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Adrian Martinez 11   487  629 2617  3246 295.1
+Devine Ozigbo   12   155 1082    0  1082  90.2
+M. Washington   11    78  455    0   455  41.4
+Andrew Bunch     5    63   40  320   360  72.0
+Greg Bell        4    35  173    0   173  43.2
+Wyatt Mazour    12    11   76    0    76   6.3
+Noah Vedral      1    16   13   29    42  42.0
+JD Spielman     10     7   24    0    24   2.4
+Tyjon Lindsey    4     2    9    0     9   2.2
+Austin Rose      7     1    7    0     7   1.0
+Mikale Wilbon    6     4    7    0     7   1.2
+Luke Gifford    12     1    5    0     5   0.4
+Miles Jones      1     1    5    0     5   5.0
+Kade Warner      9     1    4    0     4   0.4
+Stanley Morgan  12     1    4    0     4   0.3
+TEAM            11     5  -25    0   -25  -2.3
+Total.......... 12   868 2508 2966  5474 456.2
+Opponents...... 12   895 2349 2853  5202 433.5
+
+
+FIELD GOALS  FGM-FGA  Pct 1-19  20s  30s  40s  50s  Lg Blk
+----------------------------------------------------------
+B.Pickering   14-18  77.8  1-1  5-5  6-7  2-4  0-1  47   0
+
+
+FG SEQUENCE       Nebraska          OPPONENTS
+---------------------------------------------
+Colorado          43                (40),(35),37,43
+Troy              33,(23),(32)      (37)
+Michigan          (35)              (50),(38)
+Purdue            54                (31),(25)
+Wisconsin         (31)              (30),(28)
+Northwestern      45,(34)           42,(31),(37)
+Minnesota         (32)              -
+Bethune-Cookman   (29)              (28)
+Ohio State        (18)              -
+Illinois          (27)              -
+Michigan State    (36),(20),(47)    (34),41,(26)
+IOWA              (27),(46)         37,(41)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING          No.  Yds   Avg Long  TB  FC I20 Blkd
+-----------------------------------------------------
+Isaac Armstrong   32 1396  43.6   73   3   8   9    1
+C. Lightbourn     24  998  41.6   52   1   3   3    0
+TEAM               1    0   0.0    0   0   0   0    0
+Total..........   57 2394  42.0   73   4  11  12    1
+Opponents......   58 2467  42.5   79   8  16  21    1
+
+
+KICKOFFS         No.   Yds   Avg  TB  OB  Retn  Net YdLn
+--------------------------------------------------------
+C. Lightbourn     52  3284  63.2  28   2
+B. Pickering      18  1076  59.8   6   0
+Isaac Armstrong    1    52  52.0   0   0
+TEAM               1     1   1.0   0   0
+Total..........   72  4413  61.3  34   2   695 39.8   25
+Opponents......   71  4072  57.4  28   3   490 40.6   24
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Devine Ozigbo   12 1082  203    0    0    0 1285 107.1
+JD Spielman     10   24  818  104  169    0 1115 111.5
+Stanley Morgan  12    4 1004   19    0    0 1027  85.6
+M. Washington   11  455  221    0  204    0  880  80.0
+Adrian Martinez 11  629  -11    0    0    0  618  56.2
+Jack Stoll      12    0  245    0   16    0  261  21.8
+Greg Bell        4  173   14    0    0    0  187  46.8
+Wyatt Mazour    12   76   21    0   48    0  145  12.1
+Mike Williams   12    0  122    0    0    0  122  10.2
+Kade Warner      9    4   95    0    0    0   99  11.0
+Kurt Rafdal     12    0   67    0    0    0   67   5.6
+Jaron Woodyard   8    0   10    0   50    0   60   7.5
+Austin Allen    12    0   54    0    0    0   54   4.5
+Bryan Reimers   10    0   52    0    0    0   52   5.2
+Andrew Bunch     5   40    0    0    0    0   40   8.0
+Tyjon Lindsey    4    9   22    1    0    0   32   8.0
+Miles Jones      1    5   21    0    0    0   26  26.0
+Marquel Dismuke  8    0    0   26    0    0   26   3.2
+Tre Neal        12    0    0    0    0   14   14   1.2
+Noah Vedral      1   13    0    0    0    0   13  13.0
+Mikale Wilbon    6    7    0    0    3    0   10   1.7
+K. Legrone       3    0    8    0    0    0    8   2.7
+Austin Rose      7    7    0    0    0    0    7   1.0
+Luke Gifford    12    5    0    0    0    0    5   0.4
+M. Stoltenberg   8    0    0    0    0    2    2   0.2
+TEAM            11  -25    0    0    0    0  -25  -2.3
+Total.......... 12 2508 2966  150  490   16 6130 510.8
+Opponents...... 12 2349 2853  203  695   71 6171 514.2
+
+                         |--------Tackles--------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blkd
+DEFENSIVE LEADERS  GP-GS Solo  Ast Total   TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kick Saf
+--------------------------------------------------------------------------------------------------
+7  Mohamed Barry   12-12   55   57   112    11-39   2.0-15      .       1   5    .      .    .   .
+5  Dedrick Young   12-12   41   42    83     3-3       .       1-0      5   3    .      .    .   .
+24 Aaron Williams  12-11   45   25    70     3-6       .       1-0      4   1   1-0     .    .   .
+12 Luke Gifford    12-12   35   27    62    13-63   5.5-52      .       2   7    .      1    .   .
+14 Tre Neal        12-12   35   22    57     2-2       .       1-14     5   2    .      2    .   .
+2E Antonio Reed     12-2   32   12    44     3-19   1.0-10     2-0      3   .    .      2    .   .
+94 Khalil Davis     12-0   24   17    41     8-32   3.0-19      .       .   4   1-0     1    .   .
+23 Dicaprio Bootle 12-12   26   13    39      .        .        .      15   .    .      1    .   .
+43 Tyrin Ferguson    8-4   19   17    36     6-21   1.0-4       .       1   .    .      .    .   .
+91 F. Akinmoladun  12-12   11   18    29     3-10   2.5-10      .       .   4    .      .    .   .
+21 Lamar Jackson   12-11   21    7    28     1-1       .       2-0      7   .    .      1    .   .
+96 Carlos Davis     12-9   13   14    27     3-13   1.0-8       .       5   1   1-0     .    .   .
+95 Ben Stille      12-11   10   15    25     5-28   5.0-28      .       2   6    .      .    .   .
+41 D. Williams      12-1   15    8    23     1-0       .       2-0      2   .   1-5     2    .   .
+13 JoJo Domann       8-2   10    9    19     1-7    1.0-7       .       2   .   1-0     2    .   .
+31 Collin Miller    12-0    9    8    17     1-7       .        .       .   .    .      .    .   .
+3  Will Honas        4-0    6    9    15     1-1       .        .       .   1    .      .    .   .
+57 J. Weinmaster    11-0    3   10    13      .        .        .       .   .    .      .    .   .
+6  Eric Lee Jr.      9-1    7    6    13      .        .        .       .   .    .      .    .   .
+1C Cam Taylor       11-0    9    3    12      .        .        .       3   .   1-0     .    .   .
+93 Damion Daniels   12-0    3    9    12     1-1       .        .       .   .   1-0     .    .   .
+4A Caleb Tannor     12-0    6    4    10     1-7    1.0-7       .       .   .    .      .    .   .
+1A Marquel Dismuke   8-0    8    2    10      .        .        .       .   .    .      .    1   1
+44 M. Stoltenberg    8-4    2    7     9     2-7    1.0-6      1-2      .   .    .      .    .   .
+42 J. Stovall        8-0    4    4     8      .        .        .       .   .   1-0     .    .   .
+2D Alex Davis       12-4    1    4     5      .        .        .       .   .    .      .    .   .
+99 Peyton Newell    12-0    1    4     5      .        .       1-0      .   .    .      .    .   .
+97 Deontre Thomas    4-0    4    .     4     1-1       .        .       .   .    .      .    .   .
+18 Guy Thomas        4-0    .    4     4      .        .        .       1   .    .      .    .   .
+16 Ethan Cox        11-0    2    1     3      .        .        .       .   .    .      .    .   .
+9  DaiShon Neal      7-0    1    2     3      .        .        .       .   .    .      .    .   .
+9A Chase Urbach     10-0    2    1     3      .        .        .       .   .   1-0     .    .   .
+10 JD Spielman     10-10    1    1     2      .        .        .       .   .    .      .    .   .
+30 Eli Sullivan      7-0    1    .     1      .        .        .       .   .    .      .    .   .
+75 Fyn Anderson      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+55 Chris Walker      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+47 Matt Jarzynka     1-0    1    .     1     1-6    1.0-6       .       .   .    .      .    .   .
+56 Boe Wilson       12-9    .    1     1      .        .        .       .   .    .      .    .   .
+3E Simon Otte        1-0    .    1     1      .        .        .       .   .    .      .    .   .
+34 Breon Dixon       4-0    1    .     1      .        .        .       .   .    .      .    .   .
+1B Braxton Clark     4-0    1    .     1      .        .        .       .   .    .      .    .   .
+65 C. Gaylord       10-0    1    .     1      .        .        .       .   .    .      .    .   .
+88 Jaron Woodyard    8-0    .    1     1      .        .        .       .   .    .      .    .   .
+81 Kade Warner       9-7    1    .     1      .        .        .       .   .    .      .    .   .
+37 Wyatt Mazour     12-0    .    1     1      .        .        .       .   .    .      .    .   .
+86 Jack Stoll      12-12    1    .     1      .        .        .       .   .    .      .    .   .
+2  Adrian Martinez 11-11    1    .     1      .        .        .       .   .    .      .    .   .
+35 C. Lightbourn     9-0    1    .     1      .        .        .       .   .    .      .    .   .
+22 Devine Ozigbo    12-9    1    .     1      .        .        .       .   .    .      .    .   .
+   Total..........  12-0  471  388   859    71-274   25-172   11-16    58  34   9-5    12    1   1
+   Opponents......  12-0  476  378   854    88-309   28-196   11-71    28  24  11-19   19    1   2
+
+          2018 Nebraska Football
+         Overall Team Statistics
+                All games
+
+TEAM STATISTICS          NEB          OPP
+-----------------------------------------
+SCORING...........       360          375
+  Points Per Game       30.0         31.2
+  Pts Off Turnovers       71           54
+FIRST DOWNS.......       278          272
+  Rushing.........       130          114
+  Passing.........       130          129
+  Penalty.........        18           29
+RUSHING YARDAGE...      2508         2349
+  Yards gained....      2861         2621
+  Yards lost......       353          272
+  Rushing Attempts       464          470
+  Avg. Per Rush...       5.4          5.0
+  Avg. Per Game...     209.0        195.8
+  TDs Rushing.....        25           29
+PASSING YARDAGE...      2966         2853
+  Comp-Att-Int... 257-404-11   238-425-11
+  Avg. Per Pass...       7.3          6.7
+  Avg. Per Catch..      11.5         12.0
+  Avg. Per Game...     247.2        237.8
+  TDs Passing.....        19           15
+TOTAL OFFENSE.....      5474         5202
+  Total Plays.....       868          895
+  Avg. Per Play...       6.3          5.8
+  Avg. Per Game...     456.2        433.5
+KICK RETURNS-Yds..    31-490       34-695
+PUNT RETURNS-Yds..    16-150       18-203
+INT RETURNS-Yds...     11-16        11-71
+KICK RETURN AVG...      15.8         20.4
+PUNT RETURN AVG...       9.4         11.3
+INT RETURN AVG....       1.5          6.5
+FUMBLES-LOST......     28-11         22-9
+PENALTIES-Yards...    92-850       78-681
+  Avg. Per Game...      70.8         56.8
+PUNTS-Yards.......   57-2394      58-2467
+  Avg. Per Punt...      42.0         42.5
+  Net punt avg....      37.0         37.2
+KICKOFFS-Yards....   72-4413      71-4072
+  Avg. Per Kick...      61.3         57.4
+  Net kick avg....      39.8         40.6
+POSS. TIME/Game...     27:44        32:16
+3RD-DOWN Conv. ...    58/156       76/176
+  3rd-Down Pct....       37%          43%
+4TH-DOWN Conv. ...      9/20        11/19
+  4th-Down Pct....       45%          58%
+SACKS BY-Yards....    25-172       28-196
+MISC YARDS........         0            0
+TOUCHDOWNS SCORED         45           47
+FIELD GOALS-ATTS..     14-18        15-20
+ON-SIDE KICKS.....       0-0          0-1
+RED-ZONE SCORES  (39-44) 89%  (45-55) 82%
+RED-ZONE TDs.... (27-44) 61%  (33-55) 60%
+PAT-ATTEMPTS.... (40-41) 98%  (40-41) 98%
+ATTENDANCE........    623240       407962
+  Games/Avg.......   7/89034      5/81592
+
+
+SCORE BY
+QUARTERS   1st  2nd  3rd  4th  OT     Tot
+--------   ---  ---  ---  ---  --     ---
+NEB......   98   91   66  105   0  -  360
+OPP......   93  106   84   89   3  -  375
+
+
+RUSHING      G-GS   Att Gain Loss  Net   Avg  TD Long Avg/G
+-----------------------------------------------------------
+D.Ozigbo     12-9   155 1100   18 1082   7.0  12   66  90.2
+A.Martinez   11-11  140  847  218  629   4.5   8   53  57.2
+M.Washington 11-2    77  480   25  455   5.9   3   49  41.4
+G.Bell        4-3    35  183   10  173   4.9   0   45  43.2
+W.Mazour     12-0    11   81    5   76   6.9   1   18   6.3
+A.Bunch       5-1    16   69   29   40   2.5   0   23   8.0
+JDSpielman   10-10    7   24    0   24   3.4   0    6   2.4
+N.Vedral      1-0     7   35   22   13   1.9   1   20  13.0
+T.Lindsey     4-0     2    9    0    9   4.5   0    9   2.2
+A.Rose        7-0     1    7    0    7   7.0   0    7   1.0
+M.Wilbon      6-0     4    8    1    7   1.8   0    4   1.2
+L.Gifford    12-12    1    5    0    5   5.0   0    5   0.4
+M.Jones       1-0     1    5    0    5   5.0   0    5   5.0
+S.Morgan     12-12    1    4    0    4   4.0   0    4   0.3
+K.Warner      9-7     1    4    0    4   4.0   0    4   0.4
+TEAM          11-0    5    0   25  -25  -5.0   0    0  -2.3
+Total......... 12   464 2861  353 2508   5.4  25   66 209.0
+Opponents..... 12   470 2621  272 2349   5.0  29   88 195.8
+
+
+PASSING     G-GS  Effic Cmp-Att-Int  Pct  Yds  TD Lng Avg/G
+------------------------------------------------------------
+A.Martinez  11-11 139.46  224-347-8  64.6 2617  17  75 237.9
+A.Bunch       5-1 128.68   31-47-2   66.0  320   2  33  64.0
+N.Vedral      1-0  27.07    2-9-1    22.2   29   0  21  29.0
+M.Washington 11-2   0.00    0-1-0     0.0    0   0   0   0.0
+Total........ 12  135.36  257-404-11 63.6 2966  19  75 247.2
+Opponents.... 12  118.86  238-425-11 56.0 2853  15  69 237.8
+
+
+RECEIVING       GP-GS  No.  Yds   Avg  TD Long Avg/G
+----------------------------------------------------
+Stanley Morgan  12-12   70 1004  14.3   7   67  83.7
+JD Spielman     10-10   66  818  12.4   8   75  81.8
+M. Washington   11-2    24  221   9.2   1   35  20.1
+Devine Ozigbo   12-9    23  203   8.8   0   19  16.9
+Jack Stoll      12-12   21  245  11.7   3   37  20.4
+Kade Warner      9-7    17   95   5.6   0   14  10.6
+Mike Williams   12-2    12  122  10.2   0   24  10.2
+Bryan Reimers   10-3     6   52   8.7   0   20   5.2
+Kurt Rafdal     12-0     4   67  16.8   0   26   5.6
+Greg Bell        4-3     4   14   3.5   0    6   3.5
+Tyjon Lindsey    4-0     3   22   7.3   0   14   5.5
+Austin Allen    12-0     2   54  27.0   0   41   4.5
+Wyatt Mazour    12-0     1   21  21.0   0   21   1.8
+Miles Jones      1-0     1   21  21.0   0   21  21.0
+Jaron Woodyard   8-0     1   10  10.0   0   10   1.2
+K. Legrone       3-0     1    8   8.0   0    8   2.7
+Adrian Martinez 11-11    1  -11 -11.0   0    0  -1.0
+Total.......... 12     257 2966  11.5  19   75 247.2
+Opponents...... 12     238 2853  12.0  15   69 237.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+JD Spielman        6  104  17.3  1   77
+Tyjon Lindsey      5    1   0.2  0    3
+Stanley Morgan     4   19   4.8  0   18
+Marquel Dismuke    1   26  26.0  0    0
+Total..........   16  150   9.4  1   77
+Opponents......   18  203  11.3  2   60
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Lamar Jackson      2    0   0.0  0    0
+D. Williams        2    0   0.0  0    0
+Antonio Reed       2    0   0.0  0    0
+Dedrick Young      1    0   0.0  0    0
+Peyton Newell      1    0   0.0  0    0
+Aaron Williams     1    0   0.0  0    0
+M. Stoltenberg     1    2   2.0  0    2
+Tre Neal           1   14  14.0  0   14
+Total..........   11   16   1.5  0   14
+Opponents......   11   71   6.5  0   22
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+M. Washington     13  204  15.7  0   27
+JD Spielman        8  169  21.1  0   31
+Jaron Woodyard     4   50  12.5  0   19
+Wyatt Mazour       3   48  16.0  0   21
+Jack Stoll         2   16   8.0  0   10
+Mikale Wilbon      1    3   3.0  0    3
+Total..........   31  490  15.8  0   31
+Opponents......   34  695  20.4  0   87
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+D. Williams        1    5   5.0  0    5
+Total..........    1    5   5.0  0    5
+Opponents......    3   19   6.3  1   10
+
+
+                           |------ PATs -----|
+SCORING          TD  FGs   Kick  Rush Rcv Pass  DXP Saf Pts
+-----------------------------------------------------------
+B. Pickering      0 14-18  40-41  0-0   0  0-0   0   0   82
+Devine Ozigbo    12  0-0    0-0   0-0   0  0-0   0   0   72
+JD Spielman       9  0-0    0-0   0-0   0  0-0   0   0   54
+Adrian Martinez   8  0-0    0-0   1-1   0  2-2   0   0   50
+Stanley Morgan    7  0-0    0-0   0-0   1  0-0   0   0   44
+M. Washington     4  0-0    0-0   0-0   0  0-0   0   0   24
+Jack Stoll        3  0-0    0-0   0-0   0  0-0   0   0   18
+Noah Vedral       1  0-0    0-0   0-0   0  0-0   0   0    6
+Wyatt Mazour      1  0-0    0-0   0-0   0  0-0   0   0    6
+Marquel Dismuke   0  0-0    0-0   0-0   0  0-0   0   1    2
+Kade Warner       0  0-0    0-0   0-0   1  0-0   0   0    2
+Andrew Bunch      0  0-0    0-0   0-0   0  0-1   0   0    0
+Total..........  45 14-18  40-41  1-1   2  2-3   0   1  360
+Opponents......  47 15-20  40-41  1-3   1  1-2   0   2  375
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Adrian Martinez 11   487  629 2617  3246 295.1
+Devine Ozigbo   12   155 1082    0  1082  90.2
+M. Washington   11    78  455    0   455  41.4
+Andrew Bunch     5    63   40  320   360  72.0
+Greg Bell        4    35  173    0   173  43.2
+Wyatt Mazour    12    11   76    0    76   6.3
+Noah Vedral      1    16   13   29    42  42.0
+JD Spielman     10     7   24    0    24   2.4
+Tyjon Lindsey    4     2    9    0     9   2.2
+Austin Rose      7     1    7    0     7   1.0
+Mikale Wilbon    6     4    7    0     7   1.2
+Luke Gifford    12     1    5    0     5   0.4
+Miles Jones      1     1    5    0     5   5.0
+Kade Warner      9     1    4    0     4   0.4
+Stanley Morgan  12     1    4    0     4   0.3
+TEAM            11     5  -25    0   -25  -2.3
+Total.......... 12   868 2508 2966  5474 456.2
+Opponents...... 12   895 2349 2853  5202 433.5
+
+
+FIELD GOALS  FGM-FGA  Pct 1-19  20s  30s  40s  50s  Lg Blk
+----------------------------------------------------------
+B.Pickering   14-18  77.8  1-1  5-5  6-7  2-4  0-1  47   0
+
+
+FG SEQUENCE       Nebraska          OPPONENTS
+---------------------------------------------
+Colorado          43                (40),(35),37,43
+Troy              33,(23),(32)      (37)
+Michigan          (35)              (50),(38)
+Purdue            54                (31),(25)
+Wisconsin         (31)              (30),(28)
+Northwestern      45,(34)           42,(31),(37)
+Minnesota         (32)              -
+Bethune-Cookman   (29)              (28)
+Ohio State        (18)              -
+Illinois          (27)              -
+Michigan State    (36),(20),(47)    (34),41,(26)
+IOWA              (27),(46)         37,(41)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING          No.  Yds   Avg Long  TB  FC I20 Blkd
+-----------------------------------------------------
+Isaac Armstrong   32 1396  43.6   73   3   8   9    1
+C. Lightbourn     24  998  41.6   52   1   3   3    0
+TEAM               1    0   0.0    0   0   0   0    0
+Total..........   57 2394  42.0   73   4  11  12    1
+Opponents......   58 2467  42.5   79   8  16  21    1
+
+
+KICKOFFS         No.   Yds   Avg  TB  OB  Retn  Net YdLn
+--------------------------------------------------------
+C. Lightbourn     52  3284  63.2  28   2
+B. Pickering      18  1076  59.8   6   0
+Isaac Armstrong    1    52  52.0   0   0
+TEAM               1     1   1.0   0   0
+Total..........   72  4413  61.3  34   2   695 39.8   25
+Opponents......   71  4072  57.4  28   3   490 40.6   24
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Devine Ozigbo   12 1082  203    0    0    0 1285 107.1
+JD Spielman     10   24  818  104  169    0 1115 111.5
+Stanley Morgan  12    4 1004   19    0    0 1027  85.6
+M. Washington   11  455  221    0  204    0  880  80.0
+Adrian Martinez 11  629  -11    0    0    0  618  56.2
+Jack Stoll      12    0  245    0   16    0  261  21.8
+Greg Bell        4  173   14    0    0    0  187  46.8
+Wyatt Mazour    12   76   21    0   48    0  145  12.1
+Mike Williams   12    0  122    0    0    0  122  10.2
+Kade Warner      9    4   95    0    0    0   99  11.0
+Kurt Rafdal     12    0   67    0    0    0   67   5.6
+Jaron Woodyard   8    0   10    0   50    0   60   7.5
+Austin Allen    12    0   54    0    0    0   54   4.5
+Bryan Reimers   10    0   52    0    0    0   52   5.2
+Andrew Bunch     5   40    0    0    0    0   40   8.0
+Tyjon Lindsey    4    9   22    1    0    0   32   8.0
+Miles Jones      1    5   21    0    0    0   26  26.0
+Marquel Dismuke  8    0    0   26    0    0   26   3.2
+Tre Neal        12    0    0    0    0   14   14   1.2
+Noah Vedral      1   13    0    0    0    0   13  13.0
+Mikale Wilbon    6    7    0    0    3    0   10   1.7
+K. Legrone       3    0    8    0    0    0    8   2.7
+Austin Rose      7    7    0    0    0    0    7   1.0
+Luke Gifford    12    5    0    0    0    0    5   0.4
+M. Stoltenberg   8    0    0    0    0    2    2   0.2
+TEAM            11  -25    0    0    0    0  -25  -2.3
+Total.......... 12 2508 2966  150  490   16 6130 510.8
+Opponents...... 12 2349 2853  203  695   71 6171 514.2
+
+
+Page 1 / 1Zoom 100%
+
+
+
+Overall Defensive Statistics
+
+                         |--------Tackles--------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blkd
+DEFENSIVE LEADERS  GP-GS Solo  Ast Total   TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kick Saf
+--------------------------------------------------------------------------------------------------
+7  Mohamed Barry   12-12   55   57   112    11-39   2.0-15      .       1   5    .      .    .   .
+5  Dedrick Young   12-12   41   42    83     3-3       .       1-0      5   3    .      .    .   .
+24 Aaron Williams  12-11   45   25    70     3-6       .       1-0      4   1   1-0     .    .   .
+12 Luke Gifford    12-12   35   27    62    13-63   5.5-52      .       2   7    .      1    .   .
+14 Tre Neal        12-12   35   22    57     2-2       .       1-14     5   2    .      2    .   .
+2E Antonio Reed     12-2   32   12    44     3-19   1.0-10     2-0      3   .    .      2    .   .
+94 Khalil Davis     12-0   24   17    41     8-32   3.0-19      .       .   4   1-0     1    .   .
+23 Dicaprio Bootle 12-12   26   13    39      .        .        .      15   .    .      1    .   .
+43 Tyrin Ferguson    8-4   19   17    36     6-21   1.0-4       .       1   .    .      .    .   .
+91 F. Akinmoladun  12-12   11   18    29     3-10   2.5-10      .       .   4    .      .    .   .
+21 Lamar Jackson   12-11   21    7    28     1-1       .       2-0      7   .    .      1    .   .
+96 Carlos Davis     12-9   13   14    27     3-13   1.0-8       .       5   1   1-0     .    .   .
+95 Ben Stille      12-11   10   15    25     5-28   5.0-28      .       2   6    .      .    .   .
+41 D. Williams      12-1   15    8    23     1-0       .       2-0      2   .   1-5     2    .   .
+13 JoJo Domann       8-2   10    9    19     1-7    1.0-7       .       2   .   1-0     2    .   .
+31 Collin Miller    12-0    9    8    17     1-7       .        .       .   .    .      .    .   .
+3  Will Honas        4-0    6    9    15     1-1       .        .       .   1    .      .    .   .
+57 J. Weinmaster    11-0    3   10    13      .        .        .       .   .    .      .    .   .
+6  Eric Lee Jr.      9-1    7    6    13      .        .        .       .   .    .      .    .   .
+1C Cam Taylor       11-0    9    3    12      .        .        .       3   .   1-0     .    .   .
+93 Damion Daniels   12-0    3    9    12     1-1       .        .       .   .   1-0     .    .   .
+4A Caleb Tannor     12-0    6    4    10     1-7    1.0-7       .       .   .    .      .    .   .
+1A Marquel Dismuke   8-0    8    2    10      .        .        .       .   .    .      .    1   1
+44 M. Stoltenberg    8-4    2    7     9     2-7    1.0-6      1-2      .   .    .      .    .   .
+42 J. Stovall        8-0    4    4     8      .        .        .       .   .   1-0     .    .   .
+2D Alex Davis       12-4    1    4     5      .        .        .       .   .    .      .    .   .
+99 Peyton Newell    12-0    1    4     5      .        .       1-0      .   .    .      .    .   .
+97 Deontre Thomas    4-0    4    .     4     1-1       .        .       .   .    .      .    .   .
+18 Guy Thomas        4-0    .    4     4      .        .        .       1   .    .      .    .   .
+16 Ethan Cox        11-0    2    1     3      .        .        .       .   .    .      .    .   .
+9  DaiShon Neal      7-0    1    2     3      .        .        .       .   .    .      .    .   .
+9A Chase Urbach     10-0    2    1     3      .        .        .       .   .   1-0     .    .   .
+10 JD Spielman     10-10    1    1     2      .        .        .       .   .    .      .    .   .
+30 Eli Sullivan      7-0    1    .     1      .        .        .       .   .    .      .    .   .
+75 Fyn Anderson      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+55 Chris Walker      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+47 Matt Jarzynka     1-0    1    .     1     1-6    1.0-6       .       .   .    .      .    .   .
+56 Boe Wilson       12-9    .    1     1      .        .        .       .   .    .      .    .   .
+3E Simon Otte        1-0    .    1     1      .        .        .       .   .    .      .    .   .
+34 Breon Dixon       4-0    1    .     1      .        .        .       .   .    .      .    .   .
+1B Braxton Clark     4-0    1    .     1      .        .        .       .   .    .      .    .   .
+65 C. Gaylord       10-0    1    .     1      .        .        .       .   .    .      .    .   .
+88 Jaron Woodyard    8-0    .    1     1      .        .        .       .   .    .      .    .   .
+81 Kade Warner       9-7    1    .     1      .        .        .       .   .    .      .    .   .
+37 Wyatt Mazour     12-0    .    1     1      .        .        .       .   .    .      .    .   .
+86 Jack Stoll      12-12    1    .     1      .        .        .       .   .    .      .    .   .
+2  Adrian Martinez 11-11    1    .     1      .        .        .       .   .    .      .    .   .
+35 C. Lightbourn     9-0    1    .     1      .        .        .       .   .    .      .    .   .
+22 Devine Ozigbo    12-9    1    .     1      .        .        .       .   .    .      .    .   .
+   Total..........  12-0  471  388   859    71-274   25-172   11-16    58  34   9-5    12    1   1
+   Opponents......  12-0  476  378   854    88-309   28-196   11-71    28  24  11-19   19    1   2
+
+
+
+      
+RUSHING      G-GS   Att Gain Loss  Net   Avg  TD Long Avg/G
+-----------------------------------------------------------
+D.Ozigbo     12-9   155 1100   18 1082   7.0  12   66  90.2
+A.Martinez   11-11  140  847  218  629   4.5   8   53  57.2
+M.Washington 11-2    77  480   25  455   5.9   3   49  41.4
+G.Bell        4-3    35  183   10  173   4.9   0   45  43.2
+W.Mazour     12-0    11   81    5   76   6.9   1   18   6.3
+A.Bunch       5-1    16   69   29   40   2.5   0   23   8.0
+JDSpielman   10-10    7   24    0   24   3.4   0    6   2.4
+N.Vedral      1-0     7   35   22   13   1.9   1   20  13.0
+T.Lindsey     4-0     2    9    0    9   4.5   0    9   2.2
+A.Rose        7-0     1    7    0    7   7.0   0    7   1.0
+M.Wilbon      6-0     4    8    1    7   1.8   0    4   1.2
+L.Gifford    12-12    1    5    0    5   5.0   0    5   0.4
+M.Jones       1-0     1    5    0    5   5.0   0    5   5.0
+S.Morgan     12-12    1    4    0    4   4.0   0    4   0.3
+K.Warner      9-7     1    4    0    4   4.0   0    4   0.4
+TEAM          11-0    5    0   25  -25  -5.0   0    0  -2.3
+Total......... 12   464 2861  353 2508   5.4  25   66 209.0
+Opponents..... 12   470 2621  272 2349   5.0  29   88 195.8
+
+
+PASSING     G-GS  Effic Cmp-Att-Int  Pct  Yds  TD Lng Avg/G
+------------------------------------------------------------
+A.Martinez  11-11 139.46  224-347-8  64.6 2617  17  75 237.9
+A.Bunch       5-1 128.68   31-47-2   66.0  320   2  33  64.0
+N.Vedral      1-0  27.07    2-9-1    22.2   29   0  21  29.0
+M.Washington 11-2   0.00    0-1-0     0.0    0   0   0   0.0
+Total........ 12  135.36  257-404-11 63.6 2966  19  75 247.2
+Opponents.... 12  118.86  238-425-11 56.0 2853  15  69 237.8
+
+
+RECEIVING       GP-GS  No.  Yds   Avg  TD Long Avg/G
+----------------------------------------------------
+Stanley Morgan  12-12   70 1004  14.3   7   67  83.7
+JD Spielman     10-10   66  818  12.4   8   75  81.8
+M. Washington   11-2    24  221   9.2   1   35  20.1
+Devine Ozigbo   12-9    23  203   8.8   0   19  16.9
+Jack Stoll      12-12   21  245  11.7   3   37  20.4
+Kade Warner      9-7    17   95   5.6   0   14  10.6
+Mike Williams   12-2    12  122  10.2   0   24  10.2
+Bryan Reimers   10-3     6   52   8.7   0   20   5.2
+Kurt Rafdal     12-0     4   67  16.8   0   26   5.6
+Greg Bell        4-3     4   14   3.5   0    6   3.5
+Tyjon Lindsey    4-0     3   22   7.3   0   14   5.5
+Austin Allen    12-0     2   54  27.0   0   41   4.5
+Wyatt Mazour    12-0     1   21  21.0   0   21   1.8
+Miles Jones      1-0     1   21  21.0   0   21  21.0
+Jaron Woodyard   8-0     1   10  10.0   0   10   1.2
+K. Legrone       3-0     1    8   8.0   0    8   2.7
+Adrian Martinez 11-11    1  -11 -11.0   0    0  -1.0
+Total.......... 12     257 2966  11.5  19   75 247.2
+Opponents...... 12     238 2853  12.0  15   69 237.8
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+JD Spielman        6  104  17.3  1   77
+Tyjon Lindsey      5    1   0.2  0    3
+Stanley Morgan     4   19   4.8  0   18
+Marquel Dismuke    1   26  26.0  0    0
+Total..........   16  150   9.4  1   77
+Opponents......   18  203  11.3  2   60
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Lamar Jackson      2    0   0.0  0    0
+D. Williams        2    0   0.0  0    0
+Antonio Reed       2    0   0.0  0    0
+Dedrick Young      1    0   0.0  0    0
+Peyton Newell      1    0   0.0  0    0
+Aaron Williams     1    0   0.0  0    0
+M. Stoltenberg     1    2   2.0  0    2
+Tre Neal           1   14  14.0  0   14
+Total..........   11   16   1.5  0   14
+Opponents......   11   71   6.5  0   22
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+M. Washington     13  204  15.7  0   27
+JD Spielman        8  169  21.1  0   31
+Jaron Woodyard     4   50  12.5  0   19
+Wyatt Mazour       3   48  16.0  0   21
+Jack Stoll         2   16   8.0  0   10
+Mikale Wilbon      1    3   3.0  0    3
+Total..........   31  490  15.8  0   31
+Opponents......   34  695  20.4  0   87
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+D. Williams        1    5   5.0  0    5
+Total..........    1    5   5.0  0    5
+Opponents......    3   19   6.3  1   10
+
+
+                           |------ PATs -----|
+SCORING          TD  FGs   Kick  Rush Rcv Pass  DXP Saf Pts
+-----------------------------------------------------------
+B. Pickering      0 14-18  40-41  0-0   0  0-0   0   0   82
+Devine Ozigbo    12  0-0    0-0   0-0   0  0-0   0   0   72
+JD Spielman       9  0-0    0-0   0-0   0  0-0   0   0   54
+Adrian Martinez   8  0-0    0-0   1-1   0  2-2   0   0   50
+Stanley Morgan    7  0-0    0-0   0-0   1  0-0   0   0   44
+M. Washington     4  0-0    0-0   0-0   0  0-0   0   0   24
+Jack Stoll        3  0-0    0-0   0-0   0  0-0   0   0   18
+Noah Vedral       1  0-0    0-0   0-0   0  0-0   0   0    6
+Wyatt Mazour      1  0-0    0-0   0-0   0  0-0   0   0    6
+Marquel Dismuke   0  0-0    0-0   0-0   0  0-0   0   1    2
+Kade Warner       0  0-0    0-0   0-0   1  0-0   0   0    2
+Andrew Bunch      0  0-0    0-0   0-0   0  0-1   0   0    0
+Total..........  45 14-18  40-41  1-1   2  2-3   0   1  360
+Opponents......  47 15-20  40-41  1-3   1  1-2   0   2  375
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Adrian Martinez 11   487  629 2617  3246 295.1
+Devine Ozigbo   12   155 1082    0  1082  90.2
+M. Washington   11    78  455    0   455  41.4
+Andrew Bunch     5    63   40  320   360  72.0
+Greg Bell        4    35  173    0   173  43.2
+Wyatt Mazour    12    11   76    0    76   6.3
+Noah Vedral      1    16   13   29    42  42.0
+JD Spielman     10     7   24    0    24   2.4
+Tyjon Lindsey    4     2    9    0     9   2.2
+Austin Rose      7     1    7    0     7   1.0
+Mikale Wilbon    6     4    7    0     7   1.2
+Luke Gifford    12     1    5    0     5   0.4
+Miles Jones      1     1    5    0     5   5.0
+Kade Warner      9     1    4    0     4   0.4
+Stanley Morgan  12     1    4    0     4   0.3
+TEAM            11     5  -25    0   -25  -2.3
+Total.......... 12   868 2508 2966  5474 456.2
+Opponents...... 12   895 2349 2853  5202 433.5
+
+
+FIELD GOALS  FGM-FGA  Pct 1-19  20s  30s  40s  50s  Lg Blk
+----------------------------------------------------------
+B.Pickering   14-18  77.8  1-1  5-5  6-7  2-4  0-1  47   0
+
+
+FG SEQUENCE       Nebraska          OPPONENTS
+---------------------------------------------
+Colorado          43                (40),(35),37,43
+Troy              33,(23),(32)      (37)
+Michigan          (35)              (50),(38)
+Purdue            54                (31),(25)
+Wisconsin         (31)              (30),(28)
+Northwestern      45,(34)           42,(31),(37)
+Minnesota         (32)              -
+Bethune-Cookman   (29)              (28)
+Ohio State        (18)              -
+Illinois          (27)              -
+Michigan State    (36),(20),(47)    (34),41,(26)
+IOWA              (27),(46)         37,(41)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING          No.  Yds   Avg Long  TB  FC I20 Blkd
+-----------------------------------------------------
+Isaac Armstrong   32 1396  43.6   73   3   8   9    1
+C. Lightbourn     24  998  41.6   52   1   3   3    0
+TEAM               1    0   0.0    0   0   0   0    0
+Total..........   57 2394  42.0   73   4  11  12    1
+Opponents......   58 2467  42.5   79   8  16  21    1
+
+
+KICKOFFS         No.   Yds   Avg  TB  OB  Retn  Net YdLn
+--------------------------------------------------------
+C. Lightbourn     52  3284  63.2  28   2
+B. Pickering      18  1076  59.8   6   0
+Isaac Armstrong    1    52  52.0   0   0
+TEAM               1     1   1.0   0   0
+Total..........   72  4413  61.3  34   2   695 39.8   25
+Opponents......   71  4072  57.4  28   3   490 40.6   24
+
+
+ALL PURPOSE      G Rush  Rec   PR  KOR   IR  Tot Avg/G
+------------------------------------------------------
+Devine Ozigbo   12 1082  203    0    0    0 1285 107.1
+JD Spielman     10   24  818  104  169    0 1115 111.5
+Stanley Morgan  12    4 1004   19    0    0 1027  85.6
+M. Washington   11  455  221    0  204    0  880  80.0
+Adrian Martinez 11  629  -11    0    0    0  618  56.2
+Jack Stoll      12    0  245    0   16    0  261  21.8
+Greg Bell        4  173   14    0    0    0  187  46.8
+Wyatt Mazour    12   76   21    0   48    0  145  12.1
+Mike Williams   12    0  122    0    0    0  122  10.2
+Kade Warner      9    4   95    0    0    0   99  11.0
+Kurt Rafdal     12    0   67    0    0    0   67   5.6
+Jaron Woodyard   8    0   10    0   50    0   60   7.5
+Austin Allen    12    0   54    0    0    0   54   4.5
+Bryan Reimers   10    0   52    0    0    0   52   5.2
+Andrew Bunch     5   40    0    0    0    0   40   8.0
+Tyjon Lindsey    4    9   22    1    0    0   32   8.0
+Miles Jones      1    5   21    0    0    0   26  26.0
+Marquel Dismuke  8    0    0   26    0    0   26   3.2
+Tre Neal        12    0    0    0    0   14   14   1.2
+Noah Vedral      1   13    0    0    0    0   13  13.0
+Mikale Wilbon    6    7    0    0    3    0   10   1.7
+K. Legrone       3    0    8    0    0    0    8   2.7
+Austin Rose      7    7    0    0    0    0    7   1.0
+Luke Gifford    12    5    0    0    0    0    5   0.4
+M. Stoltenberg   8    0    0    0    0    2    2   0.2
+TEAM            11  -25    0    0    0    0  -25  -2.3
+Total.......... 12 2508 2966  150  490   16 6130 510.8
+Opponents...... 12 2349 2853  203  695   71 6171 514.2
+
+                         |--------Tackles--------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blkd
+DEFENSIVE LEADERS  GP-GS Solo  Ast Total   TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kick Saf
+--------------------------------------------------------------------------------------------------
+7  Mohamed Barry   12-12   55   57   112    11-39   2.0-15      .       1   5    .      .    .   .
+5  Dedrick Young   12-12   41   42    83     3-3       .       1-0      5   3    .      .    .   .
+24 Aaron Williams  12-11   45   25    70     3-6       .       1-0      4   1   1-0     .    .   .
+12 Luke Gifford    12-12   35   27    62    13-63   5.5-52      .       2   7    .      1    .   .
+14 Tre Neal        12-12   35   22    57     2-2       .       1-14     5   2    .      2    .   .
+2E Antonio Reed     12-2   32   12    44     3-19   1.0-10     2-0      3   .    .      2    .   .
+94 Khalil Davis     12-0   24   17    41     8-32   3.0-19      .       .   4   1-0     1    .   .
+23 Dicaprio Bootle 12-12   26   13    39      .        .        .      15   .    .      1    .   .
+43 Tyrin Ferguson    8-4   19   17    36     6-21   1.0-4       .       1   .    .      .    .   .
+91 F. Akinmoladun  12-12   11   18    29     3-10   2.5-10      .       .   4    .      .    .   .
+21 Lamar Jackson   12-11   21    7    28     1-1       .       2-0      7   .    .      1    .   .
+96 Carlos Davis     12-9   13   14    27     3-13   1.0-8       .       5   1   1-0     .    .   .
+95 Ben Stille      12-11   10   15    25     5-28   5.0-28      .       2   6    .      .    .   .
+41 D. Williams      12-1   15    8    23     1-0       .       2-0      2   .   1-5     2    .   .
+13 JoJo Domann       8-2   10    9    19     1-7    1.0-7       .       2   .   1-0     2    .   .
+31 Collin Miller    12-0    9    8    17     1-7       .        .       .   .    .      .    .   .
+3  Will Honas        4-0    6    9    15     1-1       .        .       .   1    .      .    .   .
+57 J. Weinmaster    11-0    3   10    13      .        .        .       .   .    .      .    .   .
+6  Eric Lee Jr.      9-1    7    6    13      .        .        .       .   .    .      .    .   .
+1C Cam Taylor       11-0    9    3    12      .        .        .       3   .   1-0     .    .   .
+93 Damion Daniels   12-0    3    9    12     1-1       .        .       .   .   1-0     .    .   .
+4A Caleb Tannor     12-0    6    4    10     1-7    1.0-7       .       .   .    .      .    .   .
+1A Marquel Dismuke   8-0    8    2    10      .        .        .       .   .    .      .    1   1
+44 M. Stoltenberg    8-4    2    7     9     2-7    1.0-6      1-2      .   .    .      .    .   .
+42 J. Stovall        8-0    4    4     8      .        .        .       .   .   1-0     .    .   .
+2D Alex Davis       12-4    1    4     5      .        .        .       .   .    .      .    .   .
+99 Peyton Newell    12-0    1    4     5      .        .       1-0      .   .    .      .    .   .
+97 Deontre Thomas    4-0    4    .     4     1-1       .        .       .   .    .      .    .   .
+18 Guy Thomas        4-0    .    4     4      .        .        .       1   .    .      .    .   .
+16 Ethan Cox        11-0    2    1     3      .        .        .       .   .    .      .    .   .
+9  DaiShon Neal      7-0    1    2     3      .        .        .       .   .    .      .    .   .
+9A Chase Urbach     10-0    2    1     3      .        .        .       .   .   1-0     .    .   .
+10 JD Spielman     10-10    1    1     2      .        .        .       .   .    .      .    .   .
+30 Eli Sullivan      7-0    1    .     1      .        .        .       .   .    .      .    .   .
+75 Fyn Anderson      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+55 Chris Walker      1-0    .    1     1      .        .        .       .   .    .      .    .   .
+47 Matt Jarzynka     1-0    1    .     1     1-6    1.0-6       .       .   .    .      .    .   .
+56 Boe Wilson       12-9    .    1     1      .        .        .       .   .    .      .    .   .
+3E Simon Otte        1-0    .    1     1      .        .        .       .   .    .      .    .   .
+34 Breon Dixon       4-0    1    .     1      .        .        .       .   .    .      .    .   .
+1B Braxton Clark     4-0    1    .     1      .        .        .       .   .    .      .    .   .
+65 C. Gaylord       10-0    1    .     1      .        .        .       .   .    .      .    .   .
+88 Jaron Woodyard    8-0    .    1     1      .        .        .       .   .    .      .    .   .
+81 Kade Warner       9-7    1    .     1      .        .        .       .   .    .      .    .   .
+37 Wyatt Mazour     12-0    .    1     1      .        .        .       .   .    .      .    .   .
+86 Jack Stoll      12-12    1    .     1      .        .        .       .   .    .      .    .   .
+2  Adrian Martinez 11-11    1    .     1      .        .        .       .   .    .      .    .   .
+35 C. Lightbourn     9-0    1    .     1      .        .        .       .   .    .      .    .   .
+22 Devine Ozigbo    12-9    1    .     1      .        .        .       .   .    .      .    .   .
+   Total..........  12-0  471  388   859    71-274   25-172   11-16    58  34   9-5    12    1   1
+   Opponents......  12-0  476  378   854    88-309   28-196   11-71    28  24  11-19   19    1   2
+

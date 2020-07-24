@@ -1,0 +1,194 @@
+1977 Nebraska Cornhuskers
+Overall Team Statistics
+(includes bowl game)
+
+                           NU    Opp.
+First downs, rushing      186     138
+First downs, passing       63      59
+First downs, penalty        9       6
+Total first downs         258     203
+Rushing, att.             707     629
+Yds. gained rushing      3781    2751
+Yds. lost rushing         247     302
+Net yds. rushing         3534    2449
+Per game avg.           294.5   204.1
+Passing, att.             209     215
+Passes, complete          100      97
+Passes, intercepted         9      18
+Net yds.                 1402    1130
+Per game avg.           116.8    94.2
+Total offense, att.       916     844
+Net yds.                 4936    3579
+Per game avg.           411.3   298.3
+Interceptions, No.         18       9
+Net yds. returned         170      50
+Punting, No.               52      72
+Punts, blocked              0       1
+Total yds.               2124    2619
+Per punt ave.            40.8    36.4
+Punts returned, No.        30      19
+Net yds.                  182     115
+Kickoffs returned, No.     35      49
+Net yds.                  617     897
+Penalties, No.             59      47
+Total yds. penalized      568     380
+Fumbles, No.               33      31
+Fumbles, lost              22      15
+Scoring total points      315     200
+Per game avg.            26.3    16.7
+
+
+SCORING BY QUARTERS
+       lst   2nd   3rd   4th   Total
+NU      70    99    54    92     315
+OPP.    41    87    26    46     200
+
+
+AVG. SCORING BY QUARTERS
+       lst   2nd   3rd   4th   Total
+NU     5.8   8.3   4.5   7.7    26.3
+OPP.   3.4   7.3   2.2   3.8    16.7
+
+
+1977 Nebraska Cornhuskers
+Overall Individual Statistics
+(includes bowl game)
+
+RUSHING  Att. Gn. Loss  Net  Avg.  TD
+Anthony   51  214    2  212   4.2   0
+Berns    128  702    2  700   5.5   9
+Brown      5   42    3   39   7.8   1
+Burns      5    4   33  -29  -5.8   1
+Craig     45  355   13  342   7.6   5
+Donnell   74  354    3  351   4.7   2
+Everett    1    4    0    4   4.0   0
+Franklin  23  100    2   98   4.3   0
+Garcia    45  112   69   43   1.0   0
+Hager      2    3    3    0   0.0   0
+Hipp     215 1394   41 1353   6.3  10
+Lockett    1    6    0    6   6.0   0
+Mauer      1    0    1   -1   1.0   0
+Quinn      1    0    4   -4  -4.0   0
+Sorley    57  246   66  180   3.2   3
+Steward   15   49    2   47   3.1   0
+Stewart    8   22    1   21   2.6   1
+Wurth     30  174    2  172   5.7   0
+TOTAL    707 3781  247 3534   5.0  32
+OPP.     629 2751  302 2449   3.9  15
+
+
+PASSING  Att  Comp.  Pct. Int.  Yds. TD
+Berns      3    1    .333   0    36   0
+Burns     12    5    .417   1    79   0
+Garcia    97   41    .423   4   624   5
+Smith, T.  1    0    .000   0     0   0
+Sorley    96   53    .552   4   663   2
+TOTAL    209  100    .478   9  1402   7
+OPP.     215   97    .451  18  1130   8
+
+
+TOTAL OFFENSE No.    Yds.    Avg.
+Anthony       51     212      4.2
+Berns        131     736      5.6
+Brown          5      39      7.8
+Burns         17      50      2.9
+Craig         45     342      7.6
+Donnell       74     351      4.7
+Everett        1       4      4.0
+Franklin      23      98      4.3
+Garcia       142     668      4.7
+Hager          2       0      0.0
+Hipp         215    1352      6.3
+Lockett        1       6      6.0
+Mauer          1      -1     -1.0
+Quinn          1      -4     -4.0
+Smith, T.      1       0      0.0
+Sorley       153     843      5.5
+Steward       15      47      3.1
+Stewart        8      21      2.6
+Wurth         30     172      5.7
+TOTAL        916    4936      5.4
+OPP.         844    3579      4.2
+
+PASS
+RECEIVING   No.   Yds.     TD
+Berns        11      88      1
+Brown         6     149      1
+Craig        13     173      1
+Dufresne      2      18      0
+Hipp          7     105      0
+Lee, J.       1       6      0
+Loken         3      13      0
+Miller        5      79      0
+Smith, T.    27     449      2
+Spaeth       24     312      2
+Steward       1      10      0
+TOTAL       100    1402      7
+OPP.         97    1130      8
+
+
+PUNTING     No.  Yds.   Avg.  Blk
+Smith, T.   52   2124   40.8   0
+OPP.        72   2619   36.4   1
+
+
+PUNT
+RETURNS   No.   Yds.   Avg.  TD
+Brown     10     -1   -0.1    0
+Harvey     4     80   20.0    0
+Lockett   13     65    5.0    0
+Rick       1     32   32.0    0
+Wurth      2      6    3.0    0
+Young      0      0    0.0    1
+TOTAL     30    182    6.1    1
+OPP.      19    115    6.1    0
+
+
+KICKOFF
+RETURNS     No.   Yds.  Avg.  TD
+Brown        3     40   13.3   0
+Craig       15    298   19.9   0
+Berns        1     18   18.0   0
+Dufresne     1     13   13.0   0
+Franklin     3     31   10.3   0
+Harvey       1     21   21.0   0
+Lockett      9    157   17.4   0
+Stewart      1     28   28.0   0
+Steward      1     11   11.0   0
+TOTAL       35    617   17.6   0
+OPP.        49    897   18.3   1
+
+
+INTERCEPTIONS No.    Yds.    TD
+Anderson       3      17      0
+Andrews        1       4      0
+Cotton         2       3      0
+Fischer        1       0      0
+Harvey         2      57      0
+Kunz           2      11      0
+Pillen         4      43      0
+Samuel         1       0      0
+Valasek        2      35      0
+TOTAL         18     170      0
+OPP.           9      50      0
+
+
+SCORING  TD   Pat1  Pat2   FG  SF  TP
+Todd      0  36-31       18-12     67
+Hipp     10         1-1            62
+Berns    10                        60
+Craig     6         1-1            38
+Sorley    3                        18
+Brown     2                        12
+Donnell   2                        12
+Smith,T.  2                        12
+Spaeth    2                        12
+Burns     1                         6
+Stewart   1                         6
+Young     1                         6
+Sukup     0   2-2                   2
+Team      0                     1   2
+TOTAL    40  38-33  2-2  18-12  1 315
+OPP.     24  22-22 2-11  17-10  1 200
+
+

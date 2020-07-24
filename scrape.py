@@ -8,7 +8,7 @@ import time
 # Constants
 DRIVER_PATH = "/usr/bin/chromedriver"
 BASE_DIR = os.path.dirname(__file__)
-INIT_URL = "https://www.huskermax.com/statistics/1969-nebraska-football-statistics/"
+INIT_URL = "https://www.huskermax.com/statistics/2019-nebraska-football-statistics/"
 
 # Make data folder
 DATA_FOLDER = os.path.join(BASE_DIR, "data")
@@ -18,16 +18,20 @@ os.makedirs(DATA_FOLDER, exist_ok=True)
 # Text - /html/body/div[3]/main/article/div[1]/div[2]/iframe
 
 def change_year(driver, body_div_idx, frame_idx, decade_idx, year_idx):
+    #print(len(driver.find_elements_by_tag_name("iframe")))
     # action chains to provide mouse movement/events
     action = ActionChains(driver)
     # dropdown is located within this iframe --> need to switch to it and perform actions within it
-    iframe = driver.find_element_by_xpath(f"/html/body/div[{body_div_idx}]/main/article/div[1]/div[{frame_idx}]/iframe") # frame location
-    driver.switch_to.frame(iframe)
+    #iframe = driver.find_element_by_xpath(f"/html/body/div[{body_div_idx}]/main/article/div[1]/div[{frame_idx}]/iframe") # frame location
+    #driver.switch_to.frame(iframe)
+    driver.switch_to.frame(driver.find_element_by_xpath("//iframe[@src=\"/stats/navStats.html\"]"))
     # navigate to menu -> submenus and click
     firstLevelMenu = driver.find_element_by_xpath("//*[@id=\"navHmx\"]") # main menu
     action.move_to_element(firstLevelMenu).perform()
     secondLevelMenu = driver.find_element_by_xpath(f"//*[@id=\"navHmx\"]/li/ul/li[{decade_idx}]") # decade
     action.move_to_element(secondLevelMenu).perform()
+    print(decade_idx)
+    print(year_idx)
     thirdLevelMenu = driver.find_element_by_xpath(f"//*[@id=\"navHmx\"]/li/ul/li[{decade_idx}]/ul/li[{year_idx}]") # year
     action.move_to_element(thirdLevelMenu).perform()
     thirdLevelMenu.click()
@@ -86,8 +90,8 @@ def run(year, decade_idx, year_idx):
 
 if __name__ == "__main__":
     # Initializations
-    year = 1969 # start from 2019 and work back to 1962
-    decade_idx = 6 # index of 2010s
+    year = 2019 # start from 2019 and work back to 1962
+    decade_idx = 1 # index of 2010s
     year_idx = 1 # top year of decade, e.g. index of 2019
     run(year, decade_idx, year_idx)
     driver.quit()

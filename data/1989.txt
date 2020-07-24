@@ -1,0 +1,272 @@
+1989 Nebraska Cornhuskers
+Nebraska Overall Team Statistics (Final)
+(does not include bowl game)
+
+TEAM STATISTICS              NU     Opp.
+Total First Downs...........272      178
+  By Rush...................198       83
+  By Pass....................65       75
+  By Penalty..................9       20
+Total Offensive Yards......5646     3015
+  Avg. Per Game...........513.3    274.1
+  Total Plays...............809      727
+  Avg. Per Play.............7.0      4.2
+Net Rushing Yards..........4128     1224
+  Avg. Per Game...........375.3    111.3
+  Rushing Attempts .........641      426
+  Avg. Per Rush.............6.4      2.9
+  Yards Gained Rushing.....4315     1653
+  Yards Lost Rushing........187      429
+Net Passing Yards..........1518     1791
+  Avg. Per Game...........138.0    162.8
+  Avg. Per Attempt..........9.0      6.0
+  Avg. Per Completion......18.3     13.3
+  Attempts..................168      301
+  Completions................83      135
+  Completion Pct. .........49.4     44.9
+  Had Intercepted.............3       17
+  Percent Intercepted.......1.8      5.6
+  NCAA Rating.............166.9     91.2
+Interceptions By............*18        3
+  Yards Returned...........*158       21
+  Avg. Per Return...........8.8      7.0
+  Touchdowns..................1        0
+Punting Average............38.5     40.2
+  No. of Punts...............37       67
+  Yards....................1423     2692
+  Had Blocked.................1        2
+Punt Returns.................44       13
+  Yards Returned............534      220
+  Avg. Per Return..........12.1     16.9
+  Touchdowns..................1        0
+Kickoff Returns..............29       63
+  Yards Returned............572     1067
+  Yds. Per Return..........19.7     16.9
+  Touchdowns..................0        0
+Penalties/Yards..........71/634   76/565
+  Yards Per Game...........57.6     51.4
+Fumbles/Lost..............32/14    35/14
+Total Turnovers..............17       31
+Third-Down Conv. ........68-144   61-166
+  Percent..................47.2     36.7
+Fourth-Down Conv. ........16-23     5-16
+  Percent..................69.6     31.3
+Sacks by.....................39        7
+Time of Possession.......344:14   315:46
+  Avg. Per Game...........31:29    28:31
+Touchdowns...................65       21
+  By Rush....................40       14
+  By Pass....................23        7
+  By Return...................2        0
+PAT Kicks Made/Att........64/64    17/17
+PAT Run-Pass Made/Att.......1/1      2/4
+Field Goals Made/Att......10/13     9/11
+Safeties......................3        0
+Total Points................492      174
+  Avg. Per Game............44.7     15.8
+
+*Includes intercepted fumble return of 2 yards.
+
+
+ATTENDANCE         Total       Average
+Season           740,954       67,359
+Home             534,089       76,298
+Away             206,865       51,716
+
+
+SCORING BY QUARTERS
+         lst   2nd   3rd   4th    Tot
+NEB      137   120   145    90 -  492
+OPP       58    40    45    31 -  174
+
+AVG. SCORING BY QUARTERS
+         lst   2nd   3rd   4th    Tot
+NEB     12.5  10.9  13.2   8.2 - 44.7
+OPP      5.3   3.6   4.1   2.8 - 15.8
+
+
+1989 Nebraska Cornhuskers
+Nebraska Overall Individual Statistics (Final)
+(does not include bowl game)
+
+                                                  
+RUSHINGGAttGainLossNetYds/PlayYds/GameLPTD
+
+Clark101981,221251,1966.0119.64712
+Gdowski11117982579257.984.17413
+Flowers116650074937.544.8677
+Carpenter115838413836.634.8313
+Bell1124262126110.923.7480
+Joseph839224142105.426.3211
+Grant52717151666.133.2210
+Rodgers634144151293.821.5150
+Turner81311901199.214.9230
+Dowse108540546.85.4102
+McCant425315226.013.0530
+McDuffy712512494.17.070
+Schmidt1112470473.94.3130
+Johnk114270276.82.5150
+Hughes11123219131.11.2100
+Haase22100105.05.080
+L.White36251691.53.081
+Achola117077.07.070
+Dunlap76224-22-3.7-3.111
+
+NEB116414,3151874,1286.4375.37440
+OPP114261,6534291,2242.9111.37014
+
+
+
+                                Yds/   Yds/
+PASSING   G  Att Cmp  Pct   Yds  Att   Game
+Gdowski  11  136  71 52.2  1326  9.8  120.5
+Grant     5   17   8 47.1   123  7.2   24.6
+Joseph    8   12   4 33.3    69  5.8    8.2
+Dunlap    7    1   0  0.0     0  0.0    0.0
+Haase     2    1   0  0.0     0  0.0    0.0
+McCant    4    1   0  0.0     0  0.0    0.0
+NEB      11  168  83 49.4  1518  9.0  138.0
+OPP      11  301 135 44.9  1791  6.0  162.8
+
+               Int           TD    NCAA
+PASSING  Int   Pct  LP  TD   Pct    Eff.
+Gdowski   2    1.5  60  19  14.0   177.3
+Grant     0    0.0  25   2  11.8   146.7
+Joseph    0    0.0  29   2  16.7   136.6
+Dunlap    0    0.0   0   0   0.0     0.0
+Haase     0    0.0   0   0   0.0     0.0
+McCant    1  100.0   0   0   0.0  -200.0
+NEB       3    1.8  60  23  13.7   166.9
+OPP      17    5.6  85   7   2.3    91.2
+
+
+RECEIVING     G    No.   Yds   Avg  LP  TD
+Gregory       11   19    282  14.8  38   3
+Bell          11   18    357  19.8  45   4
+Bostick        8   12    289  24.1  60   6
+Turner         8   10    173  17.3  30   0
+Kratzenstein  11    8    109  13.6  28   1
+Garrett       11    5     96  19.2  26   4
+Hughes        11    5     72  14.4  25   2
+Carpenter     11    4    117  29.3  51   2
+Clark         10    1     14  14.0  14   0
+Dowse         10    1      9   9.0   9   1
+NEBRASKA      11   83  1,518  18.3  60  23
+OPPONENTS     11  135  1,791  13.3  85   7
+
+
+PUNTING    G   No.  Yds    Avg  LP  Blk
+Stigge     11  35  1,389  39.7  51   1
+Beckler     2   1     34  34.0  34   0
+TEAM       11   1      0   0.0   0   1 
+NEBRASKA   11  37  1,423  38.5  51   1
+OPPONENTS  11  67  2,692  40.2  64   2
+
+
+INTERCEPTION
+RETURNS    G   No.  Yds   Avg.   LP   TD
+Cooper     10   4    25    6.3   17    0
+Byrd       11   3    44   14.7   31    0
+Sanders     9   2    18    9.0   18    0
+Pickens    11   2     3    1.5    3    0
+T. Lewis   11   1    28   28.0   28    0
+Legette    11   1    22   22.0   22    0
+Croel      11   1     6    6.0    6    1
+Petko       9   1     5    5.0    5    0
+D. White   11   1     5    5.0    5    0
+Mills*     11   1     2    2.0    2    0
+Engelbert  10   1     0    0.0    0    0
+NEBRASKA*  11  18   158    8.8   31    1
+OPPONENTS  11   3    21    7.0   14    0
+*Includes one intercepted fumble for 2 yards.
+
+
+PUNT
+RETURNS    G   No.  Yds   Avg.   LP   TD
+Hughes     11   15  227   15.1   59    0
+Bell       11   18  125    6.9   24    0
+Gregory    11    6   94   15.2   45    0
+Hill       11    1   30   30.0   30    0
+Reece      11    1   26   26.0   26    0
+Cooper     10    1   17   17.0   17   *1
+Croel      11    1   15   15.0   15    0
+Turner     11    1    0    0.0    0    0
+NEBRASKA   11   44  514   12.1   59    1
+OPPONENTS  11   13  220   16.9   55    0
+*Cooper's TD was on a blocked punt recovered in the end zone.
+
+
+KICKOFF
+RETURNS      G  No.   Yds   Avg  LP  TD
+Flowers     11   9    180  20.0  30   0
+Hughes      11   8    158  19.8  29   0
+Bell        11   6    130  21.7  45   0
+Turner       8   4     78  19.5  44   0
+Johnk       11   2     26  13.0  16   0
+NEBRASKA    11  29    572  19.7  45   0
+OPPONENTS   11  63  1,067  16.9  30   0
+
+
+FIELD
+GOALS       G  1-19 20-29 30-39 40-49 50+
+Barrios    11   0    3-4   3-3    0    0
+Drennan    10   0     0     0    3-3  1-3
+NEBRASKA   11   0    3-4   3-3   3-3  1-3
+OPPONENTS  11   0    2-2   4-4   3-5   0
+
+BARRIOS FGs (* = good): (28*), (0), (38*), (0), (0), (0), (23*, 31*), (0), (0), (27), (24*, 35*).
+DRENNAN FGs (* = good): (55*), (0), (52, 42*), (0), (0), (48*, 42*), (0), (53), (0), (0), (0).
+OPPONENTS FGs (* = good): (36*), (45*), (0), (46, 46), (0), (0), (36*, 31*, 38*), (46*), (49*, 28*), (0), (26*).
+
+
+
+SCORING      G   TD   XP1   XP2  FG     TP
+Gdowski      11  13    0     0    0     78
+Barrios      11   0  57-57   0   6-7    75
+Clark        10  12    0     0    0     72
+Flowers      11   7    0     0    0     42
+Bostick       8   6    0     0    0     36
+Carpenter    11   5    0    1-*   0     32
+Bell         11   4    0     0    0     24
+Garrett      11   4    0     0    0     24
+Drennan      10   0   7-7    0   4-6    19
+Dowse        10   3    0     0    0     18
+Gregory      11   3    0     0    0     18
+Hughes       11   2    0     0    0     12
+Cooper       10   1    0     0    0      6
+Croel        11   1    0     0    0      6
+Dunlap        7   1    0    *-l   0      6
+Joseph        8   1    0     0    0      6
+Kratzenstein 11   1    0     0    0      6
+L.White       3   1    0     0    0      6
+Team saf.     3                          6
+NEBRASKA     11  65  64-64  1-1 10-13  492
+OPPONENTS    11  21  17-17  2-4  9-11  174
+*On 2-point PAT pass, Dunlap credited with attempt, Carpenter with score.
+
+
+TOTAL                            Yds/  Yds/
+OFFENSE   G  Att Rush Pass  Tot. Play  Game
+Gdowski   11 253  925 1326  2251  8.9 204.6
+Clark     10 198 1196    0  1196  6.0 119.6
+Flowers   11  66  493    0   493  7.5  44.8
+Carpenter 11  58  383    0   383  6.6  34.8
+Grant      5  44  166  123   289  6.6  57.8
+Joseph     8  51  210   69   279  5.5  34.9
+
+
+ALL-PURPOSE                           Yds/
+YARDS     G  Rush  Rec  PR KOR  Tot.  Game
+Clark     10 1196   14   0   0  1210 121.0
+Gdowski   11  925    0   0   0   925  84.1
+Bell      11  261  357 125 130   874  79.4
+Flowers   11  493    0   0 180   673  61.2
+Carpenter 11  383  117   0   0   500  45.5
+Hughes    11   13   72 227 158   470  42.7
+Gregory   11    0  282  94   0   376  34.2
+Turner     8  119  173   0  78   370  46.3
+
+DEFENSE TyranceCooperMillsCroelByrdWellsPetkoPickensMurrayJobmanCaliendoT.LewisSandersHillWalkerValladaoSimsD.WhiteReeceCottonEngelbertHaggeLegetteCrippenBrungardtL.AndersonGeikenHicksSvehlaKurtzBrownFitzkeF.WhiteKoellnerThomasMohnsenBellCarpenterWendlandGregorySchmidtBoerboomHedrickZachariasEymanFlowersSpitzenbergerStiggeMcDuffyE.AndersonOlsonDrennanJohnkMonarrezBanksDobeshPosILBSSOLBOLBFSDTILBCBMGILBILBCBFSOLBDTDTDTOLBCB-SSSMGILBCBCBDTDTILBCBOLBILBDTCSSMGFSOLBWBFBILBSEFBOTOLBILBOTIBOLBPIBCBFSPKFBMGILBSSG111011111110911111011119111110111111101011119105651175117464111151111102410114117531011945UT3638333025181621191112161516151214121198871055653313313121111111111111100000AT382125192118209111715101196968911987233013341130201000000000000011110TT74595849463636303028272626252121202020201716141288666654443322111111111111111110TFL5/175/98/289/393/412/641/22/294/1406/19006/307/274/204/231/72/1403/190003/123/25000000000000000000001/9000000000Sacks1/203/164/2406/4701000003/255/242/152/191/7002/180003/123/25000000000000000000001/9000000000FmbCsd00202201000121100000000000000100100000000000000000000000FmbRcv01100020101110100100000010001000000000000000000001000000BlkKcks00010007000001000000000000000000000000000000000000000000PBU15242212000810300021201000001000100000000000001000000001Int04013012000120000100101000000000000000000000000000000000QBH/IntCsd7-0-10-26-1-10-03-0-2-0-1-01-01-06-112-110-16-16-03-0-10-11-0--4-0--------1-0--0---------1-0---------GAMES PLAYED
+(for players without statistics)
+Bahe 11, Bennett 2, Bobbora 11, Bobolz 2, Chaney 3, Clarke 3, D'Alesio 5, Devall 3, Edeal 11, Engstrom 7, Glantz 4, Glaser 8, Keast 3, Kiehn 3, Kudrna 2, Leise 5, Leuck 4, Makell 3, McCoy 1, Miller 4, O'Gara 11, Pick 4, Pleasant 4, Prater 6, Punt 11, Reilly 2, Reynolds 3, Riefenrath 2, Roschal 9, Shields 9, Wanek 11, Washington 10, Wiegert 10, Young 10, Ziegelbein 3.
+

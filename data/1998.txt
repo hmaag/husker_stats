@@ -1,0 +1,627 @@
+
+TEAM STATISTICS           NU          OPP
+-----------------------------------------
+SCORING............      383          183
+  Points Per Game..     31.9         15.2
+FIRST DOWNS........      255          199
+  Rushing..........      170           95
+  Passing..........       65           88
+  Penalty..........       20           16
+RUSHING YARDAGE....     3045         1402
+  Yards gained.....     3316         1843
+  Yards lost ......      271          441
+  Rushing Attempts       636          466
+  Avg. Per Rush....      4.8          3.0
+  Avg. Per Game....    253.8        116.8
+  TDs Rushing......       37            8
+PASSING YARDAGE...      1574         2362
+  Att-Comp-Int...  208-118-5   347-174-14
+  Avg. Per Pass...       7.6          6.8
+  Avg. Per Catch...     13.3         13.6
+  Avg. Per Game....    131.2        196.8
+  TDs Passing......        7           13
+TOTAL OFFENSE......     4619         3764
+  Total Plays......      844          813
+  Avg. Per Play....      5.5          4.6
+  Avg. Per Game....    384.9        313.7
+KICK RETURNS-YDS...   29-609       38-757
+PUNT RETURNS-YDS...   38-437       23-239
+INT RETURNS-YDS....   14-242         5-60
+KICK RETURN AVG....     21.0         19.9
+PUNT RETURN AVG....     11.5         10.4
+INT RETURN AVG.....     17.3         12.0
+FUMBLES-LOST.......    27-13        30-13
+PENALTIES-YARDS....   61-536      103-830
+  Avg. Per Game....     44.7         69.2
+PUNTS-YARDS........  54-2366      73-2961
+  Avg. Per Punt....     43.8         40.6
+  Net punt AVG.....     39.4         34.6
+POSS. TIME/GAME....    30:38        29:23
+3RD-DOWN CONV. ....   67/164       63/183
+  3rd-Down Pct.....      41%          34%
+4TH-DOWN CONV. ....    12/19        17/26
+  4th-Down Pct.....      63%          65%
+SACKS BY-YARDS.....   33-233       20-146
+MISC YARDS.........      100           68
+TOUCHDOWNS SCORED..       49           24
+FIELD GOALS-ATTS...    14-21          6-8
+PAT-ATTEMPTS.......    47-49        19-22
+ATTENDANCE.........   533305       217913
+  Games/Avg........  7/76186      4/54478
+
+
+SCORE BY
+QUARTERS     1st  2nd  3rd  4th    Total
+-----------  ---  ---  ---  ---      ---
+NEB........   83  106   89  105  -   383
+OPP .......   28   53   49   53  -   183
+
+
+RECORD:        OVERALL  HOME    AWAY   NEUTRAL
+ALL GAMES......(9-3-0) (6-1-0) (2-2-0) (1-0-0)
+CONFERENCE.....(5-3-0) (3-1-0) (1-2-0) (1-0-0)
+NONCONFERENCE..(4-0-0) (3-0-0) (1-0-0) (0-0-0)
+
+
+ DATE      OPPONENT        W/L  SCORE    ATT
+ -------   --------------  ---  -----    ---
+ Aug 29    LOUISIANA TECH  W    56-27  76021
+ Sep 05    ALABAMA BIRM.   W    38-7   75921
+ Sep 12 at California      W    24-3   67000
+ Sep 26    WASHINGTON      W    55-7   76372
+*Oct 03 vs Oklahoma St     W    24-17  79555
+*Oct 10 at Texas A&M       L    21-28  60798
+*Oct 17    KANSAS          W    41-0   76174
+*Oct 24    MISSOURI        W    20-13  76425
+*Oct 31    TEXAS             L  16-20  76434
+*Nov 07 at Iowa State      W    42-7   45817
+*Nov 14 at Kansas St         L  30-40  44298
+*Nov 27    COLORADO        W    16-14  75958
+* denotes conference game
+
+
+RUSHING       GP  Att Gain Loss  Net   Avg  TD Long Avg/G
+---------------------------------------------------------
+C.Buckhalter  12  142  822   23  799   5.6   8   52  66.6
+E.Crouch       8   96  544   85  459   4.8   5   59  57.4
+J.Makovicka   12   97  463    5  458   4.7   2   23  38.2
+D.Alexander    9   70  382   13  369   5.3   4   22  41.0
+B.Newcombe     6   83  314   86  228   2.7   8   20  38.0
+M.Christo      7   59  265   42  223   3.8   3   42  31.9
+D.Evans        3   38  227    9  218   5.7   4   60  72.7
+W.Miller      12   19   98    2   96   5.1   2   16   8.0
+J.Runty        4    3   59    0   59  19.7   0   28  14.8
+S.Wiggins     12    8   51    4   47   5.9   0   17   3.9
+B.Legate      11    5   28    0   28   5.6   1   11   2.5
+D.White        6    7   27    0   27   3.9   0    7   4.5
+L.Brown        6    1   13    0   13  13.0   0   13   2.2
+B.Kingston     3    3    9    0    9   3.0   0    5   3.0
+T.Soucie       6    1    7    0    7   7.0   0    7   1.2
+N.Gragert      1    1    3    0    3   3.0   0    3   3.0
+A.Tillery      1    1    3    0    3   3.0   0    3   3.0
+J.Stanislav    1    1    1    0    1   1.0   0    1   1.0
+F.London       7    1    0    2   -2  -2.0   0    0  -0.3
+Total........ 12  636 3316  271 3045   4.8  37   60 253.8
+Opponents.... 12  466 1843  441 1402   3.0   8   71 116.8
+
+
+PASSING     GP   Effic Att-Cmp-Int  Pct  Yds TD Lng Avg/G
+---------------------------------------------------------
+E.Crouch     8  103.65  101-49-4   48.5  601  4  45  75.1
+B.Newcombe   6  140.64   79-50-1   63.3  712  1  49 118.7
+M.Christo    7  169.73   28-19-0   67.9  261  2  63  37.3
+Total.....  12  126.59  208-118-5  56.7 1574  7  63 131.2
+Opponents.  12  111.62 347-174-14  50.1 2362 13  94 196.8
+
+
+RECEIVING       GP  No.  Yds   Avg  TD Lng Avg/G
+------------------------------------------------
+Davison, Matt   12   32  394  12.3   0  49  32.8
+S.Wiggins       12   22  326  14.8   1  42  27.2
+S.Jackson       12   19  343  18.1   4  48  28.6
+K.Cheatham       9   13  155  11.9   1  45  17.2
+Buckhalter, C.  12   13   88   6.8   0  21   7.3
+B.Haafke        12    6   54   9.0   0  16   4.5
+J.Makovicka     12    4   67  16.8   0  25   5.6
+L.Brown          6    3   24   8.0   0  11   4.0
+D.Evans          3    3   23   7.7   0   9   7.7
+T.Wistrom       12    2   84  42.0   1  63   7.0
+T.J.Debates     10    1   16  16.0   0  16   1.6
+Total.......... 12  118 1574  13.3   7  63 131.2
+Opponents...... 12  174 2362  13.6  13  94 196.8
+
+
+PUNT RETURNS   No.  Yds   Avg TD Long
+-------------------------------------
+Walker, Joe     25  283  11.3  1   73
+S.Wiggins        9  144  16.0  0   53
+R.Brown II       3    7   2.3  0    7
+F.London         1    3   3.0  0    0
+Total.........  38  437  11.5  1   73
+Opponents.....  23  239  10.4  0   48
+
+
+INTERCEPTIONS     No.  Yds   Avg TD Long
+-----------------------------------------
+Walker, Joe         3   65  21.7  1   65
+Finley, Clint       3   63  21.0  1   42
+R.Brown II          2   60  30.0  0   43
+J.Wiltz             2   32  16.0  0   27
+Craver, Keyuo       1    0   0.0  0    0
+C.Kelsay            1    0   0.0  0    0
+M.Brown             1    1   1.0  0    1
+Polk, Carlos        1   16  16.0  0   16
+Total..........    14  242  17.3  2   65
+Opponents......     5   60  12.0  0   51
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Walker, Joe       17  366  21.5  1   99
+S.Wiggins         10  224  22.4  0   40
+S.Jackson          2   19   9.5  0   11
+Total..........   29  609  21.0  1   99
+Opponents......   38  757  19.9  0   49
+
+
+FUMBLE RETURNS    No.  Yds   Avg TD Long
+----------------------------------------
+R.Brown II          1   74  74.0  1   74
+M.Brown             1   26  26.0  0   26
+Total..........     2  100  50.0  1   74
+Opponents......     4   68  17.0  3   41
+
+
+                          |------ PATs ----|
+SCORING         TD  FGs   Kick Rush Rcv Pass Saf Pts
+----------------------------------------------------
+K.Brown          0 14-21 47-48  0-0   0  0-0  0   89
+Buckhalter, C.   8  0-0   0-0   0-0   0  0-0  0   48
+Newcombe, Bobby  8  0-0   0-0   0-0   0  0-0  0   48
+Crouch, Eric     5  0-0   0-0   0-0   0  0-0  0   30
+D.Evans          4  0-0   0-0   0-0   0  0-0  0   24
+S.Jackson        4  0-0   0-0   0-0   0  0-0  0   24
+Alexander, Dan   4  0-0   0-0   0-0   0  0-0  0   24
+Walker, Joe      3  0-0   0-0   0-0   0  0-0  0   18
+M.Christo        3  0-0   0-0   0-0   0  0-0  0   18
+J.Makovicka      2  0-0   0-0   0-0   0  0-0  0   12
+Miller, Willie   2  0-0   0-0   0-0   0  0-0  0   12
+B.Legate         1  0-0   0-0   0-0   0  0-0  0    6
+K.Cheatham       1  0-0   0-0   0-0   0  0-0  0    6
+Wistrom, Tracey  1  0-0   0-0   0-0   0  0-0  0    6
+Finley, Clint    1  0-0   0-0   0-0   0  0-0  0    6
+S.Wiggins        1  0-0   0-0   0-0   0  0-0  0    6
+R.Brown II       1  0-0   0-0   0-0   0  0-0  0    6
+D.Hadenfeldt     0  0-0   0-1   0-0   0  0-0  0    0
+Total.......... 49 14-21 47-49  0-0   0  0-0  0  383
+Opponents...... 24  6-8  19-22  0-1   1  1-1  0  183
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+E.Crouch         8   197  459  601  1060 132.5
+B.Newcombe       6   162  228  712   940 156.7
+C.Buckhalter    12   142  799    0   799  66.6
+M.Christo        7    87  223  261   484  69.1
+J.Makovicka     12    97  458    0   458  38.2
+D.Alexander      9    70  369    0   369  41.0
+D.Evans          3    38  218    0   218  72.7
+W.Miller        12    19   96    0    96   8.0
+J.Runty          4     3   59    0    59  14.8
+S.Wiggins       12     8   47    0    47   3.9
+B.Legate        11     5   28    0    28   2.5
+D.White          6     7   27    0    27   4.5
+L.Brown          6     1   13    0    13   2.2
+B.Kingston       3     3    9    0     9   3.0
+T.Soucie         6     1    7    0     7   1.2
+A.Tillery        1     1    3    0     3   3.0
+N.Gragert        1     1    3    0     3   3.0
+J.Stanislav      1     1    1    0     1   1.0
+F.London         7     1   -2    0    -2  -0.3
+Total........   12   844 3045 1574  4619 384.9
+Opponents....   12   813 1402 2362  3764 313.7
+
+
+FIELD 
+GOALS     FGM-FGA  Pct  1-19 20-29 30-39 40-49 50-99 Lg Blk
+-----------------------------------------------------------
+K.Brown    14-21  66.7  1-1   5-6   4-8   4-6   0-0  48   1
+
+
+FG SEQUENCE    Nebraska            OPPONENTS
+--------------------------------------------
+La. Tech       -                   -
+Alabama Birm.  (27)                -
+California     40,(41)             36,(38)
+Washington     30                  -
+Oklahoma St    (48)                (37)
+Texas A&M      -                   -
+Kansas         (27),(28)           -
+Missouri       (38),38,(30),29     -
+Texas          37,(27),(47),(42)   (36),(19)
+Iowa State     38                  -
+Kansas St      (18)                (25),(21)
+Colorado       45,(30),(30),(25)   52
+
+Numbers in parentheses indicate field goal was made
+
+
+PUNTING     No.  Yds  Avg  Lng  TB FC I20 Blk
+---------------------------------------------
+B.Lafleur    52 2337  44.9  64  10  7  17   2
+TEAM          2   29  14.5  15   0  0   0   0
+Total....... 54 2366  43.8  64  10  7  17   2
+Opponents... 73 2961  40.6  80   6  2  19   0
+
+
+ALL PURPOSE    G Rush  Rec   PR  KOR   IR  Tot Avg/G
+----------------------------------------------------
+C.Buckhalter  12  799   88    0    0    0  887  73.9
+S.Wiggins     12   47  326  144  224    0  741  61.8
+J.Walker      12    0    0  283  366   65  714  59.5
+J.Makovicka   12  458   67    0    0    0  525  43.8
+E.Crouch       8  459    0    0    0    0  459  57.4
+M.Davison     12    0  394    0    0    0  394  32.8
+D.Alexander    9  369    0    0    0    0  369  41.0
+S.Jackson     12    0  343    0   19    0  362  30.2
+D.Evans        3  218   23    0    0    0  241  80.3
+B.Newcombe     6  228    0    0    0    0  228  38.0
+M.Christo      7  223    0    0    0    0  223  31.9
+K.Cheatham     9    0  155    0    0    0  155  17.2
+W.Miller      12   96    0    0    0    0   96   8.0
+T.Wistrom     12    0   84    0    0    0   84   7.0
+R.Brown II    12    0    0    7    0   60   67   5.6
+C.Finley       9    0    0    0    0   63   63   7.0
+J.Runty        4   59    0    0    0    0   59  14.8
+B.Haafke      12    0   54    0    0    0   54   4.5
+L.Brown        6   13   24    0    0    0   37   6.2
+J.Wiltz       10    0    0    0    0   32   32   3.2
+B.Legate      11   28    0    0    0    0   28   2.5
+D.White        6   27    0    0    0    0   27   4.5
+T.J.Debates   10    0   16    0    0    0   16   1.6
+C.Polk        12    0    0    0    0   16   16   1.3
+B.Kingston     3    9    0    0    0    0    9   3.0
+T.Soucie       6    7    0    0    0    0    7   1.2
+K.Reynolds     6    0    0    0    0    5    5   0.8
+A.Tillery      1    3    0    0    0    0    3   3.0
+N.Gragert      1    3    0    0    0    0    3   3.0
+F.London       7   -2    0    3    0    0    1   0.1
+J.Stanislav    1    1    0    0    0    0    1   1.0
+M.Brown       12    0    0    0    0    1    1   0.1
+Total.......  12 3045 1574  437  609  242 5907 492.2
+Opponents...  12 1402 2362  239  757   60 4820 401.7
+
+
+
+Page 1 / 1Zoom 100%
+
+
+
+Overall Defensive Statistics
+
+
+                  |--------Tackles--------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blk
+               GP Solo  Ast Total   TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kck Saf
+------------------------------------------------------------------------------------------
+M.Brown        12   37   65   102     5-5       .       1-1      4   .   1-26    .   .   .
+J.Foreman      12   32   65    97     7-27   3.0-22      .       4   6   1-0     1   .   .
+C.Kelsay       12   33   39    72    14-52   5.0-39     1-0      4  13   1-0     3   .   .
+E.Johnson      12   33   37    70    11-52   6.0-41      .       1   6    .      1   .   .
+E.Swiney       12   32   29    61     4-16   2.0-12      .      13   .   1-0     .   .   .
+M.Rucker       12   21   32    53     9-21   1.5-12      .       1  11    .      4   .   .
+J.Walker       12   22   28    50     5-10      .       3-65     1   .    .      1   .   .
+R.Brown II     12   27   19    46     2-3       .       2-60    14   .   1-74    .   .   .
+T.Ortiz        11   20   26    46     9-28   1.0-3       .       2   4    .      1   1   .
+L.Kaiser       12   16   24    40    10-27   5.5-21      .       1   4   2-0     1   .   .
+B.Shaw         12   12   27    39     4-11   1.0-5       .       .   4    .      .   .   .
+J.Wiltz        10   10   25    35     1-7    1.0-7      2-32     2   4    .      1   .   .
+K.Vanden Bosch 12   10   18    28     4-36   2.0-29      .       .   3    .      2   .   .
+C.Finley        9    6   22    28     3-13      .       3-63     .   .   1-0     1   .   .
+S.Warren       10   10   16    26     1-3       .        .       4   7   1-0     .   .   .
+K.Craver       12   11   14    25      .        .       1-0      3   1    .      .   .   .
+J.Jackson      10    9   15    24     3-20   2.0-19      .       1   5    .      .   .   .
+C.Polk         12   13    9    22     5-24   1.0-10     1-16     1   .   1-0     2   .   .
+A.Wills        11    5    5    10      .        .        .       .   2    .      .   .   .
+J.Kohl         12    4    6    10     1-3       .        .       .   2   1-0     .   .   .
+T.Toline       12    5    4     9      .        .        .       .   .    .      .   .   .
+J.Slechta       8    3    6     9     3-11   1.0-7       .       2   1   1-0     .   .   .
+K.Reynolds      6    5    3     8     1-5       .       0-5      .   .   1-0     .   .   .
+J.Lohr         11    5    2     7     1-6    1.0-6       .       .   .    .      .   .   .
+D.Raiola       12    1    3     4      .        .        .       .   .    .      .   .   .
+J.Burrow       12    2    2     4      .        .        .       .   .    .      .   .   .
+W.Woodward     10    1    2     3      .        .        .       .   .    .      .   .   .
+G.McGraw       12    1    2     3      .        .        .       .   .    .      .   .   .
+M.Vedral        4    1    2     3      .        .        .       .   .    .      .   .   .
+T.Watchorn      9    1    2     3      .        .        .       .   .    .      .   .   .
+B.Legate       11    1    2     3      .        .        .       .   .    .      .   .   .
+S.Raymond       3    3    .     3      .        .        .       .   .    .      .   .   .
+E.Ryan          3    .    2     2     1-2       .        .       .   .    .      .   .   .
+J.P.Wichmann    3    1    1     2      .        .        .       .   .    .      .   .   .
+D.Booker       11    2    .     2      .        .        .       .   .    .      1   .   .
+J.Makovicka    12    1    1     2      .        .        .       .   .    .      .   .   .
+J.Peterson      7    1    .     1      .        .        .       .   .    .      .   .   .
+B.Buettenback   5    .    1     1      .        .        .       .   .    .      .   .   .
+E.Fischer       2    1    .     1      .        .        .       .   .    .      .   .   .
+J.Hemje         4    1    .     1      .        .        .       .   .    .      .   .   .
+C.Vanderhoef    5    1    .     1      .        .        .       .   .    .      .   .   .
+C.Tuttle        2    .    1     1      .        .        .       .   .    .      .   .   .
+D.Alexander     9    1    .     1      .        .        .       .   .    .      .   .   .
+D.White         6    1    .     1      .        .        .       .   .    .      .   .   .
+B.Mooberry      3    1    .     1      .        .        .       .   .    .      .   .   .
+Q.Hogrefe       1    .    1     1      .        .        .       .   .    .      .   .   .
+L.Mehl          1    .    1     1     1-3       .        .       .   .    .      .   .   .
+W.Miller       12    .    1     1      .        .        .       .   .    .      .   .   .
+M.McGinn        1    .    1     1      .        .        .       .   .    .      .   .   .
+Total........  12  403  561   964   105-385   33-233   14-242   58  73  13-100  19   1   .
+Opponents....  12    -    -      -     -      20-146    5-60     8   .  13-68    7   3   .
+
+
+
+      RUSHING       GP  Att Gain Loss  Net   Avg  TD Long Avg/G
+---------------------------------------------------------
+C.Buckhalter  12  142  822   23  799   5.6   8   52  66.6
+E.Crouch       8   96  544   85  459   4.8   5   59  57.4
+J.Makovicka   12   97  463    5  458   4.7   2   23  38.2
+D.Alexander    9   70  382   13  369   5.3   4   22  41.0
+B.Newcombe     6   83  314   86  228   2.7   8   20  38.0
+M.Christo      7   59  265   42  223   3.8   3   42  31.9
+D.Evans        3   38  227    9  218   5.7   4   60  72.7
+W.Miller      12   19   98    2   96   5.1   2   16   8.0
+J.Runty        4    3   59    0   59  19.7   0   28  14.8
+S.Wiggins     12    8   51    4   47   5.9   0   17   3.9
+B.Legate      11    5   28    0   28   5.6   1   11   2.5
+D.White        6    7   27    0   27   3.9   0    7   4.5
+L.Brown        6    1   13    0   13  13.0   0   13   2.2
+B.Kingston     3    3    9    0    9   3.0   0    5   3.0
+T.Soucie       6    1    7    0    7   7.0   0    7   1.2
+N.Gragert      1    1    3    0    3   3.0   0    3   3.0
+A.Tillery      1    1    3    0    3   3.0   0    3   3.0
+J.Stanislav    1    1    1    0    1   1.0   0    1   1.0
+F.London       7    1    0    2   -2  -2.0   0    0  -0.3
+Total........ 12  636 3316  271 3045   4.8  37   60 253.8
+Opponents.... 12  466 1843  441 1402   3.0   8   71 116.8
+
+
+PASSING     GP   Effic Att-Cmp-Int  Pct  Yds TD Lng Avg/G
+---------------------------------------------------------
+E.Crouch     8  103.65  101-49-4   48.5  601  4  45  75.1
+B.Newcombe   6  140.64   79-50-1   63.3  712  1  49 118.7
+M.Christo    7  169.73   28-19-0   67.9  261  2  63  37.3
+Total.....  12  126.59  208-118-5  56.7 1574  7  63 131.2
+Opponents.  12  111.62 347-174-14  50.1 2362 13  94 196.8
+
+
+RECEIVING       GP  No.  Yds   Avg  TD Lng Avg/G
+------------------------------------------------
+Davison, Matt   12   32  394  12.3   0  49  32.8
+S.Wiggins       12   22  326  14.8   1  42  27.2
+S.Jackson       12   19  343  18.1   4  48  28.6
+K.Cheatham       9   13  155  11.9   1  45  17.2
+Buckhalter, C.  12   13   88   6.8   0  21   7.3
+B.Haafke        12    6   54   9.0   0  16   4.5
+J.Makovicka     12    4   67  16.8   0  25   5.6
+L.Brown          6    3   24   8.0   0  11   4.0
+D.Evans          3    3   23   7.7   0   9   7.7
+T.Wistrom       12    2   84  42.0   1  63   7.0
+T.J.Debates     10    1   16  16.0   0  16   1.6
+Total.......... 12  118 1574  13.3   7  63 131.2
+Opponents...... 12  174 2362  13.6  13  94 196.8
+
+
+PUNT RETURNS   No.  Yds   Avg TD Long
+-------------------------------------
+Walker, Joe     25  283  11.3  1   73
+S.Wiggins        9  144  16.0  0   53
+R.Brown II       3    7   2.3  0    7
+F.London         1    3   3.0  0    0
+Total.........  38  437  11.5  1   73
+Opponents.....  23  239  10.4  0   48
+
+
+INTERCEPTIONS     No.  Yds   Avg TD Long
+-----------------------------------------
+Walker, Joe         3   65  21.7  1   65
+Finley, Clint       3   63  21.0  1   42
+R.Brown II          2   60  30.0  0   43
+J.Wiltz             2   32  16.0  0   27
+Craver, Keyuo       1    0   0.0  0    0
+C.Kelsay            1    0   0.0  0    0
+M.Brown             1    1   1.0  0    1
+Polk, Carlos        1   16  16.0  0   16
+Total..........    14  242  17.3  2   65
+Opponents......     5   60  12.0  0   51
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Walker, Joe       17  366  21.5  1   99
+S.Wiggins         10  224  22.4  0   40
+S.Jackson          2   19   9.5  0   11
+Total..........   29  609  21.0  1   99
+Opponents......   38  757  19.9  0   49
+
+
+FUMBLE RETURNS    No.  Yds   Avg TD Long
+----------------------------------------
+R.Brown II          1   74  74.0  1   74
+M.Brown             1   26  26.0  0   26
+Total..........     2  100  50.0  1   74
+Opponents......     4   68  17.0  3   41
+
+
+                          |------ PATs ----|
+SCORING         TD  FGs   Kick Rush Rcv Pass Saf Pts
+----------------------------------------------------
+K.Brown          0 14-21 47-48  0-0   0  0-0  0   89
+Buckhalter, C.   8  0-0   0-0   0-0   0  0-0  0   48
+Newcombe, Bobby  8  0-0   0-0   0-0   0  0-0  0   48
+Crouch, Eric     5  0-0   0-0   0-0   0  0-0  0   30
+D.Evans          4  0-0   0-0   0-0   0  0-0  0   24
+S.Jackson        4  0-0   0-0   0-0   0  0-0  0   24
+Alexander, Dan   4  0-0   0-0   0-0   0  0-0  0   24
+Walker, Joe      3  0-0   0-0   0-0   0  0-0  0   18
+M.Christo        3  0-0   0-0   0-0   0  0-0  0   18
+J.Makovicka      2  0-0   0-0   0-0   0  0-0  0   12
+Miller, Willie   2  0-0   0-0   0-0   0  0-0  0   12
+B.Legate         1  0-0   0-0   0-0   0  0-0  0    6
+K.Cheatham       1  0-0   0-0   0-0   0  0-0  0    6
+Wistrom, Tracey  1  0-0   0-0   0-0   0  0-0  0    6
+Finley, Clint    1  0-0   0-0   0-0   0  0-0  0    6
+S.Wiggins        1  0-0   0-0   0-0   0  0-0  0    6
+R.Brown II       1  0-0   0-0   0-0   0  0-0  0    6
+D.Hadenfeldt     0  0-0   0-1   0-0   0  0-0  0    0
+Total.......... 49 14-21 47-49  0-0   0  0-0  0  383
+Opponents...... 24  6-8  19-22  0-1   1  1-1  0  183
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+E.Crouch         8   197  459  601  1060 132.5
+B.Newcombe       6   162  228  712   940 156.7
+C.Buckhalter    12   142  799    0   799  66.6
+M.Christo        7    87  223  261   484  69.1
+J.Makovicka     12    97  458    0   458  38.2
+D.Alexander      9    70  369    0   369  41.0
+D.Evans          3    38  218    0   218  72.7
+W.Miller        12    19   96    0    96   8.0
+J.Runty          4     3   59    0    59  14.8
+S.Wiggins       12     8   47    0    47   3.9
+B.Legate        11     5   28    0    28   2.5
+D.White          6     7   27    0    27   4.5
+L.Brown          6     1   13    0    13   2.2
+B.Kingston       3     3    9    0     9   3.0
+T.Soucie         6     1    7    0     7   1.2
+A.Tillery        1     1    3    0     3   3.0
+N.Gragert        1     1    3    0     3   3.0
+J.Stanislav      1     1    1    0     1   1.0
+F.London         7     1   -2    0    -2  -0.3
+Total........   12   844 3045 1574  4619 384.9
+Opponents....   12   813 1402 2362  3764 313.7
+
+
+FIELD 
+GOALS     FGM-FGA  Pct  1-19 20-29 30-39 40-49 50-99 Lg Blk
+-----------------------------------------------------------
+K.Brown    14-21  66.7  1-1   5-6   4-8   4-6   0-0  48   1
+
+
+FG SEQUENCE    Nebraska            OPPONENTS
+--------------------------------------------
+La. Tech       -                   -
+Alabama Birm.  (27)                -
+California     40,(41)             36,(38)
+Washington     30                  -
+Oklahoma St    (48)                (37)
+Texas A&M      -                   -
+Kansas         (27),(28)           -
+Missouri       (38),38,(30),29     -
+Texas          37,(27),(47),(42)   (36),(19)
+Iowa State     38                  -
+Kansas St      (18)                (25),(21)
+Colorado       45,(30),(30),(25)   52
+
+Numbers in parentheses indicate field goal was made
+
+
+PUNTING     No.  Yds  Avg  Lng  TB FC I20 Blk
+---------------------------------------------
+B.Lafleur    52 2337  44.9  64  10  7  17   2
+TEAM          2   29  14.5  15   0  0   0   0
+Total....... 54 2366  43.8  64  10  7  17   2
+Opponents... 73 2961  40.6  80   6  2  19   0
+
+
+ALL PURPOSE    G Rush  Rec   PR  KOR   IR  Tot Avg/G
+----------------------------------------------------
+C.Buckhalter  12  799   88    0    0    0  887  73.9
+S.Wiggins     12   47  326  144  224    0  741  61.8
+J.Walker      12    0    0  283  366   65  714  59.5
+J.Makovicka   12  458   67    0    0    0  525  43.8
+E.Crouch       8  459    0    0    0    0  459  57.4
+M.Davison     12    0  394    0    0    0  394  32.8
+D.Alexander    9  369    0    0    0    0  369  41.0
+S.Jackson     12    0  343    0   19    0  362  30.2
+D.Evans        3  218   23    0    0    0  241  80.3
+B.Newcombe     6  228    0    0    0    0  228  38.0
+M.Christo      7  223    0    0    0    0  223  31.9
+K.Cheatham     9    0  155    0    0    0  155  17.2
+W.Miller      12   96    0    0    0    0   96   8.0
+T.Wistrom     12    0   84    0    0    0   84   7.0
+R.Brown II    12    0    0    7    0   60   67   5.6
+C.Finley       9    0    0    0    0   63   63   7.0
+J.Runty        4   59    0    0    0    0   59  14.8
+B.Haafke      12    0   54    0    0    0   54   4.5
+L.Brown        6   13   24    0    0    0   37   6.2
+J.Wiltz       10    0    0    0    0   32   32   3.2
+B.Legate      11   28    0    0    0    0   28   2.5
+D.White        6   27    0    0    0    0   27   4.5
+T.J.Debates   10    0   16    0    0    0   16   1.6
+C.Polk        12    0    0    0    0   16   16   1.3
+B.Kingston     3    9    0    0    0    0    9   3.0
+T.Soucie       6    7    0    0    0    0    7   1.2
+K.Reynolds     6    0    0    0    0    5    5   0.8
+A.Tillery      1    3    0    0    0    0    3   3.0
+N.Gragert      1    3    0    0    0    0    3   3.0
+F.London       7   -2    0    3    0    0    1   0.1
+J.Stanislav    1    1    0    0    0    0    1   1.0
+M.Brown       12    0    0    0    0    1    1   0.1
+Total.......  12 3045 1574  437  609  242 5907 492.2
+Opponents...  12 1402 2362  239  757   60 4820 401.7
+
+
+
+                  |--------Tackles--------| |-Sacks-| |---Pass Def---| |-Fumbles-| Blk
+               GP Solo  Ast Total   TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kck Saf
+------------------------------------------------------------------------------------------
+M.Brown        12   37   65   102     5-5       .       1-1      4   .   1-26    .   .   .
+J.Foreman      12   32   65    97     7-27   3.0-22      .       4   6   1-0     1   .   .
+C.Kelsay       12   33   39    72    14-52   5.0-39     1-0      4  13   1-0     3   .   .
+E.Johnson      12   33   37    70    11-52   6.0-41      .       1   6    .      1   .   .
+E.Swiney       12   32   29    61     4-16   2.0-12      .      13   .   1-0     .   .   .
+M.Rucker       12   21   32    53     9-21   1.5-12      .       1  11    .      4   .   .
+J.Walker       12   22   28    50     5-10      .       3-65     1   .    .      1   .   .
+R.Brown II     12   27   19    46     2-3       .       2-60    14   .   1-74    .   .   .
+T.Ortiz        11   20   26    46     9-28   1.0-3       .       2   4    .      1   1   .
+L.Kaiser       12   16   24    40    10-27   5.5-21      .       1   4   2-0     1   .   .
+B.Shaw         12   12   27    39     4-11   1.0-5       .       .   4    .      .   .   .
+J.Wiltz        10   10   25    35     1-7    1.0-7      2-32     2   4    .      1   .   .
+K.Vanden Bosch 12   10   18    28     4-36   2.0-29      .       .   3    .      2   .   .
+C.Finley        9    6   22    28     3-13      .       3-63     .   .   1-0     1   .   .
+S.Warren       10   10   16    26     1-3       .        .       4   7   1-0     .   .   .
+K.Craver       12   11   14    25      .        .       1-0      3   1    .      .   .   .
+J.Jackson      10    9   15    24     3-20   2.0-19      .       1   5    .      .   .   .
+C.Polk         12   13    9    22     5-24   1.0-10     1-16     1   .   1-0     2   .   .
+A.Wills        11    5    5    10      .        .        .       .   2    .      .   .   .
+J.Kohl         12    4    6    10     1-3       .        .       .   2   1-0     .   .   .
+T.Toline       12    5    4     9      .        .        .       .   .    .      .   .   .
+J.Slechta       8    3    6     9     3-11   1.0-7       .       2   1   1-0     .   .   .
+K.Reynolds      6    5    3     8     1-5       .       0-5      .   .   1-0     .   .   .
+J.Lohr         11    5    2     7     1-6    1.0-6       .       .   .    .      .   .   .
+D.Raiola       12    1    3     4      .        .        .       .   .    .      .   .   .
+J.Burrow       12    2    2     4      .        .        .       .   .    .      .   .   .
+W.Woodward     10    1    2     3      .        .        .       .   .    .      .   .   .
+G.McGraw       12    1    2     3      .        .        .       .   .    .      .   .   .
+M.Vedral        4    1    2     3      .        .        .       .   .    .      .   .   .
+T.Watchorn      9    1    2     3      .        .        .       .   .    .      .   .   .
+B.Legate       11    1    2     3      .        .        .       .   .    .      .   .   .
+S.Raymond       3    3    .     3      .        .        .       .   .    .      .   .   .
+E.Ryan          3    .    2     2     1-2       .        .       .   .    .      .   .   .
+J.P.Wichmann    3    1    1     2      .        .        .       .   .    .      .   .   .
+D.Booker       11    2    .     2      .        .        .       .   .    .      1   .   .
+J.Makovicka    12    1    1     2      .        .        .       .   .    .      .   .   .
+J.Peterson      7    1    .     1      .        .        .       .   .    .      .   .   .
+B.Buettenback   5    .    1     1      .        .        .       .   .    .      .   .   .
+E.Fischer       2    1    .     1      .        .        .       .   .    .      .   .   .
+J.Hemje         4    1    .     1      .        .        .       .   .    .      .   .   .
+C.Vanderhoef    5    1    .     1      .        .        .       .   .    .      .   .   .
+C.Tuttle        2    .    1     1      .        .        .       .   .    .      .   .   .
+D.Alexander     9    1    .     1      .        .        .       .   .    .      .   .   .
+D.White         6    1    .     1      .        .        .       .   .    .      .   .   .
+B.Mooberry      3    1    .     1      .        .        .       .   .    .      .   .   .
+Q.Hogrefe       1    .    1     1      .        .        .       .   .    .      .   .   .
+L.Mehl          1    .    1     1     1-3       .        .       .   .    .      .   .   .
+W.Miller       12    .    1     1      .        .        .       .   .    .      .   .   .
+M.McGinn        1    .    1     1      .        .        .       .   .    .      .   .   .
+Total........  12  403  561   964   105-385   33-233   14-242   58  73  13-100  19   1   .
+Opponents....  12    -    -      -     -      20-146    5-60     8   .  13-68    7   3   .
+

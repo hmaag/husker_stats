@@ -1,0 +1,581 @@
+    2004 Nebraska Football Statistics
+                All games
+
+TEAM STATISTICS           NU          OPP
+-----------------------------------------
+SCORING.............     275          298
+  Points Per Game...    25.0         27.1
+FIRST DOWNS.........     194          209
+  Rushing...........      85           67
+  Passing...........      96          127
+  Penalty...........      13           15
+RUSHING YARDAGE.....    1939         1144
+  Yards gained......    2149         1476
+  Yards lost........     210          332
+  Rushing Attempts..     412          390
+  Avg. Per Rush.....     4.7          2.9
+  Avg. Per Game.....   176.3        104.0
+  TDs Rushing.......      18           14
+PASSING YARDAGE.....    2056         2944
+  Att-Comp-Int... 322-156-23   448-254-14
+  Avg. Per Pass.....     6.4          6.6
+  Avg. Per Catch....    13.2         11.6
+  Avg. Per Game.....   186.9        267.6
+  TDs Passing.......      17           18
+TOTAL OFFENSE.......    3995         4088
+  Total Plays.......     734          838
+  Avg. Per Play.....     5.4          4.9
+  Avg. Per Game.....   363.2        371.6
+KICK RETURNS-YDS....  44-865       30-742
+PUNT RETURNS-YDS....  31-181       24-145
+INT RETURNS-YDS.....  14-352       23-292
+KICK RETURN AVG ....    19.7         24.7
+PUNT RETURN AVG ....     5.8          6.0
+INT RETURN AVG......    25.1         12.7
+FUMBLES-LOST........   25-10         19-7
+PENALTIES-YDS.......  75-561       91-678
+  Avg. Per Game.....    51.0         61.6
+PUNTS-YARDS......... 64-2602      71-2809
+  Avg. Per Punt.....    40.7         39.6
+  Net punt Avg......    38.4         37.0
+POSS. TIME/GAME.....   27:55        32:05
+3RD-DOWN CONV.......  47/153       73/195
+  3rd-Down Pct......     31%          37%
+4TH-DOWN CONV. .....    9/20         9/20
+  4th-Down Pct......     45%          45%
+SACKS BY-YARDS......  25-164       16-117
+MISC YARDS..........      10            0
+TOUCHDOWNS SCORED...      37           35
+FIELD GOALS-ATTS....    6-12        18-23
+PAT-ATTEMPTS........   35-36        32-33
+ATTENDANCE..........  466153       274899
+  Games/Avg......... 6/77692      5/54980
+
+
+SCORE BY
+QUARTERS       1st  2nd  3rd  4th     Tot
+---------      ---  ---  ---  ---     ---
+NEBRASKA       41   107   63   64  -  275
+OPPONENTS      62    83   95   58  -  298
+
+
+RUSHING         GP  Att Gain Loss  Net   Avg  TD Long Avg/G
+-----------------------------------------------------------
+Ross,Cory       11  207 1141   39 1102   5.3   6   86 100.2
+Jackson,Brandon 10   85  396    6  390   4.6   6   24  39.0
+Green,Tierre    11   44  295   11  284   6.5   2   34  25.8
+Dailey,Joe      11   53  191  136   55   1.0   4   17   5.0
+Kriewald,Steve  10    3   54    0   54  18.0   0   48   5.4
+Horne,David      9   12   36    4   32   2.7   0    9   3.6
+Nunn,Terrence   11    2   23    0   23  11.5   0   21   2.1
+Amos,Willie      9    2   13    0   13   6.5   0    7   1.4
+Davis,Beau       1    1    0    6   -6  -6.0   0    0  -6.0
+Team             5    3    0    8   -8  -2.7   0    0  -1.6
+Total.......... 11  412 2149  210 1939   4.7  18   86 176.3
+Opponents...... 11  390 1476  332 1144   2.9  14   48 104.0
+
+
+PASSING      GP   Effic Att-Cmp-Int  Pct  Yds  TD Lng Avg/G
+-----------------------------------------------------------
+J.Dailey     11  110.06 310-153-19  49.4 2025  17  74 184.1
+B.Davis       1  -74.90    8-1-4    12.5   12   0  12  12.0
+R.Pilkington 11  259.60    1-1-0   100.0   19   0  19   1.7
+Team          5    0.00    1-0-0     0.0    0   0   0   0.0
+K.Huston     11    0.00    1-0-0     0.0    0   0   0   0.0
+R.Goodman     1  100.00    1-1-0   100.0    0   0   0   0.0
+Total....... 11  105.22 322-156-23  48.4 2056  17  74 186.9
+Opponents... 11  118.91 448-254-14  56.7 2944  18  80 267.6
+
+
+RECEIVING       GP  No.  Yds   Avg  TD Long Avg/G
+-------------------------------------------------
+Pilkington,Ross 11   27  337  12.5   2   41  30.6
+Herian,Matt      8   24  308  12.8   3   43  38.5
+Ross,Cory       11   21  262  12.5   2   74  23.8
+Mulkey,Grant    11   19  244  12.8   2   38  22.2
+Nunn,Terrence   11   16  218  13.6   0   55  19.8
+LeFlore,Mark     9   12  208  17.3   1   74  23.1
+Fluellen,Isaiah 10    9  158  17.6   2   45  15.8
+Horne,David      9    8   69   8.6   0   17   7.7
+Keiser,Dusty    11    6   89  14.8   0   32   8.1
+Amos,Willie      9    5   94  18.8   2   36  10.4
+Kriewald,Steve  10    5   48   9.6   3   18   4.8
+Todd,Dane       11    2    4   2.0   0    4   0.4
+Dailey,Joe      11    1   19  19.0   0   19   1.7
+Mann,Kurt       11    1   -2  -2.0   0    0  -0.2
+Total.......... 11  156 2056  13.2  17   74 186.9
+Opponents...... 11  254 2944  11.6  18   80 267.6
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Panico, Santino   22   68   3.1  0    9
+Pittman,Kade       4   46  11.5  0   36
+Ross,Cory          3   29   9.7  0   15
+Shanle,Andrew      1   15  15.0  0   15
+Wigert,Kiffin      1    7   7.0  0    7
+Ickes,Adam         0   16   0.0  1   16
+Total..........   31  181   5.8  1   36
+Opponents......   24  145   6.0  0   20
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Bullocks,Daniel    5  187  37.4  0   58
+Washington,Fab     3   23   7.7  0   19
+Cooper,Ira         2   95  47.5  0   51
+Bullocks,Josh      2   38  19.0  0   38
+Muhammad,Wali      1    4   4.0  0    4
+McKeon,Corey       1    5   5.0  0    5
+Total..........   14  352  25.1  0   58
+Opponents......   23  292  12.7  1   49
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Green,Tierre      26  498  19.2  0   28
+Jackson,Brandon   17  359  21.1  0   59
+Horne,David        1    8   8.0  0    8
+Total..........   44  865  19.7  0   59
+Opponents......   30  742  24.7  2   98
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+Bullocks,Daniel    1   10  10.0  1   10
+Total..........    1   10  10.0  1   10
+Opponents......    0    0   0.0  0    0
+
+
+                       |----- PATs -----|
+SCORING      TD  FGs   Kick Rush Rcv Pass DXP Saf Pts
+-----------------------------------------------------
+C.Ross        8  0-0   0-0   0-0   0  0-0  0   0   48
+S.DeAngelis   0  4-9  33-34  0-0   0  0-0  0   0   45
+B.Jackson     6  0-0   0-0   0-0   0  0-0  0   0   36
+J.Dailey      4  0-0   0-0   0-0   0  0-1  0   0   24
+S.Kriewald    3  0-0   0-0   0-0   0  0-0  0   0   18
+M.Herian      3  0-0   0-0   0-0   0  0-0  0   0   18
+W.Amose       2  0-0   0-0   0-0   0  0-0  0   0   12
+R.Pilkington  2  0-0   0-0   0-0   0  0-0  0   0   12
+I.Fluellen    2  0-0   0-0   0-0   0  0-0  0   0   12
+T.Green       2  0-0   0-0   0-0   0  0-0  0   0   12
+G.Mulkey      2  0-0   0-0   0-0   0  0-0  0   0   12
+D.Dyches      0  2-3   2-2   0-0   0  0-0  0   0    8
+A.Ickes       1  0-0   0-0   0-0   0  0-0  0   0    6
+M.LeFlore     1  0-0   0-0   0-0   0  0-0  0   0    6
+D.Bullocksl   1  0-0   0-0   0-0   0  0-0  0   0    6
+Total....... 37  6-12 35-36  0-0   0  0-1  0   0  275
+Opponents... 35 18-23 32-33  0-1   0  0-1  0   1  298
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Dailey,Joe      11   363   55 2025  2080 189.1
+Ross,Cory       11   207 1102    0  1102 100.2
+Jackson,Brandon 10    85  390    0   390  39.0
+Green,Tierre    11    44  284    0   284  25.8
+Kriewald,Steve  10     3   54    0    54   5.4
+Horne,David      9    12   32    0    32   3.6
+Nunn,Terrence   11     2   23    0    23   2.1
+Pilkington,Ross 11     1    0   19    19   1.7
+Amos,Willie      9     2   13    0    13   1.4
+Davis,Beau       1     9   -6   12     6   6.0
+Team             5     4   -8    0    -8  -1.6
+Total.......... 11   734 1939 2056  3995 363.2
+Opponents...... 11   838 1144 2944  4088 371.6
+
+
+FIELD
+GOALS     FGM-FGA  Pct  1-19  20s  30s  40s  50s Lg Blk
+-------------------------------------------------------
+S.DeAngelis  4-9   44.4  0-0  2-3  1-2  1-4  0-0  41  1
+D.Dyches     2-3   66.7  0-0  0-0  1-1  1-1  0-1  46  0
+
+
+FG SEQUENCE     Nebraska   OPPONENTS
+------------------------------------
+Western Ill.    -          (24),43
+Southern Miss   (35)       (39),(41),(21)
+Pittsburgh      (26)       (38)
+Kansas          45,44      37,(36),(39)
+Texas Tech      43,(46)    -
+Baylor          (21)       (29),(39)
+Kansas State    -          (40)
+Missouri        (41)       42,(39),44
+Iowa State      24,33      (28),(37)
+Oklahoma        (39)       (32),34
+Colorado        51         (37),(39),(46),(20)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING    No.  Yds   Avg Lng TB  FC I20 Blk
+--------------------------------------------
+Koch,Sam    63 2600  41.3  65  2  15  27   0
+Team         1    2   2.0   2  0   0   0   1
+Total...... 64 2602  40.7  65  2  15  27   1
+Opponents.. 71 2809  39.6  67  7  13  18   1
+
+
+KICKOFFS        No.   Yds   Avg  TB OB  Retn  Net YdLn
+------------------------------------------------------
+DeAngelis,Sandr  35  2018  57.7  10  1
+Dyches,David     10   607  60.7   3  1
+Koch,Sam          5   289  57.8   0  0
+Total..........  50  2914  58.3  13  2  1002 38.2   26
+Opponents......  62  3683  59.4  16  1  1185 40.3   24
+
+
+ALL PURPOSE      G  Rush  Rec  PR  KOR  IR  Tot Avg/G
+--------------- -------------------------------------
+Ross,Cory        11 1102  262  29    0   0 1393 126.6
+Green,Tierre     11  284    0   0  498   0  782  71.1
+Jackson,Brandon  10  390    0   0  359   0  749  74.9
+Pilkington,Ross  11    0  337   0    0   0  337  30.6
+Herian,Matt       8    0  308   0    0   0  308  38.5
+Mulkey,Grant     11    0  244   0    0   0  244  22.2
+Nunn,Terrence    11   23  218   0    0   0  241  21.9
+LeFlore,Mark      9    0  208   0    0   0  208  23.1
+Bullocks,Daniel  11    0    0   0    0 187  187  17.0
+Fluellen,Isaiah  10    0  158   0    0   0  158  15.8
+Horne,David       9   32   69   0    8   0  109  12.1
+Amos,Willie       9   13   94   0    0   0  107  11.9
+Kriewald,Steve   10   54   48   0    0   0  102  10.2
+Cooper,Ira       11    0    0   0    0  95   95   8.6
+Keiser,Dusty     11    0   89   0    0   0   89   8.1
+Dailey,Joe       11   55   19   0    0   0   74   6.7
+Panico, Santino  10    0    0  68    0   0   68   6.8
+Pittman,Kade      6    0    0  46    0   0   46   7.7
+Bullocks,Josh    11    0    0   0    0  38   38   3.5
+Washington,Fab   11    0    0   0    0  23   23   2.1
+Ickes,Adam       11    0    0  16    0   0   16   1.5
+Shanle,Andrew    11    0    0  15    0   0   15   1.4
+Wigert,Kiffin     1    0    0   7    0   0    7   7.0
+McKeon,Corey      1    0    0   0    0   5    5   5.0
+Todd,Dane        11    0    4   0    0   0    4   0.4
+Muhammad,Wali    11    0    0   0    0   4    4   0.4
+Mann,Kurt        11    0   -2   0    0   0   -2  -0.2
+Davis,Beau        1   -6    0   0    0   0   -6  -6.0
+Team              5   -8    0   0    0   0   -8  -1.6
+Total..........  11 1939 2056  181  865 352 5393 490.3
+Opponents......  11 1144 2944  145  742 292 5267 478.8
+
+
+Page 1 / 1Zoom 100%
+
+
+
+Overall Defensive Statistics
+
+                    |-------Tackles-------| |-Sacks-| |---Pass Def---| |-Fumbles-| Bkd
+                 GP Solo  Ast  Tot  TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kck Saf
+------------------------------------------------------------------------------------------
+Ruud,Barrett     11   86   57  143   18-30   3.0-7       .       3   4    .      1   .   .
+Bradley,Stewart  11   38   29   67   11-26      .        .       2   5    .      .   .   .
+Bullocks,Josh    11   43   20   63    2-2       .       2-38     7   1    .      .   .   .
+Bullocks,Daniel  11   38   20   58    4-19   1.0-12     5-187    9   5   1-10    1   .   .
+Sievers,Chad     10   24   30   54    3-6       .        .       .   5    .      .   .   .
+Cooper,Ira       11   31   19   50    6-17   1.5-10     2-95     .   1    .      .   .   .
+Smith, Le Kevin  11   18   25   43   11-29   2.5-14      .       .   4    .      .   .   .
+Washington,Fab   11   27   14   41    3-7       .       3-23    15   1    .      .   .   .
+McPherson,Lorn    9   25   15   40    3-16   2.0-15      .       6   2    .      .   .   .
+Huston,Kellen    11   24   14   38    2-2       .        .      12   4   1-0     .   .   .
+Thomas,Benard    11   16   22   38   11-41   4.0-35      .       1  15    .      1   .   .
+Adams,Titus      11   17   20   37    8-9       .        .       .   9    .      .   .   .
+Carriker,Adam    10   19   17   36    7-23   3.0-18      .       .   7    .      .   .   .
+Grixby,Cortney   11   14    7   21    1-0       .        .       4   .    .      .   .   .
+Moore,Jay        11   11   10   21    7-25   3.0-16      .       2   8   2-0     1   .   .
+Shanle,Andrew    11   16    3   19    2-11   1.0-10      .       .   .   2-0     .   1   .
+Muhammad,Wali    11    8   10   18    8-25   3.0-15     1-4      3  16    .      2   .   .
+Ruud,Bo          11   12    5   17     .        .        .       .   2    .      .   .   .
+Teamer,Brandon   10    8    9   17    2-3       .        .       .   4    .      .   .   .
+Siegel,Shane     11    9    4   13    1-12   1.0-12      .       .   2    .      .   .   .
+Rigoni,Brandon   11    4    3    7     .        .        .       .   .    .      .   .   .
+Brungardt,Mark    5    2    4    6    1-1       .        .       .   1    .      .   .   .
+Ickes,Adam       11    3    2    5     .        .        .       .   .    .      1   .   .
+Keiser,Dusty     11    3    1    4     .        .        .       .   .    .      .   .   .
+Kelly,Lane       11    2    2    4     .        .        .       .   .    .      .   .   .
+Brandenburgh,L   10    1    2    3     .        .        .       .   .    .      .   .   .
+McBride,Jeff      3    1    2    3    1-1       .        .       .   .    .      .   .   
+Pilkington,Ross  11    3    .    3     .        .        .       .   .    .      1   .   .
+DeFrand,Donald   10    2    1    3     .        .        .       2   .    .      .   .   .
+Andersen,Jake    11    2    .    2     .        .        .       .   .    .      .   .   .
+Erickson,Dan      4    1    1    2     .        .        .       .   .    .      .   .   .
+Pittman,Kade      6    .    2    2     .        .        .       .   .    .      .   .   .
+Eisenhart,Ben     3    .    1    1     .        .        .       .   .    .      .   .   .
+Mueller,Josh      9    1    .    1     .        .        .       .   .    .      .   .   .
+Todd,Dane        11    1    .    1     .        .        .       .   .    .      .   .   .
+Robison,Joey      6    1    .    1     .        .        .       .   .    .      .   .   .
+Dailey,Joe       11    1    .    1     .        .        .       .   .    .      .   .   .
+Kriewald,Steve   10    1    .    1     .        .        .       .   .    .      .   .   .
+Amos,Willie       9    1    .    1     .        .        .       .   .    .      .   .   .
+Austin,Greg      10    1    .    1     .        .        .       .   .    .      .   .   .
+Brothers,Titus    3    1    .    1     .        .        .       2   .    .      .   .   .
+Herian,Matt       8    1    .    1     .        .        .       .   .    .      .   .   .
+DeAngelis,Sandr  11    .    1    1     .        .        .       .   .    .      .   .   .
+Green,Tierre     11    .    1    1     .        .        .       .   .    .      .   .   .
+Ross,Cory        11    1    .    1     .        .        .       .   .    .      .   .   .
+McKeon,Corey      1    .    .    .     .        .       1-5      .   .    .      .   .   .
+Team              5    .    .    .     .        .        .       .   .   1-0     .   .   .
+Total..........  11  518  373  891  112-305   25-164   14-352   68  96   7-10    8   1   .
+Opponents......  11  427  308  735   65-198   16-117   23-292   50  13   10-0   12   3   1
+
+
+
+      
+RUSHING         GP  Att Gain Loss  Net   Avg  TD Long Avg/G
+-----------------------------------------------------------
+Ross,Cory       11  207 1141   39 1102   5.3   6   86 100.2
+Jackson,Brandon 10   85  396    6  390   4.6   6   24  39.0
+Green,Tierre    11   44  295   11  284   6.5   2   34  25.8
+Dailey,Joe      11   53  191  136   55   1.0   4   17   5.0
+Kriewald,Steve  10    3   54    0   54  18.0   0   48   5.4
+Horne,David      9   12   36    4   32   2.7   0    9   3.6
+Nunn,Terrence   11    2   23    0   23  11.5   0   21   2.1
+Amos,Willie      9    2   13    0   13   6.5   0    7   1.4
+Davis,Beau       1    1    0    6   -6  -6.0   0    0  -6.0
+Team             5    3    0    8   -8  -2.7   0    0  -1.6
+Total.......... 11  412 2149  210 1939   4.7  18   86 176.3
+Opponents...... 11  390 1476  332 1144   2.9  14   48 104.0
+
+
+PASSING      GP   Effic Att-Cmp-Int  Pct  Yds  TD Lng Avg/G
+-----------------------------------------------------------
+J.Dailey     11  110.06 310-153-19  49.4 2025  17  74 184.1
+B.Davis       1  -74.90    8-1-4    12.5   12   0  12  12.0
+R.Pilkington 11  259.60    1-1-0   100.0   19   0  19   1.7
+Team          5    0.00    1-0-0     0.0    0   0   0   0.0
+K.Huston     11    0.00    1-0-0     0.0    0   0   0   0.0
+R.Goodman     1  100.00    1-1-0   100.0    0   0   0   0.0
+Total....... 11  105.22 322-156-23  48.4 2056  17  74 186.9
+Opponents... 11  118.91 448-254-14  56.7 2944  18  80 267.6
+
+
+RECEIVING       GP  No.  Yds   Avg  TD Long Avg/G
+-------------------------------------------------
+Pilkington,Ross 11   27  337  12.5   2   41  30.6
+Herian,Matt      8   24  308  12.8   3   43  38.5
+Ross,Cory       11   21  262  12.5   2   74  23.8
+Mulkey,Grant    11   19  244  12.8   2   38  22.2
+Nunn,Terrence   11   16  218  13.6   0   55  19.8
+LeFlore,Mark     9   12  208  17.3   1   74  23.1
+Fluellen,Isaiah 10    9  158  17.6   2   45  15.8
+Horne,David      9    8   69   8.6   0   17   7.7
+Keiser,Dusty    11    6   89  14.8   0   32   8.1
+Amos,Willie      9    5   94  18.8   2   36  10.4
+Kriewald,Steve  10    5   48   9.6   3   18   4.8
+Todd,Dane       11    2    4   2.0   0    4   0.4
+Dailey,Joe      11    1   19  19.0   0   19   1.7
+Mann,Kurt       11    1   -2  -2.0   0    0  -0.2
+Total.......... 11  156 2056  13.2  17   74 186.9
+Opponents...... 11  254 2944  11.6  18   80 267.6
+
+
+PUNT RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Panico, Santino   22   68   3.1  0    9
+Pittman,Kade       4   46  11.5  0   36
+Ross,Cory          3   29   9.7  0   15
+Shanle,Andrew      1   15  15.0  0   15
+Wigert,Kiffin      1    7   7.0  0    7
+Ickes,Adam         0   16   0.0  1   16
+Total..........   31  181   5.8  1   36
+Opponents......   24  145   6.0  0   20
+
+
+INTERCEPTIONS    No.  Yds   Avg TD Long
+---------------------------------------
+Bullocks,Daniel    5  187  37.4  0   58
+Washington,Fab     3   23   7.7  0   19
+Cooper,Ira         2   95  47.5  0   51
+Bullocks,Josh      2   38  19.0  0   38
+Muhammad,Wali      1    4   4.0  0    4
+McKeon,Corey       1    5   5.0  0    5
+Total..........   14  352  25.1  0   58
+Opponents......   23  292  12.7  1   49
+
+
+KICK RETURNS     No.  Yds   Avg TD Long
+---------------------------------------
+Green,Tierre      26  498  19.2  0   28
+Jackson,Brandon   17  359  21.1  0   59
+Horne,David        1    8   8.0  0    8
+Total..........   44  865  19.7  0   59
+Opponents......   30  742  24.7  2   98
+
+
+FUMBLE RETURNS   No.  Yds   Avg TD Long
+---------------------------------------
+Bullocks,Daniel    1   10  10.0  1   10
+Total..........    1   10  10.0  1   10
+Opponents......    0    0   0.0  0    0
+
+
+                       |----- PATs -----|
+SCORING      TD  FGs   Kick Rush Rcv Pass DXP Saf Pts
+-----------------------------------------------------
+C.Ross        8  0-0   0-0   0-0   0  0-0  0   0   48
+S.DeAngelis   0  4-9  33-34  0-0   0  0-0  0   0   45
+B.Jackson     6  0-0   0-0   0-0   0  0-0  0   0   36
+J.Dailey      4  0-0   0-0   0-0   0  0-1  0   0   24
+S.Kriewald    3  0-0   0-0   0-0   0  0-0  0   0   18
+M.Herian      3  0-0   0-0   0-0   0  0-0  0   0   18
+W.Amose       2  0-0   0-0   0-0   0  0-0  0   0   12
+R.Pilkington  2  0-0   0-0   0-0   0  0-0  0   0   12
+I.Fluellen    2  0-0   0-0   0-0   0  0-0  0   0   12
+T.Green       2  0-0   0-0   0-0   0  0-0  0   0   12
+G.Mulkey      2  0-0   0-0   0-0   0  0-0  0   0   12
+D.Dyches      0  2-3   2-2   0-0   0  0-0  0   0    8
+A.Ickes       1  0-0   0-0   0-0   0  0-0  0   0    6
+M.LeFlore     1  0-0   0-0   0-0   0  0-0  0   0    6
+D.Bullocksl   1  0-0   0-0   0-0   0  0-0  0   0    6
+Total....... 37  6-12 35-36  0-0   0  0-1  0   0  275
+Opponents... 35 18-23 32-33  0-1   0  0-1  0   1  298
+
+
+TOTAL OFFENSE    G Plays Rush Pass Total Avg/G
+----------------------------------------------
+Dailey,Joe      11   363   55 2025  2080 189.1
+Ross,Cory       11   207 1102    0  1102 100.2
+Jackson,Brandon 10    85  390    0   390  39.0
+Green,Tierre    11    44  284    0   284  25.8
+Kriewald,Steve  10     3   54    0    54   5.4
+Horne,David      9    12   32    0    32   3.6
+Nunn,Terrence   11     2   23    0    23   2.1
+Pilkington,Ross 11     1    0   19    19   1.7
+Amos,Willie      9     2   13    0    13   1.4
+Davis,Beau       1     9   -6   12     6   6.0
+Team             5     4   -8    0    -8  -1.6
+Total.......... 11   734 1939 2056  3995 363.2
+Opponents...... 11   838 1144 2944  4088 371.6
+
+
+FIELD
+GOALS     FGM-FGA  Pct  1-19  20s  30s  40s  50s Lg Blk
+-------------------------------------------------------
+S.DeAngelis  4-9   44.4  0-0  2-3  1-2  1-4  0-0  41  1
+D.Dyches     2-3   66.7  0-0  0-0  1-1  1-1  0-1  46  0
+
+
+FG SEQUENCE     Nebraska   OPPONENTS
+------------------------------------
+Western Ill.    -          (24),43
+Southern Miss   (35)       (39),(41),(21)
+Pittsburgh      (26)       (38)
+Kansas          45,44      37,(36),(39)
+Texas Tech      43,(46)    -
+Baylor          (21)       (29),(39)
+Kansas State    -          (40)
+Missouri        (41)       42,(39),44
+Iowa State      24,33      (28),(37)
+Oklahoma        (39)       (32),34
+Colorado        51         (37),(39),(46),(20)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING    No.  Yds   Avg Lng TB  FC I20 Blk
+--------------------------------------------
+Koch,Sam    63 2600  41.3  65  2  15  27   0
+Team         1    2   2.0   2  0   0   0   1
+Total...... 64 2602  40.7  65  2  15  27   1
+Opponents.. 71 2809  39.6  67  7  13  18   1
+
+
+KICKOFFS        No.   Yds   Avg  TB OB  Retn  Net YdLn
+------------------------------------------------------
+DeAngelis,Sandr  35  2018  57.7  10  1
+Dyches,David     10   607  60.7   3  1
+Koch,Sam          5   289  57.8   0  0
+Total..........  50  2914  58.3  13  2  1002 38.2   26
+Opponents......  62  3683  59.4  16  1  1185 40.3   24
+
+
+ALL PURPOSE      G  Rush  Rec  PR  KOR  IR  Tot Avg/G
+--------------- -------------------------------------
+Ross,Cory        11 1102  262  29    0   0 1393 126.6
+Green,Tierre     11  284    0   0  498   0  782  71.1
+Jackson,Brandon  10  390    0   0  359   0  749  74.9
+Pilkington,Ross  11    0  337   0    0   0  337  30.6
+Herian,Matt       8    0  308   0    0   0  308  38.5
+Mulkey,Grant     11    0  244   0    0   0  244  22.2
+Nunn,Terrence    11   23  218   0    0   0  241  21.9
+LeFlore,Mark      9    0  208   0    0   0  208  23.1
+Bullocks,Daniel  11    0    0   0    0 187  187  17.0
+Fluellen,Isaiah  10    0  158   0    0   0  158  15.8
+Horne,David       9   32   69   0    8   0  109  12.1
+Amos,Willie       9   13   94   0    0   0  107  11.9
+Kriewald,Steve   10   54   48   0    0   0  102  10.2
+Cooper,Ira       11    0    0   0    0  95   95   8.6
+Keiser,Dusty     11    0   89   0    0   0   89   8.1
+Dailey,Joe       11   55   19   0    0   0   74   6.7
+Panico, Santino  10    0    0  68    0   0   68   6.8
+Pittman,Kade      6    0    0  46    0   0   46   7.7
+Bullocks,Josh    11    0    0   0    0  38   38   3.5
+Washington,Fab   11    0    0   0    0  23   23   2.1
+Ickes,Adam       11    0    0  16    0   0   16   1.5
+Shanle,Andrew    11    0    0  15    0   0   15   1.4
+Wigert,Kiffin     1    0    0   7    0   0    7   7.0
+McKeon,Corey      1    0    0   0    0   5    5   5.0
+Todd,Dane        11    0    4   0    0   0    4   0.4
+Muhammad,Wali    11    0    0   0    0   4    4   0.4
+Mann,Kurt        11    0   -2   0    0   0   -2  -0.2
+Davis,Beau        1   -6    0   0    0   0   -6  -6.0
+Team              5   -8    0   0    0   0   -8  -1.6
+Total..........  11 1939 2056  181  865 352 5393 490.3
+Opponents......  11 1144 2944  145  742 292 5267 478.8
+
+                    |-------Tackles-------| |-Sacks-| |---Pass Def---| |-Fumbles-| Bkd
+                 GP Solo  Ast  Tot  TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kck Saf
+------------------------------------------------------------------------------------------
+Ruud,Barrett     11   86   57  143   18-30   3.0-7       .       3   4    .      1   .   .
+Bradley,Stewart  11   38   29   67   11-26      .        .       2   5    .      .   .   .
+Bullocks,Josh    11   43   20   63    2-2       .       2-38     7   1    .      .   .   .
+Bullocks,Daniel  11   38   20   58    4-19   1.0-12     5-187    9   5   1-10    1   .   .
+Sievers,Chad     10   24   30   54    3-6       .        .       .   5    .      .   .   .
+Cooper,Ira       11   31   19   50    6-17   1.5-10     2-95     .   1    .      .   .   .
+Smith, Le Kevin  11   18   25   43   11-29   2.5-14      .       .   4    .      .   .   .
+Washington,Fab   11   27   14   41    3-7       .       3-23    15   1    .      .   .   .
+McPherson,Lorn    9   25   15   40    3-16   2.0-15      .       6   2    .      .   .   .
+Huston,Kellen    11   24   14   38    2-2       .        .      12   4   1-0     .   .   .
+Thomas,Benard    11   16   22   38   11-41   4.0-35      .       1  15    .      1   .   .
+Adams,Titus      11   17   20   37    8-9       .        .       .   9    .      .   .   .
+Carriker,Adam    10   19   17   36    7-23   3.0-18      .       .   7    .      .   .   .
+Grixby,Cortney   11   14    7   21    1-0       .        .       4   .    .      .   .   .
+Moore,Jay        11   11   10   21    7-25   3.0-16      .       2   8   2-0     1   .   .
+Shanle,Andrew    11   16    3   19    2-11   1.0-10      .       .   .   2-0     .   1   .
+Muhammad,Wali    11    8   10   18    8-25   3.0-15     1-4      3  16    .      2   .   .
+Ruud,Bo          11   12    5   17     .        .        .       .   2    .      .   .   .
+Teamer,Brandon   10    8    9   17    2-3       .        .       .   4    .      .   .   .
+Siegel,Shane     11    9    4   13    1-12   1.0-12      .       .   2    .      .   .   .
+Rigoni,Brandon   11    4    3    7     .        .        .       .   .    .      .   .   .
+Brungardt,Mark    5    2    4    6    1-1       .        .       .   1    .      .   .   .
+Ickes,Adam       11    3    2    5     .        .        .       .   .    .      1   .   .
+Keiser,Dusty     11    3    1    4     .        .        .       .   .    .      .   .   .
+Kelly,Lane       11    2    2    4     .        .        .       .   .    .      .   .   .
+Brandenburgh,L   10    1    2    3     .        .        .       .   .    .      .   .   .
+McBride,Jeff      3    1    2    3    1-1       .        .       .   .    .      .   .   
+Pilkington,Ross  11    3    .    3     .        .        .       .   .    .      1   .   .
+DeFrand,Donald   10    2    1    3     .        .        .       2   .    .      .   .   .
+Andersen,Jake    11    2    .    2     .        .        .       .   .    .      .   .   .
+Erickson,Dan      4    1    1    2     .        .        .       .   .    .      .   .   .
+Pittman,Kade      6    .    2    2     .        .        .       .   .    .      .   .   .
+Eisenhart,Ben     3    .    1    1     .        .        .       .   .    .      .   .   .
+Mueller,Josh      9    1    .    1     .        .        .       .   .    .      .   .   .
+Todd,Dane        11    1    .    1     .        .        .       .   .    .      .   .   .
+Robison,Joey      6    1    .    1     .        .        .       .   .    .      .   .   .
+Dailey,Joe       11    1    .    1     .        .        .       .   .    .      .   .   .
+Kriewald,Steve   10    1    .    1     .        .        .       .   .    .      .   .   .
+Amos,Willie       9    1    .    1     .        .        .       .   .    .      .   .   .
+Austin,Greg      10    1    .    1     .        .        .       .   .    .      .   .   .
+Brothers,Titus    3    1    .    1     .        .        .       2   .    .      .   .   .
+Herian,Matt       8    1    .    1     .        .        .       .   .    .      .   .   .
+DeAngelis,Sandr  11    .    1    1     .        .        .       .   .    .      .   .   .
+Green,Tierre     11    .    1    1     .        .        .       .   .    .      .   .   .
+Ross,Cory        11    1    .    1     .        .        .       .   .    .      .   .   .
+McKeon,Corey      1    .    .    .     .        .       1-5      .   .    .      .   .   .
+Team              5    .    .    .     .        .        .       .   .   1-0     .   .   .
+Total..........  11  518  373  891  112-305   25-164   14-352   68  96   7-10    8   1   .
+Opponents......  11  427  308  735   65-198   16-117   23-292   50  13   10-0   12   3   1
+

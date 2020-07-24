@@ -1,0 +1,721 @@
+1987 Nebraska Cornhuskers
+Overall Team Statistics
+(does not include bowl game)
+
+TEAM STATISTICS               NU     Opp.
+Total First Downs............266      172
+  By Rush....................214       71
+  By Pass.....................46       85
+  By Penalty...................6       16
+Total Offensive Yards.......5379     2912
+  Avg. Gain Per Game.......489.0    264.7
+  Total Plays................835      734
+  Avg. Plays Per Game.......75.9     66.5
+  Avg. Gain Per Play.........6.4      4.0
+Net Yards Rushing...........4108     1177
+  Avg. Gain Per Game.......373.5    107.0
+  Rushing Attempts...........673      423
+  Avg. Gain Per Rush.........6.1      2.8
+  Yards Gained Rushing......4351     1563
+  Yards Lost Rushing.........243      386
+Net Yards Passing...........1271     1735
+  Avg. Gain Per Game ......115.5    157.7
+  Avg. Gain Per Att. ........7.9      5.6
+  Avg. Gain Per Comp. ......15.7     12.6
+  Attempts...................162      311
+  Completions.................81      138
+  Percentage................50.0     44.4
+  Had Intercepted.............11       17
+Passes Intercepted by.........17       11
+  Yards Returned.............117       85
+  Avg. Return................6.9      7.1
+Punting Average.............37.6     38.1
+  Yards.....................1428     2893
+  Had Blocked..................2        2
+Punts Returned................40       16
+  Yards Returned.............454      110
+  Average Return............11.4      6.9
+Kickoffs Returned.............25       46
+  Yards Returned.............514      808
+  Average Return............20.6     17.6
+Penalties-Yards...........73-616   79-465
+  Avg. Yards Per Game.......56.0     42.3
+Fumbles-Lost...............32-19    31-13
+Touchdowns....................58       15
+  By Rush.....................40       10
+  By Pass.....................16        5
+  By Return....................2        0
+Field Goals made/att. .......6-8     8-16
+Extra Points made/att. ....56-58    14-15
+  By Kick..................55-56    11-11
+  By Rush....................1-2      2-2
+  By Pass....................0-0      1-2
+Safeties.......................0        1
+Total Points.................423      133
+  Avg. Per Game.............38.5     12.1
+Third Down Conversions....72-137   64-154
+  Percentage................52.6     41.6
+Fourth Down Conversions....11-16     4-14
+  Percentage................68.8     28.6
+Quarterback Sacks by..........37       15
+Time of Possession .......356:28   303:32
+  Avg. Time of Poss. ......32:23    27:37
+
+
+ATTENDANCE    TOTAL      AVG.
+HOME:        533,107    76,158
+AWAY:        305,436    61,087
+
+
+SCORING BY QUARTERS
+          1     2     3    4       F
+NEB      83   142    98   100  -  423
+OPP       7    29    63    34  -  133
+
+AVG. SCORING BY QUARTERS
+         1     2     3     4       F
+NEB     7.5  12.9   8.9   9.1  -  38.5
+OPP     0.6   2.6   5.7   3.1  -  12.1
+
+
+1987 Nebraska Cornhuskers
+Overall Individual Statistics
+(does not include bowl game)
+
+PASSING     G   Att  Cmp   Pct   Yds
+C.Blakeman  11   37   23  .622   361
+S.Taylor    10  123   57  .463   902
+J.Gdowski    6    2    1  .500     8
+NEB         11  162   81  .500  1271
+OPP         11  311  138  .444  1735
+
+                         Yds/
+PASSING    Int  TD  LP   Game  Rtng.
+C.Blakeman  2    3  40   32.8  160.1
+S.Taylor    9   13  78   90.2  128.2
+J.Gdowski   0    0   8    1.3   83.6
+NEB        11   16  78  115.5  134.9
+OPP        17    5  80  157.7   85.6
+
+
+                         Yds/  Yds/
+RECEIVING  G   No.  Yds  Play  Game  LP TD
+R.Smith    10  21   329  15.7  32.9  48  3
+T.Millikan 11  13   287  22.1  26.1  54  3
+D.Brinson  10  13   189  14.5  18.9  31  1
+T.Banderas 11   8    86  10.8   7.8  22  6
+R.Bell     11   6   142  23.7  12.9  78  1
+M.Gregory  11   6    58   9.7   5.3  15  0
+H.Hawkins  10   5    76  15.2   7.6  40  1
+C.Bahe      4   2    32  16.0   8.0  24  0
+K.Neubert  11   2    28  14.0   2.5  15  0
+V.Sheppard  4   2    12   6.0   3.0   8  0
+T.McCoy     4   1    18  18.0   4.5  18  0
+K.Clark     9   1    11  11.0   1.2  11  1
+K.Jones    10   1     3   3.0   0.3   3  0
+Nebraska   11  81  1271  15.7 115.5  78 16
+Opponents  11 138  1735  12.6 157.7  80  5
+
+
+                      PAT  PAT
+SCORING      G   TD  Kick  R/P FG-A  Pts
+K.Jones      10  13    0   1-2   0    80
+D.Drennan    11   0  53-53  0   6-8   71
+S.Taylor     10   8    0    0    0    48
+K.Clark       9   6    0    0    0    36
+T.Banderas   11   6    0    0    0    36
+R.Smith      10   4    0    0    0    24
+M.Heibel     11   4    0    0    0    24
+T.Knox       11   3    0    0    0    18
+T.Millikan   11   3    0    0    0    18
+G.Gdowski     6   2    0    0    0    12
+C.Blakeman   11   2    0    0    0    12
+R.Bell       11   2    0    0    0    12
+C.Brinson    10   2    0    0    0    12
+B.Carpenter  10   1    0    0    0     6
+J.Kelley     10   1    0    0    0     6
+H.Hawkins    10   1    0    0    0     6
+C.Schnitzler  3   0   2-2   0    0     2
+D.Cheloha     4   0   0-1   0    0     0
+
+
+INTERCEPTIONS  G  No. Yds  Avg.  LP  TD
+M.Blazek      11   3   48  16.0  46   0
+L.Hicks       11   2   20  10.0  19   0
+S.Forch       11   2    6   3.0   6   0
+B.Washington  11   2    4   2.0   3   0
+W.Wooten       4   1   29  29.0  29   0
+B.Thomas      11   1    7   7.0   7   0
+J.Tomjack     11   1    3   3.0   3   0
+C.Fryar       11   1    0   0.0   0   0
+T.Lewis        7   1    0   0.0   0   0
+J.Jamrog      11   1    0   0.0   0   0
+J.Marco       11   1    0   0.0   0   0
+N.Smith       10   1    0   0.0   0   0
+Nebraska      11  17  117   6.9  46   0
+Opponents     11  12   85   7.1  24   0
+
+
+PUNT
+RETURNS      G  No. Yds  Avg.  LP  TD
+R.Smith     10  10  161  16.1  80   1
+R.Bell      11   4   43  10.8  20   0
+M.Gregory   11   3   31  10.3  15   0
+D.Brinson   10  22  222  10.1  57   1
+H.Hawkins   10   1   -3  -3.0  -3   0
+Nebraska    11  40  454  11.4  80   2
+Opponents   11  16  110   6.9  24   0
+
+
+KICKOFF
+RETURNS      G   No. Yds  Avg.  LP  TD
+D.Brinson    10  14  329  23.5  47   0
+K.Clark       9   6  135  22.5  38   0
+K.Jones      10   1   21  21.0  21   0
+R.Bell       11   1   11  11.0  11   0
+V.Sheppard    4   2   17   8.5  15   0
+S.Schmidt    11   1    1   1.0   1   0
+Nebraska     11  25  514  20.6  47   0
+Opponents    11  46  808  17.6  28   0
+
+
+PUNTING    G   No.  Yds   Avg Blk LP
+J.Kroeker  10  36  1428  39.7  1  56
+Team       11   2     0   0.0  1   0
+Nebraska   11  38  1428  37.6  2  60
+Opponents  11  76  2893  38.1  2  60
+
+
+ALL-PURPOSE
+YARDAGE   Rush  Rec   PR  KOR  Tot.-Avg.
+K.Jones   1232    3    0   21  1256-125.6
+D.Brinson  250  189  222  329   990- 99.0
+S.Taylor   659    0    0    0   659- 65.9
+K.Clark    344   11    0  135   490- 54.4
+
+
+FIELD
+GOALS       G  1-19 20-29 30-39 40-49 50+
+C.Drennan   11  0-0  1-2   1-1   3-4  1-1
+Opponents   11  0-0  6-6   1-5   1-3  0-1
+
+DRENNAN FG's (underlined good): (0), (0), (0), (27, 36, 43), (40, 43), (43), (0), (29), (0), (0), (50).
+OPPONENTS FG's: (42, 29, 26), (23), (36, 28), (0), (0), (0), (37, 29), (0), (39, 44), (44, 27, 35), (39, 50).
+
+
+ DEFENSE
+LEtienne,L
+Forch,S
+Thomas,B
+Smith,N
+Blazek,M
+Pete,L
+Jamrog,J
+Rother,T
+Fryar,C
+Murray,M
+Hicks,L
+Washington,B
+Welniak,D
+Jackson,T
+Marco,J
+Jobman,R
+Tomjack,J
+Jones,L
+Croel,M
+Valladao,R
+Ferguson,B
+Caliendo,C
+Mills,J
+Cooper,R
+Sanders,M
+Walker,C
+Clayton,M
+Lewis,T
+Vampola,S
+Wooten,W
+Griffin,W
+Custard,J
+Wells,K
+Opie,H
+Palmer,T
+Broer,K
+Haage,M
+Buchanan,P
+D'Alesio,J
+Long,J
+Miller,K
+Skradis,K
+ G
+11
+11
+11
+10
+11
+11
+11
+11
+11
+11
+11
+11
+11
+11
+11
+10
+11
+10
+10
+11
+9
+5
+10
+10
+8
+8
+8
+7
+4
+4
+8
+1
+5
+6
+2
+4
+4
+2
+1
+4
+1
+4
+ UT
+39
+37
+41
+36
+26
+25
+28
+23
+25
+21
+25
+16
+17
+16
+19
+10
+5
+10
+6
+6
+5
+3
+2
+6
+3
+3
+3
+3
+3
+2
+2
+1
+0
+2
+1
+1
+1
+1
+1
+1
+1
+0
+ AT
+36
+37
+32
+29
+19
+20
+15
+18
+10
+13
+8
+17
+12
+13
+9
+10
+11
+5
+4
+3
+2
+4
+5
+1
+2
+2
+1
+1
+0
+1
+1
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+1
+ TT
+75
+74
+73
+65
+45
+45
+43
+41
+35
+34
+33
+33
+29
+29
+28
+20
+16
+15
+10
+9
+7
+7
+7
+7
+5
+5
+4
+4
+3
+3
+3
+3
+3
+2
+1
+1
+1
+1
+1
+1
+1
+1
+TFL-Yds
+3-5
+3-7
+9-58
+12-63
+0
+2-4
+5-23
+13-97
+1-3
+5-16
+0
+1-1
+4-13
+2-6
+6-23
+0
+1-2
+3-10
+2-11
+3-10
+0
+1-1
+0
+0
+1-1
+1-11
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Sks-Yds
+1-1
+0
+6.5-43
+7.5-50
+0
+1-3
+3-18
+10-84
+0
+2-10
+0
+0
+1-5
+0
+2-15
+0
+0
+2-8
+1-10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+FmbCsd
+1
+1
+2
+2
+1
+1
+1
+2
+2
+1
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+FmbRcd
+1
+0
+1
+1
+0
+0
+2
+0
+0
+0
+0
+0
+1
+0
+2
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+BlkKck
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+ PBU
+2
+8
+3
+3
+5
+0
+0
+2
+7
+1
+6
+5
+0
+0
+4
+2
+0
+0
+0
+0
+0
+0
+1
+3
+0
+2
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+ Int
+0
+2
+1
+1
+3
+0
+1
+0
+1
+0
+2
+2
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

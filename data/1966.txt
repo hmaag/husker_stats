@@ -1,0 +1,190 @@
+1966 Nebraska Cornhuskers
+Nebraska Overall Team Statistics (Final)
+(regular season only)
+
+Nebr.                            Opp.
+  114    First downs rushing       61
+   64    First downs passing       54
+   10    First downs penalties     11
+  188    TOTAL FIRST DOWNS        126
+   45    Times penalized           43
+  429    Yards penalized          389
+29-18    Fumbles-lost           28-14
+  541    Times rushed             394
+ 2252    Yards gained rushing    1366
+  268    Yards lost rushing       370
+ 1984    NET GAIN RUSHING         996
+  192    Passes attempted         220
+  104    Passes completed          94
+    9    Passes intercepted        18
+ 1204    NET GAIN BY PASSING     1284
+  733    Total plays              614
+ 3188    Total gain              2280
+  198.4  Game rushing average      99.6
+  120.4  Game passing average     128.4
+  318.8  Total offensive average  228.0
+
+SCORING BY QUARTERS
+        lst    2nd   3rd   4th   Total
+NU       37     63    44    72     216
+Opp.      9     39    20    16      84
+
+AVERAGE
+        lst    2nd   3rd   4th   Total
+NU      3.7    6.3   4.4   7.2    21.6
+Opp.    0.9    3.9   2.0   1.6     8.4
+1966 Nebraska Cornhuskers
+Nebraska Overall Individual Statistics (Final)
+(regular season only)
+
+RUSHING    No.   Gain  Lost    Net    Avg.
+Wilson     138    659    24    635    4.6
+Tatman     107    420     2    418    3.9
+Gregory     93    424     6    418    4.5
+Winters     39    160     3    157    4.0
+Davis       29    159     5    154    5.3
+Kirkland    27    112     8    104    3.6
+Critchlow   21     77     3     74    3.6
+Weber        9     49    12     37    4.1
+Ziegler     12     42     0     42    3.5
+Brunk        1      3     0      3    3.0
+Churchich   63    147   205    -58   -0.9
+Neb. Tot.  541   2252   268   1924    3.6
+Opp. Tot.  394   1366   370    996    2.5
+
+
+PASSING    Att  Comp  Pct   Yds TD Int
+Churchich  174   96  .552  1136  4   9
+Weber       14    7  .500    52  1   0
+Sigler       2    1  .500    16  0   0
+Gregory      2    0  .000    0   0   0
+Neb. Tot.  192  104  .541  1204  5   9
+Opp. Tot.  220   94  .425  1284  6  18
+
+
+PASS RECEIVING  No.    Yards      TD
+Penney          24       286       0
+Morrison        22       271       2
+Wilson          16       216       1
+Richnafsky      12       121       0
+Gregory         12       121       1
+Kirkland         7        90       0
+Kimmel           5        61       0
+Davis            2        18       0
+Tatman           1        11       0
+Smith            1         5       1
+Winters          2         4       0
+Neb. Totals    104      1204       5
+Opp. Totals     94      1284       6
+
+
+TOTAL OFFENSE  Plays      Gain     Avg.
+Churchich        237      1078      4.5
+Wilson           138       635      4.6
+Tatman           107       418      3.9
+Gregory           95       418      4.3
+Winters           39       157      4.0
+Davis             29       154      5.3
+Kirkland          29       104      3.6
+Weber             23        89      3.9
+Critchlow         21        74      3.6
+Ziegler           12        42      3.5
+Sigler             2        16      8.0
+Brunk              1         3      3.0
+
+
+PUNT RETURNS  No.   Yards    Avg.    TD
+Wachholtz     29     299     10.0     1
+Meylan         3      60     20.0     2
+Poggemeyer     2       4      2.0     0
+Neb. Totals   34     363     10.8     3
+Opp. Totals   21     159      7.8     0
+
+
+PASS
+INTERCEPTIONS  No.   Yds.    Avg.   TD
+Wachholtz       7     73     10.4    0
+Carstens        2     68     34.0    0
+Alvarez         2     37     18.5    0
+Thorell         3     22      7.1    0
+Mueller         1      4      4.0    0
+Janik           1      3      3.0    0
+Senkbeil        1      0      0.0    0
+Coleman, R.     1      0      0.0    0
+Neb. Totals    18    207     11.5    9
+Opp. Totals     9     94     10.4    1
+
+
+KICKOFF
+RETURNS      No.     Yds.    Avg.
+Wilson       11      226     20.5
+Gregory       4       67     16.5
+Tatman        1       17     17.0
+Davis         2       32     16.0 
+Neb. Totals  18      351     18.9
+Opp. Totals  43      867     20.1
+
+
+PUNTING       No.     Yds.    Avg.
+Armstrong     46     1801     39.1
+Kuehl          6      198     33.0
+Neb. Totals   52     1999     38.5
+Opp. Totals   72     2614     36.3
+
+
+SCORING      TD   Pat   FG   Other  Tot.
+Gregory      7     0     0    0-1    42
+Wachholtz    1   21-25  5-8    0     42
+Wilson       4     0     0     0     24
+Churchich    4     0     0    0-2    24
+Tatman       3     0     0     0     18
+Critchlow    2     0     0     0     12
+Meylan       2     0     0     0     12
+Winters      2     0     0     0     12
+Morrison     2     0     0     0     12
+Kirkland     1     0     0     0      6
+Smith        1     0     0     0      6
+Davis        1     0     0     0      6
+Weber        0     0     0    0-2     0
+Neb. Tot.   30   21-25  5-8   0-5   216
+Opp. Tot.   11    6-7   4-5   0-3    84
+
+   
+INTERIOR LINEMEN  UT  AT REC. BK PI PBU BP
+Stith, Carel      42* 40   2   0  0   1  1
+Meylan, Wayne     38  36   1   0  0   2  3*
+McCord, Jim       20  34   1   0  0   0  0
+Lints, Bob         4   3   0   0  0   0  0
+Casbeer, Tom       1   0   0   0  0   0  0
+Czap, Dick         4   6   0   0  0   1  0
+Meagher, Harry     2   1   0   0  0   0  0
+ENDS    
+Coleman, Langston 23  30   2   0  0   0  0
+Patton, Jerry     22  22   2   0  0   7  0
+Delaney, Dan       0   3   0   0  0   0  0
+Zimmer, Ivan       1   0   0   0  0   0  0
+Weinman, Bob       3   2   0   0  0   0  0
+LINEBACKERS    
+Senkbeil, Lynn    37  45*  2   0  1   3  0
+Coleman, Rick     34  32   1   0  2   0  0
+Alvarez, Barry    12  19   0   0  2   2  0
+Janik, Len         5   4   0   0  1   1  0
+BACKS    
+Mueller, Marv     38  23   1   0  1   7  0
+Wachholtz, Larry  27  28   0   0  7*  8* 0
+Carstens, Kaye    29   8   0   0  2   4  0
+Thorell, Dennis   11  22   0   0  3   2  0
+Gregory, Ben       5   9   2   0  0   4  0
+Kuehl, Al          4   4   0   0  0   1  0
+Best, Bob          5   1   0   0  0   0  0
+Poggemeyer, Ron    7   1   0   0  0   0  0
+* Record
+
+Key:
+ UT  -unassisted tackles
+ AT  -assisted tackles 
+ REC.-fumble recoveries
+ BK  -blocked FG or PAT 
+ PI  -passes intercepted 
+ PBU -passes broken up 
+ BP  -blocked punts

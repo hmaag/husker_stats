@@ -1,0 +1,184 @@
+
+
+1982 Nebraska Cornhuskers
+Overall Team Statistics
+Bowl game not included
+
+
+TEAM STATISTICS        NU      Opp.
+First Downs           329      199
+  By Rushing          249       90
+  By Passing           70      100
+  By Penalty           10        9
+Rushing              4732     1506
+  Avg. Per Game     394.3    125.5
+Passing              1491     1981
+  Avg. Per Game     124.3    165.1
+Total Offense        6223     3487
+  Total Plays         976      807
+  Avg. Per Play       6.4      4.3
+  Avg. Per Game     518.6    290.6
+Penalties Number       64       54
+  Yards Penalized     539      425
+Fumbles Number         34       24
+  Lost                 18       15
+Points Scored         493      147
+  Avg. Per Game      41.1     12.3
+
+	
+           SCORING BY QUARTERS
+                 TOTAL
+Nebraska    80   124   120   169  -  493
+Opponents   35    30    54    28  -  147
+
+                AVERAGE
+Nebraska   6.7  10.3  10.0  14.1  - 41.1
+Opponents  2.9   2.5   4.5   2.3  - 12.3
+
+
+RUSHING   Att Gain Loss  Net  Avg  LG   TD
+Rozier    242 1721   32 1689  7.0  62   15
+Craig     119  604   18  586  4.9  34    5
+Smith      56  579   10  569 10.2  80t   7
+Gill      101  582   85  497  4.9  22t   4
+Wilkening  80  414    1  413  5.2  26    8
+Fryar      20  253    8  245 12.3  45    2
+Brungardt  25  165    4  161  6.4  22t   3
+Schellen   27  135    1  134  5.0  41t   3
+Mathison   22  128   23  105  4.8  43t   2
+Moravec    19   97    0   97  5.1  19    1
+Mason      22  107   25   82  3.7  19    1
+Swanson     6   47    0   47  7.8  16    0
+Vergith     5   41   10   31  6.2  16    1
+Sundberg    7   32    2   30  4.3  19    0
+Simmons     1   19    0   19 19.0  19    0
+Porter      3   17    0   17  5.7  12    0
+Borer       3   11    0   11  3.7   7    0
+DuBose      3    5    1    4  1.3   3    0
+Brown       1    0    5   -5 -5.0  -5    0
+NEB       762 4957  225 4732  6.2  80t  52
+OPP       470 1913  407 1506  3.2  86t  10
+
+
+                            Avg/  Avg/    
+PASSING  Att Cmp   Pct  Yds  Att  Comp Int
+Gill     166  90  54.2 1182  7.1  13.1   3
+Mathison  29  13  44.8  182  6.3  14.0   1
+Mason     16   6  37.5   69  4.3  11.5   0
+Fryar      1   1 100.0   37 37.0  37.0   0
+Sundberg   2   1  50.0   21 10.5  21.0   0
+NEB      214 111  51.9 1491  7.0  13.4   4
+OPP      337 161  47.8 1981  5.9  12.3  16
+
+          Pct      Pct             NCAA
+PASSING   Int  TD   TD  LP  Sacks  Rat.
+Gill      1.8  11  6.6  5Bt   8   132.3
+Mathison  3.4   1  3.4  61t   2   102.0
+Mason     0.0   1  6.3  22    0    94.4
+Fryar     0.0   0  0.0  37    0   410.8
+Sundberg  0.0   0  0.0  21    0   138.2
+NEB       1.9  13  6.1  61   10   126.7
+OPP       4.7   7  2.1  63t  30    94.5
+
+PASSERS' TOTAL OFFENSE:
+Gill 267/1679, Mathison 51/287, Fryar 15/213, Mason 38/151, Sundberg 9/51.
+
+
+
+PASS
+RECEIVING  No.   Yds.    Avg.   LG   TD
+Fryar       24    346    14.4   41t   2
+Brown       23    399    17.3   58t   4
+J.Williams  21    222    10.6   33    3
+Swanson     10    111    11.1   22    0
+Krenk        9    124    13.8   37    0
+Simmons      8    156    19.5   61t   1
+Rozier       6     46     7.7   14    2
+Craig        4     15     3.8   11    0
+Schellen     2     15     7.5   10    0
+Engebritson  1     21    21.0   21    0
+Hill         1     19    19.0   19    0
+Thompson     1      9     9.0    9t   1
+Wilkening    1      8     8.0    8    0
+Nebraska   111   1491    13.4   61t  13
+Opponents  161   1981    12.3   63t   7
+
+
+SCORING  TDR TDP TDRt PAT1 PAT2   FG   TP
+Rozier    15   2  -    -     -    -   102
+Seibel     -   -  -  58-60   -   8-13  82
+Smith      7   -  1*   -     -    -    48
+Wilkening  8   -  -    -     -    -    48
+Craig      5   -  -    -     -    -    30
+Fryar      2   2  1    -     -    -    30
+Brown      -   4  -    -     -    -    24
+Gill       4   -  -    -    0-1   -    24
+Brungardt  3   -  -    -     -    -    18
+Schellen   3   -  -    -     -    -    18
+J.Williams -   3  -    -     -    -    18
+Mathison   2   -  -    -     -    -    12
+Mason      l   -  -    -     -    -     6
+Moravec    l   -  -    -     -    -     6
+Praeuner   -   -  1*   -     -    -     6
+Simmons    -   l  -    -     -    -     6
+Thompson   -   l  -    -     -    -     6
+Vergith    l   -  -    -     -    -     6
+Campbell   -   -  -   2-2    -    -     2
+Hagerman   -   -  -   1-3    -    -     1
+Sundberg   -   -  -    -    0-1   -     0
+Team       -   -  -   0-1    -    -     -
+NEB       52  13  3  61-66  0-2  8-13 493
+OPP       10   7  0  15-16  0-1 10-20 147
+
+*Recovered fumble in end zone.
+
+
+
+PUNT RETURNS No.  Yds.  Avg.  LG   TD
+Fryar         18   277  15.4  70t   1
+Smith         11   176  16.0  65t   1
+Lyday          6    90  15.0  41    0 
+Nebraska      35   543  15.5  70t   2
+Opponents     11    83   7.5  18    0
+
+
+KICKOFF
+RETURNS     No. Yds.  Avg.  LG  TD
+Smith        7   147  21.0  27   0
+Fryar        4   125  31.3  58   0
+Rozier       4    55  13.8  27   0
+Simmons      1    21  21.0  21   0
+Krenk        1     0   0.0   0   0
+Nebraska    17   348  20.5  58   0
+Opponents   40   642  16.1  41   0
+
+
+PUNTING  No.  Yds.  Avg.  LP  Blk
+Campbell  35  1336  38.1  69   1
+Team       1     0   0.0   0   1
+Nebraska  36  1336  37.1  69   1
+Opponents 68  3016  44.4  80   0
+
+
+FIELD GOALS  1-19 20-29 30-39 40-49  50+
+Seibel       0-0   4-5   4-4   0-2   0-2
+Opponents    0-0   3-3   1-4   5-10  1-3
+
+Siebel FGs (bold good, b-blocked):
+(0), (0), (37), (50b), (26, 31), (0), (33, 51, 42, 23, 29), (33), (0), (0), (41), (24, 23).
+
+
+INTERCEPTIONS No.  Yds.  Avg.   LG  TD
+Lyday          3    47   15.7   29   0
+Clark          2    39   19.5   20   0
+Damkroger      2    39   19.5   25   0
+Holbrook       2    23   11.5   23   0
+Strasburger    1    22   22.0   22   0
+Burke          1    21   21.0   21   0
+McWhirter      1    17   17.0   17   0
+Larsen         1    12   12.0   12   0
+Evans          1     5    5.0    5   0
+Weber          1     1    1.0    1   0
+Harris         1     0    0.0    0   0
+Nebraska      16   226   14.1   29   0
+Opponents     4      7    1.8    4   0

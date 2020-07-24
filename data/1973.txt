@@ -1,0 +1,181 @@
+1973 Nebraska Cornhuskers
+Overall Individual Statistics
+(includes bowl game)
+
+                             NU    Opp.
+First downs, rushing        150     111
+First downs, passing         88      20
+First downs, penalties        9       9
+Total first downs           247     140
+Rushing, attempts           677     593
+Yards gained rushing       2915    2626
+Yards lost rushing          196     255
+Net yards rushing          2719    2371
+Per game average          226.5   197.5
+Passing, attempts           255     159
+Passes, completed           138      47
+Passes, had intercepted      19      17
+Net yards passing          1968     529
+Per game average          164.0    44.0
+Total offense, attempts     932     752
+Net yards total offense    4687    2900
+Per game average          363.0   241.6
+Interceptions, no.           17      19
+Net yards returned          209     225
+Punts, No.                   61      83
+Punts had blocked             0       1
+Total yards                2457    3160
+Per punt average           40.2    38.0
+Punts returned, no.          38      32
+Net yards returned          422     227
+Kickoffs returned, no.       23      55
+Net yards returned          408    1155
+Penalties, no.               55      47
+Total yards penalized       548     412
+Fumbles, no.                 31      37
+Fumbles lost                 17      20
+Scoring, total points       306     163
+Per game average           25.5    13.6
+
+
+SCORING BY QUARTERS
+            1st  2nd  3rd  4th  Total
+Nebraska     89   67   49  101    306
+Opponents    47   33   46   37    163
+
+AVG. SCORING BY QUARTERS
+            1st  2nd  3rd  4th  Total
+Nebraska    7.4  5.6  4.1  8.4   25.5
+Opponents   3.9  2.8  3.8  3.1   13.6
+
+
+1973 Nebraska Cornhuskers
+Overall Individual Statistics
+(includes bowl game)
+
+RUSHING   Att.  Gain Loss   Net   Avg. TD
+Davis      282  1158   44  1114   4.0  13
+O'Leary     73   344   11   333   4.5   2
+Bahe        56   328    9   319   5.6   1
+Damkroger   63   273    8   265   4.2   0
+Powell      45   262    3   259   5.3   0
+Goeller     49   169   17   152   3.1   0
+Runty       36   113   32    81   2.2   3
+Westbrook    7    56    2    54   7.7   0
+Everett      6    52    2    50   8.3   1
+Moran       15    53    4    49   3.5   1
+O'Holleran   2    19    0    19   9.5   0
+Humm        41    75   59    16   0.4   4
+Mushinskie   1    13    0    13  13.0   0
+Luck         1     0    5    -5  -5.0   0
+NU Total   677  2915  196  2719   4.0  25
+Opponents  593  2626  255  2371   3.9  18
+
+
+PASSING      Att. Com. Pct. Int. Yds.  TD
+Humm         209  114  .545  14  1601  12
+Runty         37   22  .594   4   308   2
+Bahe           2    1  .500   0    51   0
+Everett        6    1  .167   0     8   0
+Davis          1    0  .000   1     0   0
+NU Total     255  138  .541  19  1968  14
+Opponents    159   47  .299  17   529   1
+
+
+RECEIVING      No.    Yards   TD
+Bahe            32     441     2
+Anderson        27     524     8
+Longwell        20     247     2
+Davis           20     147     1
+Shamblin        15     338     1
+Damkroger        5      50     -
+Mushinskie       4     110     -
+O'Leary          3      37     -
+Revelle          3      23     -
+Goeller          3      19     -
+Moran            3       3     -
+Westbrook        2      20     -
+Powell           1       9     -
+NU Total       138    1968    14
+Opponents       47     529     1
+
+
+TOTAL OFFENSE    No.     Yards      Avg.
+Humm             242      1617       6.9
+Davis            283      1114       3.9
+Runty             73       389       5.3
+Bahe              58       370       6.4
+O'Leary           73       333       4.5
+Damkroger         63       265       4.2
+Powell            45       259       5.3
+Goeller           49       152       3.1
+Everett           12        58       4.8
+Westbrook          7        54       7.7
+Moran             15        49       3.5
+O'Holleran         2        19       9.5
+Mushinskie         1        13      13.0
+Luck               1        -5      -5.0
+NU Total         932      4687       5.0
+Opponents        752      2900       3.8
+
+
+PUNTING    No.  Yards    Avg.   Blkd.
+Sanger     55    2208    40.1     0
+Longwell    6     249    41.5     0  
+NU Total   61    2457    40.2     0
+Opponents  83    3160    38.0     1
+
+
+PUNT RETURNS    No.  Yards   Avg.   TD
+Borg            29    260     8.9    1
+Thornton, B.     4     68    17.9    0
+O'Leary          1     66    66.0    1
+Davis            2     17     8.5    0
+Yaralian         2     11     5.5    0
+NU Total        38    422    11.1    2
+Opponents       32    227     6.9    0
+
+
+KICKOFF RETURNS  No.  Yards  Avg.   TD
+O'Leary           9    173   18.1    0
+Bahe              7    124   17.7    0
+Davis             4     66   16.5    0
+Goeller           2     33   16.5    0
+Damkroger         1     12   12.0    0
+NU Total         23    408   17.0    0
+Opponents        55   1155   21.0    1
+
+
+INTERCEPTIONS   No.   Yards   TD
+Thornton, B.     5      24     0
+Borg             2      25     0
+Heydorff         2      24     0
+Johnson          2      14     0
+Manstedt         1      65     0
+Burrow           1      26     0
+Starkebaum       1      14     0
+Nelson           1      13     0
+Ruud             1       4     0
+Wieser           1       0     0
+Yaralian         1       0     0
+
+
+               ----PATS----
+SCORING    TD  Kick   Other   FG    TP
+Davis      14    -      -      -    84
+Sanger      -  38-32    -    15-9   59
+Anderson    8    -      -      -    48
+Humm        4    -     2-0     -    24
+Bahe        3    -      -      -    18
+O'Leary     3    -      -      -    18
+Runty       3    -      -      -    18
+Longwell    2    -      -      -    12
+Borg        1    -      -      -     6
+Everett     1    -      -      -     6
+Moran       1    -      -      -     6
+Shamblin    1    -      -      -     6
+Coyle       -   1-1     -      -     1
+NU Total   41  39-33   2-0   15-9  306
+Opponents  21  18-16   3-0   12-7  163
+
+

@@ -1,0 +1,202 @@
+1964 Nebraska Cornhuskers
+Nebraska Overall Team Statistics (Final)
+(regular season only)
+
+  Nebr.                            Opp.
+    123   First downs rushing        56
+     43   First downs passing        28
+     10   First downs penalty         5
+    186   Total first downs          89
+  2,442   Yards gained rushing    1,273
+    177   Yards lost rushing        268
+  2,265   Net yards rushing       1,005
+  226.5   Avg. per game rushing   100.5
+    158   Passes attempted          135
+     76   Passes completed           59
+     13   Passes had intercepted      7
+  1,220   Yards gained passing      665
+    696   Total offensive plays     517
+  3,485   Total offensive yards   1,670
+  348.5   Avg. yards per game     167.0
+     56   Penalties                  53
+    532   Yards Penalized           410
+     26   Fumbles                    25
+     10   Fumbles lost               15
+
+           SCORING BY QUARTERS
+      lst    2nd    3rd    4th     Tot.
+NU     44    107     34     64      249
+Opp.    6     21     21     27       75
+
+                  AVERAGE
+      lst    2nd    3rd    4th     Tot.
+NU    4.4    10.7   3.4    6.4     24.9
+Opp.  0.6     2.1   2.1    2.7      7.51964 Nebraska Cornhuskers
+Nebraska Overall Individual Statistics (Final)
+(regular season only)
+
+RUSHING      No.  Gain  Lost    Net  Avg. 
+Paschall      4     42     5     37   9.3 
+Weinman       1      9     0      9   9.0 
+Thorell       2     15     0     15   7.5 
+Johnson      10     67     0     67   6.7 
+McNulty       6     37     2     35   5.8 
+Weber         3     16     0     16   5.3 
+Solich       87    449     5    444   5.1 
+Wilson       60    316    13    303   5.0 
+Kirkland     24    121     6    115   4.8 
+Tucker        5     24     0     24   4.8 
+Duda         21    106     9     97   4.6 
+Hohn         74    373    29    344   4.6 
+McCloughan   96    404    37    367   3.9 
+Tatman       24     95     0     95   3.9 
+Carstens      6     23     1     22   3.7 
+Worley        3     11     0     11   3.7 
+Smith        40    111     4    107   2.7 
+Churchich    65    213    61    152   2.3 
+Poggemeyer    4     10     5      5   1.3 
+Smidt         1      0     0      0   0.0 
+Neb. Tot.   538   2442   177   2265   4.2 
+Opp. Tot.   382   1273   268   1005   2.9
+
+
+PASSING      No. Comp   Pct.  Yds.  TD Int. 
+Churchich    102   54   .529   893   7   8 
+Duda          39   17   .436   235   2   1 
+Tucker        13    4   .308    53   0   3 
+Weber          1    1  1.000    39   1   0 
+Johnson        1    0   .000     0   0   0 
+White          2    0   .000     0   0   1 
+Neb. Tot.    158   76   .481  1220  10  13 
+Opp. Tot.    135   60   .444   665   1   7
+
+                   Extra Points         
+SCORING      TD  Kick   Run  Pass  FG  Tot  
+McCloughan   12   0-0   0-0   0-0   0   74 
+Solich        5   0-0   0-0   0-0   0   30 
+Churchich     4   0-0   0-0   1-1   0   24 
+Drum          0  19-24  0-0   0-0   1   22 
+Wilson        3   0-1   0-0   0-0   0   18 
+Hohn          2   0-0   0-0   0-0   0   12 
+White         2   0-0   0-0   0-0   0   12 
+Tatman        2   0-0   0-0   0-0   0   12 
+Love          2   0-0   0-0   0-0   0   12 
+Duda          1   0-0   1-2   0-1   0    8
+Poggemeyer    1   0-0   0-0   0-0   0    6 
+Kirkland      1   0-0   0-0   0-0   0    6 
+Haug          1   0-0   0-0   0-0   0    6 
+Vactor        0   3-4   0-0   0-0   0    3 
+Jeter         0   0-0   0-0   1-1   0    2 
+Team safety                              2 
+Neb. Tot.    36  22-29  2-3   1-2   1  249 
+Opp. Tot.    10   9-9   0-0   0-1   2   75
+
+
+TOTAL OFFENSE  Plays  Gained    Avg. 
+Weber             4       55    13.7 
+Paschall          4       37     9.3 
+Weinman           1        9     9.0 
+Thorell           2       15     7.5 
+Churchich       167     1045     6.2 
+Johnson          11       67     6.1 
+McNulty           6       35     5.8 
+Duda             60      332     5.5 
+Solich           87      444     5.1 
+Wilson           60      303     5.0 
+Kirkland         24      115     4.8 
+Hohn             74      344     4.6 
+McCloughan       96      367     3.9 
+Tatman           24       95     3.9 
+Carstens          8       22     3.7 
+Worley            3       11     3.7 
+Tucker           18       77     3.2 
+Smith            40      107     2.7 
+Poggemeyer        4        5     1.3 
+Smidt             1        0     0.0 
+White             2        0     0.0 
+Neb. Tot.       696     3485     5.0 
+Opp. Tot.       517     1620     3.2
+
+
+PASS RECEIVING  No.   Yards     Avg.    TD 
+Jeter           18      219     12.2     0 
+White           17      338     19.0     2 
+McCloughan      11      213     19.4     4 
+Wilson          11      144     13.1     1 
+Hohn             7       64      9.1     0 
+Love             5       94     16.8     1 
+Doepke           3       41     13.7     0 
+Solich           1       45     45.0     1 
+Haug             1       39     39.0     1 
+Kirkland         1       18     18.0     0 
+Johnson          1        5      5.0     0 
+Neb. Tot.       76     1220     16.1    10 
+Opp. Tot.       60      665     11.1     1
+
+
+PUNTING      No.   Yards     Avg.   Blk. 
+Doepke        3      111     37.0     0 
+Weber         1       34     34.0     0 
+Kirkland     43     1452     33.7     1 
+Neb. Tot.    48     1597     33.3     1 
+Opp. Tot.    70     2371     33.9     1
+
+
+PUNT RETURNS    No.    Yards      Avg. 
+Czap             1        23      23.0 
+Wachholtz        2        37      18.5 
+Hohn             4        40      10.0 
+Solich           9        74       8.2 
+Poggemeyer       1         7       7.0 
+Wilson           7        47       6.7 
+Johnson          1         6       6.0 
+Love             2         7       3.5 
+Vactor           1         3       3.0 
+Neb. Tot.       28       244       8.7 
+Opp. Tot.       15       194      12.9
+
+
+KICKOFF RETURNS  No.    Yards      Avg. 
+Tatman            1        25      25.0 
+Solich           11       263      23.9 
+Hohn              2        35      17.5 
+Wilson            1        12      12.0 
+Neb. Tot.        15       335      22.3 
+Opp. Tot.        37       584      15.8
+
+
+INTERCEPTION
+RETURNS        No.   Yards      Avg. 
+Love            2       71      35.5 
+Carstens        1       17      17.0 
+Vactor          2       19       9.5 
+Kennedy         1        2       2.0 
+Haug            1        0       0.0 
+Neb. Tot.       7      109      15.7 
+Opp. Tot.      13      133      10.2
+
+
+DEFENSE
+LEADERS    UT  AT  PD  PI  FR  BP 
+Kennedy    26  48   1   1   1   0 
+Barnes     20  29   0   0   0   0 
+Grace      14  13   0   0   1   1 
+McGinn     13  27   0   0   1   0 
+Strohmyer  18  28   1   0   1   0 
+McCloughan  7   5   0   0   1   0 
+Johnson    17  23   1   0   0   0 
+Wachholtz  18  30   0   0   2   0 
+McNulty    20  31   0   0   1   0 
+Coleman    13  20   0   0   0   0 
+Vactor     22  39   5   2   0   0 
+Smidt       3   8   0   0   0   0 
+Czap       10  24   0   0   1   1 
+Love        3   1   0   2   0   0 
+Hohn        3   2   0   0   0   0 
+B. Smith    2   3   0   0   0   0 
+Doepke      0   3   1   0   1   0 
+Tatman      3   2   1   0   0   0
+
+UT-Unassisted Tackle  AT-Assisted Tackle
+PD-Pass Deflection    PI-Pass Interception
+FR-Fumble Recovery    BP-Blocked Punt

@@ -1,0 +1,180 @@
+1970 Nebraska Cornhuskers
+Nebraska Overall Team Statistics (Final)
+(includes bowl game)
+
+                             NU     Opp. 
+First Downs, Rushing        163      103 
+First Downs, Passing         98       82 
+First Downs, Penalties        8       11 
+Total First Downs           269      196 
+Rushing Attempts            685      506 
+Yds Gained Rushing         3012     2142 
+Yds Lost Rushing            326      460 
+Net Yards Rushing          2686     1682 
+Per Game Average          223.8    140.2 
+Passing Attempts            275      322 
+Passes Completed            168      153 
+Passes Intercepted           12       31 
+Net Yds Passing            2241     1963 
+Per Game Average          186.8    163.6 
+Total Offense Attempted     960      828 
+Net Yards                  4927     3645 
+Per Game Average          410.6    303.8 
+Interceptions by             31       12 
+Net yds Returned            523      120 
+Punts                        60       80 
+Punts Blocked                 2        0 
+Total Yards                2318     3088 
+Per Punt Average           38.6     38.6 
+Punts Returned               34       22 
+Net Yards                   404      166 
+Penalties, No.               80       64 
+Total Yards                 750      582 
+Kickoffs Returned            30       53 
+Net Yards                   623     1254 
+Fumbles                      33       27 
+Fumbles Lost                 21       18 
+Scoring, Total Points       428      189 
+Per Game Average           35.7     15.8
+
+
+SCORING BY QUARTERS
+        l     2     3     4    Tot
+Neb   114   119    92   201    426
+Opp    23    75    28    63    189
+
+AVG. SCORING BY QUARTERS
+        l     2     3     4    Tot
+Neb   9.5   9.9   7.7  16.8   35.7
+Opp   1.9   6.3   2.3   5.3   15.8
+
+1970 Nebraska Cornhuskers
+Nebraska Overall Individual Statistics (Final)
+(includes bowl game)
+
+RUSHING  Att.  Gain  Loss   Net    Avg
+Carstens   7     24     1    23    3.3
+Hughes     7     14    12     2    0.3
+Jones      6      9    18    -9   -1.5
+Kinney   159    699     5   694    4.4
+Olds      13     80     0    80    6.7
+Orduna   200    915    18   897    4.5
+Rodgers   39    253    34   219    5.6
+Schneiss  70    332     5   327    4.7
+Tagge     85    308   150   153    1.8
+Vactor    43    131     3   128    3.0
+Brownson  50    186    74   112    2.2
+Ingles     4     34     0    34    8.3
+List       2     27     1    26   13.0
+Total    685   3012   326  2686    3.9
+Opp.Tot. 506   2142   460  1682    3.3
+
+
+PASSING    Att. Comp.  Pct  Int. Yds  TD
+Jones        5     1  .200   0     7   0
+Orduna       1     1 1.000   0    14   1
+Rodgers      1     0  .000   0     0   0
+Schneiss     3     1  .333   1    17   1
+Tagge      190   116  .611   8  1536  12
+Brownson    75    49  .653   3   667   6
+Total      275   168  .611  12  2241  20
+Opp. Tot.  322   153  .475  31  1963  12
+
+
+TOTAL OFFENSE  No.      Yds      Avg
+Carstens        7        23      3.3
+Hughes          7         2      0.3
+Jones          11        -2     -0.2
+Kinney        159       694      4.3
+Olds           13        80      6.7
+Orduna        201       911      4.5
+Rodgers        40       219      5.5
+Schneiss       73       344      4.7
+Tagge         275      1689      6.2
+Vactor         43       128      3.0
+Brownson      125       779      6.2
+Ingles          4        34      8.3
+List            2        26     13.0
+Total         960      4927      5.1
+Opp. Total    828      3645      4.4
+
+
+RECEIVING      No.       Yds      Avg
+Carstens        2         11        0
+Hughes          3         35        0
+Kinney         20        206        1
+Olds            1         19        0
+Orduna         11         85        0
+Rodgers        39        710        7
+Schneiss       20        156        2
+Vactor          3         16        0
+Cox             8         83        2
+Ingles         36        625        8
+List           23        278        0
+Harvey          2         17        0
+Total         168       2241       20
+Opp. Total    153       1963       12
+
+
+PUNTING        No.      Yds       Avg
+Hughes         60      2318      38.6
+Total          60      2318      38.6
+Opp. Total     80      3088      38.6
+
+
+PUNT RETURNS   No.      Yds       Avg
+Hollstein       1         4       4.0
+Ingles          2        26      13.0
+Kosch           2        19       9.5
+Rodgers        27       352      13.0
+Anderson        1         0       0.0
+Decker          1         3       3.0
+Total          34       404      11.9
+Opp. Total     22       166       7.5
+
+
+KICKOFF
+RETURNS        No.      Yds       Avg
+Hughes          3        81      27.0
+Rodgers        19       393      20.7
+Carstens        2        15       7.5
+Kinney          4       127      31.8
+Weber           1         0       0.0
+Olds            1        10      10.0
+Total          30       626      20.9
+Opp. Total     53      1254      23.7
+
+
+INTERCEPTIONS  No.      Yds       TD
+Kosch           7        99        0
+Blahak          6       175        0
+Hauge           1        26        0
+Morock          4        55        1
+Rogers          1         0        0
+Adkins          1        37        1
+Anderson        4        16        0
+Terrio          3        14        0
+Murtaugh        3        28        0
+Decker          1        73        1
+Total          31       523        3
+Opp. Total     12       120        0
+
+
+SCORING   TD  Kick  Other  FG  Sfy. Tot
+Ingles     8   0-0   1-1   0-0   0   50
+Kinney     5   0-0   0-0   0-0   0   30
+Orduna    15   0-0   1-1   0-0   0   92
+Rodgers   11   0-0   0-0   0-0   0   66
+Rogers     0  54-50  0-0  13-8   0   74
+Tagge      5   0-0   1-0   0-0   0   30
+Cox        2   0-0   0-0   0-0   0   12
+Brownson   4   0-0   1-0   0-0   0   24
+Schneiss   4   0-0   0-0   0-0   0   24
+Decker     1   0-0   0-0   0-0   0    6
+Adkins     1   0-0   0-0   0-0   0    6
+Vactor     1   0-0   0-0   0-0   0    6
+Morock     1   0-0   0-0   0-0   0    6
+Total     57  54-50  4-2  13-8   0  426
+Opp.Tot.  26  16-14 10-1   9-5   1  189
+
+
