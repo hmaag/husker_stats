@@ -1276,3 +1276,642 @@ Rose, Jonathan     10-0    .    .    .     .        .        .       .   .   1-0
 Total..........    13-0  528  356  884  108-411   39-270   14-257   40  48   4-5    10   1   1
 Opponents......    13-0  537  436  973   78-297   17-140   13-102   31  19  16-0    24   .   1
 
+
+TEAM STATISTICS          NEB          OPP
+-----------------------------------------
+SCORING.............     415          323
+  Points Per Game...    31.9         24.8
+FIRST DOWNS.........     289          261
+  Rushing...........     144          108
+  Passing...........     128          130
+  Penalty...........      17           23
+RUSHING YARDAGE.....    2804         2030
+  Yards gained......    3114         2452
+  Yards lost........     310          422
+  Rushing Attempts..     584          538
+  Avg Per Rush......     4.8          3.8
+  Avg Per Game......   215.7        156.2
+  TDs Rushing.......      24           21
+PASSING YARDAGE....     2557         2790
+  Comp-Att-Int... 218-378-13   210-388-14
+  Avg Per Pass.....      6.8          7.2
+  Avg Per Catch.....    11.7         13.3
+  Avg Per Game......   196.7        214.6
+  TDs Passing.......      25           17
+TOTAL OFFENSE.......    5361         4820
+  Total Plays.......     962          926
+  Avg Per Play......     5.6          5.2
+  Avg Per Game......   412.4        370.8
+KICK RETURNS-Yards..  41-934       28-566
+PUNT RETURNS-Yards..   23-70       15-121
+INT RETURNS-Yards...  14-257       13-102
+KICK RETURN AVG.....    22.8         20.2
+PUNT RETURN AVG.....     3.0          8.1
+INT RETURN AVG......    18.4          7.8
+FUMBLES-LOST........   32-16         18-4
+PENALTIES-Yards.....  76-665       59-511
+  Avg Per Game......    51.2         39.3
+PUNTS-Yards......... 71-2954      79-3166
+  Avg Per Punt......    41.6         40.1
+  Net punt Avg......    37.9         38.4
+KICKOFFS-Yards...... 78-4902      68-4120
+  Avg Per Kick......    62.8         60.6
+  Net kick Avg......    40.2         38.0
+POSS. TIME/Game.....   29:20        30:40
+3RD-DOWN Conv.......  73/186       58/188
+  3rd-Down Pct......     39%          31%
+4TH-DOWN Conv.......   10/15         8/21
+  4th-Down Pct......     67%          38%
+SACKS BY-Yards......  39-270       17-140
+MISC YARDS..........       0            0
+TOUCHDOWNS SCORED...      54           38
+FIELD GOALS-ATTS....   13-14        19-25
+ON-SIDE KICKS.......     0-0          0-2
+RED-ZONE SCORES  (44-50) 88%  (39-44) 89%
+RED-ZONE TDs.... (34-50) 68%  (26-44) 59%
+PAT-ATTEMPTS.... (50-53) 94%  (36-37) 97%
+ATTENDANCE..........  727466       307919
+  Games/Avg......... 8/90933      4/76980
+  Neut. Site Games                1/60712
+
+
+SCORE BY
+QUARTERS   1st  2nd  3rd  4th  OT     Tot
+--------   ---  ---  ---  ---  --     ---
+NEB.....   121   98  123   70   3  -  415
+OPP.....    74   68   93   88   0  -  323
+
+
+RUSHING      G-GS   Att Gain Loss  Net   Avg  TD Lng Avg/G
+----------------------------------------------------------
+A.Abdullah   13-13  281 1722   32 1690   6.0   9  62 130.0
+I.Cross      13-0    85  458   11  447   5.3  10  51  34.4
+T.Newby      13-0    54  302    4  298   5.5   2  23  22.9
+T.Armstrong   9-8    67  277   75  202   3.0   2  24  22.4
+T.Martinez    4-4    40  195   78  117   2.9   0  35  29.2
+K.Frazier    12-0    12   53    9   44   3.7   1  11   3.7
+G.Nabity      2-0     5   24    0   24   4.8   0   6  12.0
+J.Westerkamp 13-1     2   10    0   10   5.0   0   7   0.8
+R.Fyfe        1-0     1    3    0    3   3.0   0   3   3.0
+J.Turner      8-0     1    2    0    2   2.0   0   2   0.2
+B.Nickens     6-0     1    2    0    2   2.0   0   2   0.3
+K.Bell       13-12    1    1    0    1   1.0   0   1   0.1
+Q.Enunwa     13-13    3    5    6   -1  -0.3   0   4  -0.1
+S.Foltz      13-0     1    0    8   -8  -8.0   0   0  -0.6
+R.Kellogg    10-1    23   60   71  -11  -0.5   0  12  -1.1
+TEAM         13-0     7    0   16  -16  -2.3   0   0  -1.2
+Total.......   13   584 3114  310 2804   4.8  24  62 215.7
+Opponents...   13   538 2452  422 2030   3.8  21  47 156.2
+
+
+PASSING     G-GS  Effic Cmp-Att-Int  Pct  Yds  TD Lng Avg/G
+-----------------------------------------------------------
+R.Kellogg   10-1  127.61  80-134-3  59.7  919   6  49  91.9
+T.Armstrong  9-8  124.31  68-131-8  51.9  966   9  99 107.3
+T.Martinez   4-4  140.03  69-110-2  62.7  667  10  42 166.8
+R.Fyfe       1-0  142.00    1-1-0  100.0    5   0   5   5.0
+TEAM        13-0    0.00    0-1-0    0.0    0   0   0   0.0
+A.Abdullahr 13-13   0.00    0-1-0    0.0    0   0   0   0.0
+Total.......  13  129.44 218-378-13 57.7 2557  25  99 196.7
+Opponents...  13  121.77 210-388-14 54.1 2790  17  55 214.6
+
+
+RECEIVING        GP-GS  No. Yds   Avg  TD Lng Avg/G
+---------------------------------------------------
+Bell, Kenny      13-12  52  577  11.1   4  42  44.4
+Enunwa, Quincy   13-13  51  753  14.8  12  99  57.9
+Abdullah, Ameer  13-13  26  232   8.9   2  40  17.8
+Westerkamp, J    13-1   20  283  14.1   1  49  21.8
+Turner, Jamal     8-0   13  102   7.8   1  17  12.8
+Burtch, Sam      13-2   12  147  12.2   3  32  11.3
+Carter, Cethan   13-6   10  127  12.7   0  26   9.8
+Long, Jake       10-9    8  121  15.1   0  26  12.1
+Moore, Alonzo    10-2    6   75  12.5   0  19   7.5
+Cross, Imani     13-0    4   13   3.2   0  14   1.0
+Reilly, Brandon  10-0    3   24   8.0   0  10   2.4
+Allen, Taariq    10-0    3   22   7.3   0   8   2.2
+Cotton, Sam      10-1    3   22   7.3   1  17   2.2
+Newby, Terrell   13-0    3    1   0.3   0   9   0.1
+Wullenwaber, T    4-0    2   47  23.5   1  24  11.8
+Foster, Trey      6-0    1    9   9.0   0   9   1.5
+Zimmerer, C.J.   13-6    1    2   2.0   0   2   0.2
+Total..........  13    218 2557  11.7  25  99 196.7
+Opponents......  13    210 2790  13.3  17  55 214.6
+
+
+PUNT RETURNS      No.  Yds   Avg TD Long
+----------------------------------------
+Westerkamp, J      19   51   2.7  0   19
+Turner, Jamal       2    6   3.0  0    3
+Reilly, Brandon     1    2   2.0  0    0
+Newby, Terrell      1   10  10.0  0   10
+Janovich, Andy      0    1   0.0  0    1
+Total..........    23   70   3.0  0   19
+Opponents......    15  121   8.1  0   26
+
+
+INTERCEPTIONS     No.  Yds   Avg TD Long
+----------------------------------------
+Evans, Ciante       4   27   6.8  1   22
+Jean-Baptiste, S    4  134  33.5  1   43
+Mitchell, Josh      1    4   4.0  0    4
+Moss, Avery         1   25  25.0  1   25
+Alexander, LeRoy    1   12  12.0  0   12
+Gregory, Randy      1   33  33.0  1   33
+Cooper, Corey       1   16  16.0  0   16
+Ankrah, Jason       1    6   6.0  0    6
+Total..........    14  257  18.4  4   43
+Opponents......    13  102   7.8  0   33
+
+
+KICK RETURNS      No.  Yds   Avg TD Long
+----------------------------------------
+Bell, Kenny        23  609  26.5  1   99
+Moore, Alonzo       5  116  23.2  0   28
+Newby, Terrell      4   77  19.2  0   24
+Abdullah, Ameer     4   77  19.2  0   24
+Zimmerer, C.J.      2   15   7.5  0   10
+Enunwa, Quincy      1   17  17.0  0   17
+Westerkamp, J       1   15  15.0  0   15
+Janovich, Andy      1    8   8.0  0    8
+Total..........    41  934  22.8  1   99
+Opponents......    28  566  20.2  0   48
+
+
+FUMBLE RETURNS    No.  Yds   Avg TD Long
+----------------------------------------
+Alexander, LeRoy    1    0   0.0  0    0
+Gregory, Randy      1    5   5.0  0    5
+Total..........     2    5   2.5  0    5
+Opponents......     0    0   0.0  0    0
+
+
+                           |------ PATs -----|
+SCORING          TD  FGs   Kick  Rush Rcv Pass DXP Saf Pts
+----------------------------------------------------------
+Smith, Pat        0 12-13  43-45  0-0   0  0-0  0   0   79
+Enunwa, Quincy   12  0-0    0-0   0-0   0  0-0  0   0   72
+Abdullah, Ameer  11  0-0    0-0   0-0   0  0-0  0   0   66
+Cross, Imani     10  0-0    0-0   0-0   0  0-0  0   0   60
+Bell, Kenny       5  0-0    0-0   0-0   0  0-0  0   0   30
+Burtch, Sam       3  0-0    0-0   0-0   0  0-0  0   0   18
+Armstrong, Tommy  2  0-0    0-0   0-0   0  0-0  0   0   12
+Newby, Terrell    2  0-0    0-0   0-0   0  0-0  0   0   12
+Bondi, Mauro      0  1-1    7-8   0-0   0  0-0  0   0   10
+Cotton, Sam       1  0-0    0-0   0-0   0  0-0  0   0    6
+Turner, Jamal     1  0-0    0-0   0-0   0  0-0  0   0    6
+Wullenwaber, T    1  0-0    0-0   0-0   0  0-0  0   0    6
+Gregory, Randy    1  0-0    0-0   0-0   0  0-0  0   0    6
+Moss, Avery       1  0-0    0-0   0-0   0  0-0  0   0    6
+Frazier, King     1  0-0    0-0   0-0   0  0-0  0   0    6
+Jean-Baptiste, S  1  0-0    0-0   0-0   0  0-0  0   0    6
+Evans, Ciante     1  0-0    0-0   0-0   0  0-0  0   0    6
+Westerkamp, J     1  0-0    0-0   0-0   0  0-0  0   0    6
+TEAM              0  0-0    0-0   0-0   0  0-0  0   1    2
+Total..........  54 13-14  50-53  0-0   0  0-0  0   1  415
+Opponents......  38 19-25  36-37  0-0   0  0-1  0   1  323
+
+
+TOTAL OFFENSE     G  Plays Rush Pass   Tot Avg/G
+------------------------------------------------
+Abdullah, Ameer   13   282 1690    0  1690 130.0
+Armstrong, Tommy   9   198  202  966  1168 129.8
+Kellogg III, Ron  10   157  -11  919   908  90.8
+Martinez, Taylor   4   150  117  667   784 196.0
+Cross, Imani      13    85  447    0   447  34.4
+Newby, Terrell    13    54  298    0   298  22.9
+Frazier, King     12    12   44    0    44   3.7
+Nabity, Graham     2     5   24    0    24  12.0
+Westerkamp, J     13     2   10    0    10   0.8
+Fyfe, Ryker        1     2    3    5     8   8.0
+Turner, Jamal      8     1    2    0     2   0.2
+Nickens, Brodrick  6     1    2    0     2   0.3
+Bell, Kenny       13     1    1    0     1   0.1
+Enunwa, Quincy    13     3   -1    0    -1  -0.1
+Foltz, Sam        13     1   -8    0    -8  -0.6
+TEAM              13     8  -16    0   -16  -1.2
+Total..........   13   962 2804 2557  5361 412.4
+Opponents......   13   926 2030 2790  4820 370.8
+
+
+FIELD
+GOALS  FGM-FGA  Pct  1-19  20s  30s  40s  50s Lg Blk
+----------------------------------------------------
+P.Smith  12-13  92.3  1-1  3-3  4-4  4-5  0-0  46  0
+M.Bondi   1-1  100.0  0-0  1-1  0-0  0-0  0-0  22  0
+
+
+FG SEQUENCE    Nebraska         OPPONENTS
+-----------------------------------------
+Wyoming        (24)             50
+Southern Miss  -                (32),(45)
+UCLA           -                (44),46,55,(24)
+S. Dakota St   (22)             (48),32,(29)
+Illinois       (27),(32)        (38)
+Purdue         -                -
+Minnesota      (45),(42),(37)   (26),(45)
+Northwestern   48               (21)
+Michigan       (21)             (27),52,(40)
+Michigan St    -                (45),(25)
+Penn State     (39),(19),(42)   37
+Iowa           (33)             (31)
+Georgia        (46)             (38),(28),(38),(30)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING     No.  Yds  Avg  Lng TB  FC I20 Blk
+-----------------------------------------------------
+Foltz, Sam   71 2954  41.6  64  7  16  22   0
+Total....    71 2954  41.6  64  7  16  22   0
+Opponents    79 3166  40.1  69  3  25  32   1
+
+
+KICKOFFS      No.   Yds   Avg  TB OB Retn Net YdLn
+--------------------------------------------------
+Bondi, Mauro   77  4866  63.2  48  1
+Smith, Pat      1    36  36.0   0  0
+Total......... 78  4902  62.8  48  1  566 40.2  24
+Opponents..... 68  4120  60.6  24  0  934 38.0  26
+
+
+ALL PURPOSE        G Rush  Rec   PR  KOR   IR  Tot Avg/G
+--------------------------------------------------------
+Abdullah, Ameer   13 1690  232    0   77    0 1999 153.8
+Bell, Kenny       13    1  577    0  609    0 1187  91.3
+Enunwa, Quincy    13   -1  753    0   17    0  769  59.2
+Cross, Imani      13  447   13    0    0    0  460  35.4
+Newby, Terrell    13  298    1   10   77    0  386  29.7
+Westerkamp, J     13   10  283   51   15    0  359  27.6
+Armstrong, Tommy   9  202    0    0    0    0  202  22.4
+Moore, Alonzo     10    0   75    0  116    0  191  19.1
+Burtch, Sam       13    0  147    0    0    0  147  11.3
+Jean-Baptiste, S  13    0    0    0    0  134  134  10.3
+Carter, Cethan    13    0  127    0    0    0  127   9.8
+Long, Jake        10    0  121    0    0    0  121  12.1
+Martinez, Taylor   4  117    0    0    0    0  117  29.2
+Turner, Jamal      8    2  102    6    0    0  110  13.8
+Wullenwaber, T     4    0   47    0    0    0   47  11.8
+Frazier, King     12   44    0    0    0    0   44   3.7
+Gregory, Randy    13    0    0    0    0   33   33   2.5
+Evans, Ciante     13    0    0    0    0   27   27   2.1
+Reilly, Brandon   10    0   24    2    0    0   26   2.6
+Moss, Avery       12    0    0    0    0   25   25   2.1
+Nabity, Graham     2   24    0    0    0    0   24  12.0
+Cotton, Sam       10    0   22    0    0    0   22   2.2
+Allen, Taariq     10    0   22    0    0    0   22   2.2
+Zimmerer, C.J.    13    0    2    0   15    0   17   1.3
+Cooper, Corey     13    0    0    0    0   16   16   1.2
+Alexander, LeRoy  13    0    0    0    0   12   12   0.9
+Janovich, Andy    13    0    0    1    8    0    9   0.7
+Foster, Trey       6    0    9    0    0    0    9   1.5
+Ankrah, Jason     13    0    0    0    0    6    6   0.5
+Mitchell, Josh    13    0    0    0    0    4    4   0.3
+Fyfe, Ryker        1    3    0    0    0    0    3   3.0
+Nickens, Brodrick  6    2    0    0    0    0    2   0.3
+Foltz, Sam        13   -8    0    0    0    0   -8  -0.6
+Kellogg III, Ron  10  -11    0    0    0    0  -11  -1.1
+TEAM              13  -16    0    0    0    0  -16  -1.2
+Total..........   13 2804 2557   70  934  257 6622 509.4
+Opponents......   13 2030 2790  121  566  102 5609 431.5
+
+
+Page 1 / 1Zoom 100%
+
+
+Overall Defensive Statistics
+
+
+                        |--------Tackles------| |-Sacks-| |---Pass Def---| |-Fumbles-| Bld
+                  GP-GS Solo  Ast  Tot  TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kik Saf
+----------------------------------------------------------------------------------------------
+Cooper, Corey     13-13   52   39   91    5-19   2.0-16     1-16     1   1    .      1   .   .
+Santos, David     13-10   48   39   87    7-16   2.0-9       .       2   2    .      .   .   .
+Gregory, Randy    13-10   40   26   66   19-101 10.5-69     1-33     1  18   1-5     1   .   .
+Rose, Michael      12-7   39   27   66    6-8       .        .       1   2    .      .   .   .
+Anderson, Zaire    12-5   28   24   52    6-25   3.0-22      .       1   2    .      .   .   .
+Evans, Ciante     13-13   31   14   45   11-49   3.0-28     4-27     6   1    .      1   .   .
+Jean-Baptiste, S  13-13   27   14   41    4-11   1.0-3      4-134   12   .    .      .   .   .
+Green, Andrew     13-10   31   10   41    2-3       .        .       3   .    .      .   .   .
+Ankrah, Jason     13-13   20   16   36    9-48   4.0-35     1-6      3   4    .      2   .   .
+Moss, Avery        12-3   19   17   36    8-28   4.5-24     1-25     1   6    .      .   .   .
+Alexander, LeRoy   13-1   28    6   34    1-2       .       1-12     1   .   1-0     .   .   .
+Jackson, Harvey    10-3   20   13   33    1-3       .        .       .   .    .      .   .   .
+Gerry, Nathan      13-3   18   14   32    2-3       .        .       .   1    .      .   .   .
+Mitchell, Josh     13-6   23    8   31    4-7       .       1-4      6   2   1-0     .   .   .
+Randle, Thad      11-11   15   16   31    3-14   1.0-11      .       .   1    .      .   .   .
+Banderas, Josh     13-4   12   16   28    3-9    2.0-8       .       1   1    .      .   .   .
+Curry, Aaron       13-8   11   15   26    3-18   2.0-16      .       .   3    .      .   .   .
+Valentine, V       13-6   12    9   21    5-14   1.0-8       .       .   .    .      .   .   .
+McMullen, Greg     11-0    9    7   16    4-15   1.0-10      .       .   3    .      1   .   .
+Afalava, Jared      4-2    7    5   12    2-5    1.0-1       .       .   .    .      .   .   .
+Collins, Maliek    12-1    6    6   12    2-10   1.0-10      .       .   .    .      1   .   .
+Seisay, Mohammed   12-1    8    1    9    1-3       .        .       1   1    .      .   .   .
+Jackson, Charles   13-0    3    4    7     .        .        .       .   .    .      1   .   .
+Starkebaum, Colby  13-0    3    3    6     .        .        .       .   .    .      .   .   .
+Richards, Wil       7-0    3    2    5     .        .        .       .   .    .      .   .   .
+Maurice, Kevin      6-0    1    2    3     .        .        .       .   .    .      .   .   .
+Bell, Kenny       13-12    1    1    2     .        .        .       .   .    .      .   .   .
+Williams, Austin   10-0    2    .    2     .        .        .       .   .    .      2   .   .
+Enunwa, Quincy    13-13    2    .    2     .        .        .       .   .    .      .   .   .
+Burtch, Sam        13-2    .    1    1     .        .        .       .   .    .      .   .   .
+Reilly, Brandon    10-0    1    .    1     .        .        .       .   .    .      .   1   .
+Price, Givens       8-0    1    .    1     .        .        .       .   .    .      .   .   .
+Cotton, Jake      11-11    1    .    1     .        .        .       .   .    .      .   .   .
+Sirles, Jeremiah  13-13    1    .    1     .        .        .       .   .    .      .   .   .
+Miller, Gabe       13-0    .    1    1     .        .        .       .   .    .      .   .   .
+Bondi, Mauro       13-0    1    .    1     .        .        .       .   .    .      .   .   .
+Long, Spencer       6-6    1    .    1     .        .        .       .   .    .      .   .   .
+Davie, Daniel      10-0    1    .    1     .        .        .       .   .    .      .   .   .
+Qvale, Brent       13-5    1    .    1     .        .        .       .   .    .      .   .   .
+Foltz, Sam         13-0    1    .    1     .        .        .       .   .    .      .   .   .
+TEAM               13-0    .    .    .     .        .        .       .   .    .      .   .   1
+Rose, Jonathan     10-0    .    .    .     .        .        .       .   .   1-0     .   .   .
+Total..........    13-0  528  356  884  108-411   39-270   14-257   40  48   4-5    10   1   1
+Opponents......    13-0  537  436  973   78-297   17-140   13-102   31  19  16-0    24   .   1
+
+
+
+      
+RUSHING      G-GS   Att Gain Loss  Net   Avg  TD Lng Avg/G
+----------------------------------------------------------
+A.Abdullah   13-13  281 1722   32 1690   6.0   9  62 130.0
+I.Cross      13-0    85  458   11  447   5.3  10  51  34.4
+T.Newby      13-0    54  302    4  298   5.5   2  23  22.9
+T.Armstrong   9-8    67  277   75  202   3.0   2  24  22.4
+T.Martinez    4-4    40  195   78  117   2.9   0  35  29.2
+K.Frazier    12-0    12   53    9   44   3.7   1  11   3.7
+G.Nabity      2-0     5   24    0   24   4.8   0   6  12.0
+J.Westerkamp 13-1     2   10    0   10   5.0   0   7   0.8
+R.Fyfe        1-0     1    3    0    3   3.0   0   3   3.0
+J.Turner      8-0     1    2    0    2   2.0   0   2   0.2
+B.Nickens     6-0     1    2    0    2   2.0   0   2   0.3
+K.Bell       13-12    1    1    0    1   1.0   0   1   0.1
+Q.Enunwa     13-13    3    5    6   -1  -0.3   0   4  -0.1
+S.Foltz      13-0     1    0    8   -8  -8.0   0   0  -0.6
+R.Kellogg    10-1    23   60   71  -11  -0.5   0  12  -1.1
+TEAM         13-0     7    0   16  -16  -2.3   0   0  -1.2
+Total.......   13   584 3114  310 2804   4.8  24  62 215.7
+Opponents...   13   538 2452  422 2030   3.8  21  47 156.2
+
+
+PASSING     G-GS  Effic Cmp-Att-Int  Pct  Yds  TD Lng Avg/G
+-----------------------------------------------------------
+R.Kellogg   10-1  127.61  80-134-3  59.7  919   6  49  91.9
+T.Armstrong  9-8  124.31  68-131-8  51.9  966   9  99 107.3
+T.Martinez   4-4  140.03  69-110-2  62.7  667  10  42 166.8
+R.Fyfe       1-0  142.00    1-1-0  100.0    5   0   5   5.0
+TEAM        13-0    0.00    0-1-0    0.0    0   0   0   0.0
+A.Abdullahr 13-13   0.00    0-1-0    0.0    0   0   0   0.0
+Total.......  13  129.44 218-378-13 57.7 2557  25  99 196.7
+Opponents...  13  121.77 210-388-14 54.1 2790  17  55 214.6
+
+
+RECEIVING        GP-GS  No. Yds   Avg  TD Lng Avg/G
+---------------------------------------------------
+Bell, Kenny      13-12  52  577  11.1   4  42  44.4
+Enunwa, Quincy   13-13  51  753  14.8  12  99  57.9
+Abdullah, Ameer  13-13  26  232   8.9   2  40  17.8
+Westerkamp, J    13-1   20  283  14.1   1  49  21.8
+Turner, Jamal     8-0   13  102   7.8   1  17  12.8
+Burtch, Sam      13-2   12  147  12.2   3  32  11.3
+Carter, Cethan   13-6   10  127  12.7   0  26   9.8
+Long, Jake       10-9    8  121  15.1   0  26  12.1
+Moore, Alonzo    10-2    6   75  12.5   0  19   7.5
+Cross, Imani     13-0    4   13   3.2   0  14   1.0
+Reilly, Brandon  10-0    3   24   8.0   0  10   2.4
+Allen, Taariq    10-0    3   22   7.3   0   8   2.2
+Cotton, Sam      10-1    3   22   7.3   1  17   2.2
+Newby, Terrell   13-0    3    1   0.3   0   9   0.1
+Wullenwaber, T    4-0    2   47  23.5   1  24  11.8
+Foster, Trey      6-0    1    9   9.0   0   9   1.5
+Zimmerer, C.J.   13-6    1    2   2.0   0   2   0.2
+Total..........  13    218 2557  11.7  25  99 196.7
+Opponents......  13    210 2790  13.3  17  55 214.6
+
+
+PUNT RETURNS      No.  Yds   Avg TD Long
+----------------------------------------
+Westerkamp, J      19   51   2.7  0   19
+Turner, Jamal       2    6   3.0  0    3
+Reilly, Brandon     1    2   2.0  0    0
+Newby, Terrell      1   10  10.0  0   10
+Janovich, Andy      0    1   0.0  0    1
+Total..........    23   70   3.0  0   19
+Opponents......    15  121   8.1  0   26
+
+
+INTERCEPTIONS     No.  Yds   Avg TD Long
+----------------------------------------
+Evans, Ciante       4   27   6.8  1   22
+Jean-Baptiste, S    4  134  33.5  1   43
+Mitchell, Josh      1    4   4.0  0    4
+Moss, Avery         1   25  25.0  1   25
+Alexander, LeRoy    1   12  12.0  0   12
+Gregory, Randy      1   33  33.0  1   33
+Cooper, Corey       1   16  16.0  0   16
+Ankrah, Jason       1    6   6.0  0    6
+Total..........    14  257  18.4  4   43
+Opponents......    13  102   7.8  0   33
+
+
+KICK RETURNS      No.  Yds   Avg TD Long
+----------------------------------------
+Bell, Kenny        23  609  26.5  1   99
+Moore, Alonzo       5  116  23.2  0   28
+Newby, Terrell      4   77  19.2  0   24
+Abdullah, Ameer     4   77  19.2  0   24
+Zimmerer, C.J.      2   15   7.5  0   10
+Enunwa, Quincy      1   17  17.0  0   17
+Westerkamp, J       1   15  15.0  0   15
+Janovich, Andy      1    8   8.0  0    8
+Total..........    41  934  22.8  1   99
+Opponents......    28  566  20.2  0   48
+
+
+FUMBLE RETURNS    No.  Yds   Avg TD Long
+----------------------------------------
+Alexander, LeRoy    1    0   0.0  0    0
+Gregory, Randy      1    5   5.0  0    5
+Total..........     2    5   2.5  0    5
+Opponents......     0    0   0.0  0    0
+
+
+                           |------ PATs -----|
+SCORING          TD  FGs   Kick  Rush Rcv Pass DXP Saf Pts
+----------------------------------------------------------
+Smith, Pat        0 12-13  43-45  0-0   0  0-0  0   0   79
+Enunwa, Quincy   12  0-0    0-0   0-0   0  0-0  0   0   72
+Abdullah, Ameer  11  0-0    0-0   0-0   0  0-0  0   0   66
+Cross, Imani     10  0-0    0-0   0-0   0  0-0  0   0   60
+Bell, Kenny       5  0-0    0-0   0-0   0  0-0  0   0   30
+Burtch, Sam       3  0-0    0-0   0-0   0  0-0  0   0   18
+Armstrong, Tommy  2  0-0    0-0   0-0   0  0-0  0   0   12
+Newby, Terrell    2  0-0    0-0   0-0   0  0-0  0   0   12
+Bondi, Mauro      0  1-1    7-8   0-0   0  0-0  0   0   10
+Cotton, Sam       1  0-0    0-0   0-0   0  0-0  0   0    6
+Turner, Jamal     1  0-0    0-0   0-0   0  0-0  0   0    6
+Wullenwaber, T    1  0-0    0-0   0-0   0  0-0  0   0    6
+Gregory, Randy    1  0-0    0-0   0-0   0  0-0  0   0    6
+Moss, Avery       1  0-0    0-0   0-0   0  0-0  0   0    6
+Frazier, King     1  0-0    0-0   0-0   0  0-0  0   0    6
+Jean-Baptiste, S  1  0-0    0-0   0-0   0  0-0  0   0    6
+Evans, Ciante     1  0-0    0-0   0-0   0  0-0  0   0    6
+Westerkamp, J     1  0-0    0-0   0-0   0  0-0  0   0    6
+TEAM              0  0-0    0-0   0-0   0  0-0  0   1    2
+Total..........  54 13-14  50-53  0-0   0  0-0  0   1  415
+Opponents......  38 19-25  36-37  0-0   0  0-1  0   1  323
+
+
+TOTAL OFFENSE     G  Plays Rush Pass   Tot Avg/G
+------------------------------------------------
+Abdullah, Ameer   13   282 1690    0  1690 130.0
+Armstrong, Tommy   9   198  202  966  1168 129.8
+Kellogg III, Ron  10   157  -11  919   908  90.8
+Martinez, Taylor   4   150  117  667   784 196.0
+Cross, Imani      13    85  447    0   447  34.4
+Newby, Terrell    13    54  298    0   298  22.9
+Frazier, King     12    12   44    0    44   3.7
+Nabity, Graham     2     5   24    0    24  12.0
+Westerkamp, J     13     2   10    0    10   0.8
+Fyfe, Ryker        1     2    3    5     8   8.0
+Turner, Jamal      8     1    2    0     2   0.2
+Nickens, Brodrick  6     1    2    0     2   0.3
+Bell, Kenny       13     1    1    0     1   0.1
+Enunwa, Quincy    13     3   -1    0    -1  -0.1
+Foltz, Sam        13     1   -8    0    -8  -0.6
+TEAM              13     8  -16    0   -16  -1.2
+Total..........   13   962 2804 2557  5361 412.4
+Opponents......   13   926 2030 2790  4820 370.8
+
+
+FIELD
+GOALS  FGM-FGA  Pct  1-19  20s  30s  40s  50s Lg Blk
+----------------------------------------------------
+P.Smith  12-13  92.3  1-1  3-3  4-4  4-5  0-0  46  0
+M.Bondi   1-1  100.0  0-0  1-1  0-0  0-0  0-0  22  0
+
+
+FG SEQUENCE    Nebraska         OPPONENTS
+-----------------------------------------
+Wyoming        (24)             50
+Southern Miss  -                (32),(45)
+UCLA           -                (44),46,55,(24)
+S. Dakota St   (22)             (48),32,(29)
+Illinois       (27),(32)        (38)
+Purdue         -                -
+Minnesota      (45),(42),(37)   (26),(45)
+Northwestern   48               (21)
+Michigan       (21)             (27),52,(40)
+Michigan St    -                (45),(25)
+Penn State     (39),(19),(42)   37
+Iowa           (33)             (31)
+Georgia        (46)             (38),(28),(38),(30)
+
+Numbers in parentheses indicate field goal was made.
+
+
+PUNTING     No.  Yds  Avg  Lng TB  FC I20 Blk
+-----------------------------------------------------
+Foltz, Sam   71 2954  41.6  64  7  16  22   0
+Total....    71 2954  41.6  64  7  16  22   0
+Opponents    79 3166  40.1  69  3  25  32   1
+
+
+KICKOFFS      No.   Yds   Avg  TB OB Retn Net YdLn
+--------------------------------------------------
+Bondi, Mauro   77  4866  63.2  48  1
+Smith, Pat      1    36  36.0   0  0
+Total......... 78  4902  62.8  48  1  566 40.2  24
+Opponents..... 68  4120  60.6  24  0  934 38.0  26
+
+
+ALL PURPOSE        G Rush  Rec   PR  KOR   IR  Tot Avg/G
+--------------------------------------------------------
+Abdullah, Ameer   13 1690  232    0   77    0 1999 153.8
+Bell, Kenny       13    1  577    0  609    0 1187  91.3
+Enunwa, Quincy    13   -1  753    0   17    0  769  59.2
+Cross, Imani      13  447   13    0    0    0  460  35.4
+Newby, Terrell    13  298    1   10   77    0  386  29.7
+Westerkamp, J     13   10  283   51   15    0  359  27.6
+Armstrong, Tommy   9  202    0    0    0    0  202  22.4
+Moore, Alonzo     10    0   75    0  116    0  191  19.1
+Burtch, Sam       13    0  147    0    0    0  147  11.3
+Jean-Baptiste, S  13    0    0    0    0  134  134  10.3
+Carter, Cethan    13    0  127    0    0    0  127   9.8
+Long, Jake        10    0  121    0    0    0  121  12.1
+Martinez, Taylor   4  117    0    0    0    0  117  29.2
+Turner, Jamal      8    2  102    6    0    0  110  13.8
+Wullenwaber, T     4    0   47    0    0    0   47  11.8
+Frazier, King     12   44    0    0    0    0   44   3.7
+Gregory, Randy    13    0    0    0    0   33   33   2.5
+Evans, Ciante     13    0    0    0    0   27   27   2.1
+Reilly, Brandon   10    0   24    2    0    0   26   2.6
+Moss, Avery       12    0    0    0    0   25   25   2.1
+Nabity, Graham     2   24    0    0    0    0   24  12.0
+Cotton, Sam       10    0   22    0    0    0   22   2.2
+Allen, Taariq     10    0   22    0    0    0   22   2.2
+Zimmerer, C.J.    13    0    2    0   15    0   17   1.3
+Cooper, Corey     13    0    0    0    0   16   16   1.2
+Alexander, LeRoy  13    0    0    0    0   12   12   0.9
+Janovich, Andy    13    0    0    1    8    0    9   0.7
+Foster, Trey       6    0    9    0    0    0    9   1.5
+Ankrah, Jason     13    0    0    0    0    6    6   0.5
+Mitchell, Josh    13    0    0    0    0    4    4   0.3
+Fyfe, Ryker        1    3    0    0    0    0    3   3.0
+Nickens, Brodrick  6    2    0    0    0    0    2   0.3
+Foltz, Sam        13   -8    0    0    0    0   -8  -0.6
+Kellogg III, Ron  10  -11    0    0    0    0  -11  -1.1
+TEAM              13  -16    0    0    0    0  -16  -1.2
+Total..........   13 2804 2557   70  934  257 6622 509.4
+Opponents......   13 2030 2790  121  566  102 5609 431.5
+
+
+                        |--------Tackles------| |-Sacks-| |---Pass Def---| |-Fumbles-| Bld
+                  GP-GS Solo  Ast  Tot  TFL/Yds   No-Yds  Int-Yds BrUp QBH Rcv-Yds  FF Kik Saf
+----------------------------------------------------------------------------------------------
+Cooper, Corey     13-13   52   39   91    5-19   2.0-16     1-16     1   1    .      1   .   .
+Santos, David     13-10   48   39   87    7-16   2.0-9       .       2   2    .      .   .   .
+Gregory, Randy    13-10   40   26   66   19-101 10.5-69     1-33     1  18   1-5     1   .   .
+Rose, Michael      12-7   39   27   66    6-8       .        .       1   2    .      .   .   .
+Anderson, Zaire    12-5   28   24   52    6-25   3.0-22      .       1   2    .      .   .   .
+Evans, Ciante     13-13   31   14   45   11-49   3.0-28     4-27     6   1    .      1   .   .
+Jean-Baptiste, S  13-13   27   14   41    4-11   1.0-3      4-134   12   .    .      .   .   .
+Green, Andrew     13-10   31   10   41    2-3       .        .       3   .    .      .   .   .
+Ankrah, Jason     13-13   20   16   36    9-48   4.0-35     1-6      3   4    .      2   .   .
+Moss, Avery        12-3   19   17   36    8-28   4.5-24     1-25     1   6    .      .   .   .
+Alexander, LeRoy   13-1   28    6   34    1-2       .       1-12     1   .   1-0     .   .   .
+Jackson, Harvey    10-3   20   13   33    1-3       .        .       .   .    .      .   .   .
+Gerry, Nathan      13-3   18   14   32    2-3       .        .       .   1    .      .   .   .
+Mitchell, Josh     13-6   23    8   31    4-7       .       1-4      6   2   1-0     .   .   .
+Randle, Thad      11-11   15   16   31    3-14   1.0-11      .       .   1    .      .   .   .
+Banderas, Josh     13-4   12   16   28    3-9    2.0-8       .       1   1    .      .   .   .
+Curry, Aaron       13-8   11   15   26    3-18   2.0-16      .       .   3    .      .   .   .
+Valentine, V       13-6   12    9   21    5-14   1.0-8       .       .   .    .      .   .   .
+McMullen, Greg     11-0    9    7   16    4-15   1.0-10      .       .   3    .      1   .   .
+Afalava, Jared      4-2    7    5   12    2-5    1.0-1       .       .   .    .      .   .   .
+Collins, Maliek    12-1    6    6   12    2-10   1.0-10      .       .   .    .      1   .   .
+Seisay, Mohammed   12-1    8    1    9    1-3       .        .       1   1    .      .   .   .
+Jackson, Charles   13-0    3    4    7     .        .        .       .   .    .      1   .   .
+Starkebaum, Colby  13-0    3    3    6     .        .        .       .   .    .      .   .   .
+Richards, Wil       7-0    3    2    5     .        .        .       .   .    .      .   .   .
+Maurice, Kevin      6-0    1    2    3     .        .        .       .   .    .      .   .   .
+Bell, Kenny       13-12    1    1    2     .        .        .       .   .    .      .   .   .
+Williams, Austin   10-0    2    .    2     .        .        .       .   .    .      2   .   .
+Enunwa, Quincy    13-13    2    .    2     .        .        .       .   .    .      .   .   .
+Burtch, Sam        13-2    .    1    1     .        .        .       .   .    .      .   .   .
+Reilly, Brandon    10-0    1    .    1     .        .        .       .   .    .      .   1   .
+Price, Givens       8-0    1    .    1     .        .        .       .   .    .      .   .   .
+Cotton, Jake      11-11    1    .    1     .        .        .       .   .    .      .   .   .
+Sirles, Jeremiah  13-13    1    .    1     .        .        .       .   .    .      .   .   .
+Miller, Gabe       13-0    .    1    1     .        .        .       .   .    .      .   .   .
+Bondi, Mauro       13-0    1    .    1     .        .        .       .   .    .      .   .   .
+Long, Spencer       6-6    1    .    1     .        .        .       .   .    .      .   .   .
+Davie, Daniel      10-0    1    .    1     .        .        .       .   .    .      .   .   .
+Qvale, Brent       13-5    1    .    1     .        .        .       .   .    .      .   .   .
+Foltz, Sam         13-0    1    .    1     .        .        .       .   .    .      .   .   .
+TEAM               13-0    .    .    .     .        .        .       .   .    .      .   .   1
+Rose, Jonathan     10-0    .    .    .     .        .        .       .   .   1-0     .   .   .
+Total..........    13-0  528  356  884  108-411   39-270   14-257   40  48   4-5    10   1   1
+Opponents......    13-0  537  436  973   78-297   17-140   13-102   31  19  16-0    24   .   1
+

@@ -17,21 +17,16 @@ os.makedirs(DATA_FOLDER, exist_ok=True)
 # PDF - /html/body/div[3]/main/article/div[1]/div[3]/iframe
 # Text - /html/body/div[3]/main/article/div[1]/div[2]/iframe
 
-def change_year(driver, body_div_idx, frame_idx, decade_idx, year_idx):
-    #print(len(driver.find_elements_by_tag_name("iframe")))
+def change_year(driver, decade_idx, year_idx):
     # action chains to provide mouse movement/events
     action = ActionChains(driver)
     # dropdown is located within this iframe --> need to switch to it and perform actions within it
-    #iframe = driver.find_element_by_xpath(f"/html/body/div[{body_div_idx}]/main/article/div[1]/div[{frame_idx}]/iframe") # frame location
-    #driver.switch_to.frame(iframe)
     driver.switch_to.frame(driver.find_element_by_xpath("//iframe[@src=\"/stats/navStats.html\"]"))
     # navigate to menu -> submenus and click
     firstLevelMenu = driver.find_element_by_xpath("//*[@id=\"navHmx\"]") # main menu
     action.move_to_element(firstLevelMenu).perform()
     secondLevelMenu = driver.find_element_by_xpath(f"//*[@id=\"navHmx\"]/li/ul/li[{decade_idx}]") # decade
     action.move_to_element(secondLevelMenu).perform()
-    print(decade_idx)
-    print(year_idx)
     thirdLevelMenu = driver.find_element_by_xpath(f"//*[@id=\"navHmx\"]/li/ul/li[{decade_idx}]/ul/li[{year_idx}]") # year
     action.move_to_element(thirdLevelMenu).perform()
     thirdLevelMenu.click()
@@ -45,22 +40,10 @@ def get_data(driver, year):
     if len(raw_data) == 0: #aka - data is hosted in PDF
         with open(pdfpath, 'a') as file:
             file.write(f"{year}\n")
-        return False
     else:
         with open(filepath, 'a') as file: #success - data is accessible
             for data in raw_data:
-                file.write(data.get_attribute("textContent")) # have to use .get_attribute("textContent") instead of .text because raw_data[3] is hidden
-        return True
-
-# driver.switch_to.default_content() # switch back to default content WILL WE NEED THIS?
-
-def find_dropdown(driver, body_div_idx, frame_idx):
-    try:
-        iframe = driver.find_element_by_xpath(f"/html/body/div[{body_div_idx}]/main/article/div[1]/div[{frame_idx}]/iframe")
-        return True
-    except:
-        return False
-        
+                file.write(data.get_attribute("textContent")) # have to use .get_attribute("textContent") instead of .text because raw_data[3] is hidden on most pages    
 
 def run(year, decade_idx, year_idx):
     driver = webdriver.Chrome(DRIVER_PATH)
@@ -70,21 +53,12 @@ def run(year, decade_idx, year_idx):
     time.sleep(5) # sleep so page can load properly
     
     while year >= 1962:
-        data_status = get_data(driver, year)
+        get_data(driver, year)
         year_idx += 1
         if year_idx == 11:
             decade_idx += 1
             year_idx = 1
-        if data_status == False:
-            frame_idx = 3
-        else:
-            frame_idx = 2
-        body_div_idx = 3
-        no_add = find_dropdown(driver, body_div_idx, frame_idx)
-        if not no_add:
-            body_div_idx = 4
-
-        change_year(driver, body_div_idx, frame_idx, decade_idx, year_idx)
+        change_year(driver, decade_idx, year_idx)
         year -= 1
         time.sleep(5)
 
